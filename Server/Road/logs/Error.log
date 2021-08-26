@@ -1,3 +1,7 @@
-19:04:22,000 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
-19:06:10,510 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
-19:07:49,824 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+06:24:56,917 - [21] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+06:26:53,483 - [21] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+06:26:53,493 - [16] - ERROR - Game.Base.Packets.StreamProcessor - AsyncTcpSendCallback
+System.InvalidOperationException: Queue empty.
+   at System.Collections.Queue.Dequeue()
+   at Game.Base.Packets.StreamProcessor.AsyncTcpSendCallback(Object sender, SocketAsyncEventArgs e) in D:\BaseDDTankII\XDDTank\Source\Game.Base\Packets\StreamProcessor.cs:line 236
+06:28:19,409 - [21] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process

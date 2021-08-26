@@ -54,3 +54,11 @@ D:\BaseDDTankII\XDDTank\Source\SqlDataProvider\bin\Debug\log4net.xml
 D:\BaseDDTankII\XDDTank\Source\SqlDataProvider\obj\Debug\ResolveAssemblyReference.cache
 D:\BaseDDTankII\XDDTank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.dll
 D:\BaseDDTankII\XDDTank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\bin\Debug\SqlDataProvider.dll
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\bin\Debug\SqlDataProvider.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\bin\Debug\log4net.dll
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\bin\Debug\log4net.xml
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CoreCompileInputs.cache
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.dll
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
