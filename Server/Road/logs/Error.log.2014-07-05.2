@@ -1,0 +1,20 @@
+16:26:27,074 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemInlayHandle  client: 127.0.0.1:11159)
+System.NotSupportedException: Did not support this type bag: 117440512
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameObjects\GamePlayer.cs:line 295
+   at Game.Server.GameObjects.GamePlayer.GetItemAt(eBageType bagType, Int32 place) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.ItemInlayHandle.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\ItemInlayHandle.cs:line 33
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 87
+16:26:27,231 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1E 00 7D 00 79 00 00 00 03 00 00 00 00   q....}.y........
+0010: 00 00 00 00 07 00 00 00 01 00 00 00 00 02         ..............  
+
+16:26:32,784 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemInlayHandle  client: 127.0.0.1:11159)
+System.NotSupportedException: Did not support this type bag: 150996167
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameObjects\GamePlayer.cs:line 295
+   at Game.Server.GameObjects.GamePlayer.GetItemAt(eBageType bagType, Int32 place) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.ItemInlayHandle.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\ItemInlayHandle.cs:line 33
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 87
+16:26:32,785 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1D 02 3D 00 79 00 00 00 03 00 00 00 00   q....=.y........
+0010: 00 00 00 00 09 00 04 C7 75 00 00 00 01            ........u....   
+

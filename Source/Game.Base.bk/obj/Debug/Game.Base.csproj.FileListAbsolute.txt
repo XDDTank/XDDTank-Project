@@ -1,0 +1,48 @@
+D:\workspace\Server\Game.Base\bin\Debug\log4net.dll
+D:\workspace\Server\Game.Base\bin\Debug\zlib.net.dll
+D:\workspace\Server\Game.Base\bin\Debug\log4net.xml
+D:\workspace\Server\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\Game.Base\bin\Debug\Game.Base.dll
+D:\workspace\Server\Game.Base\bin\Debug\Game.Base.pdb
+D:\workspace\Server\Game.Base\obj\Debug\Game.Base.dll
+D:\workspace\Server\Game.Base\obj\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\obj\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Base\obj\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Debug\Game.Base.pdb
+D:\DDTank\Workspce.xddt.Org\Game.Base\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.xddt.Org\Game.Base\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.xddt.Org\Game.Base\bin\Debug\log4net.dll
+D:\DDTank\Workspce.xddt.Org\Game.Base\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.xddt.Org\Game.Base\bin\Debug\log4net.xml
+D:\DDTank\Workspce.xddt.Org\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.xddt.Org\Game.Base\obj\Debug\Game.Base.dll
+D:\DDTank\Workspce.xddt.Org\Game.Base\obj\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Base\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Game.Base\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Base\bin\Debug\log4net.dll
+D:\DDTank\Workspce.Gunny.II\Game.Base\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Game.Base\bin\Debug\log4net.xml
+D:\DDTank\Workspce.Gunny.II\Game.Base\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Game.Base\obj\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Game.Base\obj\Debug\Game.Base.pdb

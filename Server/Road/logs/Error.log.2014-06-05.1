@@ -1,0 +1,10 @@
+18:00:53,872 - [8] - ERROR - Game.Server.GameObjects.GamePlayer - Error Login!
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.AbstractPacketLib.SendUpdateInventorySlot(PlayerInventory bag, Int32[] updatedSlots) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\AbstractPacketLib.cs:line 1271
+   at Game.Server.GameUtils.PlayerInventory.UpdateChangedPlaces() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameUtils\PlayerInventory.cs:line 175
+   at Game.Server.GameUtils.PlayerEquipInventory.UpdateChangedPlaces() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameUtils\PlayerEquipInventory.cs:line 132
+   at Game.Server.GameUtils.AbstractInventory.CommitChanges() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameUtils\AbstractInventory.cs:line 824
+   at Game.Server.GameUtils.PlayerEquipInventory.LoadFromDatabase() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameUtils\PlayerEquipInventory.cs:line 60
+   at Game.Server.GameObjects.GamePlayer.UpdateItemForUser(Object state) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 1675
+   at Game.Server.GameObjects.GamePlayer.LoadFromDatabase() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 1625
+   at Game.Server.GameObjects.GamePlayer.Login() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 1491

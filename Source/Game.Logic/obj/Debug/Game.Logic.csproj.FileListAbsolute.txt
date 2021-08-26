@@ -1,0 +1,136 @@
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\LuaInterface.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\lua51.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Game.Logic\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny3\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\Game.Logic\obj\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny3\Game.Logic\obj\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\LuaInterface.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\lua51.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny.II\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\Game.Logic\obj\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny.II\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Logic.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\log4net.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\LuaInterface.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\lua51.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\Game.Logic\bin\Debug\log4net.xml
+D:\DDTank\Workspce.Gunny.II\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Game.Logic\obj\Debug\Game.Logic.dll
+D:\DDTank\Workspce.Gunny.II\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\log4net.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\lua51.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\log4net.xml
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Languages\Language-vn.txt
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Bussiness.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Base.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\log4net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\LuaInterface.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\SqlDataProvider.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\zlib.net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\lua51.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Bussiness.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Base.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\SqlDataProvider.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\log4net.xml
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Logic.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Bussiness.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Base.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\log4net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\LuaInterface.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\zlib.net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\lua51.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Bussiness.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\Game.Base.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\bin\Debug\log4net.xml
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Game.Logic.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Bussiness.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Game.Base.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\log4net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\LuaInterface.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\zlib.net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\lua51.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Bussiness.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\Game.Base.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\bin\Debug\log4net.xml
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\obj\Debug\Game.Logic.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Logic\obj\Debug\Game.Logic.pdb
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Languages\Language-vn.txt
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Game.Logic.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Game.Logic.pdb
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Bussiness.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Game.Base.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\log4net.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\LuaInterface.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\SqlDataProvider.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\zlib.net.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\lua51.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Bussiness.pdb
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\Game.Base.pdb
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\SqlDataProvider.pdb
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\bin\Debug\log4net.xml
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\obj\Debug\Game.Logic.dll
+D:\BaseDDTankII\XDDTank\Source\Game.Logic\obj\Debug\Game.Logic.pdb

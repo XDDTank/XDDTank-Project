@@ -1,0 +1,14 @@
+16:01:55,460 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:04:33,244 - [6] - ERROR - Game.Server.Rooms.RoomMgr - RoomMgr execute action error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Battle.FightServerConnector.SendAddRoom(BaseRoom room) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Battle\FightServerConnector.cs:line 434
+   at Game.Server.Battle.BattleServer.AddRoom(BaseRoom room) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Battle\BattleServer.cs:line 101
+   at Game.Server.Battle.BattleMgr.AddRoom(BaseRoom room) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Battle\BattleMgr.cs:line 90
+   at Game.Server.Rooms.StartGameAction.Execute() in D:\BaseDDTankII\XDDTank\Source\Game.Server\Rooms\StartGameAction.cs:line 76
+   at Game.Server.Rooms.RoomMgr.ExecuteActions() in D:\BaseDDTankII\XDDTank\Source\Game.Server\Rooms\RoomMgr.cs:line 159
+16:31:40,792 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:36:23,055 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:40:16,584 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:42:01,126 - [15] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:43:30,933 - [15] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:44:22,534 - [15] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process

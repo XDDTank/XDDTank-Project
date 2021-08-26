@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <config>
+    <FLASHSITE value="http://127.0.0.1/client/flash/"/>
+    <SITE value="http://res1.xddt.youxi567.com/"/>
+    <!-- md5校验失败后的备用加载地址 -->
+    <BACKUP_FLASHSITE value="http://127.0.0.1/client/flash/"/>
+    <!-- 是否使用md5头校验 -->
+    <USE_MD5 value="true"/>
+    <FIRSTPAGE value="http://127.0.0.1/client/"/>
+    <REGISTER value="http://127.0.0.1/client/"/>
+    <REQUEST_PATH value="http://127.0.0.1/request/"/>
+    <LOGIN_PATH value="http://127.0.0.1/client/" siteName="7k7k新弹弹堂双线-【1-27区】-无需下载的Q版休闲游戏"/>
+    <CALL_PATH value="http://127.0.0.1/client/"/>
+    <USER_ACTION_NOTICE value=""/>
+    <!-- 多玩接口-->
+    <FILL_PATH value="http://pay.web.7k7k.com/"/>
+    <POLICY_FILES>
+      <file value="http://res1.xddt.youxi567.com/crossdomain.xml"/>
+    </POLICY_FILES>
+    <!-- 作战实验室开关-->
+    <FIGHTLIB value="true"/>
+    <!-- 是否允许多开-->
+    <ALLOW_MULTI value="true"/>
+    <!-- 新手的，已弃用-->
+    <TRAINER_PATH value="tutorial.swf"/>
+    <MUSIC_LIST value="1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1034,1035,1036,1037,1038,1039,1040,1059,1060,1061,1062,1063,1065,1067,1068,1069,1077"/>
+    <LANGUAGE value="zh_cn"/>
+    <!-- 代理商编号-->
+    <PARTER_ID value="1"/>
+    <!-- 进入游戏 和 进入战斗的统计开关 -->
+    <STATISTIC value="true"/>
+    <!-- 游戏里面的退出时间限制，单位秒 -->
+    <SUCIDE_TIME value="120"/>
+    <!-- 战斗中的箱子显示，1箱子，3粽子，4月饼，5南瓜，6铃铛，7灯笼,8新春灯笼-->
+    <GAME_BOXPIC value="3"/>
+    <ISTOPDERIICT value="true"/>
+    <!-- 统计数据,如新手帮助,本地保存 -->
+    <COUNT_PATH value="http://assayerhandler.7road.com/"/>
+    <!-- 社区开关 已弃用 -->
+    <PHP isShow="false" link="false" site="http://baidu.com/" infoPath="http://stest.ddt.kaixin001.com.cn/test/SnsServer/GetSnsUserPortrait?uid={uid}"/>
+    <!-- 官网地址 已弃用 -->
+    <OFFICIAL_SITE value="http://web.7k7k.com/games/xddt/"/>
+    <!--游戏论坛地址 已弃用 -->
+    <GAME_FORUM value="http://hi.baidu.com"/>
+    <!-- 九城社区开关-->
+    <COMMUNITY_FRIEND_PATH isUser="false" value="http://d9.the9.com/webgame/ddt/addfriend.php"/>
+    <COMMUNITY_INVITE_PATH value="http://d9.the9.com/webgame/ddt/invite.php"/>
+    <!-- 社区开关-->
+    <COMMUNITY_FRIEND_LIST_PATH value="http://10.10.4.161:728/IMFriendsBbs.ashx" snsPath="http://stest.ddt.kaixin001.com.cn/test/SnsServer/NotifySnsUserUpgrade" isexist="false" isexistBtnVisble="false"/>
+    <COMMUNITY_FRIEND_INVITED_SWITCH value="false" invitedOnline="false"/>
+    <!-- 新浪微博第1代，把社区显示为微博-->
+    <COMMUNITY_MICROBLOG value="false"/>
+    <!-- 新浪微博第2代-->
+    <COMMUNITY_SINA_SECOND_MICROBLOG value="false"/>
+    <!-- s是否允许弹出加入收藏夹 -->
+    <ALLOW_POPUP_FAVORITE value="true"/>
+    <!-- 盛大圈圈 -->
+    <FILL_JS_COMMAND value="sandaFillHandler" enable="false"/>
+    <!--是否关闭喇叭 已弃用 -->
+    <SHIELD_NOTICE value="false"/>
+    <!--单机版新手引导的开关-->
+    <TRAINER_STANDALONE value="true"/>
+    <!--3.3之前的新版新手引导开关-->
+    <USER_GUILD_ENABLE value="true"/>
+    <!--远征码头等级限制-->
+    <MINLEVELDUPLICATE value="13"/>
+    <!-- DISABLE_TASK_ID 为禁用的任务的ID，如有多个，请用逗号隔开 for example : 1002,1003,1004,新浪需要屏蔽的任务有378,379,380,381,604 -->
+    <DISABLE_TASK_ID value="382,383,384,385"/>
+    <!-- 登陆器下载地址，地址为空就不显示登陆器下载按钮 -->
+    <CLIENT_DOWNLOAD value="http://219.129.216.161/updates/newddt/7k7k/7k7k新弹弹堂极速登录器.exe"/>
+    <!-- 360游戏统计，包括登陆，进入战斗等-->
+    <EXTERNAL_INTERFACE_360 value="http://s.1360.cn/game_event" enable="false"/>
+    <!--小游戏等级限制开关-->
+    <LITTLEGAMEMINLV value="20"/>
+    <!-- 游戏边框背景开关 -->
+    <SHOW_BACKGROUND value="true"/>
+    <!-- 交友中心和结婚的开关-->
+    <MODULE>
+      <CIVIL enable="true"/>
+      <CHURCH enable="true"/>
+    </MODULE>
+    <!-- 客服系统和邮件举报的开关,添加telNumber属性,如果为空则不显示客服电话-->
+    <FEEDBACK enable="true" telNumber="0755-61886777"/>
+    <!-- 是否显示猪表情-->
+    <CHAT_FACE>
+      <DISABLED_LIST list="38"/>
+    </CHAT_FACE>
+    <!-- 武器粒子在多少帧数以下就不显示，已弃用-->
+    <GAME_FRAME_CONFIG>
+      <!-- 每帧执行的毫秒数,正常值应为40毫秒,并允许在35至45毫秒之间波动  (游戏内正常帧速为 25帧/秒)-->
+      <FRAME_TIME_OVER_TAG value="67"/>
+      <!-- 连续低于上述毫秒的帧数 (游戏内正常帧速为 25帧/秒) -->
+      <FRAME_OVER_COUNT_TAG value="25"/>
+    </GAME_FRAME_CONFIG>
+    <EXTERNAL_INTERFACE path="http://fb.egame.hk/GameAccess/facebook/ddt/postAction.jsp" enable="false"/>
+  </config>
+  <update>
+   <version from="33" to="34">
+     <file value="flash/ui/zh_cn/language.png"/>
+   </version>
+   <version from="34" to="35">
+     <file value="flash/2.png"/>
+   </version>
+  </update>
+</root>

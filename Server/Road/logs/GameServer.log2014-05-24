@@ -1,0 +1,470 @@
+10:05:27,785 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:05:45,385 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+10:05:45,386 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+10:05:45,622 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+10:05:45,623 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+10:05:45,623 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+10:05:45,712 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+10:05:45,898 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+10:05:46,481 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+10:05:46,804 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+10:06:12,141 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+10:06:12,314 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+10:06:12,984 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+10:06:19,823 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+10:06:19,860 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+10:06:19,895 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+10:06:19,901 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+10:06:19,966 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+10:06:20,040 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+10:06:20,056 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+10:06:20,109 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+10:06:20,178 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+10:06:20,189 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+10:06:20,214 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+10:06:20,218 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+10:06:20,226 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+10:06:20,281 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+10:06:20,285 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+10:06:20,537 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+10:06:20,765 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+10:06:20,768 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+10:06:20,785 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+10:06:20,826 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+10:06:20,850 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+10:06:20,902 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+10:06:20,904 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+10:06:20,973 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+10:06:20,977 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+10:06:20,978 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+10:06:20,979 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+10:06:21,053 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+10:06:21,061 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+10:06:21,101 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+10:06:21,192 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+10:06:21,198 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+10:06:21,223 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+10:06:21,236 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+10:06:21,244 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+10:06:21,244 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+10:06:21,295 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 129 handlers from GameServer Assembly!
+10:06:21,302 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+10:06:21,309 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+10:06:21,312 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+10:06:21,314 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+10:06:21,319 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+10:06:21,322 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+10:06:21,336 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+10:06:51,685 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2884
+10:06:51,762 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2884), received bytes=0
+10:06:51,801 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2885
+10:06:52,941 - [9] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+10:06:52,941 - [9] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+10:07:20,984 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:07:20,986 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:07:20,988 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:08:20,996 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:08:20,996 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:08:20,996 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:09:20,984 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+10:09:20,986 - [9] - INFO  - Game.Server.GameServer - End ping check....
+10:09:20,986 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:09:20,988 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+10:09:21,013 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:09:21,014 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:09:21,014 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:10:21,024 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:10:21,024 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:10:21,024 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:11:20,981 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+10:11:21,038 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:11:21,039 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:11:21,040 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:11:23,337 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:12:20,993 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+10:12:20,994 - [8] - INFO  - Game.Server.GameServer - End ping check....
+10:12:20,996 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:12:20,997 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+10:12:21,051 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:12:21,051 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:12:21,051 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:12:24,190 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2885), received bytes=0
+10:13:02,827 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2971
+10:13:02,828 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2971), received bytes=0
+10:13:02,871 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2972
+10:13:03,698 - [7] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+10:13:03,698 - [7] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+10:13:21,065 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:13:21,065 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:13:21,065 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:14:21,078 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:14:21,078 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:14:21,078 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:15:20,998 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+10:15:20,998 - [8] - INFO  - Game.Server.GameServer - End ping check....
+10:15:20,998 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:15:20,999 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+10:15:21,092 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:15:21,092 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:15:21,092 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:16:20,980 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+10:16:20,981 - [10] - INFO  - Game.Server.GameServer - Saving database...
+10:16:20,987 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:16:21,105 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:16:21,106 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:16:21,106 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:16:21,322 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:16:21,933 - [10] - INFO  - Game.Server.GameServer - Saving database complete!
+10:16:21,933 - [10] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 951ms
+10:16:25,239 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:16:25,239 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:17:21,118 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:17:21,118 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:17:21,119 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:18:21,009 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+10:18:21,009 - [9] - INFO  - Game.Server.GameServer - End ping check....
+10:18:21,009 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:18:21,009 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+10:18:21,133 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:18:21,133 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:18:21,133 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:19:12,490 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:19:12,492 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:19:21,146 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:19:21,146 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:19:21,146 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:20:21,159 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:20:21,160 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:20:21,160 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:21:20,985 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+10:21:21,019 - [10] - INFO  - Game.Server.GameServer - Begin ping check....
+10:21:21,019 - [10] - INFO  - Game.Server.GameServer - End ping check....
+10:21:21,020 - [10] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:21:21,021 - [10] - INFO  - Game.Server.GameServer - End ping center check....
+10:21:21,061 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:21:21,173 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:21:21,173 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:21:21,174 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:22:21,187 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:22:21,187 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:22:21,187 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:23:21,200 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:23:21,200 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:23:21,200 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:24:21,026 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:24:21,026 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:24:21,027 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:24:21,028 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:24:21,214 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:24:21,214 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:24:21,214 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:24:41,236 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:24:41,238 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:24:41,367 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:25:21,227 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:25:21,227 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:25:21,227 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:25:38,890 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:25:38,948 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:25:38,953 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:26:20,991 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+10:26:20,991 - [10] - INFO  - Game.Server.GameServer - Saving database...
+10:26:21,241 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:26:21,241 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:26:21,241 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:26:21,361 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:26:21,456 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:26:21,551 - [10] - INFO  - Game.Server.GameServer - Saving database complete!
+10:26:21,552 - [10] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 546ms
+10:27:21,036 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:27:21,037 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:27:21,038 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:27:21,038 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:27:21,255 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:27:21,255 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:27:21,256 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:28:21,267 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:28:21,268 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:28:21,269 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:29:21,282 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:29:21,282 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:29:21,282 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:29:37,077 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:30:05,023 - [5] - ERROR - Game.Server.Games.GameMgr - Create game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseAtt() in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\Protocol\Phy\Object\Player.cs:line 121
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\Protocol\Phy\Object\Player.cs:line 77
+   at Game.Logic.PVEGame..ctor(Int32 id, Int32 roomId, PveInfo info, List`1 players, Map map, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\PVEGame.cs:line 72
+   at Game.Server.Games.GameMgr.StartPVEGame(Int32 roomId, List`1 players, Int32 copyId, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel, Int32 levelLimits) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Games\GameMgr.cs:line 234
+10:30:05,193 - [5] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,308ms!
+10:30:05,193 - [5] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 309 ms,count:1
+10:30:10,295 - [5] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,54ms!
+10:30:16,808 - [5] - ERROR - Game.Server.Games.GameMgr - Create game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseAtt() in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\Protocol\Phy\Object\Player.cs:line 121
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\Protocol\Phy\Object\Player.cs:line 77
+   at Game.Logic.PVEGame..ctor(Int32 id, Int32 roomId, PveInfo info, List`1 players, Map map, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Game.Logic\PVEGame.cs:line 72
+   at Game.Server.Games.GameMgr.StartPVEGame(Int32 roomId, List`1 players, Int32 copyId, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel, Int32 levelLimits) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Games\GameMgr.cs:line 234
+10:30:21,050 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:30:21,050 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:30:21,051 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:30:21,051 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:30:21,296 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:30:21,296 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:30:21,296 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:31:21,003 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+10:31:21,308 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:31:21,308 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:31:21,308 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:31:21,878 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:32:21,323 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:32:21,323 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:32:21,324 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:32:45,122 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:32:45,400 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:33:21,055 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:33:21,055 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:33:21,055 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:33:21,056 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:33:21,338 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:33:21,339 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:33:21,339 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:34:21,349 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:34:21,349 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:34:21,349 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:35:21,362 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:35:21,362 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:35:21,363 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:36:21,002 - [9] - INFO  - Game.Server.GameServer - Saving database...
+10:36:21,002 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+10:36:21,003 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:36:21,007 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\PlayerBussiness.cs:line 1264
+10:36:21,067 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+10:36:21,067 - [8] - INFO  - Game.Server.GameServer - End ping check....
+10:36:21,067 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:36:21,068 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+10:36:21,254 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+10:36:21,254 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 250ms
+10:36:21,378 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:36:21,378 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:36:21,378 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:37:21,391 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:37:21,392 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:37:21,392 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:38:21,405 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:38:21,405 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:38:21,405 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:39:21,074 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:39:21,074 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:39:21,074 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:39:21,075 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:39:21,419 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:39:21,419 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:39:21,419 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:40:21,430 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:40:21,431 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:40:21,432 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:40:45,108 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.

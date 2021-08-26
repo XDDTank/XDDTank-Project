@@ -1,0 +1,38 @@
+13:57:47,296 - [5] - ERROR - Game.Server.GameServer - Handling Login Package
+14:25:27,382 - [5] - ERROR - Game.Server.GameServer - Handling Login Package
+14:25:58,830 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 65
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameClient.cs:line 129
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in D:\DDTank\Workspce.Gunny.II\Game.Base\Packets\StreamProcessor.cs:line 389
+14:29:25,306 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.NewChickenBoxHandler  client: 127.0.0.1:4530)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.NewChickenBoxHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\NewChickenBoxHandler.cs:line 112
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:29:25,335 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 00 6D 00 57 00 00 00 08 00 00 00 00   q....m.W........
+0010: 00 00 00 00 00 00 00 0D 00 00 00 0A               ............    
+
+14:34:39,402 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 65
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameClient.cs:line 129
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in D:\DDTank\Workspce.Gunny.II\Game.Base\Packets\StreamProcessor.cs:line 389
+14:35:54,195 - [15] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 65
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameClient.cs:line 129
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in D:\DDTank\Workspce.Gunny.II\Game.Base\Packets\StreamProcessor.cs:line 389
+14:36:29,779 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\SqlDataProvider\BaseClass\Sql_DbObject.cs:line 326
+   at Bussiness.PlayerBussiness.AddGoods(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\PlayerBussiness.cs:line 1264

@@ -1,0 +1,66 @@
+15:22:07,882 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+15:22:07,974 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+15:22:07,974 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+15:22:07,975 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+15:22:07,979 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+15:22:32,878 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+15:22:34,498 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+15:22:34,564 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+15:22:45,693 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+15:22:45,873 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+15:22:46,403 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+15:22:46,793 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+15:22:47,273 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+15:22:47,523 - [MAIN] - INFO  - Fighting.Server.FightServer - GoldEquipMgr Init: True
+15:22:47,563 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+15:22:47,583 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+15:22:47,583 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+15:22:47,613 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+15:22:49,903 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5913
+15:24:17,859 - [5] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseAtt() in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 120
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 77
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Game.Logic\PVPGame.cs:line 66
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Games\GameMgr.cs:line 230
+15:24:17,957 - [5] - ERROR - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr Thread Error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Fighting.Server.Rooms.ProxyRoomMgr.StartMatchGame(ProxyRoom red, ProxyRoom blue) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 283
+   at Fighting.Server.Rooms.ProxyRoomMgr.PickUpRooms(Int64 tick) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 240
+   at Fighting.Server.Rooms.ProxyRoomMgr.RoomThread() in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 96
+15:24:27,594 - [5] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseAtt() in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 120
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 77
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Game.Logic\PVPGame.cs:line 66
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Games\GameMgr.cs:line 230
+15:24:27,600 - [5] - ERROR - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr Thread Error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Fighting.Server.Rooms.ProxyRoomMgr.StartMatchGame(ProxyRoom red, ProxyRoom blue) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 283
+   at Fighting.Server.Rooms.ProxyRoomMgr.PickUpRooms(Int64 tick) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 240
+   at Fighting.Server.Rooms.ProxyRoomMgr.RoomThread() in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 96
+15:24:37,582 - [5] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseAtt() in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 120
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 77
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Game.Logic\PVPGame.cs:line 66
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Games\GameMgr.cs:line 230
+15:24:37,592 - [5] - ERROR - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr Thread Error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Fighting.Server.Rooms.ProxyRoomMgr.StartMatchGame(ProxyRoom red, ProxyRoom blue) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 283
+   at Fighting.Server.Rooms.ProxyRoomMgr.PickUpRooms(Int64 tick) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 240
+   at Fighting.Server.Rooms.ProxyRoomMgr.RoomThread() in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 96
+15:24:47,582 - [5] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseAtt() in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 120
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team, Int32 maxBlood) in D:\DDTank\Workspce.Gunny.II\Game.Logic\Phy\Object\Player.cs:line 77
+   at Game.Logic.PVPGame..ctor(Int32 id, Int32 roomId, List`1 red, List`1 blue, Map map, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Game.Logic\PVPGame.cs:line 66
+   at Fighting.Server.Games.GameMgr.StartBattleGame(List`1 red, ProxyRoom roomRed, List`1 blue, ProxyRoom roomBlue, Int32 mapIndex, eRoomType roomType, eGameType gameType, Int32 timeType) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Games\GameMgr.cs:line 230
+15:24:47,582 - [5] - ERROR - Fighting.Server.Rooms.ProxyRoomMgr - Room Mgr Thread Error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Fighting.Server.Rooms.ProxyRoomMgr.StartMatchGame(ProxyRoom red, ProxyRoom blue) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 283
+   at Fighting.Server.Rooms.ProxyRoomMgr.PickUpRooms(Int64 tick) in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 240
+   at Fighting.Server.Rooms.ProxyRoomMgr.RoomThread() in D:\DDTank\Workspce.Gunny.II\Fighting.Server\Rooms\ProxyRoomMgr.cs:line 96
+15:25:27,542 - [5] - ERROR - Fighting.Server.Games.GameMgr - Create battle game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.GetPetBaseA

@@ -1,0 +1,50 @@
+09:08:23,309 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:08:35,530 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:08:35,533 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:08:35,702 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:08:35,704 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:08:35,705 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+09:08:35,758 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:08:35,864 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:08:36,236 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:08:36,320 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:08:52,312 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:08:52,665 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:08:53,212 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:09:04,615 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:09:04,681 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+09:09:04,776 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+09:09:04,781 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+09:09:04,942 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:09:04,999 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:09:05,040 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:09:05,086 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:09:05,359 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:09:05,404 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:09:05,523 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:09:05,554 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:09:05,661 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:09:05,893 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:09:05,900 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:09:06,271 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:09:06,750 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:09:06,753 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:09:06,777 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:09:06,940 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:09:07,011 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:09:07,099 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:09:07,102 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:09:07,181 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+09:09:07,186 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:09:07,187 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:09:07,190 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:09:07,312 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:09:07,321 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+09:09:07,416 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+09:09:07,558 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+09:09:07,564 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+09:09:07,608 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+09:09:07,637 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+09:09:07,659 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+09:09:07,660 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+09:09:07,711 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 129

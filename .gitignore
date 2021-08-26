@@ -1,0 +1,27 @@
+.suo
+# Compiled source #
+###################
+*.dll
+*.pdb
+*.exe
+*.config
+*.xml
+*.suo
+
+# Obj #
+###################
+*.cache
+*.CopyComplete
+
+# Folder #
+###################
+**/logs/*
+**/bin/Release/
+.vs/**
+
+# except files
+
+!Server/**/*
+!Source/Tank.Request/**/*.xml
+!Request/*
+!Client/*

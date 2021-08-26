@@ -1,0 +1,6 @@
+19:47:06,088 - [7] - ERROR - Game.Server.GameObjects.GamePlayer - Error Login!
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in D:\DDTank\Workspce.Gunny.II\Game.Base\PacketIn.cs:line 417
+   at Game.Base.PacketIn.WriteInt(Int32 val) in D:\DDTank\Workspce.Gunny.II\Game.Base\PacketIn.cs:line 481
+   at Game.Base.Packets.AbstractPacketLib.SendOpenDiceSystem() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\AbstractPacketLib.cs:line 211
+   at Game.Server.GameObjects.GamePlayer.Login() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 1512

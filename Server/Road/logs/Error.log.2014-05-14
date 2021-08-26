@@ -1,0 +1,15 @@
+20:20:47,107 - [5] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+20:20:47,109 - [5] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+20:20:51,931 - [5] - ERROR - Game.Base.BaseConnector - Connect 127.0.0.1:9202 failed!
+20:23:50,914 - [14] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) in D:\DDTank\Workspce.Gunny.II\Game.Base\Packets\StreamProcessor.cs:line 110
+   at Game.Base.BaseClient.SendTCP(GSPacketIn pkg) in D:\DDTank\Workspce.Gunny.II\Game.Base\BaseClient.cs:line 286
+   at Game.Server.LoginServerConnector.SendPingCenter() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\LoginServerConnector.cs:line 926
+   at Game.Server.GameServer.PingCheck(Object sender) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameServer.cs:line 721
+20:26:50,864 - [14] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) in D:\DDTank\Workspce.Gunny.II\Game.Base\Packets\StreamProcessor.cs:line 110
+   at Game.Base.BaseClient.SendTCP(GSPacketIn pkg) in D:\DDTank\Workspce.Gunny.II\Game.Base\BaseClient.cs:line 286
+   at Game.Server.LoginServerConnector.SendPingCenter() in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\LoginServerConnector.cs:line 926
+   at Game.Server.GameServer.PingCheck(Object sender) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameServer.cs:line 721

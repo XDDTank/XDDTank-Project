@@ -1,0 +1,7 @@
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\bin\Release\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\bin\Release\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\bin\Release\log4net.dll
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\bin\Release\log4net.xml
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\obj\Release\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\obj\Release\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\SqlDataProvider\obj\Release\SqlDataProvider.pdb

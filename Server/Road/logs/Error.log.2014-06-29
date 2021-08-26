@@ -1,0 +1,42 @@
+19:28:49,897 - [5] - ERROR - Game.Base.Packets.PacketProcessor - xxx
+19:28:50,023 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserEquipListHandler  client: 127.0.0.1:8364)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserEquipListHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\UserEquipListHandler.cs:line 49
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 89
+19:28:50,132 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 26 00 4A 00 00 00 08 00 00 00 00   q....&.J........
+0010: 00 00 00 00 01 00 11 24 A7                        .......$.       
+
+19:28:50,136 - [5] - ERROR - Game.Base.Packets.PacketProcessor - xxx
+19:28:50,144 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserEquipListHandler  client: 127.0.0.1:8364)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserEquipListHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\UserEquipListHandler.cs:line 49
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 89
+19:28:50,160 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 26 00 4A 00 00 00 08 00 00 00 00   q....&.J........
+0010: 00 00 00 00 01 00 11 24 A7                        .......$.       
+
+19:28:50,180 - [5] - ERROR - Game.Base.Packets.PacketProcessor - xxx
+19:28:50,216 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserEquipListHandler  client: 127.0.0.1:8364)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserEquipListHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\UserEquipListHandler.cs:line 49
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 89
+19:28:50,225 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 26 00 4A 00 00 00 08 00 00 00 00   q....&.J........
+0010: 00 00 00 00 01 00 11 24 A7                        .......$.       
+
+19:29:37,665 - [5] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 69
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameClient.cs:line 129
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in D:\BaseDDTankII\XDDTank\Source\Game.Base\Packets\StreamProcessor.cs:line 394
+19:33:39,683 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemInlayHandle  client: 127.0.0.1:8364)
+System.NotSupportedException: Did not support this type bag: 150996168
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.GetItemAt(eBageType bagType, Int32 place) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameObjects\GamePlayer.cs:line 314
+   at Game.Server.Packets.Client.ItemInlayHandle.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\ItemInlayHandle.cs:line 33
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 89
+19:33:39,760 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1D 02 07 00 79 00 00 00 08 00 00 00 00   q......y........
+0010: 00 00 00 00 09 00 04 C8 39 00 00 00 01            ........9....   
+

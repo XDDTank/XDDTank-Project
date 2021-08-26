@@ -1,0 +1,22 @@
+14:59:08,050 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:4932)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:59:08,316 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 1A 00 71 00 00 00 08 00 00 00 00   q......q........
+0010: 00 00 00 00 00 00 01 29 00                        .......).       
+
+14:59:08,322 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:4932)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:59:08,330 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 19 00 71 00 00 00 08 00 00 00 00   q......q........
+0010: 00 00 00 00 00 00 01 28 00                        .......(.       
+

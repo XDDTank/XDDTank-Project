@@ -1,0 +1,43 @@
+15:55:20,970 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+15:55:21,254 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+15:55:21,255 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+15:55:21,257 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+15:55:21,259 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+15:55:48,319 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+15:55:49,231 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+15:55:49,285 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+15:56:08,020 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+15:56:08,249 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+15:56:08,878 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+15:56:09,642 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+15:56:10,598 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+15:56:10,794 - [MAIN] - INFO  - Fighting.Server.FightServer - GoldEquipMgr Init: True
+15:56:10,853 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+15:56:10,864 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+15:56:10,866 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+15:56:10,879 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+15:56:19,372 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6155
+16:06:26,106 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:06:50,895 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6428
+16:08:45,872 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:09:02,557 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6589
+16:10:54,035 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:11:04,658 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6672
+16:23:37,502 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:23:47,601 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6724
+16:30:36,726 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:30:52,377 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6959
+16:33:39,164 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:34:01,338 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:7008
+16:35:13,888 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+16:35:20,105 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:7028
+17:48:20,985 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:49:23,852 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:7750
+17:53:54,474 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+17:54:11,443 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:7806
+18:06:33,657 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:06:58,129 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:7882
+18:12:59,219 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:13:12,302 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:7907
+18:16:01,642 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+18:16:13,837 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:79

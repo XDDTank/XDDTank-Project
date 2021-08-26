@@ -1,0 +1,43 @@
+09:24:13,305 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:24:13,574 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+09:24:13,599 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+09:24:13,601 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+09:24:13,602 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+09:24:13,603 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+09:24:13,604 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+09:24:13,606 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+09:24:13,607 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+09:24:13,608 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+09:24:13,609 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+09:24:13,611 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+09:24:13,612 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+09:24:13,613 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+09:24:13,613 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+09:24:13,615 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0.1
+09:24:13,616 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+09:24:13,617 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+09:24:13,628 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+09:24:13,646 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+09:24:13,647 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+09:24:13,647 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+09:24:13,666 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+09:24:14,325 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+09:24:14,327 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+09:24:14,421 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+09:24:14,422 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+09:24:14,487 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+09:24:14,502 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+09:24:14,507 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+09:24:14,508 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+09:24:14,513 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+09:24:14,515 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+09:24:14,516 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+09:24:14,518 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+09:24:14,519 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+09:24:14,520 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+09:24:14,521 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+09:24:14,524 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+09:24:14,525 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+09:24:14,530 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+09:24:14,530 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+09:24:47,072 - [7] - INFO  - Game.Base.BaseServer - Incoming connecti

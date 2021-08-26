@@ -1,0 +1,377 @@
+19:11:59,502 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\445.bomb
+19:11:59,505 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\446.bomb
+19:11:59,505 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\455.bomb
+19:11:59,506 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\456.bomb
+19:11:59,509 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\505.bomb
+19:11:59,509 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\515.bomb
+19:11:59,511 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\545.bomb
+19:11:59,512 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\555.bomb
+19:11:59,514 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\585.bomb
+19:11:59,514 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\595.bomb
+19:11:59,516 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\625.bomb
+19:11:59,517 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\635.bomb
+19:11:59,523 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\725.bomb
+19:11:59,524 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\731.bomb
+19:11:59,524 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\732.bomb
+19:11:59,525 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\733.bomb
+19:11:59,525 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\734.bomb
+19:11:59,525 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\735.bomb
+19:11:59,526 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\765.bomb
+19:11:59,527 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\775.bomb
+19:11:59,527 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\781.bomb
+19:11:59,527 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\782.bomb
+19:11:59,528 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\783.bomb
+19:11:59,528 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\784.bomb
+19:11:59,529 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\785.bomb
+19:11:59,529 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\791.bomb
+19:11:59,529 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\792.bomb
+19:11:59,530 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\793.bomb
+19:11:59,530 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\794.bomb
+19:11:59,531 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\795.bomb
+19:11:59,531 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\801.bomb
+19:11:59,531 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\802.bomb
+19:11:59,531 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\803.bomb
+19:11:59,531 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\804.bomb
+19:11:59,532 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\805.bomb
+19:11:59,533 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\811.bomb
+19:11:59,533 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\812.bomb
+19:11:59,534 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\813.bomb
+19:11:59,535 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\814.bomb
+19:11:59,535 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\815.bomb
+19:11:59,536 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\821.bomb
+19:11:59,536 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\822.bomb
+19:11:59,537 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\823.bomb
+19:11:59,537 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\824.bomb
+19:11:59,538 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\825.bomb
+19:11:59,538 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\831.bomb
+19:11:59,538 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\832.bomb
+19:11:59,538 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\833.bomb
+19:11:59,539 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\834.bomb
+19:11:59,539 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\835.bomb
+19:11:59,540 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\861.bomb
+19:11:59,540 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\862.bomb
+19:11:59,541 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\863.bomb
+19:11:59,541 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\864.bomb
+19:11:59,542 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\865.bomb
+19:11:59,542 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\871.bomb
+19:11:59,542 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\872.bomb
+19:11:59,542 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\873.bomb
+19:11:59,542 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\874.bomb
+19:11:59,543 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\875.bomb
+19:11:59,546 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\885.bomb
+19:11:59,546 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\886.bomb
+19:11:59,547 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\887.bomb
+19:11:59,548 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\888.bomb
+19:11:59,549 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\890.bomb
+19:11:59,550 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\892.bomb
+19:11:59,550 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\893.bomb
+19:11:59,551 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\894.bomb
+19:11:59,552 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\895.bomb
+19:11:59,558 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\981.bomb
+19:11:59,559 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\991.bomb
+19:11:59,597 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4411.bomb
+19:11:59,597 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4412.bomb
+19:11:59,598 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4421.bomb
+19:11:59,599 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4422.bomb
+19:11:59,599 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4431.bomb
+19:11:59,600 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4432.bomb
+19:11:59,601 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4441.bomb
+19:11:59,602 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4442.bomb
+19:11:59,602 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4451.bomb
+19:11:59,603 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4452.bomb
+19:11:59,604 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4461.bomb
+19:11:59,605 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\4462.bomb
+19:11:59,612 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5051.bomb
+19:11:59,612 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5052.bomb
+19:11:59,615 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5425.bomb
+19:11:59,616 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5426.bomb
+19:11:59,617 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5427.bomb
+19:11:59,618 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5428.bomb
+19:11:59,619 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5451.bomb
+19:11:59,619 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5452.bomb
+19:11:59,623 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5851.bomb
+19:11:59,634 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\5852.bomb
+19:11:59,637 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\6251.bomb
+19:11:59,637 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\6252.bomb
+19:11:59,644 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7211.bomb
+19:11:59,645 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7212.bomb
+19:11:59,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7221.bomb
+19:11:59,646 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7222.bomb
+19:11:59,647 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7231.bomb
+19:11:59,648 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7232.bomb
+19:11:59,648 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7241.bomb
+19:11:59,649 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7242.bomb
+19:11:59,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7251.bomb
+19:11:59,650 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7252.bomb
+19:11:59,651 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7514.bomb
+19:11:59,652 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7515.bomb
+19:11:59,654 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7651.bomb
+19:11:59,654 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7652.bomb
+19:11:59,655 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7777.bomb
+19:11:59,656 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7778.bomb
+19:11:59,657 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7779.bomb
+19:11:59,658 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7811.bomb
+19:11:59,659 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7812.bomb
+19:11:59,659 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7821.bomb
+19:11:59,660 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7822.bomb
+19:11:59,661 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7831.bomb
+19:11:59,662 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7832.bomb
+19:11:59,663 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7841.bomb
+19:11:59,663 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7842.bomb
+19:11:59,664 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7851.bomb
+19:11:59,664 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\7852.bomb
+19:11:59,665 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8000.bomb
+19:11:59,666 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8001.bomb
+19:11:59,666 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8002.bomb
+19:11:59,667 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8011.bomb
+19:11:59,668 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8012.bomb
+19:11:59,669 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8021.bomb
+19:11:59,670 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8022.bomb
+19:11:59,670 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8031.bomb
+19:11:59,671 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8032.bomb
+19:11:59,671 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8041.bomb
+19:11:59,672 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8042.bomb
+19:11:59,673 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8051.bomb
+19:11:59,673 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8052.bomb
+19:11:59,674 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8211.bomb
+19:11:59,675 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8212.bomb
+19:11:59,675 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8221.bomb
+19:11:59,676 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8222.bomb
+19:11:59,677 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8231.bomb
+19:11:59,677 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8232.bomb
+19:11:59,678 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8241.bomb
+19:11:59,679 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8242.bomb
+19:11:59,679 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8251.bomb
+19:11:59,680 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8252.bomb
+19:11:59,681 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8611.bomb
+19:11:59,681 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8612.bomb
+19:11:59,682 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8621.bomb
+19:11:59,683 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8622.bomb
+19:11:59,684 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8631.bomb
+19:11:59,684 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8632.bomb
+19:11:59,684 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8641.bomb
+19:11:59,685 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8642.bomb
+19:11:59,686 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8651.bomb
+19:11:59,686 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8652.bomb
+19:11:59,687 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8811.bomb
+19:11:59,687 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8812.bomb
+19:11:59,688 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8821.bomb
+19:11:59,689 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8822.bomb
+19:11:59,690 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8831.bomb
+19:11:59,691 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8832.bomb
+19:11:59,692 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8841.bomb
+19:11:59,693 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8842.bomb
+19:11:59,694 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8851.bomb
+19:11:59,695 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\8852.bomb
+19:11:59,700 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\123456.bomb
+19:11:59,701 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\303911.bomb
+19:11:59,702 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\303921.bomb
+19:11:59,702 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\504174.bomb
+19:11:59,703 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\504176.bomb
+19:11:59,703 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\504177.bomb
+19:11:59,704 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\504178.bomb
+19:11:59,705 - [MAIN] - ERROR - Game.Logic.BallMgr - can't find bomb file:bomb\1234565.bomb
+19:11:59,877 - [MAIN] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidCastException: Specified cast is not valid.
+   at Bussiness.ProduceBussiness.GetAllBallConfig() in D:\BaseDDTankII\XDDTank\Source\Bussiness\ProduceBussiness.cs:line 938
+19:12:26,166 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 44804|29099
+19:12:26,166 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56389|29099
+19:12:26,167 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40060|29099
+19:12:26,168 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 13509|29099
+19:12:26,169 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 7240|29099
+19:12:26,169 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 38591|29099
+19:12:26,170 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64549|29099
+19:12:26,170 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26014|29099
+19:12:26,171 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 57339|29099
+19:12:26,172 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47456|29099
+19:12:26,172 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42770|29099
+19:12:26,173 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55534|29099
+19:12:26,174 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 9642|29099
+19:12:26,174 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26204|29099
+19:12:26,175 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 39310|29099
+19:12:26,176 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51743|29099
+19:12:26,177 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 23180|29099
+19:12:26,178 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 53956|29099
+19:12:26,179 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 33736|29099
+19:12:26,180 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 35442|29099
+19:12:26,181 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 44451|29099
+19:12:26,182 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55593|29099
+19:12:26,183 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58893|29099
+19:12:26,184 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 16322|29099
+19:12:26,185 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37227|29099
+19:12:26,186 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40292|29099
+19:12:26,187 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 13256|29099
+19:12:26,188 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64246|29099
+19:12:26,189 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 8645|29099
+19:12:26,190 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40841|29099
+19:12:26,192 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25183|29099
+19:12:26,193 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 12754|29099
+19:12:26,195 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64988|29099
+19:12:26,196 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 62192|29099
+19:12:26,197 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 49943|29099
+19:12:26,198 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24955|29099
+19:12:26,199 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 36934|29099
+19:12:26,199 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 41029|29099
+19:12:26,200 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25324|29099
+19:12:26,202 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 85|29099
+19:12:26,203 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47343|29099
+19:12:26,204 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 34088|29099
+19:12:26,205 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 889|29099
+19:12:26,206 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24029|29099
+19:12:26,208 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47264|29099
+19:12:26,209 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 33518|29099
+19:12:26,211 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52486|29099
+19:12:26,212 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63536|29099
+19:12:26,213 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 2898|29099
+19:12:26,215 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 27706|29099
+19:12:26,215 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 5416|29099
+19:12:26,217 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 212|29099
+19:12:26,219 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64940|29099
+19:12:26,219 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 17441|29099
+19:12:26,220 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51227|29099
+19:12:26,221 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25954|29099
+19:12:26,221 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32180|29099
+19:12:26,222 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 36500|29099
+19:12:26,222 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 31740|29099
+19:12:26,222 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4159|29099
+19:12:26,222 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4816|29099
+19:12:26,223 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58900|29099
+19:12:26,223 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 9193|29099
+19:12:26,223 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 6601|29099
+19:12:26,223 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55326|29099
+19:12:26,224 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 60994|29099
+19:12:26,224 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 46003|29099
+19:12:26,224 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 50513|29099
+19:12:26,224 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18068|29099
+19:12:26,224 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47331|29099
+19:12:26,225 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63154|29099
+19:12:26,225 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42153|29099
+19:12:26,225 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 33323|29099
+19:12:26,226 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 19870|29099
+19:12:26,226 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32032|29099
+19:12:26,226 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18110|29099
+19:12:26,226 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25983|29099
+19:12:26,227 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 43448|29099
+19:12:26,227 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 60204|29099
+19:12:26,227 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56507|29099
+19:12:26,227 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 27255|29099
+19:12:26,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42883|29099
+19:12:26,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21179|29099
+19:12:26,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51710|29099
+19:12:26,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 44509|29099
+19:12:26,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 3472|29099
+19:12:26,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 16889|29099
+19:12:26,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 2528|29099
+19:12:26,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4468|29099
+19:12:26,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42660|29099
+19:12:26,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63310|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37384|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 9665|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63236|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 54069|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 22993|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 9351|29099
+19:12:26,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 31043|29099
+19:12:26,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 27884|29099
+19:12:26,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56567|29099
+19:12:26,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1596|29099
+19:12:26,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 17083|29099
+19:12:26,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 27810|29099
+19:12:26,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 61482|29099
+19:12:26,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55635|29099
+19:12:26,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25997|29099
+19:12:26,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21028|29099
+19:12:26,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51963|29099
+19:12:26,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 53498|29099
+19:12:26,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 33452|29099
+19:12:26,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 34139|29099
+19:12:26,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 993|29099
+19:12:26,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55337|29099
+19:12:26,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 5094|29099
+19:12:26,234 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 3557|29099
+19:12:26,234 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 7519|29099
+19:12:26,234 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42650|29099
+19:12:26,234 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 60579|29099
+19:12:26,234 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 61602|29099
+19:12:26,234 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 29256|29099
+19:12:26,235 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 31230|29099
+19:12:26,235 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51343|29099
+19:12:26,235 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42032|29099
+19:12:26,235 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 5758|29099
+19:12:26,235 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 22903|29099
+19:12:26,236 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 20920|29099
+19:12:26,236 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 23467|29099
+19:12:26,236 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 20271|29099
+19:12:26,236 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18963|29099
+19:12:26,237 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63258|29099
+19:12:26,237 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32524|29099
+19:12:26,237 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 5811|29099
+19:12:26,237 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42189|29099
+19:12:26,237 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 57261|29099
+19:12:26,238 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47620|29099
+19:12:26,238 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64738|29099
+19:12:26,238 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 60284|29099
+19:12:26,238 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 30217|29099
+19:12:26,238 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 7847|29099
+19:12:26,240 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 46588|29099
+19:12:26,240 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 50113|29099
+19:12:26,240 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 61326|29099
+19:12:26,240 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 45407|29099
+19:12:26,241 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 10582|29099
+19:12:26,241 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 17799|29099
+19:12:26,241 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 38330|29099
+19:12:26,241 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 43407|29099
+19:12:26,241 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37139|29099
+19:12:26,242 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 7248|29099
+19:12:26,242 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42082|29099
+19:12:26,243 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40771|29099
+19:12:26,243 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18853|29099
+19:12:26,243 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24105|29099
+19:12:26,243 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24440|29099
+19:12:26,243 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18407|29099
+19:12:26,244 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 57133|29099
+19:12:26,244 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 9438|29099
+19:12:26,244 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 50728|29099
+19:12:26,244 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4522|29099
+19:12:26,245 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40182|29099
+19:12:26,245 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63995|29099
+19:12:26,245 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 61860|29099
+19:12:26,245 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 44913|29099
+19:12:26,246 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18203|29099
+19:12:26,246 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 3162|29099
+19:12:26,246 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 8881|29099
+19:12:26,246 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47130|29099
+19:12:26,247 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4844|29099
+19:12:26,247 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58644|29099
+19:12:26,247 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 27876|29099
+19:12:26,247 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 60793|29099
+19:12:26,247 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 17300|29099
+19:12:26,247 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37651|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4561|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 53834|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18655|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56495|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 41795|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 17951|29099
+19:12:26,248 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26062|29099
+19:12:26,249 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 46413|29099
+19:12:26,249 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 19388|29099
+19:12:26,249 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 49019|29099
+19:12:26,249 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32748|29099
+19:12:26,249 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 61763|29099
+19:12:26,250 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 16652|29099
+19:12:26,250 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 4089|29099
+19:12:26,250 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64426|29099
+19:12:26,250 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 44377|29099
+19:12:26,251 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 23956|29099
+19:12:26,251 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37348|29099
+19:12:26,251 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 61000|29099
+19:12:26,251 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 46040|29099
+19:12:26,251 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 49878|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56787|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 11730|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56711|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 35685|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26836|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55453|29099
+19:12:26,252 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 38995|29099

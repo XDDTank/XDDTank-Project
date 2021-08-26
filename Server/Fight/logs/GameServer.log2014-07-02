@@ -1,0 +1,44 @@
+08:52:56,746 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+08:52:57,017 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+08:52:57,018 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+08:52:57,020 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+08:52:57,022 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+08:53:08,315 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+08:53:09,210 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+08:53:09,217 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+08:53:24,071 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+08:53:24,110 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+08:53:24,300 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+08:53:24,616 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+08:53:24,643 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+08:53:24,688 - [MAIN] - INFO  - Fighting.Server.FightServer - GoldEquipMgr Init: True
+08:53:24,714 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+08:53:24,738 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+08:53:24,741 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+08:53:24,754 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+08:53:28,600 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2368
+08:53:28,914 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+08:55:44,630 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:56:05,734 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2400
+08:56:05,925 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+08:57:28,498 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+08:57:47,183 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2469
+08:57:47,340 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:05:32,697 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:05:37,567 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2507
+09:05:37,757 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:09:49,748 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:09:59,687 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2624
+09:09:59,902 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:28:04,238 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:28:14,825 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2709
+09:28:15,067 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:30:45,095 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:30:58,209 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2874
+09:30:58,664 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:42:32,767 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:42:39,545 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2945
+09:42:39,910 - [3] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:47:53,578 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:48:22,239 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3047
+09:48:22,715 - [3] - INFO  - Game.Base.BaseServer - Client Conne

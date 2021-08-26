@@ -1,0 +1,221 @@
+11:36:16,918 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+11:36:18,316 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+11:36:18,340 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+11:36:18,342 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+11:36:18,343 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+11:36:18,344 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+11:36:18,345 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+11:36:18,346 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+11:36:18,347 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+11:36:18,348 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+11:36:18,350 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+11:36:18,351 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+11:36:18,353 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+11:36:18,354 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+11:36:18,355 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+11:36:18,356 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0.1
+11:36:18,357 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+11:36:18,358 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+11:36:18,406 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+11:36:18,443 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+11:36:18,444 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+11:36:18,445 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+11:36:18,450 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+11:36:19,914 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+11:36:19,914 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+11:36:20,279 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+11:36:20,280 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+11:36:20,400 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+11:36:20,431 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+11:36:20,451 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+11:36:20,454 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+11:36:20,464 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+11:36:20,466 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+11:36:20,468 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+11:36:20,470 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+11:36:20,471 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+11:36:20,473 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+11:36:20,474 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+11:36:20,496 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+11:36:20,497 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+11:36:20,502 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+11:36:20,503 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+11:37:20,458 - [9] - INFO  - Center.Server.CenterServer - Saving Record...
+11:37:20,458 - [11] - INFO  - Center.Server.CenterServer - Saving database...
+11:37:20,540 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+11:37:20,555 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+11:37:20,553 - [9] - DEBUG - Center.Server.CenterServer - Save ThreadId=9
+11:37:20,554 - [11] - DEBUG - Center.Server.CenterServer - Save ThreadId=11
+11:37:20,707 - [11] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:37:20,708 - [11] - INFO  - Center.Server.CenterServer - Saved all databases 250ms
+11:37:20,895 - [9] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:37:21,517 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:38:20,458 - [12] - INFO  - Center.Server.CenterServer - Saving Record...
+11:38:20,458 - [13] - INFO  - Center.Server.CenterServer - Saving Record...
+11:38:20,458 - [12] - DEBUG - Center.Server.CenterServer - Save ThreadId=12
+11:38:20,459 - [13] - DEBUG - Center.Server.CenterServer - Save ThreadId=13
+11:38:20,458 - [14] - INFO  - Center.Server.CenterServer - Saving database...
+11:38:20,460 - [13] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:38:20,461 - [14] - DEBUG - Center.Server.CenterServer - Save ThreadId=14
+11:38:20,461 - [12] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:38:20,462 - [14] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:38:20,465 - [14] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:39:20,458 - [15] - INFO  - Center.Server.CenterServer - Saving Record...
+11:39:20,459 - [16] - INFO  - Center.Server.CenterServer - Saving Record...
+11:39:20,460 - [16] - DEBUG - Center.Server.CenterServer - Save ThreadId=16
+11:39:20,459 - [15] - DEBUG - Center.Server.CenterServer - Save ThreadId=15
+11:39:20,461 - [16] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:39:20,459 - [17] - INFO  - Center.Server.CenterServer - Saving database...
+11:39:20,464 - [17] - DEBUG - Center.Server.CenterServer - Save ThreadId=17
+11:39:20,463 - [15] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:39:20,466 - [17] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:39:20,467 - [17] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:40:20,459 - [19] - INFO  - Center.Server.CenterServer - Saving Record...
+11:40:20,459 - [20] - INFO  - Center.Server.CenterServer - Saving Record...
+11:40:20,459 - [19] - DEBUG - Center.Server.CenterServer - Save ThreadId=19
+11:40:20,460 - [20] - DEBUG - Center.Server.CenterServer - Save ThreadId=20
+11:40:20,460 - [21] - INFO  - Center.Server.CenterServer - Saving database...
+11:40:20,463 - [21] - DEBUG - Center.Server.CenterServer - Save ThreadId=21
+11:40:20,462 - [20] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:40:20,462 - [19] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:40:20,464 - [21] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:40:20,467 - [21] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:41:20,460 - [26] - INFO  - Center.Server.CenterServer - Saving Record...
+11:41:20,461 - [26] - DEBUG - Center.Server.CenterServer - Save ThreadId=26
+11:41:20,460 - [27] - INFO  - Center.Server.CenterServer - Saving Record...
+11:41:20,462 - [27] - DEBUG - Center.Server.CenterServer - Save ThreadId=27
+11:41:20,461 - [29] - INFO  - Center.Server.CenterServer - Saving database...
+11:41:20,464 - [29] - DEBUG - Center.Server.CenterServer - Save ThreadId=29
+11:41:20,463 - [27] - INFO  - Center.Server.CenterServer - Saving Record complete!
+11:41:20,469 - [29] - INFO  - Center.Server.CenterServer - Saving database complete!
+11:41:20,470 - [29] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+11:41:20,482 - [26] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+11:42:20,461 - [31] - INFO  - Center.Server.CenterServer - Saving Record...
+11:42:20,461 - [31] - DEBUG - Center.Server.CenterServer - Save ThreadId=31
+1112:20:08,587 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+12:20:09,094 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+12:20:09,095 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+12:20:09,097 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+12:20:09,098 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+12:20:09,099 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+12:20:09,100 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+12:20:09,101 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+12:20:09,102 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+12:20:09,103 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+12:20:09,104 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+12:20:09,105 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+12:20:09,106 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+12:20:09,107 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+12:20:09,108 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+12:20:09,109 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0.1
+12:20:09,110 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+12:20:09,111 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+12:20:09,121 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+12:20:09,139 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+12:20:09,140 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+12:20:09,140 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+12:20:09,145 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+12:20:09,286 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+12:20:09,287 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+12:20:09,353 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+12:20:09,354 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+12:20:09,415 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+12:20:09,425 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+12:20:09,435 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+12:20:09,439 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+12:20:09,448 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+12:20:09,450 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+12:20:09,452 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+12:20:09,453 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+12:20:09,455 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+12:20:09,456 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+12:20:09,457 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+12:20:09,460 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+12:20:09,460 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+12:20:09,471 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+12:20:09,472 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+12:21:09,443 - [10] - INFO  - Center.Server.CenterServer - Saving Rec17:05:10,082 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:05:10,686 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+17:05:10,688 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+17:05:10,689 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+17:05:10,690 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+17:05:10,691 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+17:05:10,692 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+17:05:10,693 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+17:05:10,694 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+17:05:10,695 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+17:05:10,697 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+17:05:10,698 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+17:05:10,699 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+17:05:10,700 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+17:05:10,701 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+17:05:10,702 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 1
+17:05:10,703 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+17:05:10,704 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+17:05:10,714 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+17:05:10,729 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+17:05:10,730 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+17:05:10,731 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+17:05:10,736 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+17:05:10,864 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+17:05:10,865 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+17:05:10,956 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+17:05:10,957 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+17:05:11,016 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+17:05:11,027 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+17:05:11,037 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+17:05:11,041 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+17:05:11,052 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+17:05:11,054 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+17:05:11,055 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+17:05:11,057 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+17:05:11,059 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+17:05:11,060 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+17:05:11,060 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+17:05:11,064 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+17:05:11,064 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+17:05:11,077 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+17:05:11,078 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+17:06:11,045 - [8] - INFO  - Center.Server.CenterServer - Saving Record17:49:14,676 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:49:15,352 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+17:49:15,353 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+17:49:15,355 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+17:49:15,356 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+17:49:15,357 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+17:49:15,358 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+17:49:15,359 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+17:49:15,360 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+17:49:15,361 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+17:49:15,362 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+17:49:15,364 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+17:49:15,365 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+17:49:15,366 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+17:49:15,367 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+17:49:15,368 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 1
+17:49:15,369 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+17:49:15,370 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+17:49:15,381 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+17:49:15,395 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+17:49:15,396 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+17:49:15,397 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+17:49:15,402 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+17:49:15,534 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+17:49:15,534 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+17:49:15,594 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+17:49:15,595 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+17:49:15,639 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+17:49:15,650 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+17:49:15,659 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+17:49:15,663 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+17:49:15,672 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+17:49:15,675 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+17:49:15,676 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+17:49:15,678 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+17:49:15,679 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+17:49:15,680 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+17:49:15,682 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+17:49:15,685 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+17:49:15,686 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+17:49:15,696 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+17:49:15,697 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+17:50:15,667 - [9] - INFO  - Center.Server.CenterServer - Saving Record

@@ -1,0 +1,152 @@
+F:\DDTank\Workspce.Gunny3\GameServerScript\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\GameServerScript.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\GameServerScript.pdb
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Game.Server.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\Game.Server.pdb
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\GameServerScript\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny3\GameServerScript\obj\Debug\GameServerScript.dll
+F:\DDTank\Workspce.Gunny3\GameServerScript\obj\Debug\GameServerScript.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\GameServerScript.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\GameServerScript.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Logic.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Server.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Logic.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Server.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny.II\GameServerScript\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\GameServerScript\obj\Debug\GameServerScript.dll
+F:\DDTank\Workspce.Gunny.II\GameServerScript\obj\Debug\GameServerScript.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\GameServerScript.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\GameServerScript.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Logic.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Server.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\log4net.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Logic.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\Game.Server.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\GameServerScript\bin\Debug\log4net.xml
+D:\DDTank\Workspce.Gunny.II\GameServerScript\obj\Debug\GameServerScript.dll
+D:\DDTank\Workspce.Gunny.II\GameServerScript\obj\Debug\GameServerScript.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Languages\Language-vn.txt
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\GameServerScript.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\GameServerScript.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Bussiness.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Base.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Logic.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Server.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\SqlDataProvider.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\log4net.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\zlib.net.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Bussiness.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Base.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Logic.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Server.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\SqlDataProvider.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\log4net.xml
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.csprojResolveAssemblyReference.cache
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Languages\Language-vn.txt
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\GameServerScript.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\GameServerScript.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Bussiness.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Base.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Logic.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Server.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\SqlDataProvider.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\log4net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\zlib.net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Bussiness.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Base.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Logic.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Server.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\SqlDataProvider.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\log4net.xml
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Languages\Language-vn.txt
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\GameServerScript.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\GameServerScript.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Bussiness.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Base.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Logic.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Server.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\SqlDataProvider.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\log4net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\zlib.net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Bussiness.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Base.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Logic.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\Game.Server.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\SqlDataProvider.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\bin\Debug\log4net.xml
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.csprojResolveAssemblyReference.cache
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\GameServerScript\obj\Debug\GameServerScript.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Languages\Language-vn.txt
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\GameServerScript.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\GameServerScript.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Bussiness.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Game.Base.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Game.Logic.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Game.Server.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\SqlDataProvider.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\log4net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\zlib.net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Bussiness.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Game.Base.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Game.Logic.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\Game.Server.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\SqlDataProvider.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\bin\Debug\log4net.xml
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\obj\Debug\GameServerScript.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\GameServerScript\obj\Debug\GameServerScript.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Languages\Language-vn.txt
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\GameServerScript.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\GameServerScript.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Bussiness.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Game.Base.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Game.Logic.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Game.Server.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\SqlDataProvider.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\log4net.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\zlib.net.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Bussiness.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Game.Base.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Game.Logic.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\Game.Server.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\SqlDataProvider.pdb
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\bin\Debug\log4net.xml
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\obj\Debug\GameServerScript.dll
+D:\BaseDDTankII\XDDTank\Source\GameServerScript\obj\Debug\GameServerScript.pdb

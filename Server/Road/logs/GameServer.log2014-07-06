@@ -1,0 +1,1654 @@
+09:45:53,142 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:46:00,586 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:46:00,589 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:46:00,918 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:46:00,929 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:46:00,930 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+09:46:01,004 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:46:01,119 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:46:01,528 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:46:01,733 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:46:32,575 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:46:32,721 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:46:33,283 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:46:42,436 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:46:42,502 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+09:46:42,776 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+09:46:42,784 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+09:46:42,870 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:46:42,932 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:46:42,970 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:46:43,060 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:46:43,313 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:46:43,336 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:46:43,398 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:46:43,408 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:46:43,429 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:46:43,526 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:46:43,534 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:46:43,832 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:46:44,113 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:46:44,116 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:46:44,117 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:46:44,236 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:46:44,262 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:46:44,312 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:46:44,315 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:46:44,352 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+09:46:44,358 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:46:44,359 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:46:44,362 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:46:44,402 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:46:44,432 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+09:46:44,498 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+09:46:44,561 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+09:46:44,567 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+09:46:44,593 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+09:46:44,601 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+09:46:44,609 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+09:46:44,610 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+09:46:44,634 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13709:51:22,122 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:51:22,565 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:51:22,567 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:51:22,630 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:51:22,631 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:51:22,631 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+09:51:22,648 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:51:22,707 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:51:22,712 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:51:22,719 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:51:22,890 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:51:23,007 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:51:23,160 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:51:23,253 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:51:23,258 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+09:51:23,262 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+09:51:23,267 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+09:51:23,272 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:51:23,278 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:51:23,296 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:51:23,303 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:51:23,312 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:51:23,328 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:51:23,334 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:51:23,341 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:51:23,347 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:51:23,362 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:51:23,366 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:51:23,510 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:51:23,683 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:51:23,685 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:51:23,686 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:51:23,692 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:51:23,697 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:51:23,699 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:51:23,701 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:51:23,708 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+09:51:23,711 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:51:23,711 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:51:23,713 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:51:23,721 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:51:23,727 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+09:51:23,740 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+09:51:23,759 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+09:51:23,764 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+09:51:23,769 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+09:51:23,771 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+09:51:23,774 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+09:51:23,774 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+09:51:23,792 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13709:56:17,607 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:56:18,239 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:56:18,241 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:56:18,338 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:56:18,338 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:56:18,338 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+09:56:18,360 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:56:18,420 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:56:18,424 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:56:18,431 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:56:18,582 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:56:18,704 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:56:18,918 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:56:19,026 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:56:19,030 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+09:56:19,034 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+09:56:19,038 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+09:56:19,042 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:56:19,046 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:56:19,059 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:56:19,065 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:56:19,073 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:56:19,086 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:56:19,091 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:56:19,096 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:56:19,107 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:56:19,119 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:56:19,122 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:56:19,248 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:56:19,376 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:56:19,396 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:56:19,398 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:56:19,417 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:56:19,424 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:56:19,427 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:56:19,429 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:56:19,449 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+09:56:19,453 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:56:19,454 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:56:19,456 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:56:19,466 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:56:19,495 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+09:56:19,508 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+09:56:19,547 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+09:56:19,555 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+09:56:19,561 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+09:56:19,565 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+09:56:19,569 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+09:56:19,570 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+09:56:19,600 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+09:56:19,605 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+09:56:19,609 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:56:19,614 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+09:56:19,620 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+09:56:19,635 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+09:56:19,638 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+09:56:19,655 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+09:56:19,805 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 151
+09:56:19,826 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 22
+09:56:19,933 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 151
+09:56:42,219 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:4967
+09:56:42,220 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:56:42,239 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:4967), received bytes=0
+09:56:42,277 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:4968
+09:56:42,277 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:56:42,289 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 30559
+09:56:42,299 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32465
+09:56:42,951 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25
+09:56:44,257 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1097
+09:56:44,259 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 15372
+09:56:44,274 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 2394
+09:56:44,277 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 34457
+09:56:44,328 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52350
+09:56:44,630 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 45124
+09:56:44,670 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64243
+09:56:44,671 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 35753
+09:56:44,676 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 60977
+09:56:44,677 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21254
+09:56:44,677 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18704
+09:56:44,681 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24324
+09:56:44,681 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 29452
+09:56:44,682 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37016
+09:56:44,683 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24928
+09:56:44,683 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51008
+09:56:44,684 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63142
+09:56:44,684 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 35277
+09:56:44,685 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 16546
+09:56:44,685 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 5393
+09:56:44,685 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 13043
+09:56:44,686 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 41971
+09:56:44,686 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 59161
+09:56:44,687 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64739
+09:56:44,687 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 10393
+09:56:44,688 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 23033
+09:56:44,688 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 41397
+09:56:44,689 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 7709
+09:56:44,689 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 27654
+09:56:44,692 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 59443
+09:56:44,693 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48035
+09:56:44,693 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 65023
+09:56:44,694 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 14663
+09:56:44,694 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48899
+09:56:44,695 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56548
+09:56:44,695 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 15586
+09:56:44,696 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 54417
+09:56:44,696 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 7788
+09:56:44,697 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 8967
+09:56:44,697 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 17544
+09:56:44,698 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 47886
+09:56:44,698 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40882
+09:56:44,699 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21390
+09:56:44,699 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 31967
+09:56:44,700 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 16414
+09:56:44,700 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 53226
+09:56:44,700 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58983
+09:56:44,701 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28222
+09:56:44,702 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 44352
+09:56:44,703 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 12710
+09:56:44,704 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25159
+09:56:44,704 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 34205
+09:56:44,706 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 50746
+09:56:44,707 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 19538
+09:56:44,707 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 49198
+09:56:44,708 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 23278
+09:56:44,708 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37997
+09:56:44,709 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 49349
+09:56:44,709 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1032
+09:56:44,710 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51775
+09:56:44,710 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 57579
+09:56:44,711 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 43861
+09:56:44,711 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 5751
+09:56:44,712 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21361
+09:56:44,712 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21564
+09:56:44,713 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 10453
+09:56:44,713 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64756
+09:56:44,714 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 13665
+09:56:44,714 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58814
+09:56:45,061 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 64542
+09:56:45,067 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18928
+09:56:45,079 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32631
+09:56:46,226 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 50892
+09:56:46,227 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32216
+09:56:46,227 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52144
+09:56:46,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1348
+09:56:46,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26544
+09:56:46,228 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 54521
+09:56:46,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1226
+09:56:46,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 59845
+09:56:46,229 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24615
+09:56:46,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 57642
+09:56:46,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 43491
+09:56:46,230 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 18252
+09:56:46,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 62095
+09:56:46,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24447
+09:56:46,231 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 38027
+09:56:46,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 34476
+09:56:46,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 8277
+09:56:46,232 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 43967
+09:56:46,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 53739
+09:56:46,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 29150
+09:56:46,233 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32059
+09:56:47,736 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 54433
+09:56:47,738 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 14705
+09:56:51,525 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 45473
+09:56:51,528 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48541
+09:56:51,529 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63849
+09:56:51,529 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 3445
+09:56:51,530 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 30865
+09:56:51,535 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 35545
+09:56:51,536 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26325
+09:56:51,536 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 6173
+09:56:51,537 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 29593
+09:56:51,537 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24278
+09:56:51,538 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40932
+09:56:51,538 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25385
+09:56:51,539 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52247
+09:56:51,539 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 54456
+09:56:51,554 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 10204
+09:56:55,382 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 39326
+09:56:56,867 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 14507
+09:56:56,868 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 6603
+09:56:56,868 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58287
+09:56:56,873 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52031
+09:56:56,873 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 19119
+09:56:56,874 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 30303
+09:56:56,874 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 54999
+09:56:56,874 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 55083
+09:56:56,874 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 42846
+09:56:56,875 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 14105
+09:56:56,875 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1512
+09:56:56,875 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 8677
+09:56:56,875 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 15972
+09:56:56,876 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56251
+09:56:56,881 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 38588
+09:56:56,882 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 51510
+09:56:56,882 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 37128
+09:56:56,882 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52324
+09:56:56,883 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 404
+09:56:56,883 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 58047
+09:56:56,883 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48435
+09:56:56,884 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 57872
+09:56:56,885 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56305
+09:56:56,885 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 63043
+09:56:57,538 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28404
+09:56:57,538 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 824
+09:56:57,539 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 26483
+09:56:57,541 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 10999
+09:56:57,542 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 823
+09:56:57,542 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 29583
+09:56:57,542 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 3043
+09:56:57,543 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 31491
+09:56:57,543 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 3204
+09:56:57,543 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52699
+09:56:57,544 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 52773
+09:56:57,544 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 36168
+09:56:57,544 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 21293
+09:56:57,545 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 40627
+09:56:57,545 09:58:12,795 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:58:13,259 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:58:13,261 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:58:13,321 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:58:13,321 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:58:13,322 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+09:58:13,354 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:58:13,430 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:58:13,435 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:58:13,444 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:58:13,646 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:58:13,790 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:58:13,994 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:58:14,107 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:58:14,112 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+09:58:14,115 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+09:58:14,121 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+09:58:14,128 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:58:14,132 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:58:14,146 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:58:14,151 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:58:14,157 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:58:14,169 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:58:14,172 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:58:14,176 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:58:14,180 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:58:14,190 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:58:14,194 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:58:14,332 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:58:14,460 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:58:14,464 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:58:14,465 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:58:14,473 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:58:14,479 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:58:14,482 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:58:14,484 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:58:14,492 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+09:58:14,495 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:58:14,495 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:58:14,497 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:58:14,504 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:58:14,511 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+09:58:14,522 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+09:58:14,542 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+09:58:14,547 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+09:58:14,552 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+09:58:14,555 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+09:58:14,558 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+09:58:14,559 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+09:58:14,578 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+09:58:14,584 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+09:58:14,588 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:58:14,595 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+09:58:14,596 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+09:58:14,603 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+09:58:14,612 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+09:58:14,630 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+09:58:14,816 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 151
+09:58:14,830 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 22
+09:58:14,857 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 151
+09:58:33,783 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:4984
+09:58:33,784 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:58:33,795 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:4984), received bytes=0
+09:58:33,818 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:4985
+09:58:33,819 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+09:58:33,827 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 30559
+09:58:33,838 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 32465
+09:58:33,971 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 25
+09:58:34,173 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 27795
+09:58:34,175 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 34930
+09:58:34,193 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 39802
+09:58:34,195 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 58250
+09:58:34,231 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 10428
+09:58:34,348 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 50167
+09:58:34,351 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 56459
+09:58:34,503 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 45587
+09:58:34,533 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 44873
+09:58:34,562 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 26170
+09:58:34,565 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 59890
+09:58:34,567 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 54027
+09:58:34,568 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 37936
+09:58:34,568 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 35812
+09:58:34,569 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 54401
+09:58:34,569 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 3774
+09:58:34,570 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 42813
+09:58:34,574 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 60963
+09:58:34,574 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 27335
+09:58:34,575 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 20863
+09:58:34,575 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 24570
+09:58:34,576 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 3263
+09:58:34,576 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 30206
+09:58:34,576 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 45691
+09:58:34,577 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 54701
+09:58:34,577 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 45560
+09:58:34,577 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 55566
+09:58:34,578 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 39004
+09:58:34,578 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 53895
+09:58:34,578 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 52968
+09:58:34,579 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 37158
+09:58:34,579 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 23237
+09:58:34,579 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 35437
+09:58:34,580 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 17308
+09:58:34,582 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 48060
+09:58:34,583 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 44216
+09:58:34,583 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 34504
+09:58:34,584 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 2164
+09:58:34,584 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 55032
+09:58:34,585 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 21886
+09:58:34,585 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 390
+09:58:34,586 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 37134
+09:58:34,586 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 8549
+09:58:34,587 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 12488
+09:58:34,587 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 52053
+09:58:34,588 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 63297
+09:58:34,588 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 54391
+09:58:34,588 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 34685
+09:58:34,589 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 12267
+09:58:34,589 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 26485
+09:58:34,590 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 49219
+09:58:34,590 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 29262
+09:58:34,591 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 45785
+09:58:34,591 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 48119
+09:58:34,592 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 3032
+09:58:34,592 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 40092
+09:58:34,595 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 29810
+09:58:34,595 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 9678
+09:58:34,596 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 40258
+09:58:34,597 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 10434
+09:58:34,597 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 40366
+09:58:34,597 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 57224
+09:58:34,598 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 39309
+09:58:34,598 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 19172
+09:58:34,599 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 4501
+09:58:34,599 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 243
+09:58:34,599 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 6597
+09:58:34,599 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 12587
+09:58:34,600 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 6887
+09:58:34,600 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 44074
+09:58:34,600 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 60443
+09:58:34,601 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 14321
+09:58:34,601 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 11450
+09:58:34,601 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 20051
+09:58:34,601 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 579
+09:58:34,617 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 54820
+09:58:34,619 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 38981
+09:58:34,629 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 22155
+09:58:35,504 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 21637
+09:58:35,505 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 38717
+09:58:35,505 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 53849
+09:58:35,505 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 61345
+09:58:35,506 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 29665
+09:58:35,506 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 48948
+09:58:35,506 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 54169
+09:58:35,506 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 57278
+09:58:35,507 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 49665
+09:58:35,507 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 23720
+09:58:35,507 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 14613
+09:58:35,508 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 7636
+09:58:35,508 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 21980
+09:58:35,509 - [4] - ERROR - Game.Base.Packets.StreamProcessor - 43386
+09:58:35,509 10:00:42,864 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:00:43,337 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+10:00:43,339 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+10:00:43,410 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+10:00:43,410 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+10:00:43,410 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+10:00:43,430 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+10:00:43,500 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+10:00:43,506 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+10:00:43,516 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+10:00:43,700 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+10:00:43,871 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+10:00:44,145 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+10:00:44,280 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+10:00:44,307 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+10:00:44,331 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+10:00:44,337 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+10:00:44,343 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+10:00:44,355 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+10:00:44,375 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+10:00:44,383 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+10:00:44,392 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+10:00:44,405 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+10:00:44,410 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+10:00:44,424 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+10:00:44,429 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+10:00:44,444 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+10:00:44,448 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+10:00:44,613 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+10:00:44,781 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+10:00:44,784 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+10:00:44,785 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+10:00:44,809 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+10:00:44,814 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+10:00:44,819 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+10:00:44,821 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+10:00:44,831 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+10:00:44,835 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+10:00:44,836 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+10:00:44,837 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+10:00:44,849 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+10:00:44,868 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+10:00:44,884 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+10:00:44,907 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+10:00:44,914 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+10:00:44,920 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+10:00:44,924 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+10:00:44,928 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+10:00:44,929 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+10:00:44,953 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13710:16:21,596 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:16:21,957 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+10:16:21,958 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+10:16:22,016 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+10:16:22,017 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+10:16:22,017 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+10:16:22,034 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+10:16:22,171 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+10:16:22,175 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+10:16:22,184 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+10:16:22,631 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+10:16:23,444 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+10:16:23,959 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+10:16:24,531 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+10:16:24,624 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+10:16:24,774 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+10:16:25,340 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+10:16:25,885 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+10:16:26,133 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+10:16:26,601 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+10:16:26,852 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+10:16:27,251 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+10:16:27,910 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+10:16:28,120 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+10:16:28,151 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+10:16:28,229 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+10:16:28,459 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+10:16:28,466 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+10:16:28,777 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+10:16:29,495 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+10:16:29,498 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+10:16:29,512 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+10:16:29,750 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+10:16:29,756 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+10:16:29,994 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+10:16:29,995 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+10:16:30,003 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+10:16:30,006 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+10:16:30,007 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+10:16:30,008 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+10:16:30,244 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+10:16:30,703 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+10:16:30,917 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+10:16:31,579 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+10:16:31,668 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+10:16:31,766 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+10:16:31,835 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+10:16:31,872 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+10:16:31,873 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+10:16:31,909 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13710:16:56,812 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:16:57,147 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+10:16:57,149 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+10:16:57,202 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+10:16:57,203 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+10:16:57,203 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+10:16:57,218 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+10:16:57,272 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+10:16:57,276 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+10:16:57,282 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+10:16:57,451 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+10:16:57,573 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+10:16:57,720 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+10:16:57,813 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+10:16:57,817 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+10:16:57,820 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+10:16:57,824 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+10:16:57,828 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+10:16:57,833 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+10:16:57,848 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+10:16:57,859 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+10:16:57,872 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+10:16:57,892 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+10:16:57,896 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+10:16:57,902 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+10:16:57,906 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+10:16:57,915 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+10:16:57,918 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+10:16:58,039 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+10:16:58,156 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+10:16:58,158 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+10:16:58,159 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+10:16:58,167 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+10:16:58,172 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+10:16:58,174 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+10:16:58,175 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+10:16:58,183 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+10:16:58,187 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+10:16:58,188 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+10:16:58,190 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+10:16:58,198 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+10:16:58,206 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+10:16:58,218 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+10:16:58,237 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+10:16:58,243 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+10:16:58,248 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+10:16:58,251 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+10:16:58,254 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+10:16:58,255 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+10:16:58,273 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+10:16:58,280 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+10:16:58,283 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+10:16:58,289 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+10:16:58,290 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+10:16:58,300 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+10:16:58,303 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+10:16:58,319 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+10:16:58,524 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 151
+10:16:58,547 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 22
+10:16:58,624 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 151
+10:17:22,839 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6104
+10:17:22,840 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+10:17:22,850 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:6104), received bytes=0
+10:17:22,870 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6105
+10:17:22,871 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+10:17:22,881 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 39
+10:17:22,891 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 166
+10:17:23,470 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25
+10:17:24,319 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,323 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,345 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,348 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1176
+10:17:24,419 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 1776
+10:17:24,553 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32
+10:17:24,555 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 32
+10:17:24,640 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,667 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,669 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:24,673 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 980
+10:17:24,675 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 356
+10:17:24,675 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,676 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,676 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,676 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,676 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,677 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,682 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:24,682 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:24,683 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:24,683 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,684 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,684 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,685 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,685 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:24,686 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 168
+10:17:24,686 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,687 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:24,687 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:24,687 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,688 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,688 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,688 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,689 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,689 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48
+10:17:24,689 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,689 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,690 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,690 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48
+10:17:24,693 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:24,694 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 168
+10:17:24,694 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,695 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,695 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,695 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,696 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,696 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56
+10:17:24,696 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,697 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,697 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,697 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56
+10:17:24,698 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,698 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56
+10:17:24,698 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,699 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,699 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,700 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,700 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,700 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,701 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,701 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,703 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,703 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,704 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,704 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,704 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 48
+10:17:24,707 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:24,708 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,708 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,708 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,708 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,709 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:24,709 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:24,710 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:24,710 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,711 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,711 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:24,712 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,712 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:24,713 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,713 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,713 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,714 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 24
+10:17:24,714 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,715 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 96
+10:17:24,715 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 72
+10:17:24,759 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 25
+10:17:24,762 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 425
+10:17:24,771 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 66
+10:17:25,907 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 28
+10:17:25,907 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 140
+10:17:25,907 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 112
+10:17:25,908 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 84
+10:17:25,908 - [5] - ERROR - Game.Base.Packets.StreamProcessor - 56
+10:17:25,909 - [5] - ERROR - Game.Base.Pa10:20:51,096 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:20:52,470 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+10:20:52,472 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+10:20:52,677 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+10:20:52,677 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+10:20:52,677 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+10:20:52,857 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+10:20:52,929 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+10:20:52,951 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+10:20:52,967 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+10:20:57,061 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+10:20:57,318 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+10:20:57,674 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+10:20:57,829 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+10:20:57,841 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+10:20:57,857 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+10:20:57,862 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+10:20:57,884 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+10:20:57,891 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+10:20:57,936 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+10:20:57,950 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+10:20:57,973 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+10:20:58,006 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+10:20:58,012 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+10:20:58,019 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+10:20:58,025 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+10:20:58,050 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+10:20:58,054 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+10:20:58,188 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+10:20:58,330 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+10:20:58,332 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+10:20:58,333 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+10:20:58,345 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+10:20:58,349 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+10:20:58,368 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+10:20:58,370 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+10:20:58,389 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+10:20:58,392 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+10:20:58,392 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+10:20:58,394 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+10:20:58,404 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+10:20:58,411 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+10:20:58,437 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+10:20:58,477 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+10:20:58,483 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+10:20:58,492 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+10:20:58,496 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+10:20:58,501 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+10:20:58,502 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+10:20:58,520 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+10:20:58,525 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+10:20:58,529 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+10:20:58,535 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+10:20:58,536 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+10:20:58,553 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+10:20:58,577 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+10:20:58,592 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+10:21:37,606 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6133
+10:21:37,609 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+10:21:37,616 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:6133), received bytes=0
+10:21:37,643 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6134
+10:21:37,644 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+10:21:37,653 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+10:21:58,400 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:21:58,400 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:21:58,400 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:22:36,749 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:6134), received bytes=0
+10:22:55,675 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6142
+10:22:55,676 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+10:22:55,689 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:6142), received bytes=0
+10:22:55,705 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:6143
+10:22:55,706 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+10:22:55,718 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+10:22:55,917 - [11] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+10:22:55,917 - [11] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+10:22:58,413 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:22:58,413 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:22:58,413 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:23:58,396 - [11] - INFO  - Game.Server.GameServer - Begin ping check....
+10:23:58,398 - [11] - INFO  - Game.Server.GameServer - End ping check....
+10:23:58,398 - [11] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:23:58,399 - [11] - INFO  - Game.Server.GameServer - End ping center check....
+10:23:58,426 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:23:58,431 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:23:58,432 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:24:09,135 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:6143), received bytes=0
+10:24:58,439 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:24:58,440 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:24:58,440 - [10] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+10:25:58,397 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+10:25:58,453 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:25:58,454 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:25:58,454 - [10] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+10:25:58,488 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:26:58,407 - [10] - INFO  - Game.Server.GameServer - Begin ping check....
+10:26:58,408 - [10] - INFO  - Game.Server.GameServer - End ping check....
+10:26:58,409 - [10] - INFO  - Ga14:31:09,511 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:31:13,150 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+14:31:13,153 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+14:31:13,258 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+14:31:13,259 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+14:31:13,259 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+14:31:13,412 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+14:31:13,509 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+14:31:14,487 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+14:31:15,275 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+14:31:29,410 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+14:31:29,575 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+14:31:29,795 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+14:31:32,334 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+14:31:32,384 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+14:31:32,441 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+14:31:32,446 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+14:31:32,518 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+14:31:32,555 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+14:31:32,574 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+14:31:32,667 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+14:31:32,839 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+14:31:32,877 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+14:31:32,904 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+14:31:32,910 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+14:31:32,941 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+14:31:33,007 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+14:31:33,012 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+14:31:33,303 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+14:31:33,530 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+14:31:33,533 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+14:31:33,535 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+14:31:33,567 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+14:31:33,594 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+14:31:33,641 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+14:31:33,644 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+14:31:33,689 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+14:31:33,692 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+14:31:33,693 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+14:31:33,695 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+14:31:33,731 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+14:31:33,763 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+14:31:33,802 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+14:31:33,885 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+14:31:33,890 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+14:31:33,904 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+14:31:33,910 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+14:31:33,916 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+14:31:33,918 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+14:31:33,936 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+14:31:33,942 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+14:31:33,947 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+14:31:33,952 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+14:31:34,027 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+14:31:34,034 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+14:31:34,039 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+14:31:34,054 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+14:32:05,200 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1529
+14:32:05,201 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+14:32:05,215 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1529), received bytes=0
+14:32:05,268 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1530
+14:32:05,269 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+14:32:33,712 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:32:33,713 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:32:33,721 - [10] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+14:32:44,246 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1530), received bytes=0
+14:33:02,947 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1534
+14:33:02,948 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+14:33:02,960 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1534), received bytes=0
+14:33:02,977 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1535
+14:33:02,978 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+14:33:02,986 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+14:33:33,722 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:33:33,722 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:33:33,723 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+14:34:33,704 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+14:34:33,706 - [8] - INFO  - Game.Server.GameServer - End ping check....
+14:34:33,707 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+14:34:33,708 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+14:34:33,735 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:34:33,736 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:34:33,736 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+14:34:38,577 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1535), received bytes=0
+14:35:33,747 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:35:33,748 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:35:33,749 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+14:36:33,707 - [4] - INFO  - Game.Server.GameServer - Saving Record...
+14:36:33,761 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:36:33,762 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:36:33,762 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+14:36:33,817 - [4] - INFO  - Game.Server.GameServer - Saving Record complete!
+14:37:33,716 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+14:37:33,716 - [8] - INFO  - Game.Server.GameServer - End ping check....
+14:37:33,716 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+14:37:33,717 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+14:37:33,775 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:37:33,775 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:37:33,775 - [9] - INFO  - Game.Server.GameServer - B14:55:31,741 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:55:33,827 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+14:55:33,830 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+14:55:33,901 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+14:55:33,901 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+14:55:33,902 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+14:55:33,920 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+14:55:34,011 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+14:55:34,061 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+14:55:34,071 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+14:55:47,211 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+14:55:47,499 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+14:55:47,941 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+14:55:51,225 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+14:55:51,266 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+14:55:51,340 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+14:55:51,347 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+14:55:51,425 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+14:55:51,471 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+14:55:51,501 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+14:55:51,575 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+14:55:51,691 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+14:55:51,704 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+14:55:51,737 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+14:55:51,759 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+14:55:51,790 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+14:55:51,856 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+14:55:51,861 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+14:55:52,080 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+14:55:52,310 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+14:55:52,312 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+14:55:52,313 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+14:55:52,344 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+14:55:52,358 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+14:55:52,396 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+14:55:52,400 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+14:55:52,443 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+14:55:52,451 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+14:55:52,453 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+14:55:52,455 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+14:55:52,469 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+14:55:52,498 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+14:55:52,538 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+14:55:52,617 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+14:55:52,624 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+14:55:52,641 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+14:55:52,648 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+14:55:52,656 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+14:55:52,657 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+14:55:52,677 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13714:57:12,973 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:57:13,284 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+14:57:13,285 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+14:57:13,341 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+14:57:13,341 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+14:57:13,341 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+14:57:13,355 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+14:57:13,411 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+14:57:13,416 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+14:57:13,423 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+14:57:13,594 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+14:57:13,711 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+14:57:13,887 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+14:57:13,988 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+14:57:13,992 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+14:57:13,995 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+14:57:13,999 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+14:57:14,003 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+14:57:14,006 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+14:57:14,021 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+14:57:14,027 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+14:57:14,032 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+14:57:14,043 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+14:57:14,046 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+14:57:14,050 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+14:57:14,054 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+14:57:14,063 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+14:57:14,066 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+14:57:14,190 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+14:57:14,311 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+14:57:14,314 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+14:57:14,315 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+14:57:14,321 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+14:57:14,326 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+14:57:14,329 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+14:57:14,331 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+14:57:14,338 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+14:57:14,341 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+14:57:14,341 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+14:57:14,343 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+14:57:14,351 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+14:57:14,358 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+14:57:14,370 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+14:57:14,390 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+14:57:14,399 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+14:57:14,404 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+14:57:14,407 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+14:57:14,411 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+14:57:14,411 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+14:57:14,431 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13715:03:46,007 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+15:03:47,154 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+15:03:47,156 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+15:03:47,226 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+15:03:47,227 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+15:03:47,228 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+15:03:47,249 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+15:03:47,336 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+15:03:47,340 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+15:03:47,348 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+15:04:00,708 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+15:04:00,852 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+15:04:01,249 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+15:04:04,914 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+15:04:04,945 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+15:04:04,964 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+15:04:04,969 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+15:04:05,003 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+15:04:05,018 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+15:04:05,037 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+15:04:05,077 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+15:04:05,112 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+15:04:05,122 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+15:04:05,145 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+15:04:05,150 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+15:04:05,157 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+15:04:05,216 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+15:04:05,221 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+15:04:05,356 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+15:04:05,507 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+15:04:05,509 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+15:04:05,512 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+15:04:05,527 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+15:04:05,547 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+15:04:05,583 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+15:04:05,586 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+15:04:05,596 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+15:04:05,600 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+15:04:05,601 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+15:04:05,604 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+15:04:05,616 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+15:04:05,623 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+15:04:05,644 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+15:04:05,684 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+15:04:05,695 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+15:04:05,715 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+15:04:05,721 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+15:04:05,728 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+15:04:05,729 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+15:04:05,747 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13715:12:19,952 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+15:12:20,575 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+15:12:20,577 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+15:12:20,653 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+15:12:20,654 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+15:12:20,655 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+15:12:20,673 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+15:12:20,771 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+15:12:20,776 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+15:12:20,785 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+15:12:23,921 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+15:12:24,062 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+15:12:24,342 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+15:12:26,603 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+15:12:26,669 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+15:12:26,728 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+15:12:26,735 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+15:12:26,821 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+15:12:26,894 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+15:12:26,926 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+15:12:26,982 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+15:12:27,083 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+15:12:27,119 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+15:12:27,151 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+15:12:27,172 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+15:12:27,182 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+15:12:27,235 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+15:12:27,239 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+15:12:27,474 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+15:12:27,732 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+15:12:27,735 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+15:12:27,736 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+15:12:27,804 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+15:12:27,828 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+15:12:27,859 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+15:12:27,862 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+15:12:27,903 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+15:12:27,908 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+15:12:27,910 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+15:12:27,912 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+15:12:27,961 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+15:12:27,974 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+15:12:28,020 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+15:12:28,078 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+15:12:28,086 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+15:12:28,099 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+15:12:28,105 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+15:12:28,111 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+15:12:28,112 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+15:12:28,131 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+15:12:28,137 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+15:12:28,141 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+15:12:28,147 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+15:12:28,178 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+15:12:28,182 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+15:12:28,185 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+15:12:28,203 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+15:13:27,917 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:13:27,917 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:13:27,918 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:13:32,451 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1933
+15:13:32,453 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:13:32,465 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1933), received bytes=0
+15:13:32,512 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1934
+15:13:32,512 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:13:32,527 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:14:05,829 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1934), received bytes=0
+15:14:26,017 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1943
+15:14:26,018 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:14:26,030 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1943), received bytes=0
+15:14:26,053 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1944
+15:14:26,053 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:14:26,066 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:14:27,928 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:14:27,928 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:14:27,928 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:15:27,915 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:15:27,916 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:15:27,917 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:15:27,917 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:15:27,943 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:15:27,943 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:15:27,943 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:16:02,529 - [6] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,45ms!
+15:16:27,961 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:16:27,961 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:16:27,962 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:17:27,914 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+15:17:27,969 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:17:27,970 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:17:27,970 - [12] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:17:28,051 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:17:31,355 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1944), received bytes=0
+15:18:27,923 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:18:27,923 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:18:27,924 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:18:27,926 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:18:27,983 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:18:27,984 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:18:27,985 - [12] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:19:27,997 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:19:27,998 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:19:27,999 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:20:28,011 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:20:28,011 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:20:28,011 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:21:02,187 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1992
+15:21:02,188 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:21:02,198 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1992), received bytes=0
+15:21:02,238 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1993
+15:21:02,238 - [4] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:21:02,255 - [4] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:21:16,485 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:1993), received bytes=0
+15:21:27,935 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:21:27,938 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:21:27,938 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:21:27,939 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:21:28,023 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:21:28,023 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:21:28,024 - [12] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:21:35,170 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2002
+15:21:35,171 - [10] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:21:35,184 - [14] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2002), received bytes=0
+15:21:35,222 - [10] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2003
+15:21:35,222 - [10] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:21:35,237 - [10] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:21:59,073 - [6] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,71ms!
+15:22:27,915 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+15:22:27,916 - [9] - INFO  - Game.Server.GameServer - Saving database...
+15:22:27,917 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:22:28,036 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:22:28,036 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:22:28,036 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:22:28,195 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+15:22:28,196 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 281ms
+15:23:28,051 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:23:28,051 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:23:28,051 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:24:27,942 - [12] - INFO  - Game.Server.GameServer - Begin ping check....
+15:24:27,942 - [12] - INFO  - Game.Server.GameServer - End ping check....
+15:24:27,942 - [12] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:24:27,942 - [12] - INFO  - Game.Server.GameServer - End ping center check....
+15:24:28,065 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:24:28,065 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:24:28,067 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:25:28,078 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:25:28,078 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:25:28,079 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:25:58,587 - [14] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2003), received bytes=0
+15:26:28,091 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:26:28,091 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:26:28,092 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:27:19,800 - [14] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2045
+15:27:19,801 - [14] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:27:19,803 - [14] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2045), received bytes=0
+15:27:19,808 - [14] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2046
+15:27:19,809 - [14] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:27:19,822 - [14] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:27:27,923 - [12] - INFO  - Game.Server.GameServer - Saving Record...
+15:27:27,923 - [12] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:27:27,951 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+15:27:27,951 - [9] - INFO  - Game.Server.GameServer - End ping check....
+15:27:27,951 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:27:27,951 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+15:27:28,106 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:27:28,107 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:27:28,107 - [12] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:28:05,542 - [18] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2046), received bytes=0
+15:28:28,119 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:28:28,120 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:28:28,121 - [12] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:29:28,132 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:29:28,132 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:29:28,132 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:30:27,961 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+15:30:27,961 - [9] - INFO  - Game.Server.GameServer - End ping check....
+15:30:27,961 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:30:27,962 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+15:30:28,146 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:30:28,147 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:30:28,148 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:31:28,160 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:31:28,161 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:31:28,162 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:32:27,926 - [9] - INFO  - Game.Server.GameServer - Saving database...
+15:32:27,926 - [12] - INFO  - Game.Server.GameServer - Saving Record...
+15:32:27,926 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+15:32:27,927 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+15:32:27,931 - [12] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:32:28,173 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:32:28,173 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:32:28,173 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:33:27,971 - [12] - INFO  - Game.Server.GameServer - Begin ping check....
+15:33:27,971 - [12] - INFO  - Game.Server.GameServer - End ping check....
+15:33:27,971 - [12] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:33:27,973 - [12] - INFO  - Game.Server.GameServer - End ping center check....
+15:33:28,186 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:33:28,186 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:33:28,186 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:33:30,938 - [14] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2105
+15:33:30,938 - [14] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:33:30,959 - [14] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2105), received bytes=0
+15:33:30,963 - [14] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2106
+15:33:30,963 - [14] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:33:30,974 - [14] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:34:15,162 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2106), received bytes=0
+15:34:28,201 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:34:28,202 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:34:28,203 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:34:59,326 - [19] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2128
+15:34:59,327 - [19] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:34:59,349 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2128), received bytes=0
+15:34:59,362 - [19] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2129
+15:34:59,362 - [19] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:34:59,373 - [19] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:35:28,214 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:35:28,216 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:35:28,216 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:36:27,982 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:36:27,983 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:36:27,984 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:36:27,984 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:36:28,228 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:36:28,230 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:36:28,230 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:36:52,252 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2129), received bytes=0
+15:37:11,136 - [19] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2156
+15:37:11,137 - [19] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:37:11,145 - [19] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2156), received bytes=0
+15:37:11,151 - [19] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2157
+15:37:11,152 - [19] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:37:11,162 - [19] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:37:27,937 - [11] - INFO  - Game.Server.GameServer - Saving Record...
+15:37:27,939 - [11] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:37:28,241 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:37:28,241 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:37:28,241 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:38:10,148 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2157), received bytes=0
+15:38:28,255 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:38:28,255 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:38:28,255 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:38:29,388 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2165
+15:38:29,388 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:38:29,389 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2165), received bytes=0
+15:38:29,399 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2166
+15:38:29,399 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:38:29,412 - [20] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:39:08,596 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2166), received bytes=0
+15:39:27,991 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:39:27,992 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:39:27,993 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:39:27,994 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:39:28,269 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:39:28,270 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:39:28,328 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:40:28,281 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:40:28,282 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:40:28,282 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:41:17,450 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2215
+15:41:17,450 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:41:17,469 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2215), received bytes=0
+15:41:17,499 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2216
+15:41:17,500 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:41:17,507 - [20] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:41:28,296 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:41:28,296 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:41:28,296 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:41:57,030 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2216), received bytes=0
+15:42:18,319 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2226
+15:42:18,319 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:42:18,333 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2226), received bytes=0
+15:42:18,353 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2227
+15:42:18,353 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:42:18,371 - [20] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:42:27,934 - [8] - INFO  - Game.Server.GameServer - Saving database...
+15:42:27,934 - [17] - INFO  - Game.Server.GameServer - Saving Record...
+15:42:27,943 - [17] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:42:28,002 - [11] - INFO  - Game.Server.GameServer - Begin ping check....
+15:42:28,002 - [11] - INFO  - Game.Server.GameServer - End ping check....
+15:42:28,002 - [11] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:42:28,003 - [11] - INFO  - Game.Server.GameServer - End ping center check....
+15:42:28,096 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+15:42:28,096 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 156ms
+15:42:28,308 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:42:28,308 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:42:28,308 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:42:42,373 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2227), received bytes=0
+15:43:08,352 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2230
+15:43:08,353 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:43:08,366 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2230), received bytes=0
+15:43:08,387 - [20] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2231
+15:43:08,388 - [20] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+15:43:08,401 - [20] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+15:43:28,323 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:43:28,324 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:43:28,324 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:44:28,337 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:44:28,338 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:44:28,338 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:45:28,010 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:45:28,011 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:45:28,011 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:45:28,012 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:45:28,349 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:45:28,349 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:45:28,350 - [12] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:46:28,363 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:46:28,364 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:46:28,364 - [12] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:47:27,947 - [11] - INFO  - Game.Server.GameServer - Saving Record...
+15:47:27,980 - [11] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:47:28,376 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:47:28,377 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:47:28,378 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:48:28,021 - [11] - INFO  - Game.Server.GameServer - Begin ping check....
+15:48:28,021 - [11] - INFO  - Game.Server.GameServer - End ping check....
+15:48:28,022 - [11] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:48:28,022 - [11] - INFO  - Game.Server.GameServer - End ping center check....
+15:48:28,390 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:48:28,391 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:48:28,392 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:49:28,405 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:49:28,405 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:49:28,405 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:50:28,418 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:50:28,418 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:50:28,419 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:51:28,025 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+15:51:28,025 - [8] - INFO  - Game.Server.GameServer - End ping check....
+15:51:28,026 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:51:28,026 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+15:51:28,433 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:51:28,434 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:51:28,434 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:52:01,535 - [20] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2231), received bytes=0
+15:52:27,946 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+15:52:27,946 - [11] - INFO  - Game.Server.GameServer - Saving databa15:58:57,865 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+15:58:59,269 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+15:58:59,271 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+15:58:59,642 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+15:58:59,644 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+15:58:59,644 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+15:58:59,780 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+15:58:59,845 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+15:58:59,883 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+15:58:59,894 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+15:59:07,861 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+15:59:08,090 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+15:59:08,506 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+15:59:11,912 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+15:59:11,961 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+15:59:12,036 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+15:59:12,086 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+15:59:12,178 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+15:59:12,236 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+15:59:12,310 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+15:59:12,379 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+15:59:12,491 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+15:59:12,526 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+15:59:12,570 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+15:59:12,606 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+15:59:12,621 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+15:59:12,659 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+15:59:12,664 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+15:59:13,092 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+15:59:13,380 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+15:59:13,393 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+15:59:13,396 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+15:59:13,435 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+15:59:13,495 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+15:59:13,500 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+15:59:13,502 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+15:59:13,567 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+15:59:13,571 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+15:59:13,571 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+15:59:13,573 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+15:59:13,640 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+15:59:13,815 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+15:59:13,842 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+15:59:13,978 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+15:59:14,003 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+15:59:14,034 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+15:59:14,043 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+15:59:14,069 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+15:59:14,070 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+15:59:14,092 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 13816:01:28,635 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+16:01:29,705 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+16:01:29,708 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+16:01:30,064 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+16:01:30,065 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+16:01:30,065 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+16:01:30,149 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+16:01:30,217 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+16:01:30,237 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+16:01:30,258 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+16:01:31,388 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+16:01:31,527 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+16:01:31,716 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+16:01:31,863 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+16:01:31,870 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+16:01:31,904 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+16:01:31,911 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+16:01:31,935 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+16:01:31,946 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+16:01:32,004 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+16:01:32,020 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+16:01:32,045 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+16:01:32,086 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+16:01:32,092 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+16:01:32,099 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+16:01:32,105 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+16:01:32,122 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+16:01:32,191 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+16:01:32,365 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+16:01:32,627 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+16:01:32,631 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+16:01:32,633 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+16:01:32,646 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+16:01:32,652 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+16:01:32,656 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+16:01:32,659 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+16:01:32,668 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+16:01:32,671 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+16:01:32,671 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+16:01:32,673 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+16:01:32,685 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+16:01:32,731 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+16:01:32,747 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+16:01:32,779 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+16:01:32,787 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+16:01:32,795 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+16:01:32,801 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+16:01:32,806 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+16:01:32,807 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+16:01:32,827 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 138 handlers from GameServer Assembly!
+16:01:32,839 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+16:01:32,844 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+16:01:32,853 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+16:01:32,855 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+16:01:32,860 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+16:01:32,866 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+16:01:32,882 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+16:01:55,416 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2369
+16:01:55,417 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:01:55,429 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2369), received bytes=0
+16:01:55,447 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2370
+16:01:55,448 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:01:55,460 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:02:32,684 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:02:32,685 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:02:32,687 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:03:32,699 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:03:32,699 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:03:32,700 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:04:32,684 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+16:04:32,686 - [9] - INFO  - Game.Server.GameServer - End ping check....
+16:04:32,686 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:04:32,687 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+16:04:32,711 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:04:32,711 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:04:32,712 - [11] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:04:33,244 - [6] - ERROR - Game.Server.Rooms.RoomMgr - RoomMgr execute action error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Battle.FightServerConnector.SendAddRoom(BaseRoom room) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Battle\FightServerConnector.cs:line 434
+   at Game.Server.Battle.BattleServer.AddRoom(BaseRoom room) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Battle\BattleServer.cs:line 101
+   at Game.Server.Battle.BattleMgr.AddRoom(BaseRoom room) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Battle\BattleMgr.cs:line 90
+   at Game.Server.Rooms.StartGameAction.Execute() in D:\BaseDDTankII\XDDTank\Source\Game.Server\Rooms\StartGameAction.cs:line 76
+   at Game.Server.Rooms.RoomMgr.ExecuteActions() in D:\BaseDDTankII\XDDTank\Source\Game.Server\Rooms\RoomMgr.cs:line 159
+16:04:33,463 - [6] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 336 ms,count:1
+16:04:46,120 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2370), received bytes=0
+16:05:32,725 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:05:32,726 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:05:32,727 - [10] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:06:32,682 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+16:06:32,739 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:06:32,741 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:06:32,741 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:06:32,763 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:07:32,692 - [10] - INFO  - Game.Server.GameServer - Begin ping check....
+16:07:32,692 - [10] - INFO  - Game.Server.GameServer - End ping check....
+16:07:32,692 - [10] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:07:32,692 - [10] - INFO  - Game.Server.GameServer - End ping center check....
+16:07:32,751 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:07:32,751 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:07:32,751 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:08:32,765 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:08:32,765 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:08:32,766 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:30:42,514 - [11] - INFO  - Game.Server.GameServer - Saving database...
+16:30:42,518 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+16:30:42,524 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+16:30:42,535 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:30:43,904 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:30:43,904 - [12] - INFO  - Game.Server.GameServer - Buff all 0 players in 1357ms
+16:30:43,899 - [8] - INFO  - Game.Server.GameServer - End ping check....
+16:30:43,906 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:30:43,907 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+16:30:43,912 - [11] - INFO  - Game.Server.GameServer - Saving database complete!
+16:30:43,913 - [11] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 1404ms
+16:30:43,913 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:31:40,746 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2559
+16:31:40,746 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:31:40,755 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2559), received bytes=0
+16:31:40,780 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2560
+16:31:40,780 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:31:40,792 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:31:42,500 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:31:42,502 - [17] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:31:42,502 - [17] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:32:39,608 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2560), received bytes=0
+16:32:42,513 - [13] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:32:42,513 - [13] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:32:42,515 - [13] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:33:42,497 - [13] - INFO  - Game.Server.GameServer - Begin ping check....
+16:33:42,498 - [13] - INFO  - Game.Server.GameServer - End ping check....
+16:33:42,499 - [13] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:33:42,500 - [13] - INFO  - Game.Server.GameServer - End ping center check....
+16:33:42,528 - [20] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:33:42,531 - [20] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:33:42,531 - [20] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:34:42,542 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:34:42,546 - [17] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:34:42,547 - [17] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:35:42,499 - [20] - INFO  - Game.Server.GameServer - Saving Record...
+16:35:42,500 - [20] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:35:42,554 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:35:42,555 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:35:42,555 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:36:23,009 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2661
+16:36:23,010 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:36:23,021 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2661), received bytes=0
+16:36:23,046 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2662
+16:36:23,046 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:36:23,055 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:36:42,508 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+16:36:42,508 - [8] - INFO  - Game.Server.GameServer - End ping check....
+16:36:42,509 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:36:42,509 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+16:36:42,567 - [20] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:36:42,567 - [20] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:36:42,567 - [20] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:37:42,582 - [13] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:37:42,585 - [13] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:37:42,586 - [13] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:38:42,596 - [13] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:38:42,597 - [13] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:38:42,597 - [13] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:39:42,514 - [13] - INFO  - Game.Server.GameServer - Begin ping check....
+16:39:42,515 - [13] - INFO  - Game.Server.GameServer - End ping check....
+16:39:42,515 - [13] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:39:42,516 - [13] - INFO  - Game.Server.GameServer - End ping center check....
+16:39:42,608 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:39:42,611 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:39:42,612 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:39:55,456 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2662), received bytes=0
+16:40:16,510 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2683
+16:40:16,511 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:40:16,528 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2683), received bytes=0
+16:40:16,567 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2684
+16:40:16,568 - [5] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:40:16,584 - [5] - ERROR - Game.Base.Packets.StreamProcessor - Receive packet with numBytes is 39 ==> Server won't process
+16:40:42,497 - [13] - INFO  - Game.Server.GameServer - Saving database...
+16:40:42,497 - [20] - INFO  - Game.Server.GameServer - Saving Record...
+16:40:42,512 - [20] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:40:42,623 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:40:42,624 - [17] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:40:42,625 - [17] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:40:42,733 - [13] - INFO  - Game.Server.GameServer - Saving database complete!
+16:40:42,733 - [13] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 234ms
+16:41:38,674 - [15] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2684), received bytes=0
+16:41:42,636 - [17] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:41:42,637 - [17] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:41:42,637 - [17] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:42:01,054 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2698
+16:42:01,054 - [15] - INFO  - Game.Base.BaseServer - Client Connect to Server Result : True
+16:42:01,062 - [15] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:2698), received bytes=0
+16:42:01,105 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2699
+16:42:

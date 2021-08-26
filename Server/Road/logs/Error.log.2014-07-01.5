@@ -1,0 +1,17 @@
+13:12:44,312 - [5] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 67
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in D:\BaseDDTankII\XDDTank\Source\Game.Server\GameClient.cs:line 129
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in D:\BaseDDTankII\XDDTank\Source\Game.Base\Packets\StreamProcessor.cs:line 394
+13:13:08,892 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 127.0.0.1:1748)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\XDDTank\Source\Game.Server\Packets\Server\PacketProcessor.cs:line 87
+13:13:08,900 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 31 01 59 00 2C 00 00 00 08 00 00 00 00   q..1.Y.,........
+0010: 00 00 00 00 00 00 00 01 00 00 00 01 00 08 1E 85   ................
+0020: 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0030: 00                                                .               
+
+13:14:10,856 - [5] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+13:14:10,866 - [5] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3

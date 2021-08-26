@@ -1,0 +1,177 @@
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Tank.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Tank.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\bin\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\obj\Debug\Tank.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Flash\obj\Debug\Tank.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Tank.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Tank.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\bin\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\obj\Debug\Tank.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Flash\obj\Debug\Tank.Flash.pdb
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Languages\Language-vn.txt
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Tank.Flash.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Tank.Flash.pdb
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Bussiness.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\log4net.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\SqlDataProvider.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Game.Base.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\zlib.net.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\log4net.xml
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Game.Base.pdb
+F:\DDTank\WorkspceServer3\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\WorkspceServer3\Tank.Flash\obj\Debug\Tank.Flash.dll
+F:\DDTank\WorkspceServer3\Tank.Flash\obj\Debug\Tank.Flash.pdb
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\Bussiness.pdb
+F:\DDTank\WorkspceServer3\Tank.Flash\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\Tank.Flash\obj\Debug\Tank.Flash.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\obj\Debug\Tank.Flash.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Tank.Flash.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Tank.Flash.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\log4net.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\log4net.xml
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Road.Flash.dll
+F:\DDTank\Workspce.Gunny3\Tank.Flash\bin\Road.Flash.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Tank.Flash.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Tank.Flash.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Bussiness.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Road.Flash.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\log4net.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Game.Base.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\zlib.net.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Road.Flash.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\log4net.xml
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\bin\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\obj\Debug\Tank.Flash.dll
+F:\DDTank\Workspce.Gunny.3.4\Tank.Flash\obj\Debug\Tank.Flash.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Tank.Flash.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Tank.Flash.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Road.Flash.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\log4net.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Road.Flash.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\log4net.xml
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\obj\Debug\Tank.Flash.dll
+F:\DDTank\Workspce.Gunny.II\Tank.Flash\obj\Debug\Tank.Flash.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Tank.Flash.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Tank.Flash.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Road.Flash.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Road.Flash.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\bin\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\obj\Debug\Tank.Flash.dll
+D:\DDTank\Workspce.Gunny.II\Tank.Flash\obj\Debug\Tank.Flash.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Languages\Language-vn.txt
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Tank.Flash.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Tank.Flash.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Bussiness.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Road.Flash.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\SqlDataProvider.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Game.Base.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\zlib.net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Bussiness.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Road.Flash.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\SqlDataProvider.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\log4net.xml
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Game.Base.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\obj\Debug\Tank.Flash.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\obj\Debug\Tank.Flash.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Languages\Language-vn.txt
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Tank.Flash.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Tank.Flash.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Bussiness.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Road.Flash.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\SqlDataProvider.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Game.Base.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\zlib.net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Bussiness.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Road.Flash.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\SqlDataProvider.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\log4net.xml
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\bin\Game.Base.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\obj\Debug\Tank.Flash.csprojResolveAssemblyReference.cache
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\obj\Debug\Tank.Flash.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Tank.Flash\obj\Debug\Tank.Flash.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Languages\Language-vn.txt
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Tank.Flash.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Tank.Flash.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Bussiness.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Road.Flash.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\SqlDataProvider.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Game.Base.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\zlib.net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Bussiness.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Road.Flash.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\SqlDataProvider.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\log4net.xml
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\bin\Game.Base.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\obj\Debug\Tank.Flash.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Tank.Flash\obj\Debug\Tank.Flash.pdb
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Languages\Language-vn.txt
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Tank.Flash.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Tank.Flash.pdb
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Bussiness.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Road.Flash.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\SqlDataProvider.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Game.Base.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\zlib.net.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Bussiness.pdb
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Road.Flash.pdb
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\SqlDataProvider.pdb
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\log4net.xml
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\bin\Game.Base.pdb
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\obj\Debug\Tank.Flash.dll
+D:\BaseDDTankII\XDDTank\Source\Tank.Flash\obj\Debug\Tank.Flash.pdb

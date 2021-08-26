@@ -1,0 +1,365 @@
+14:07:31,650 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:07:48,593 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+14:07:48,595 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+14:07:48,994 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+14:07:48,995 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+14:07:48,996 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+14:07:49,050 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+14:07:49,164 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+14:07:49,859 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+14:07:50,145 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+14:08:20,628 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+14:08:20,746 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+14:08:21,090 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+14:08:29,679 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+14:08:29,724 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+14:08:29,873 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+14:08:29,884 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+14:08:29,970 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+14:08:30,005 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+14:08:30,033 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+14:08:30,117 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+14:08:30,245 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+14:08:30,269 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+14:08:30,321 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+14:08:30,331 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+14:08:30,352 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+14:08:30,503 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+14:08:30,512 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+14:08:30,879 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+14:08:31,318 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+14:08:31,323 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+14:08:31,342 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+14:08:31,478 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+14:08:31,498 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+14:08:31,550 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+14:08:31,552 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+14:08:31,614 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+14:08:31,619 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+14:08:31,620 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+14:08:31,622 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+14:08:31,702 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+14:08:31,711 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+14:08:31,789 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+14:08:31,942 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+14:08:31,947 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+14:08:32,000 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+14:08:32,035 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+14:08:32,072 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+14:08:32,073 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+14:08:32,113 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 129 handlers from GameServer Assembly!
+14:08:32,119 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+14:08:32,126 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+14:08:32,128 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+14:08:32,129 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+14:08:32,134 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+14:08:32,135 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+14:08:32,153 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+14:09:31,631 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:09:31,632 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:09:31,634 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+14:09:47,855 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3636
+14:09:47,928 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:3636), received bytes=0
+14:09:47,940 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3637
+14:09:48,988 - [8] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+14:09:48,989 - [8] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+14:10:12,538 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:10:12,758 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 1F 00 71 00 00 00 08 00 00 00 00   q......q........
+0010: 00 00 00 00 00 00 01 2D 01                        .......-.       
+
+14:10:31,643 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+14:10:31,644 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+14:10:31,644 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+14:11:03,972 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:11:03,975 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 2A 00 71 00 00 00 08 00 00 00 00   q....*.q........
+0010: 00 00 00 00 00 00 01 39 00                        .......9.       
+
+14:11:03,979 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:11:04,039 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 29 00 71 00 00 00 08 00 00 00 00   q....).q........
+0010: 00 00 00 00 00 00 01 38 00                        .......8.       
+
+14:11:04,042 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:11:04,045 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 28 00 71 00 00 00 08 00 00 00 00   q....(.q........
+0010: 00 00 00 00 00 00 01 37 00                        .......7.       
+
+14:11:04,050 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:11:04,056 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 27 00 71 00 00 00 08 00 00 00 00   q....'.q........
+0010: 00 00 00 00 00 00 01 36 00                        .......6.       
+
+14:11:04,058 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:11:04,060 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 25 00 71 00 00 00 08 00 00 00 00   q....%.q........
+0010: 00 00 00 00 00 00 01 34 00                        .......4.       
+
+14:11:04,061 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:3637)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Pack14:23:34,387 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:23:36,490 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+14:23:36,492 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+14:23:36,552 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+14:23:36,552 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+14:23:36,553 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+14:23:36,573 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+14:23:36,679 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+14:23:36,684 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+14:23:36,694 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+14:23:37,510 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+14:23:37,635 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+14:23:37,793 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+14:23:37,894 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+14:23:37,899 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+14:23:37,902 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+14:23:37,908 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+14:23:37,915 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+14:23:37,925 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+14:23:37,943 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+14:23:37,949 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+14:23:37,955 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+14:23:37,966 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+14:23:37,971 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+14:23:37,976 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+14:23:37,980 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+14:23:37,990 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+14:23:37,994 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+14:23:38,124 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+14:23:38,258 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+14:23:38,262 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+14:23:38,263 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+14:23:38,270 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+14:23:38,277 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+14:23:38,279 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+14:23:38,281 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+14:23:38,289 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+14:23:38,292 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+14:23:38,293 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+14:23:38,295 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+14:23:38,303 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+14:23:38,311 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+14:23:38,323 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+14:23:38,343 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+14:23:38,348 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+14:23:38,353 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+14:23:38,356 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+14:23:38,359 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+14:23:38,360 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+14:23:38,377 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 12914:57:46,978 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:57:57,644 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+14:57:57,646 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+14:57:57,719 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+14:57:57,719 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+14:57:57,719 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+14:57:57,781 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+14:57:57,913 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+14:57:57,961 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+14:57:57,969 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+14:58:12,590 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+14:58:12,712 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+14:58:12,872 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+14:58:17,400 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+14:58:17,424 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+14:58:17,453 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+14:58:17,460 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+14:58:17,538 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+14:58:17,546 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+14:58:17,612 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+14:58:17,622 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+14:58:17,665 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+14:58:17,702 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+14:58:17,709 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+14:58:17,716 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+14:58:17,720 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+14:58:17,765 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+14:58:17,769 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+14:58:17,993 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+14:58:18,168 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+14:58:18,171 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+14:58:18,172 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+14:58:18,180 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+14:58:18,204 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+14:58:18,207 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+14:58:18,208 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+14:58:18,239 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+14:58:18,242 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+14:58:18,243 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+14:58:18,244 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+14:58:18,252 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+14:58:18,261 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+14:58:18,273 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+14:58:18,300 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+14:58:18,305 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+14:58:18,311 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+14:58:18,316 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+14:58:18,320 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+14:58:18,321 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+14:58:18,338 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 129 handlers from GameServer Assembly!
+14:58:18,344 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+14:58:18,351 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+14:58:18,353 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+14:58:18,354 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+14:58:18,358 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+14:58:18,361 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+14:58:18,376 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+14:58:40,269 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:4931
+14:58:40,274 - [5] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:4931), received bytes=0
+14:58:40,317 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:4932
+14:58:41,189 - [7] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+14:58:41,189 - [7] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+14:59:08,050 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:4932)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:59:08,316 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 01 1A 00 71 00 00 00 08 00 00 00 00   q......q........
+0010: 00 00 00 00 00 00 01 29 00                        .......).       
+
+14:59:08,322 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.MailGetAttachHandler  client: 127.0.0.1:4932)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameObjects.GamePlayer.GetItemInventory(ItemTemplateInfo template) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 293
+   at Game.Server.GameObjects.GamePlayer.StackItemToAnother(ItemInfo item) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\GameObjects\GamePlayer.cs:line 316
+   at Game.Server.Packets.Client.MailGetAttachHandler.GetAnnex(String value, GamePlayer player, String& msg, Boolean& result, eMessageType& eMsg) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 176
+   at Game.Server.Packets.Client.MailGetAttachHandler.HandlePacket(GameClient client, GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Client\MailGetAttachHandler.cs:line 59
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Game.Server\Packets\Server\PacketProcessor.cs:line 84
+14:59:08,330 - [5] - ERROR - Game.Base.P15:07:38,902 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+15:07:45,059 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+15:07:45,062 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+15:07:45,123 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+15:07:45,123 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+15:07:45,123 - [MAIN] - INFO  - Game.Server.GameServer - Edition:5498628: True
+15:07:45,139 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+15:07:45,244 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+15:07:45,248 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+15:07:45,255 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+15:07:46,764 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+15:07:46,877 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+15:07:47,028 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+15:07:47,193 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+15:07:47,201 - [MAIN] - INFO  - Game.Server.GameServer - ExerciseMgr Init: True
+15:07:47,204 - [MAIN] - INFO  - Game.Server.GameServer - levelMgr Init: True
+15:07:47,210 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+15:07:47,216 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+15:07:47,221 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+15:07:47,237 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+15:07:47,244 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+15:07:47,251 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+15:07:47,264 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+15:07:47,268 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+15:07:47,272 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+15:07:47,277 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+15:07:47,289 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+15:07:47,292 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+15:07:47,488 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+15:07:47,628 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+15:07:47,630 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+15:07:47,631 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+15:07:47,639 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+15:07:47,643 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+15:07:47,646 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+15:07:47,648 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+15:07:47,658 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+15:07:47,661 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+15:07:47,662 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+15:07:47,663 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+15:07:47,673 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+15:07:47,681 - [MAIN] - INFO  - Game.Server.GameServer - WindMgr Init: True
+15:07:47,692 - [MAIN] - INFO  - Game.Server.GameServer - CardMgr Init: True
+15:07:47,713 - [MAIN] - INFO  - Game.Server.GameServer - PetMgr Init: True
+15:07:47,718 - [MAIN] - INFO  - Game.Server.GameServer - GoldEquipMgr Init: True
+15:07:47,724 - [MAIN] - INFO  - Game.Server.GameServer - TotemMgr Init: True
+15:07:47,727 - [MAIN] - INFO  - Game.Server.GameServer - TotemHonorMgr Init: True
+15:07:47,730 - [MAIN] - INFO  - Game.Server.GameServer - FightSpiritTemplateMgr Init: True
+15:07:47,731 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+15:07:47,748 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 129 handlers from GameServer Assembly!
+15:07:47,754 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+15:07:47,761 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+15:07:47,763 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+15:07:47,765 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+15:07:47,776 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+15:07:47,798 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+15:07:47,825 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+15:08:47,672 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:08:47,673 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:08:47,673 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:08:53,853 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5661
+15:08:53,858 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:5661), received bytes=0
+15:08:53,881 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5662
+15:08:55,142 - [4] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:5662) Handle packet Thread 4 Game.Server.Packets.Client.UserLoginHandler took 1186ms!
+15:08:55,436 - [9] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+15:08:55,436 - [9] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+15:09:32,071 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:5662), received bytes=0
+15:09:47,686 - [11] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:09:47,687 - [11] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:09:47,689 - [11] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:10:06,250 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5692
+15:10:06,254 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:5692), received bytes=0
+15:10:06,299 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5693
+15:10:06,547 - [9] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+15:10:06,548 - [9] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+15:10:47,673 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+15:10:47,674 - [9] - INFO  - Game.Server.GameServer - End ping check....
+15:10:47,674 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+15:10:47,676 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+15:10:47,700 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:10:47,701 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:10:47,701 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+15:11:20,353 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:5693), received bytes=0
+15:11:47,713 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:11:47,715 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:11:47,715 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:12:47,670 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+15:12:47,712 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+15:12:47,726 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+15:12:47,726 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+15:12:47,726 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+15:13:16,403 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5818
+15:13:16,410 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:5818), received bytes=0
+15:13:16,436 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:5819
+15:13:16,548 - [10] - WARN  - Game.Server.Quests.BaseCondition - Can't find quest condition : 54
+15:13:16,549 - [10] - WARN  - Game.Server.Quests.BaseCondition 

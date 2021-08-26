@@ -1,0 +1,142 @@
+18:59:25,514 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+18:59:27,597 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+18:59:27,627 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+18:59:27,629 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+18:59:27,630 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+18:59:27,631 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+18:59:27,632 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+18:59:27,634 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+18:59:27,635 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+18:59:27,637 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+18:59:27,638 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+18:59:27,639 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+18:59:27,641 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+18:59:27,641 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+18:59:27,667 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+18:59:27,669 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0.1
+18:59:27,671 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+18:59:27,672 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+18:59:27,864 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+18:59:28,230 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+18:59:28,231 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+18:59:28,231 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+18:59:28,347 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+18:59:49,585 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+18:59:49,586 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+18:59:49,907 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+18:59:49,908 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+18:59:50,760 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+18:59:50,879 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+18:59:50,995 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+18:59:51,001 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+18:59:51,123 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+18:59:51,126 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+18:59:51,128 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+18:59:51,133 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+18:59:51,134 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+18:59:51,136 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+18:59:51,138 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+18:59:51,348 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+18:59:51,349 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+18:59:51,357 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+18:59:51,360 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+19:00:15,604 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:1602
+19:00:15,801 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Send Pkg to 127.0.0.1:1602 :
+0000: 71 AB 00 97 40 05 00 00 00 00 00 00 00 00 00 00   q...@...........
+0010: 00 00 00 00 C1 7D AC 85 08 1E 02 69 6E 0D 3F 48   .....}.....in.?H
+0020: 63 85 24 EE 3D F9 E1 6F 71 E7 3C 7F 85 60 63 29   c.$.=..oq.<.`c)
+0030: C1 4B BF 20 2C F9 F8 43 08 33 81 6C 71 88 7B 60   .K. ,..C.3.lq.{`
+0040: FC 90 80 D4 57 7C 11 F4 C4 7C 24 C2 0E FF 70 1B   ....W|...|$...p.
+0050: 3F E2 FF F6 00 D3 A6 C2 C1 05 D2 FC 6D DF 27 75   ?...........m.'u
+0060: 09 08 B9 E0 E9 EB 5D 72 6A 7E 20 88 C6 75 1B A7   ......]rj~ ..u..
+0070: 4B 9D DF 6D D0 4E 82 A1 03 70 28 17 E2 37 BA 52   K..m.N...p(..7.R
+0080: C5 7C A3 72 84 E3 65 0E 3D 3C 8D D1 D5 9D 88 B2   .|.r..e.=<......
+0090: A1 51 BC F5 01 00 01                              .Q.....         
+
+19:00:15,807 - [3] - DEBUG - Game.Base.BaseClient - Send To (127.0.0.1:1602) 151 bytes
+19:00:15,864 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Recieve Packet:
+0000: 71 AB 00 94 42 31 00 01 00 00 00 00 00 00 00 00   q...B1..........
+0010: 00 00 00 00 30 09 A8 50 7B 45 F4 F8 E2 86 2A 5E   ....0..P{E....*^
+0020: 1D CC 78 6A 7C D1 5C 9C 9C 97 03 10 76 04 CA 7D   ..xj|.\.....v..}
+0030: E7 5F 89 08 DC 7A 0E 8F 86 CE D0 59 BC DD C1 46   ._...z.....Y...F
+0040: 75 EA B2 A3 CE E2 66 AE 88 A8 2C 2E CB 85 CD 2B   u.....f...,....+
+0050: 3F 2B 85 19 CC 28 65 CF D8 F6 C0 B6 9B EE 5F 28   ?+...(e......._(
+0060: 63 91 FC 38 6D AA 10 E3 99 F5 E0 CE 48 05 0C 74   c..8m.......H..t
+0070: 9C D0 1B 39 2E C9 62 46 4C 62 C1 10 D0 CB C6 86   ...9..bFLb......
+0080: B3 EB 10 DE B0 65 21 24 A9 BF C0 BB A7 09 13 A5   .....e!$........
+0090: 27 62 DC 8A                                       'b..            
+
+19:00:15,883 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Send Pkg to 127.0.0.1:1602 :
+0000: 71 AB 00 16 00 00 00 08 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 00 01                                 ......          
+
+19:00:15,886 - [3] - DEBUG - Game.Base.BaseClient - Send To (127.0.0.1:1602) 22 bytes
+19:00:15,888 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Recieve Packet:
+0000: 71 AB 00 1C 02 7A 00 F0 00 00 00 00 00 00 00 00   q....z..........
+0010: 00 00 00 00 7F 00 00 01 00 00 23 F0               .........#.    
+
+19:00:51,019 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+19:00:51,021 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+19:00:51,024 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+19:00:51,026 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+19:00:51,025 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+19:00:51,028 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+19:00:51,211 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+19:00:51,213 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 187ms
+19:00:51,293 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+19:00:51,496 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+19:01:51,028 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+19:01:51,029 - [9] - INFO  - Center.Server.CenterServer - Saving Record...
+19:01:51,034 - [9] - DEBUG - Center.Server.CenterServer - Save ThreadId=9
+19:01:51,032 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+19:01:51,029 - [10] - INFO  - Center.Server.CenterServer - Saving Record...
+19:01:51,044 - [10] - DEBUG - Center.Server.CenterServer - Save ThreadId=10
+19:01:51,038 - [9] - INFO  - Center.Server.CenterServer - Saving Record complete!
+19:01:51,049 - [10] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+19:01:51,042 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+19:01:51,055 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+19:02:51,042 - [14] - INFO  - Center.Server.CenterServer - Saving database...
+19:02:51,042 - [13] - INFO  - Center.Server.CenterServer - Saving Record...
+19:02:51,046 - [13] - DEBUG - Center.Server.C20:18:05,359 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+20:18:06,451 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 5498628
+20:18:06,466 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 0
+20:18:06,468 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+20:18:06,469 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 0
+20:18:06,470 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+20:18:06,470 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 10
+20:18:06,471 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 300
+20:18:06,472 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 1499
+20:18:06,473 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedDiscountMoney Value is 999
+20:18:06,474 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 700,900,1000
+20:18:06,475 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+20:18:06,476 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+20:18:06,478 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+20:18:06,479 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+20:18:06,480 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0.1
+20:18:06,480 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+20:18:06,481 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+20:18:06,501 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+20:18:06,523 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+20:18:06,524 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+20:18:06,525 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:5498628: True
+20:18:06,567 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+20:18:07,611 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+20:18:07,613 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+20:18:08,014 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+20:18:08,016 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+20:18:08,229 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+20:18:08,260 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+20:18:08,363 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+20:18:08,367 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+20:18:08,374 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+20:18:08,377 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+20:18:08,378 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+20:18:08,381 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+20:18:08,383 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+20:18:08,384 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+20:18:08,385 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+20:18:08,456 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+20:18:08,458 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+20:18:08,466 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+20:18:08,469 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+20:18:40,154 - [7] - INFO  - Game.Base.BaseServer - Incoming connecti

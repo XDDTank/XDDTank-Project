@@ -1,0 +1,126 @@
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\Bussiness.dll.config
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny3\Bussiness\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny3\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny3\Bussiness\obj\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny3\Bussiness\obj\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Languages\Language-vn.txt
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.dll.config
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.pdb
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Game.Base.dll
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\log4net.dll
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\SqlDataProvider.dll
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\zlib.net.dll
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Game.Base.pdb
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\SqlDataProvider.pdb
+F:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\log4net.xml
+F:\DDTank\Workspce.Gunny.II\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+F:\DDTank\Workspce.Gunny.II\Bussiness\obj\Debug\Bussiness.dll
+F:\DDTank\Workspce.Gunny.II\Bussiness\obj\Debug\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Languages\Language-vn.txt
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.dll.config
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.pdb
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Game.Base.dll
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\log4net.dll
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\SqlDataProvider.dll
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\zlib.net.dll
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\Game.Base.pdb
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\SqlDataProvider.pdb
+D:\DDTank\Workspce.Gunny.II\Bussiness\bin\Debug\log4net.xml
+D:\DDTank\Workspce.Gunny.II\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+D:\DDTank\Workspce.Gunny.II\Bussiness\obj\Debug\Bussiness.dll
+D:\DDTank\Workspce.Gunny.II\Bussiness\obj\Debug\Bussiness.pdb
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\Languages\Language-vn.txt
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.dll.config
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.dll
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\Bussiness.pdb
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\Game.Base.dll
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\log4net.dll
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\SqlDataProvider.dll
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\zlib.net.dll
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\Game.Base.pdb
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\SqlDataProvider.pdb
+Y:\Workspce.Gunny.II\Bussiness\bin\Debug\log4net.xml
+Y:\Workspce.Gunny.II\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+Y:\Workspce.Gunny.II\Bussiness\obj\Debug\Bussiness.dll
+Y:\Workspce.Gunny.II\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Languages\Language-vn.txt
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.dll.config
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\log4net.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\log4net.xml
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Jhone\Desktop\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Languages\Language-vn.txt
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.dll.config
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\log4net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\log4net.xml
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\FAMILY\Desktop\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Languages\Language-vn.txt
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.dll.config
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Bussiness.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Game.Base.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\log4net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\SqlDataProvider.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\zlib.net.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\Game.Base.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\SqlDataProvider.pdb
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\bin\Debug\log4net.xml
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.dll
+D:\Down\RelaseSourceR4\RelaseSourceR4ByGUSTAVOADS\Bussiness\obj\Debug\Bussiness.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\Languages\Language-vn.txt
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\Bussiness.dll.config
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\Bussiness.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\Bussiness.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\Game.Base.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\log4net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\SqlDataProvider.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\zlib.net.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\Game.Base.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\SqlDataProvider.pdb
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\bin\Debug\log4net.xml
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\obj\Debug\Bussiness.dll
+D:\BaseDDTankII\ShareR4PuroEDIT\ShareR4PuroEDIT\Source - R7\Bussiness\obj\Debug\Bussiness.pdb
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\Languages\Language-vn.txt
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\Bussiness.dll.config
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\Bussiness.dll
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\Bussiness.pdb
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\Game.Base.dll
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\log4net.dll
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\SqlDataProvider.dll
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\zlib.net.dll
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\Game.Base.pdb
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\SqlDataProvider.pdb
+D:\BaseDDTankII\XDDTank\Source\Bussiness\bin\Debug\log4net.xml
+D:\BaseDDTankII\XDDTank\Source\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+D:\BaseDDTankII\XDDTank\Source\Bussiness\obj\Debug\Bussiness.dll
+D:\BaseDDTankII\XDDTank\Source\Bussiness\obj\Debug\Bussiness.pdb
