@@ -1,0 +1,59 @@
+<XML version="1.0.1">
+	
+	<Director id="0" firstState="main">
+<!-- 		<main x="300" y="300" rotation="0"/> -->
+<!-- 		<SingleDungeon x="300" y="300" rotation="0" layerType="3"/> -->
+	</Director>
+	<Director id="1" firstState="singleDungeon" name="单人副本">
+		<singleDungeon id="-1" diffX="28" diffY="-145" rotation="0" layerType="3"/>
+	</Director>
+	<Director id="2" firstState="main" name="勇士大厅">
+		<main x="299" y="154" rotation="135" layerType="3"/>
+		<DungeonListViewFrame x="225" y="285" rotation="0" layerType="2"/>
+	</Director>
+	<Director id="3" firstState="main" name="游戏大厅">
+		<main x="470" y="334" rotation="-135" layerType="3"/>
+		<RoomListViewFrame x="330" y="285" rotation="0" layerType="2"/>
+	</Director>
+	<Director id="4" firstState="main">
+		<main x="470" y="334" rotation="-135" layerType="3"/>
+		<Room_List x="726" y="394" rotation="0" layerType="3"/>
+	</Director>
+	<Director id="5" firstState="main">
+		<main x="470" y="334" rotation="-135" layerType="3"/>
+		<Room_List x="463" y="407" rotation="-45" layerType="3"/>
+	</Director>
+	<Director id="6" firstState="main">
+		<main x="438" y="202" rotation="135" layerType="3"/>
+	</Director>
+	<Director id="7" firstState="main">
+		<main x="423" y="208" rotation="45" layerType="3"/>
+	</Director>
+	<Director id="8" firstState="main">
+		<main x="269" y="292" rotation="45" layerType="3"/>
+	</Director>
+	<Director id="9" firstState="main">
+		<main x="622" y="410" rotation="45" layerType="3"/>
+	</Director>
+<!-- 	<Director id="10" firstState="main"> -->
+<!-- 		<main x="268" y="58" rotation="45" layerType="3"/> -->
+<!-- 	</Director> -->
+	<Director id="11" firstState="main">
+		<main x="572" y="280" rotation="-45" layerType="3"/>
+	</Director>
+	<Director id="12" firstState="main">
+		<main x="806" y="494" rotation="0" layerType="3"/>
+	</Director>
+	<Director id="13" firstState="main">
+		<main x="528" y="514" rotation="0" layerType="3"/>
+	</Director>
+	<Director id="14" firstState="main">
+		<main x="858" y="308" rotation="180" layerType="3"/>
+	</Director>
+	<Director id="15" firstState="main">
+		<main x="654" y="490" rotation="0" layerType="3"/>
+	</Director>
+	<Director id="16" firstState="main">
+		<main x="702" y="490" rotation="0" layerType="3"/>
+	</Director>
+</XML>

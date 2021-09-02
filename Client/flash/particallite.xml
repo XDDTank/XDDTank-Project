@@ -1,0 +1,23 @@
+<list>
+  <emitter life="0" endAngle="6.28" name="107单机版核弹" beginAngle="0" interval="0.04" id="0">
+    <particle beginTime="0" lifeOrient="0.2" alphaOrient="1" blendMode="add" rotation="0" lifeEasing="[object AbstractLifeEasing]" motionVOrient="0" motionVSize="0" keepOldFirst="false" sizeSize="0" colorOrient="0" lifeSize="0" name="单机版核弹" spinSize="0" endTime="1000" sizeOrient="1.0" displayCreator="1" vOrient="69" spinOrient="0" vSize="0" weightOrient="0.5" countSize="0" weightSize="0" keepColor="true" countOrient="1">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:2,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,0.7:0.5,1:0,"/>
+    </particle>
+  </emitter>
+  
+    <emitter life="0" endAngle="6.28" name="151轰天4级强" beginAngle="0" interval="0.03" id="1">
+    <particle beginTime="0" lifeOrient="0.3" alphaOrient="1" blendMode="add" rotation="0" lifeEasing="[object AbstractLifeEasing]" motionVOrient="0" motionVSize="6" keepOldFirst="false" sizeSize="0.2" colorOrient="0" lifeSize="0" name="轰天4级强" spinSize="0" endTime="1000" sizeOrient="0.7" displayCreator="0" vOrient="59" spinOrient="0" vSize="0" weightOrient="0" countSize="1" weightSize="0" keepColor="true" countOrient="3">
+      <easing name="vLine" value=""/>
+      <easing name="rvLine" value=""/>
+      <easing name="spLine" value=""/>
+      <easing name="sizeLine" value="0:1,1:0.4,"/>
+      <easing name="weightLine" value=""/>
+      <easing name="alphaLine" value="0:1,0.8:0,0.5:0,0:0,"/>
+    </particle>
+  </emitter>
+</list>

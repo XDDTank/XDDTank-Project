@@ -1,0 +1,486 @@
+﻿<talk time="10">
+	<team id="1">
+		<character>
+			<role id="1" name="艾琳" />
+			<role id="2" name="self" />
+			<role id="3" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="3" faceid="1" content="士兵，去桥头那门大炮支援防御，动作要快！" />
+			<item roleid="2" faceid="0" content="是！" />
+	
+		</chat>
+	</team>
+
+	<team id="2">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="敌人的先锋部队攻过来了！炮塔准备！" />
+
+		</chat>
+	</team>
+
+	<team id="3">
+		<character>
+			<role id="1" name="前锋队长" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="4" content="你们这群废物，一个小小的桥头都拿不下。" />
+		</chat>
+	</team>
+
+	<team id="5">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="敌军队长出现，加大火力，不能让他们通过！" />
+		</chat>
+	</team>
+
+	<team id="6">
+		<character>
+			<role id="1" name="前锋队长" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="4" content="我…我已经完成了任务，更多的战士会碾碎你的炮塔！" />
+		</chat>
+	</team>
+
+	<team id="7">
+		<character>
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="2" faceid="1" content="敌人的主力部队出现了，快准备信号弹！" />
+
+
+		</chat>
+	</team>
+
+	<team id="8">
+		<character>
+			<role id="1" name="布里亚斯" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="3" content="打得还挺疼的，可是你能每次都打中我么！" />
+			<item roleid="1" faceid="3" content="我跳上了台阶，我是狡猾的布里亚斯！" />
+
+		</chat>
+	</team>
+
+	<team id="9">
+		<character>
+			<role id="1" name="布里亚斯" />
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="3" content="啊…我得逃了，我是狼狈的布里亚斯！" />
+			<item roleid="2" faceid="1" content="多亏有了你，我们才能击退这波进攻。" />
+
+		</chat>
+	</team>
+
+	<team id="10">
+		<character>
+			<role id="1" name="self" />
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+	
+			<item roleid="2" faceid="1" content="你在战斗中表现优异，让我看看你的真面目。" />
+
+		</chat>
+	</team>
+
+	<team id="11">
+		<character>
+			<role id="1" name="self" />
+			<role id="2" name="理查德爵士" />
+			<role id="3" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="3" faceid="2" content="t%，这个名字我好像在哪里听到过…我是艾琳，是理查德爵士的副官，今后的战斗由我来协助你。" />
+			<item roleid="3" faceid="2" content="这次战斗你的表现非常优秀，这些是理查德爵士特别为你准备的，请收下吧。" />
+		</chat>
+	</team>
+
+	<team id="12">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="我以前每天都会来这里散步，现在街道全都被破坏了，看看能找出什么有价值的东西吧。" />
+
+		</chat>
+	</team>
+
+	<team id="13">
+		<character>
+			<role id="1" name="艾琳" />
+			<role id="2" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="听说又有一批海盗登陆了，前往梅恩兰德浅滩！" />
+
+		</chat>
+	</team>
+
+	<team id="14">
+		<character>
+			<role id="1" name="布里亚斯" />
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="2" faceid="1" content="是三叉戟.布里亚斯，他擅长一次发出多发攻击。击倒他，你就能获得他的攻击能力。" />
+		</chat>
+	</team>
+
+	<team id="15">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="你学会了布里亚斯的绝技——三叉戟攻击，这种攻击用于对付数量众多的敌人。" />
+			<item roleid="1" faceid="1" content="很好，t%，你进步的很快。我们要反击了，这次要重创敌人。" />
+		</chat>
+	</team>
+
+	<team id="16">
+		<character>
+			<role id="1" name="self" />
+			<role id="2" name="理查德爵士" />
+			<role id="3" name="理查德爵士" />
+			<role id="4" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="2" faceid="1" content="我们发现了敌人的战舰残骸，这帮啵咕海盗抢走了不少东西，能收回多少是多少吧。" />
+		</chat>
+	</team>
+
+	<!-- goodsId为掉落的物品id，0 三叉戟， 1 +1道具， 2 +2道具， 3 必杀道具 -->
+	<team id="17">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="是一个陌生的面孔啊……那么你的名字是？" />
+		</chat>
+	</team>
+
+	<team id="18">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="梅恩兰德商会建好了商城，我觉得你可以给自己准备两套新衣服了。" />
+		</chat>
+	</team>
+
+	<team id="19">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="太好了，你又学会了敌人战斗技巧。我们正在在重建铁匠铺，现在你可以自由行动一阵。" />
+		</chat>
+	</team>
+
+	<team id="22">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="年轻人，现在就想挑战铁钩船长太过冲动了。铁匠铺已经重建完成，你可以去强化一下装备。" />
+		</chat>
+	</team>
+
+	<team id="23">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="好了，你已经拥有足够的实力，可以去挑战铁钩船长了！" />
+		</chat>
+	</team>
+
+	<team id="24">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="你战胜了铁钩船长！太厉害了！这次海战我们获得了完胜，去沉船看看得到什么东西。" />
+		</chat>
+	</team>
+
+	<team id="25">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="t%，使用你夺回来的建筑物资，竞技大厅已经重建完成了！" />
+			<item roleid="1" faceid="2" content="竞技大厅是所有像你一样的勇者进行切磋比武的地方，不妨进去试试看。" />
+		</chat>
+	</team>
+
+
+	<team id="26">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="得到了更好的武器，又舍不得已经强化过的老伙伴？来，去铁匠铺，你会需要它的。" />
+		</chat>
+	</team>
+
+
+	<team id="27">
+		<character>
+			<role id="1" name="啵咕大师" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="0" content="当位置不好的时候，就要像我一样飞走，看好了！" />
+		</chat>
+	</team>
+
+
+	<team id="28">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="t%，理查德爵士让我给你带来一个好消息。他想将自己一座废弃的农场送给你，你快进去看看吧！" />
+		</chat>
+	</team>
+
+	<team id="29">
+		<character>
+			<role id="1" name="艾琳" />
+			<role id="2" name="奇怪的小鸡" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="呀…你的身后跟着一个奇怪的家伙…" />
+			<item roleid="2" faceid="8" content="吱…" />
+			<item roleid="1" faceid="2" content="我看它挺喜欢你的，你要不要把它养起来……" />
+		</chat>
+	</team>
+
+	<team id="30">
+		<character>
+			<role id="2" name="艾琳" />
+			<role id="1" name="布里亚斯" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="3" content="没人能阻止我，我是野蛮的布里亚斯！" />
+			<item roleid="2" faceid="2" content="快！士兵，拿起那把武器。" />
+		</chat>
+	</team>
+
+	<team id="31">
+		<character>
+			<role id="1" name="self" />
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="0" content="敌人已经全部消灭！" />
+			<item roleid="2" faceid="1" content="干得好，敌人的部队已经被迫撤到城外浅滩了。" />
+
+		</chat>
+	</team>
+	<team id="32" goodsId="0" dropBeforeDialog="1">
+		<character>
+			<role id="2" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="2" faceid="2" content="哇，你击倒了布里亚斯，还学会了他的的绝技——“三叉戟导弹”！" />
+			<item roleid="2" faceid="2" content="注意！海盗要攻过来了！使用三叉戟攻击对付成群的海盗吧！" />
+
+		</chat>
+	</team>
+
+	<team id="35">
+		<character>
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="2" faceid="1" content="当地形复杂时，命中敌人就会变得十分困难。" />
+			<item roleid="2" faceid="1" content="不过没关系，看我怎么对付他们。" />
+		</chat>
+	</team>
+	<team id="36">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="我们梅恩军团通过不同的射击姿态，可以应付各种情况，我现在将它们教给你。" />
+		</chat>
+	</team>
+
+	<team id="37">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="海狼.皮亚斯" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="以梅恩兰德王国的名义！进攻！" />
+		</chat>
+	</team>
+	<team id="38">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="海狼.皮亚斯" />
+		</character>
+		<chat>
+			<item roleid="2" faceid="6" content="渣老头，你是来搞笑的么？" />
+			<item roleid="1" faceid="1" content="看来地形对我们不利……在这里打不到他。我们需要寻找有利的位置，看我的！" />
+		</chat>
+	</team>
+
+	<team id="39" dropX="212" dropY="461" dropBeforeDialog="1" goodsId="4">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="海狼.皮亚斯" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="快！使用传送道具，像我一样飞过来！" />
+			<item roleid="2" faceid="6" content="没那么容易，发射！" />
+		</chat>
+	</team>
+	
+	<team id="40" goodsId="2" dropBeforeDialog="0" />
+	<team id="41" goodsId="3" dropBeforeDialog="0" />
+	<team id="42" dropX="100" dropY="440" dropBeforeDialog="1" goodsId="5">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="引导姿态下，能将你的炮弹引向落点附近的敌人，强击姿态则伤害更高！" />
+			<item roleid="1" faceid="1" content="剩下的敌人交给你了，这里地形复杂，好好利用引导姿态！" />
+		</chat>
+	</team>
+	<team id="43">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="t%，我从家里的老箱子里找到我当年打猎的武器，还有你的新制服，把它们装备起来吧。" />
+		</chat>
+	</team>
+	<team id="44">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="战斗队长t%！这次我们要消灭海盗舰队的旗舰" />
+		</chat>
+	</team>
+	<team id="45">
+		<character>
+			<role id="1" name="铁钩船长" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="5" content="t%，听说你一个人打败了我的船队?有本事来我的战船一个对一个！" />
+		</chat>
+	</team>
+	<team id="46" goodsId="1" dropBeforeDialog="0" />
+	<team id="47">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="t%！赶紧离开这里！" />
+		</chat>
+	</team>
+	<team id="48">
+		<character>
+			<role id="1" name="艾琳" />
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="梅恩兰德海港的神器——宝珠台被海盗头目抢走了，他现在就藏在山洞里，拜托你了，t%！一定要夺回我们的宝珠台！" />
+		</chat>
+	</team>
+		<team id="49">
+		<character>2013-6-18
+			<role id="1" name="艾琳" />
+			<role id="2" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="t%，你从皮亚斯手里夺回了宝珠台，你已经是我们的英雄了！" />
+			<item roleid="1" faceid="2" content="现在宝珠台对所有的梅恩兰德勇士开放，你可以使用金币去碰碰运气！" />
+		</chat>
+	</team>
+	<team id="50">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="t%，我们与啵咕海盗的战斗结束了，我们胜利了！" />
+			<item roleid="1" faceid="2" content="我们在东边发现了一个神秘的山谷，不知道山谷的另一面有什么东西…" />
+		</chat>
+	</team>
+		<team id="51">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="没想到越过神秘小径之后，还能发现这样一片古老的地方。前方似乎有村落，快过去看看吧。" />
+		</chat>
+	</team>
+			<team id="52">
+		<character>
+			<role id="1" name="理查德爵士" />
+			<role id="2" name="艾琳" />
+
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="我们的物资已经收集完毕，很快岛屿就会重建完成了！" />
+			<item roleid="1" faceid="1" content="以后还有更多的冒险在等待着你，你可要加油喔！" />
+		</chat>
+	</team>
+	<team id="53">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="借助你之前带回来的铁砧，我们的铁匠铺现在可以制造物品了，赶紧去试试看吧！" />
+		</chat>
+	</team>
+	<team id="55">
+		<character>
+			<role id="1" name="理查德爵士" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="这是专门打造的游戏登录器，可以让你以后的游戏旅途更加流畅，赶快去下载吧！" />
+		</chat>
+	</team>
+	<team id="56">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="1" content="为了不断变强，你还有很多路要走。去门口的“每日必做”看看吧，那里有弹弹王国发布的任务，是成长的必经之路。" />
+		</chat>
+	</team>
+	<team id="57">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="勇士，你的VIP已经到期，不能再使用至尊VIP的强大功能，赶快成为至尊VIP强者吧。" />
+		</chat>
+	</team>
+	<team id="58">
+		<character>
+			<role id="1" name="艾琳" />
+		</character>
+		<chat>
+			<item roleid="1" faceid="2" content="主线任务是开启成长之路钥匙，只有完成了主线任务，后续的任务才会开启，快去“任务面板”那里看看吧。" />
+		</chat>
+	</team>
+</talk>

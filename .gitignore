@@ -24,4 +24,4 @@
 !Server/**/*
 !Source/Tank.Request/**/*.xml
 !Request/*
-!Client/*
+!Client/**/*
