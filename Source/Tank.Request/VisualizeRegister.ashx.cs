@@ -51,97 +51,104 @@ namespace Tank.Request
             string message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Fail1");
             XElement result = new XElement("Result");
 
-            //try
-            //{
-            //    NameValueCollection para = context.Request.Params;
-            //    string name = para["Name"] as string;
-            //    string pass = para["Pass"] as string;
-            //    string nickName = para["NickName"].Trim().Replace(",", ""); ;
-            //    string armColor = para["Arm"] as string;
-            //    string hairColor = para["Hair"] as string;
-            //    string faceColor = para["Face"] as string;
-            //    string ClothColor = para["Cloth"] as string;
-            //    string HatColor = para["Cloth"] as string;
+            //var _loc4_:URLVariables;
+            //(_loc4_ = this.creatWidthKey(true))["Sex"] = true;
+            //_loc4_["NickName"] = _loc3_;
+            //_loc4_["Name"] = this._userName;
+            //_loc4_["Pass"] = this._password;
+            //_loc4_["site"] = !!this._stage.loaderInfo.parameters["site"] ? this._stage.loaderInfo.parameters["site"] : "";
+            //string selfid = context.Request["self"]
+            try
+            {
+                NameValueCollection para = context.Request.Params;
+                string name = para["Name"] as string;
+                string pass = para["Pass"] as string;
+                string nickName = para["NickName"].Trim().Replace(",", ""); ;
+                string armColor = para["Arm"] as string;
+                string hairColor = para["Hair"] as string;
+                string faceColor = para["Face"] as string;
+                string ClothColor = para["Cloth"] as string;
+                string HatColor = para["Cloth"] as string;
 
-            //    string armID = para["ArmID"] as string;
-            //    string hairID = para["HairID"] as string;
-            //    string faceID = para["FaceID"] as string;
-            //    string ClothID = para["ClothID"] as string;
-            //    string HatID = para["ClothID"] as string;
+                string armID = para["ArmID"] as string;
+                string hairID = para["HairID"] as string;
+                string faceID = para["FaceID"] as string;
+                string ClothID = para["ClothID"] as string;
+                string HatID = para["ClothID"] as string;
 
-            //    int sex = -1;
-            //    if (bool.Parse(ConfigurationManager.AppSettings["MustSex"]))
-            //    {
-            //        sex = bool.Parse(para["Sex"]) ? 1 : 0;
-            //    }
+                int sex = 1;
+                //if (bool.Parse(ConfigurationManager.AppSettings["MustSex"]))
+                {
+                    sex = bool.Parse(para["Sex"]) ? 1 : 0;
+                }
 
 
-            //    if ((System.Text.Encoding.Default.GetByteCount(nickName) <= 14))
-            //    {
-            //        if (!fileIllegal.checkIllegalChar(nickName))
-            //        {
-            //            if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(pass) && !string.IsNullOrEmpty(nickName))
-            //            {
+                if ((System.Text.Encoding.Default.GetByteCount(nickName) <= 14))
+                {
+                    if (!fileIllegal.checkIllegalChar(nickName))
+                    {
+                        if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(pass) && !string.IsNullOrEmpty(nickName))
+                        {
 
-            //                string[] styles = sex == 1 ? ConfigurationManager.AppSettings["BoyVisualizeItem"].Split(';') : ConfigurationManager.AppSettings["GrilVisualizeItem"].Split(';');
-            //                //if (styles[0].Split(',').Contains(armID) && styles[1].Split(',').Contains(hairID) && styles[2].Split(',').Contains(faceID) && styles[3].Split(',').Contains(ClothID))
-            //                //{
-            //                armID = styles[0].Split(',')[0];
-            //                hairID = styles[0].Split(',')[1];
-            //                faceID = styles[0].Split(',')[2];
-            //                ClothID = styles[0].Split(',')[3];
-            //                HatID = styles[0].Split(',')[4];
-            //                armColor = "";
-            //                hairColor = "";
-            //                faceColor = "";
-            //                ClothColor = "";
-            //                HatColor = "";
-            //                    using (PlayerBussiness db = new PlayerBussiness())
-            //                    {
-            //                        string style = armID + "," + hairID + "," + faceID + "," + ClothID + "," + HatID;
-            //                        if (db.RegisterPlayer(name, pass, nickName, style,
-            //                            style, armColor, hairColor, faceColor, ClothColor, HatColor, sex,
-            //                            ref message, int.Parse(ConfigurationManager.AppSettings["ValidDate"])))
-            //                        {
-            //                            value = true;
-            //                            message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Success");
-            //                        }
-            //                        else
-            //                        {
-            //                            message = LanguageMgr.GetTranslation("Register Player Fail!");
-            //                        }
-            //                    }
-            //                //}
-            //                //else
-            //                //{
-            //                //    message = LanguageMgr.GetTranslation("(styles[0].Split(',').Contains(armID)");
-            //                //}
+                            string[] styles = sex == 1 ? ConfigurationManager.AppSettings["BoyVisualizeItem"].Split(';') : ConfigurationManager.AppSettings["GrilVisualizeItem"].Split(';');
+                            //if (styles[0].Split(',').Contains(armID) && styles[1].Split(',').Contains(hairID) && styles[2].Split(',').Contains(faceID) && styles[3].Split(',').Contains(ClothID))
+                            //{
+                            armID = styles[0].Split(',')[0];
+                            hairID = styles[0].Split(',')[1];
+                            faceID = styles[0].Split(',')[2];
+                            ClothID = styles[0].Split(',')[3];
+                            HatID = styles[0].Split(',')[4];
+                            armColor = "";
+                            hairColor = "";
+                            faceColor = "";
+                            ClothColor = "";
+                            HatColor = "";
+                            using (PlayerBussiness db = new PlayerBussiness())
+                            {
+                                string style = armID + "," + hairID + "," + faceID + "," + ClothID + "," + HatID;
+                                if (db.RegisterPlayer(name, pass, nickName, style,
+                                    style, armColor, hairColor, faceColor, ClothColor, HatColor, sex,
+                                    ref message, int.Parse(ConfigurationManager.AppSettings["ValidDate"])))
+                                {
+                                    value = true;
+                                    message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Success");
+                                }
+                                else
+                                {
+                                    message = LanguageMgr.GetTranslation("Register Player Fail!");
+                                }
+                            }
+                            //}
+                            //else
+                            //{
+                            //    message = LanguageMgr.GetTranslation("(styles[0].Split(',').Contains(armID)");
+                            //}
 
-            //            }
-            //            else
-            //            {
-            //                message = LanguageMgr.GetTranslation("!string.IsNullOrEmpty(name) && !");
-            //            }
+                        }
+                        else
+                        {
+                            message = LanguageMgr.GetTranslation("!string.IsNullOrEmpty(name) && !");
+                        }
 
-            //        }
-            //        else
-            //        {
-            //            message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Illegalcharacters");
-            //        }
+                    }
+                    else
+                    {
+                        message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Illegalcharacters");
+                    }
 
-            //    }
-            //    else
-            //    {
-            //        //message = "NickName is very long!";
-            //        message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Long");
-            //    }
-            //}
-            //catch (Exception ex)
-            //{
-            //    log.Error("VisualizeRegister", ex);
-            //}
-            value = true;
-                message = "Registed Sucess";
+                }
+                else
+                {
+                    //message = "NickName is very long!";
+                    message = LanguageMgr.GetTranslation("Tank.Request.VisualizeRegister.Long");
+                }
+            }
+            catch (Exception ex)
+            {
+                log.Error("VisualizeRegister", ex);
+            }
+            //value = true;
+            //message = "Registed Sucess";
             result.Add(new XAttribute("value", value));
             result.Add(new XAttribute("message", message));
             context.Response.ContentType = "text/plain";

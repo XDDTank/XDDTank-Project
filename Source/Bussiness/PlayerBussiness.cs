@@ -151,65 +151,62 @@ namespace Bussiness
             return result;
         }
 
-       public bool RegisterPlayer(string userName, string passWord, string nickName, string bStyle, string gStyle, string armColor, string hairColor, string faceColor, string clothColor, string hatColor, int sex, ref string msg, int validDate)
+        public bool RegisterPlayer(string userName, string passWord, string nickName, string bStyle, string gStyle, string armColor, string hairColor, string faceColor, string clothColor, string hatColor, int sex, ref string msg, int validDate)
         {
-            bool result = false;
+            bool flag = false;
             try
             {
-                string[] bStyles = bStyle.Split(',');
-                string[] gStyles = gStyle.Split(',');
-                //
-                SqlParameter[] para = new SqlParameter[21];
-
-                para[0] = new SqlParameter("@UserName", userName);
-                para[1] = new SqlParameter("@PassWord", passWord);
-                para[2] = new SqlParameter("@NickName", nickName);
-                para[3] = new SqlParameter("@BArmID", int.Parse(bStyles[0]));
-                para[4] = new SqlParameter("@BHairID", int.Parse(bStyles[1]));
-                para[5] = new SqlParameter("@BFaceID", int.Parse(bStyles[2]));
-                para[6] = new SqlParameter("@BClothID", int.Parse(bStyles[3]));
-                para[7] = new SqlParameter("@BHatID", int.Parse(bStyles[4]));
-                para[8] = new SqlParameter("@GArmID", int.Parse(gStyles[0]));
-                para[9] = new SqlParameter("@GHairID", int.Parse(gStyles[1]));
-                para[10] = new SqlParameter("@GFaceID", int.Parse(gStyles[2]));
-                para[11] = new SqlParameter("@GClothID",int.Parse(gStyles[3]));
-                para[12] = new SqlParameter("@GHatID", int.Parse(gStyles[4]));
-                para[13] = new SqlParameter("@ArmColor", armColor);
-                para[14] = new SqlParameter("@HairColor", hairColor);
-                para[15] = new SqlParameter("@FaceColor", faceColor);
-                para[16] = new SqlParameter("@ClothColor", clothColor);
-                para[17] = new SqlParameter("@HatColor", clothColor);
-                para[18] = new SqlParameter("@Sex", sex);               
-                para[19] = new SqlParameter("@StyleDate", validDate);
-                para[20] = new SqlParameter("@Result", System.Data.SqlDbType.Int);
-                para[20].Direction = ParameterDirection.ReturnValue;
-
-                result = db.RunProcedure("SP_Users_RegisterNotValidate", para);
-                int returnValue = (int)para[20].Value;
-                result = returnValue == 0;
-                switch (returnValue)
+                string[] strArray = bStyle.Split(',');
+                string[] strArray2 = gStyle.Split(',');
+                SqlParameter[] sqlParameters = new SqlParameter[21]
                 {
-                    //case 2:
-                    //    msg = LanguageMgr.GetTranslation("PlayerBussiness.RegisterPlayer.Msg2");
-                    //    break;
-                    //case 3:
-                    //    msg = LanguageMgr.GetTranslation("PlayerBussiness.RegisterPlayer.Msg3");
-                    //    break;
-
+                    new SqlParameter("@UserName", userName),
+                    new SqlParameter("@PassWord", passWord),
+                    new SqlParameter("@NickName", nickName),
+                    new SqlParameter("@BArmID", int.Parse(strArray[0])),
+                    new SqlParameter("@BHairID", int.Parse(strArray[1])),
+                    new SqlParameter("@BFaceID", int.Parse(strArray[2])),
+                    new SqlParameter("@BClothID", int.Parse(strArray[3])),
+                    new SqlParameter("@BHatID", int.Parse(strArray[4])),
+                    new SqlParameter("@GArmID", int.Parse(strArray2[0])),
+                    new SqlParameter("@GHairID", int.Parse(strArray2[1])),
+                    new SqlParameter("@GFaceID", int.Parse(strArray2[2])),
+                    new SqlParameter("@GClothID", int.Parse(strArray2[3])),
+                    new SqlParameter("@GHatID", int.Parse(strArray2[4])),
+                    new SqlParameter("@ArmColor", armColor),
+                    new SqlParameter("@HairColor", hairColor),
+                    new SqlParameter("@FaceColor", faceColor),
+                    new SqlParameter("@ClothColor", clothColor),
+                    new SqlParameter("@HatColor", clothColor),
+                    new SqlParameter("@Sex", sex),
+                    new SqlParameter("@StyleDate", validDate),
+                    new SqlParameter("@Result", SqlDbType.Int)
+                };
+                sqlParameters[20].Direction = ParameterDirection.ReturnValue;
+                flag = db.RunProcedure("SP_Users_RegisterNotValidate", sqlParameters);
+                int num = (int)sqlParameters[20].Value;
+                flag = num == 0;
+                switch (num)
+                {
                     case 2:
                         msg = LanguageMgr.GetTranslation("PlayerBussiness.RegisterPlayer.Msg2");
-                        break;
+                        return flag;
                     case 3:
                         msg = LanguageMgr.GetTranslation("PlayerBussiness.RegisterPlayer.Msg3");
-                        break;
+                        return flag;
+                    default:
+                        return flag;
                 }
             }
-            catch (Exception e)
+            catch (Exception exception)
             {
-                if (log.IsErrorEnabled)
-                    log.Error("Init", e);
+                if (BaseBussiness.log.IsErrorEnabled)
+                {
+                    BaseBussiness.log.Error("Init", exception);
+                    return flag;
+                }
+                return flag;
             }
-            return result;
         }
         public bool RenameNick(string userName, string nickName, string newNickName, ref string msg)
         {
@@ -530,7 +527,7 @@ namespace Bussiness
                 if (player.Grade < 1)
                     return result;
 
-                SqlParameter[] para = new SqlParameter[76]; //trminhpc
+                SqlParameter[] para = new SqlParameter[77]; //trminhpc
                 para[0] = new SqlParameter("@UserID", player.ID);
                 para[1] = new SqlParameter("@Attack", player.Attack);
                 para[2] = new SqlParameter("@Colors", player.Colors == null ? "" : player.Colors);
@@ -610,6 +607,7 @@ namespace Bussiness
                 para[73] = new SqlParameter("@MaxBuyHonor", player.MaxBuyHonor);
                 para[74] = new SqlParameter("@Medal", player.medal);
                 para[75] = new SqlParameter("@myHonor", player.myHonor);
+                para[76] = new SqlParameter("@SavePoint", player.SavePoint);
                 db.RunProcedure("SP_Users_Update", para);
 	           
                 //result = (int)para[21].Value == 0;                
@@ -884,6 +882,7 @@ namespace Bussiness
             player.myHonor = (int)reader["myHonor"];
             player.hardCurrency = (int)reader["hardCurrency"];
             player.MaxBuyHonor = (int)reader["MaxBuyHonor"];
+            player.SavePoint = (int)reader["SavePoint"];
             return player;
         }
 
@@ -5303,6 +5302,27 @@ namespace Bussiness
                     reader.Close();
             }
             return items;
+        }
+        public bool UpdatePlayerSavePoint(int userID, int savePoint)
+        {
+            bool result = false;
+            try
+            {
+                SqlParameter[] para = new SqlParameter[3];
+                para[0] = new SqlParameter("@UserID", userID);
+                para[1] = new SqlParameter("@SavePoint", savePoint);
+                para[2] = new SqlParameter("@Result", System.Data.SqlDbType.Int);
+                para[2].Direction = ParameterDirection.ReturnValue;
+
+                db.RunProcedure("SP_UpdateSavePoint", para);
+                result = (int)para[2].Value == 0;
+            }
+            catch (Exception e)
+            {
+                if (log.IsErrorEnabled)
+                    log.Error("UpdateSavePoint", e);
+            }
+            return result;
         }
     }
 }

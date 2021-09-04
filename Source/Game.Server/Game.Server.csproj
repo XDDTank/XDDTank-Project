@@ -10,12 +10,13 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Game.Server</RootNamespace>
     <AssemblyName>Game.Server</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
     <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,6 +26,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -33,6 +35,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
@@ -133,7 +136,7 @@
     <Compile Include="Packets\Client\FigSpiritUpGradeHandler.cs" />
     <Compile Include="Packets\Client\LatentEnergyHandler.cs" />
     <Compile Include="Packets\Client\LabyrinthHandler.cs" />
-    <Compile Include="Packets\Client\MiningDegeonHandler.cs" />
+    <Compile Include="Packets\Client\MiningDungeonHandler.cs" />
     <Compile Include="Packets\Client\NewChickenBoxHandler.cs" />
     <Compile Include="Packets\Client\SetSavePointHandler.cs" />
     <Compile Include="Packets\Client\TreasureInHandler.cs" />
@@ -234,7 +237,7 @@
     <Compile Include="Packets\EquipType.cs" />
     <Compile Include="Packets\FightSpiritPackageType.cs" />
     <Compile Include="Packets\LabyrinthPackageType.cs" />
-    <Compile Include="Packets\MiningDugeonPackageType.cs" />
+    <Compile Include="Packets\MiningDungeonPackageType.cs" />
     <Compile Include="Packets\NewChickenBoxPackageType.cs" />
     <Compile Include="Packets\RechargePackageType.cs" />
     <Compile Include="Packets\TreasurePackageType.cs" />

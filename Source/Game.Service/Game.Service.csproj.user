@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory>\\192.168.0.4\DandantangPVE\Server1\|C:\Documents and Settings\Administrator\桌面\sever\</PublishUrlHistory>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>publish\|\\192.168.0.4\DandantangPVE\Server1\|C:\Documents and Settings\Administrator\桌面\sever\</PublishUrlHistory>
     <InstallUrlHistory>
     </InstallUrlHistory>
     <SupportUrlHistory>
@@ -14,5 +14,8 @@
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
     <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
   </PropertyGroup>
 </Project>

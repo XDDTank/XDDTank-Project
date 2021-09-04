@@ -74,7 +74,7 @@ namespace Game.Server.Packets.Client
                 else if (bagType == toBagType)
                 {
                     Console.WriteLine("UserChangeItemHandle : Move same Bag from place {0} to place {1} !",place,toPlace);
-                    //bag.MoveItem(place, toPlace, count);
+                    bag.MoveItem(place, toPlace, count);
                     //bag.MoveItem(place, 5, 1);
                     //client.Player.OnNewGearEvent(item.Template.CategoryID);
                     client.Out.SendMessage(eMessageType.Normal, "Chức năng đang xây dựng");

@@ -1,0 +1,447 @@
+package game.view.prop
+{
+   import com.greensock.TweenLite;
+   import com.pickgliss.ui.ComponentFactory;
+   import com.pickgliss.utils.ClassUtils;
+   import com.pickgliss.utils.DisplayUtils;
+   import com.pickgliss.utils.ObjectUtils;
+   import ddt.data.FightPropMode;
+   import ddt.events.CrazyTankSocketEvent;
+   import ddt.events.LivingEvent;
+   import ddt.manager.PetSkillManager;
+   import ddt.manager.SocketManager;
+   import ddt.manager.SoundManager;
+   import ddt.utils.PositionUtils;
+   import flash.display.MovieClip;
+   import flash.events.KeyboardEvent;
+   import flash.events.MouseEvent;
+   import flash.geom.Point;
+   import game.GameManager;
+   import game.model.LocalPlayer;
+   import org.aswing.KeyStroke;
+   import org.aswing.KeyboardManager;
+   import pet.date.PetSkillInfo;
+   import road7th.comm.PackageIn;
+   
+   public class BossSkillBar extends FightPropBar
+   {
+       
+      
+      private var _startPos:Point;
+      
+      private var _skillCells:Vector.<PetSkillCell>;
+      
+      private var _usedPetSkill:Boolean = false;
+      
+      private var _usedItem:Boolean = false;
+      
+      private var _usedSpecialSkill:Boolean = false;
+      
+      private var _petskillGuideMC:MovieClip;
+      
+      private var _moveGuideMC:MovieClip;
+      
+      protected var letters:Array;
+      
+      public function BossSkillBar(param1:LocalPlayer)
+      {
+         this.letters = ["1","2","3","4","5"];
+         this._skillCells = new Vector.<PetSkillCell>();
+         super(param1);
+         if(!param1.mouseState)
+         {
+            this.addGuideMC();
+         }
+         this.createPetSkillMC();
+      }
+      
+      private function addGuideMC() : void
+      {
+         this._moveGuideMC = ClassUtils.CreatInstance("asset.bossplayer.flashDirMC");
+         PositionUtils.setPos(this._moveGuideMC,"singledungeon.moveGuidePos");
+         addChild(this._moveGuideMC);
+      }
+      
+      private function createPetSkillMC() : void
+      {
+         this._petskillGuideMC = ClassUtils.CreatInstance("asset.bossplayer.flashTextMC");
+         PositionUtils.setPos(this._petskillGuideMC,"singledungeon.petSkillGuidePos");
+         addChild(this._petskillGuideMC);
+         this.startShine();
+      }
+      
+      private function removePetSkillGuide() : void
+      {
+         if(this._moveGuideMC)
+         {
+            this.removeMoveGuide();
+         }
+         if(this._petskillGuideMC)
+         {
+            this._petskillGuideMC.stop();
+            ObjectUtils.disposeObject(this._petskillGuideMC);
+            this._petskillGuideMC = null;
+            this.stopShine();
+         }
+      }
+      
+      public function removeMoveGuide() : void
+      {
+         if(this._moveGuideMC)
+         {
+            this._moveGuideMC.stop();
+            ObjectUtils.disposeObject(this._moveGuideMC);
+            this._moveGuideMC = null;
+            GameManager.Instance.removeEventListener(LivingEvent.START_MOVING,this.__onStartMoving);
+         }
+      }
+      
+      override protected function __keyDown(param1:KeyboardEvent) : void
+      {
+         var _loc4_:PetSkillCell = null;
+         var _loc2_:int = -1;
+         switch(param1.keyCode)
+         {
+            case KeyStroke.VK_1.getCode():
+            case KeyStroke.VK_NUMPAD_1.getCode():
+               _loc2_ = 0;
+               break;
+            case KeyStroke.VK_2.getCode():
+            case KeyStroke.VK_NUMPAD_2.getCode():
+               _loc2_ = 1;
+               break;
+            case KeyStroke.VK_3.getCode():
+            case KeyStroke.VK_NUMPAD_3.getCode():
+               _loc2_ = 2;
+               break;
+            case KeyStroke.VK_4.getCode():
+            case KeyStroke.VK_NUMPAD_4.getCode():
+               _loc2_ = 3;
+               break;
+            case KeyStroke.VK_5.getCode():
+            case KeyStroke.VK_NUMPAD_5.getCode():
+               _loc2_ = 4;
+         }
+         var _loc3_:String = this.letters[_loc2_];
+         for each(_loc4_ in this._skillCells)
+         {
+            if(_loc4_.skillInfo && _loc4_.shortcutKey == _loc3_ && _loc4_.skillInfo.isActiveSkill && _loc4_.isEnabled && _loc4_.enabled)
+            {
+               if(_loc4_.skillInfo)
+               {
+                  _loc4_.useProp();
+               }
+               break;
+            }
+         }
+      }
+      
+      override protected function addEvent() : void
+      {
+         var _loc1_:PetSkillCell = null;
+         for each(_loc1_ in this._skillCells)
+         {
+            if(_loc1_.isEnabled)
+            {
+               _loc1_.addEventListener(MouseEvent.CLICK,this.onCellClick);
+            }
+         }
+         if(_self.currentPet)
+         {
+            _self.currentPet.addEventListener(LivingEvent.PET_MP_CHANGE,this.__onChange);
+            _self.currentPet.addEventListener(LivingEvent.USE_PET_SKILL,this.__onUsePetSkill);
+         }
+         _self.addEventListener(LivingEvent.ATTACKING_CHANGED,this.__onAttackingChange);
+         _self.addEventListener(LivingEvent.USING_SPECIAL_SKILL,this.__usingSpecialKill);
+         _self.addEventListener(LivingEvent.USING_ITEM,this.__onUseItem);
+         _self.addEventListener(LivingEvent.IS_CALCFORCE_CHANGE,this.__onChange);
+         _self.addEventListener(LivingEvent.PETSKILL_ENABLED_CHANGED,this.__onChange);
+         GameManager.Instance.addEventListener(LivingEvent.START_MOVING,this.__onStartMoving);
+         SocketManager.Instance.addEventListener(CrazyTankSocketEvent.PET_SKILL_CD,this.__petSkillCD);
+         KeyboardManager.getInstance().addEventListener(KeyboardEvent.KEY_DOWN,this.__keyDown);
+         GameManager.Instance.addEventListener(LivingEvent.PETSKILL_USED_FAIL,this.__onPetSkillUsedFail);
+      }
+      
+      private function __onStartMoving(param1:LivingEvent) : void
+      {
+         this.removeMoveGuide();
+      }
+      
+      private function startShine() : void
+      {
+         var _loc1_:PetSkillCell = null;
+         for each(_loc1_ in this._skillCells)
+         {
+            if(_loc1_.skillInfo)
+            {
+               _loc1_.shine();
+            }
+         }
+      }
+      
+      private function stopShine() : void
+      {
+         var _loc1_:PetSkillCell = null;
+         for each(_loc1_ in this._skillCells)
+         {
+            if(_loc1_.skillInfo)
+            {
+               _loc1_.stopShine();
+            }
+         }
+      }
+      
+      private function onCellClick(param1:MouseEvent) : void
+      {
+         var _loc2_:PetSkillCell = param1.currentTarget as PetSkillCell;
+         if(_loc2_.enabled && _self.isAttacking)
+         {
+            SoundManager.instance.play("008");
+            this.removePetSkillGuide();
+            if(_loc2_.skillInfo.BallType == PetSkillInfo.BALL_TYPE_1 || _loc2_.skillInfo.BallType == PetSkillInfo.BALL_TYPE_2)
+            {
+               if(_self.isUsedItem)
+               {
+                  return;
+               }
+               _self.customPropEnabled = false;
+               _self.deputyWeaponEnabled = false;
+               _self.isUsedPetSkillWithNoItem = true;
+               if(_loc2_.skillInfo.BallType == PetSkillInfo.BALL_TYPE_2)
+               {
+                  _self.useSkillDirectly(_loc2_.skillInfo.ID,_self.direction);
+                  return;
+               }
+            }
+            SocketManager.Instance.out.sendPetSkill(_loc2_.skillInfo.ID,_self.direction);
+            this._usedPetSkill = true;
+            this.updateCellEnable();
+         }
+      }
+      
+      private function __onPetSkillUsedFail(param1:LivingEvent) : void
+      {
+         this._usedPetSkill = false;
+         _self.deputyWeaponEnabled = true;
+         _self.isUsedPetSkillWithNoItem = false;
+      }
+      
+      private function __onChange(param1:LivingEvent) : void
+      {
+         this.updateCellEnable();
+      }
+      
+      private function __petSkillCD(param1:CrazyTankSocketEvent) : void
+      {
+         var _loc5_:PetSkillCell = null;
+         var _loc2_:PackageIn = param1.pkg;
+         var _loc3_:int = _loc2_.readInt();
+         var _loc4_:int = _loc2_.readInt();
+         for each(_loc5_ in this._skillCells)
+         {
+            if(_loc5_.skillInfo.ID == _loc3_)
+            {
+               _loc5_.turnNum = _loc5_.skillInfo.ColdDown + 1 - _loc4_;
+            }
+         }
+         this.updateCellEnable();
+      }
+      
+      private function __usingSpecialKill(param1:LivingEvent) : void
+      {
+         var _loc2_:PetSkillCell = null;
+         for each(_loc2_ in this._skillCells)
+         {
+            _loc2_.enabled = false;
+         }
+         this._usedSpecialSkill = true;
+      }
+      
+      private function __onUseItem(param1:LivingEvent) : void
+      {
+         var _loc2_:PetSkillCell = null;
+         for each(_loc2_ in this._skillCells)
+         {
+            if(_loc2_.skillInfo && (_loc2_.skillInfo.BallType == PetSkillInfo.BALL_TYPE_1 || _loc2_.skillInfo.BallType == PetSkillInfo.BALL_TYPE_2))
+            {
+               _loc2_.enabled = false;
+            }
+         }
+         this._usedItem = true;
+      }
+      
+      private function __onUsePetSkill(param1:LivingEvent) : void
+      {
+         var _loc2_:PetSkillCell = null;
+         for each(_loc2_ in this._skillCells)
+         {
+            if(_loc2_.skillInfo && _loc2_.skillInfo.ID == param1.value)
+            {
+               _loc2_.turnNum = 0;
+               break;
+            }
+         }
+         this.updateCellEnable();
+      }
+      
+      private function __onAttackingChange(param1:LivingEvent) : void
+      {
+         var _loc2_:PetSkillCell = null;
+         if(_self.isAttacking)
+         {
+            for each(_loc2_ in this._skillCells)
+            {
+               ++_loc2_.turnNum;
+            }
+            this._usedItem = false;
+            this._usedSpecialSkill = false;
+            this._usedPetSkill = false;
+            _self.isUsedPetSkillWithNoItem = false;
+         }
+         this.updateCellEnable();
+      }
+      
+      private function updateCellEnable() : void
+      {
+         var _loc2_:PetSkillCell = null;
+         var _loc1_:Boolean = _self.petSkillEnabled;
+         for each(_loc2_ in this._skillCells)
+         {
+            if(!_loc2_.skillInfo)
+            {
+               continue;
+            }
+            switch(_loc2_.skillInfo.BallType)
+            {
+               case PetSkillInfo.BALL_TYPE_0:
+                  _loc2_.enabled = _loc1_ && _self.isAttacking && !this._usedPetSkill && !this._usedSpecialSkill && _loc2_.skillInfo.CostMP <= _self.currentPet.MP && _loc2_.turnNum > _loc2_.skillInfo.ColdDown;
+                  break;
+               case PetSkillInfo.BALL_TYPE_1:
+                  _loc2_.enabled = _loc1_ && _self.isAttacking && !this._usedPetSkill && !this._usedItem && !this._usedSpecialSkill && _loc2_.skillInfo.CostMP <= _self.currentPet.MP && _loc2_.turnNum > _loc2_.skillInfo.ColdDown;
+                  break;
+               case PetSkillInfo.BALL_TYPE_2:
+                  _loc2_.enabled = _loc1_ && _self.isAttacking && !this._usedPetSkill && !this._usedItem && !this._usedSpecialSkill && !_self.iscalcForce && _loc2_.skillInfo.CostMP <= _self.currentPet.MP && _loc2_.turnNum > _loc2_.skillInfo.ColdDown;
+                  break;
+               case PetSkillInfo.BALL_TYPE_3:
+                  _loc2_.enabled = _loc1_ && _self.isAttacking && !this._usedPetSkill && !this._usedSpecialSkill && _loc2_.skillInfo.CostMP <= _self.currentPet.MP && _loc2_.turnNum > _loc2_.skillInfo.ColdDown;
+                  break;
+            }
+         }
+      }
+      
+      override protected function drawCells() : void
+      {
+         var _loc1_:int = 0;
+         var _loc2_:int = 0;
+         var _loc3_:PetSkillInfo = null;
+         var _loc4_:PetSkillCell = null;
+         var _loc5_:int = 0;
+         var _loc6_:PetSkillInfo = null;
+         if(_self.currentPet)
+         {
+            _loc2_ = 0;
+            while(_loc2_ < this.letters.length)
+            {
+               _loc3_ = null;
+               _loc4_ = new PetSkillCell(this.letters[_loc2_],FightPropMode.VERTICAL,false,33,33);
+               _loc5_ = _self.currentPet.equipedSkillIDs[_loc2_];
+               if(_loc5_ > 0 && _loc5_ < 1000)
+               {
+                  _loc3_ = PetSkillManager.instance.getSkillByID(_loc5_);
+               }
+               if(_loc3_)
+               {
+                  _loc6_ = PetSkillManager.instance.getSkillByID(_loc3_.ID);
+                  _loc4_.creteSkillCell(_loc6_);
+               }
+               else
+               {
+                  _loc4_.creteSkillCell(null);
+               }
+               this._skillCells.push(_loc4_);
+               addChild(_loc4_);
+               _loc2_++;
+            }
+            this.drawLayer();
+         }
+      }
+      
+      override protected function drawLayer() : void
+      {
+         var _loc2_:int = 0;
+         var _loc3_:int = 0;
+         var _loc4_:int = 0;
+         var _loc1_:int = this._skillCells.length;
+         _loc2_ = 0;
+         while(_loc2_ < _loc1_)
+         {
+            _loc3_ = 7;
+            _loc4_ = 6 + _loc2_ * (36 + 3);
+            this._skillCells[_loc2_].setPossiton(_loc3_,_loc4_);
+            this._skillCells[_loc2_].setMode(2);
+            if(_inited)
+            {
+               TweenLite.to(this._skillCells[_loc2_],0.05 * (_loc1_ - _loc2_),{
+                  "x":_loc3_,
+                  "y":_loc4_
+               });
+            }
+            else
+            {
+               this._skillCells[_loc2_].x = _loc3_;
+               this._skillCells[_loc2_].y = _loc4_;
+            }
+            _loc2_++;
+         }
+         DisplayUtils.setFrame(_background,2);
+         PositionUtils.setPos(_background,new Point(0,0));
+      }
+      
+      override protected function removeEvent() : void
+      {
+         var _loc1_:PetSkillCell = null;
+         for each(_loc1_ in this._skillCells)
+         {
+            if(_loc1_.isEnabled)
+            {
+               _loc1_.removeEventListener(MouseEvent.CLICK,this.onCellClick);
+            }
+         }
+         if(_self.currentPet)
+         {
+            _self.currentPet.removeEventListener(LivingEvent.PET_MP_CHANGE,this.__onChange);
+            _self.currentPet.removeEventListener(LivingEvent.USE_PET_SKILL,this.__onUsePetSkill);
+         }
+         _self.removeEventListener(LivingEvent.ATTACKING_CHANGED,this.__onAttackingChange);
+         _self.removeEventListener(LivingEvent.USING_SPECIAL_SKILL,this.__usingSpecialKill);
+         _self.removeEventListener(LivingEvent.USING_ITEM,this.__onUseItem);
+         _self.removeEventListener(LivingEvent.IS_CALCFORCE_CHANGE,this.__onChange);
+         _self.removeEventListener(LivingEvent.PETSKILL_ENABLED_CHANGED,this.__onChange);
+         GameManager.Instance.removeEventListener(LivingEvent.START_MOVING,this.__onStartMoving);
+         SocketManager.Instance.removeEventListener(CrazyTankSocketEvent.PET_SKILL_CD,this.__petSkillCD);
+         GameManager.Instance.removeEventListener(LivingEvent.PETSKILL_USED_FAIL,this.__onPetSkillUsedFail);
+      }
+      
+      override protected function configUI() : void
+      {
+         _background = ComponentFactory.Instance.creatComponentByStylename("RightPropBack");
+         addChild(_background);
+         super.configUI();
+      }
+      
+      override public function dispose() : void
+      {
+         if(this._petskillGuideMC)
+         {
+            ObjectUtils.disposeObject(this._petskillGuideMC);
+            this._petskillGuideMC = null;
+         }
+         if(this._moveGuideMC)
+         {
+            ObjectUtils.disposeObject(this._moveGuideMC);
+            this._moveGuideMC = null;
+         }
+         super.dispose();
+      }
+   }
+}

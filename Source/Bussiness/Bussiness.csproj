@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Bussiness</RootNamespace>
     <AssemblyName>Bussiness</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>
     </SccProjectName>
@@ -25,6 +25,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -34,6 +35,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -42,6 +44,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
@@ -74,6 +77,10 @@
     <Compile Include="ActiveBussiness.cs" />
     <Compile Include="Base64.cs" />
     <Compile Include="BaseBussiness.cs" />
+    <Compile Include="CenterService\CenterServiceClient.cs" />
+    <Compile Include="CenterService\ICenterService.cs" />
+    <Compile Include="CenterService\ICenterServiceChannel.cs" />
+    <Compile Include="CenterService\ServerData.cs" />
     <Compile Include="CheckCode.cs" />
     <Compile Include="ConsortiaBussiness.cs" />
     <Compile Include="CookieInfoBussiness.cs" />
@@ -110,66 +117,33 @@
     <Compile Include="Protocol\eDropType.cs" />
     <Compile Include="Protocol\eReloadType.cs" />
     <Compile Include="PveBussiness.cs" />
-    <Compile Include="Service References\CenterService\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
-    <Compile Include="Service References\WebLogin\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
     <Compile Include="ServiceBussiness.cs" />
     <Compile Include="StaticFunction.cs" />
     <Compile Include="ThreadSafeRandom.cs" />
     <Compile Include="UserInfoBussiness.cs" />
+    <Compile Include="WebLogin\ChenckValidateRequest.cs" />
+    <Compile Include="WebLogin\ChenckValidateRequestBody.cs" />
+    <Compile Include="WebLogin\ChenckValidateResponse.cs" />
+    <Compile Include="WebLogin\ChenckValidateResponseBody.cs" />
+    <Compile Include="WebLogin\Get_UserSexRequest.cs" />
+    <Compile Include="WebLogin\Get_UserSexRequestBody.cs" />
+    <Compile Include="WebLogin\Get_UserSexResponse.cs" />
+    <Compile Include="WebLogin\Get_UserSexResponseBody.cs" />
+    <Compile Include="WebLogin\PassPortSoap.cs" />
+    <Compile Include="WebLogin\PassPortSoapChannel.cs" />
+    <Compile Include="WebLogin\PassPortSoapClient.cs" />
     <Compile Include="XmlExtends.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\WebLogin\PassPort.wsdl" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\CenterService\" />
-    <WCFMetadataStorage Include="Service References\WebLogin\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CenterService\CenterService1.wsdl" />
-    <None Include="Service References\CenterService\item3.xsd" />
-    <None Include="Service References\CenterService\item31.xsd" />
-    <None Include="Service References\CenterService\item32.xsd" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CenterService\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\CenterService\Bussiness.CenterService.ServerData.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-    <None Include="Service References\CenterService\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
+    <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Languages\Language-vn.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <None Include="Service References\WebLogin\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
-    <None Include="Service References\WebLogin\configuration.svcinfo" />
-    <None Include="Service References\WebLogin\configuration91.svcinfo" />
-    <None Include="Service References\WebLogin\PassPort.disco" />
-    <None Include="Service References\CenterService\item1.disco" />
-    <None Include="Service References\CenterService\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Game.Base\Game.Base.csproj">

@@ -13,7 +13,7 @@ namespace Game.Server.Packets.Client
         public int HandlePacket(GameClient client, GSPacketIn packet)
         {
             int savePoint = packet.ReadInt();
-            //client.Out.SendMessage(eMessageType.Normal, "Set Point chưa được dev");
+            client.Out.SendMessage(eMessageType.Normal, "Set Point is: " + savePoint.ToString());
             return 0;
         }
     }

@@ -1950,6 +1950,14 @@ namespace SqlDataProvider.Data
                 m_LastGetEgg = value;
             }
         }
+        private int m_savePoint;
+
+        public int SavePoint
+        {
+            get { return m_savePoint; }
+            set { m_savePoint = value; }
+        }
+
     }
 
 

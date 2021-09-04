@@ -263,7 +263,7 @@
         FIGHTING_VIP = 145,
         ACTIVE_LOG = 11,
         DAILY_QUEST = 162,
-        MINING_DUGEON = 148,
+        MINING_DUNGEON = 148,
         OPEN_BAGCELL = 98,
     }
 }

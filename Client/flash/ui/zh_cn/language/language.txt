@@ -1,0 +1,3973 @@
+﻿#中文语言包
+AlertDialog.Error:Báo lỗi
+AlertDialog.Info:Nhắc nhở
+change:更 改
+hundred:100
+dismiss:赶紧解散
+operate:操作
+wan:万
+yi:亿
+noMoney:您的点券不足,请充值.
+noExploit:您的军功章不足.
+noMatchMedal:您的竞技勋章不足.
+redTxt:<FONT COLOR='#FF0000'>{0}</FONT>
+ddt.HallStateView.Shop:可以购买各种物品,把\n自己好好装扮一番.
+ddt.HallStateView.Dungeon:进入副本冒险,挑\n战怪物获得宝物.
+ddt.HallStateView.church:和心爱的TA许下承\n诺吧.
+ddt.HallStateView.consortion:加入公会,联合亲\n密战友,一起战斗!
+ddt.HallStateView.store:提高装备属性,合\n成装备物品.
+ddt.HallStateView.auction:弹友进行物品交\n易的场所.
+ddt.HallStateView.toffist:挑战BOSS！你不\n是一个人在战斗！
+ddt.HallStateView.game:竞技、挑战,\n各种比赛都在这里举行喔!
+ddt.HallStateView.farm:经营你的个人农场,\n金币、强化石轻松获得.
+caddy.badLuck.rankingText.text:排  名
+caddy.badLuck.nameText.text:名  称
+caddy.badLuck.propertyText.text:道具奖励
+caddy.badLuck.regulationText1.text:1. 1个幸运彩石兑换1个经验礼包.
+caddy.badLuck.regulationText2.text:2. 2个幸运彩石兑换1个1级经药水.
+caddy.badLuck.regulationText3.text:3. 4个幸运彩石兑换1个2级经药水.
+caddy.badLuck.regulationText4.text:4. 8个幸运彩石兑换1个3级经药水.
+tank.ReceiveBadLuckAwardFrame.title:奖励兑换
+tank.consortion.pollFrame.name.text:名  称
+tank.consortion.pollFrame.ticketCount.text:票  数
+BaseStateCreator.LoadingTip:	模块正在加载中...
+consortia.BuildingManager.BtnText1:会长通道
+consortia.BuildingManager.BtnText2:设施管理
+consortia.BuildingManager.BtnText3:招收成员
+consortia.BuildingManager.BtnText4:退出公会
+consortia.PlacardAndEvent.SelectBtnText1:公会使命
+consortia.PlacardAndEvent.SelectBtnText2:公会公告
+consortia.PlacardAndEvent.SelectBtnText3:公会事件
+consortia.PlacardAndEvent.SelectBtnText4:公会周贡献
+conortionTask.notaskText:会长没有发布新的公会使命!
+consortia.task.releaseTable.title:发布使命
+consortia.chairmanChannel.BtnText1:公会宣言
+consortia.chairmanChannel.BtnText2:职位管理
+consortia.chairmanChannel.BtnText3:公会转让
+consortia.chairmanChannel.BtnText4:公会升级
+consortia.chairmanChannel.BtnText5:公会邮件
+consortia.chairmanChannel.BtnText6:公会使命
+consortion.ConsortionJobManageFrame.jobManageText:职位列表
+consortion.ConsortionJobManageFrame.limitsText:权限一览
+tank.consortia.club.searchTxt.text:查找
+tank.ConsortionJobManageFrame.limitsText.text:修改公告\n提升/降职\n开除公会\n招收成员\n修改宣言\n职位管理
+tank.ConsortionJobManageFrame.limitsText.text1:修改公告\n提升/降职\n开除公会\n招收成员\n修改宣言\n职位管理
+tank.ConsortionJobManageFrame.limitsText.text2:修改公告\n提升/降职\n开除公会\n招收成员
+tank.ConsortionJobManageFrame.limitsText.text3:招收成员
+tank.ConsortionJobManageFrame.limitsText.text4:
+consortion.shop.level1.text:LV1
+consortion.shop.level2.text:LV2
+consortion.shop.level3.text:LV3
+consortion.shop.level4.text:LV4
+consortion.shop.level5.text:LV5
+tank.consortionClubView.searchText.text:公会搜索
+club.applyRecordBtnText:申请记录
+club.inviteRecordBtnText:邀请记录
+club.cancelApplyText:撤销申请
+club.acceptInvent.text:接受邀请
+club.contactChairmanBtnText:联系会长
+club.copyNameBtnText:复制名称
+createConsortionFrame.conditionText.Text:创建公会需要以下条件    点券
+createConsortionFrame.ticketText.Text1:<font color='#f12828'>50</font>
+createConsortionFrame.ticketText.Text2:(绑定)点券
+createConsortionFrame.gradeText.Text1:角色人物等级    级
+createConsortionFrame.gradeText.Text2:<font color='#ff0000'>13</font>
+createConsortionFrame.moneyText.Text1:<font color='#ff0000'>100000</font>
+consortion.shop.manager.Text:设施管理
+consortion.skillFrame.richesText1:公会财富
+consortion.skillFrame.richesText2:个人贡献度
+consortion.skillFrame.richesText3:绑定点券
+consortion.skillFrame.richesText4:公会贡献
+consortion.shop.selfRichOfferTxt.text:需要贡献
+consortion.shop.word.text:注:公会商城内道具购买即为绑定状态
+consortion.levelBtn.text1:1-3级使用
+consortion.levelBtn.text2:4-7级使用
+consortion.levelBtn.text3:8-10级使用
+consortion.openSkillFrame.richesText1:总共消耗                    财富
+consortion.openSkillFrame.richesText2:总共消耗                    个人贡献度
+consortion.openSkillFrame.richesText3:总共消耗                    绑定点券
+consortion.taskFrame.textWordI.text:您目前拥有
+consortion.taskFrame.textWordII.text:请输入捐献的数量:          	                        点券
+consortion.taskFrame.textWordIII.text:可增加               公会财富,               贡献度
+consortion.takeIn.selectAllBtn.text:全选
+consortion.takeIn.agreeBtn.text:同意
+consortion.takeIn.refuseBtn.text:拒绝
+consortion.takeIn.setRefuseText.text:拒绝申请
+consortion.upGradeFrame.levelTxt.text:公会等级
+consortion.upGradeFrame.storTxt.text:铁匠铺
+consortion.upGradeFrame.shopTxt.text:公会商城
+consortion.upGradeFrame.boxTxt.text:保管箱
+consortion.upGradeFrame.skillTxt.text:公会技能
+consortion.upGradeFrame.skillTxt.text1:个人技能
+consortion.upGrade.explainWord.text:说  明：
+consortion.upGrade.nextLevel.text:下一级:
+consortion.upGrade.require.text:要  求:
+consortion.upGrade.consume.text:消  耗:
+consortion.quit.word.text:你确定要退出公会吗?
+consortion.consortionCampaign.title.text:公会活动
+consortion.consortionTask.title.text:公会任务
+tank.ddtchurchroomlist.frame.WeddingRoomGuestListView.titleText:宾客列表
+common.church.churchDialogueAgreePropose.contentText.text:接受了你的求婚.\n恭喜你们结为百年之好.\n您可以去礼堂举行婚礼,让世人见证你们的爱情.
+common.church.ChurchBuyRingFrame.text1.text:你没有求婚戒指,无法进行求婚!
+common.church.ChurchBuyRingFrame.text2.text:注：购买	                    需要  99  (绑定)点券
+diamond.common.church.ChurchBuyRingFrame.text2.text:注：购买	                    需要  123  (绑定)点券
+common.church.ChurchBuyRingFrame.text3.text:求婚戒指
+common.church.churchDialogueAgreePropose.contentText.text:          接受了你的求婚.\n恭喜你们结为百年之好.\n您可以去礼堂举行婚礼,让世人见证你们的爱情.
+common.church.ChurchDialogueRejectPropose.contentText.text:			拒绝了你的求婚.
+church.main.WeddingRoomCreateView.SelectedIconButtonTxt1.text:修改密码
+church.main.WeddingRoomCreateView.SelectedIconButtonTxt2.text:允许宾客邀请好友
+church.room.WeddingRoomContinuationView.title:礼堂续费
+church.main.WeddingUnmarryView.text1.text:对方已离线：
+church.main.WeddingUnmarryView.text2.text:离婚将扣除：       点券
+church.main.WeddingUnmarryView.text3.text:一段感情来之不易,是否真的打算就\n此结束你们之间的夫妻关系?
+church.ChurchProposeFrame.bgTitleText.text:请输入真情告白
+church.ChurchProposeFrame.surplusCharText.text:剩余字符:
+church.ChurchProposeFrame.noticeText.text:注：求婚需要一枚求婚戒指
+church.ChurchProposeFrame.blessingText.text:系统发送祝福
+church.room.giftFrameBgAssetForGuest.titleText:赠送礼包
+church.room.frame.WeddingRoomGiftFrameView.contentText:你确定要花费			(绑定)点券赠送\n每位宾客一份红包吗?
+church.room.frame.WeddingRoomGiftFrameForGuest.contentText:请输入送出的礼包金额
+church.room.frame.WeddingRoomGiftFrameForGuest.noticeText:注：红包只能是{0}的倍数
+church.room.frame.WeddingRoomGiftFrameView.noticeText:注：每份红包{0}(绑定)点券
+consortion.consortionMailFrame.addresseeText:收件人
+consortion.consortionMailFrame.subjectText:主	题
+consortion.consortionMailFrame.explainText:说明：
+consortion.consortionMailFrame.explainText1:1：所有公会成员都可在自己的邮箱中收到此邮件.\n2：每发一封公会邮件需要
+consortion.consortionMailFrame.explainText3:消耗1000点公会财富.
+consortion.ConsortiaAssetManagerFrame.facilityDonate:公会捐献
+consortion.ConsortiaAssetManagerFrame.contributionText1:1级					贡献度
+consortion.ConsortiaAssetManagerFrame.contributionText2:2级					贡献度
+consortion.ConsortiaAssetManagerFrame.contributionText3:3级					贡献度
+consortion.ConsortiaAssetManagerFrame.contributionText4:4级					贡献度
+consortion.ConsortiaAssetManagerFrame.contributionText5:5级					贡献度
+consortion.ConsortiaAssetManagerFrame.contributionText6:贡献度
+consortion.ConsortiaAssetManagerFrame.noticeText:公会成员需达到设定的贡献度才能使用公会设施.
+consortion.consortionBankFrame.titleText:（仅供个人使用,公会其他玩家不能使用）
+shop.PresentFrame.titleText:（赠送物品只扣除点券）
+consortion.bankBagView.titleText1:背包
+consortion.bankBagView.titleText2:双击背包中的物品或者拖动到保管箱.
+consortion.ConsortionCampaign.publishBtn.text:发 布
+consortion.ConsortionCampaign.getMissionBtn.text:领 取
+consortion.ConsortionCampaign.goTransportBtn.text:参 与
+consortion.ConsortionCampaign.taskTitle.text:公会任务
+consortion.ConsortionCampaign.monsterReflashTitle.text:怪物入侵
+consortion.ConsortionCampaign.convoyTitle.text:公会护送
+consortion.ConsortionCampaign.taskDescribe.text:公会任务每天发布1次，发布后可领取5个任务.
+consortion.ConsortionCampaign.convoyDescribe.text:每天19：00~20：30进行公会护送活动,可获得1.5倍奖励.
+consortion.ConsortionCampaign.monsterDescribe.text:每天12:30~13:30将有怪物入侵公会,击杀可获得奖励.
+consortion.ConsortionCampaign.monsterDescribe.no.text:<FONT COLOR='#e30000'>功能暂未开放</FONT>
+consortion.ConsortionCampaign.reward.text:奖励：
+consortion.ConsortionCampaign.reward.Exp.text:公会经验 
+consortion.ConsortionCampaign.reward.contribution.text:个人贡献 
+consortion.ConsortionCampaign.reward.money.text:公会财富 
+consortion.ConsortionCampaign.unalbeText.text:公会{0}级开启
+consortion.ConsortionTask.publish:发布
+consortion.ConsortionTask.level1:初级
+consortion.ConsortionTask.level2:中级
+consortion.ConsortionTask.level3:高级
+consortion.ConsortionTask.level4:特级
+consortion.ConsortionTask.title.text:激活公会任务
+consortion.ConsortionTask.publishBtn.tip.text:今天还可发布{0}次公会任务
+consortion.ConsortionTask.taskOpenLevel.text:公会{0}级开启
+consortion.ConsortionTransport.info.all.text:全部
+consortion.ConsortionTransport.info.myself.text:个人
+consortion.ConsortionTransport.carName3:的
+consortion.ConsortionTransport.defaultGuarderName:无
+consortion.ConsortionTransport.fightError.txt:没有装备武器不能拦劫车辆
+consortion.ConsortionTransport.convoyWithoutWeaponError.txt:您没有装备武器，无法进入战斗
+consortion.ConsortionTransport.noConsortionError.txt:没有公会不能拦劫车辆
+consortion.ConsortionTransport.thisCarIsHijackingError.txt:对方正在战斗中
+consortion.ConsortionTransport.myHijackTimeEndError.txt:今日拦劫次数已达上限
+consortion.ConsortionTransport.hijackHighLevelError.txt:不可拦劫与自身相差5级以上的玩家
+consortion.ConsortionTransport.hijackSameCarError.txt:你已经拦劫过该车了
+consortion.ConsortionTransport.confirmHijack.alert.txt:确认要拦劫{0}的{1}?
+consortion.ConsortionComfirm.guarderReward.text:护送奖励
+consortion.ConsortionComfirm.inviteBtn.text:发出邀请
+consortion.ConsortionComfirm.normalCarName.text:初级财富车
+consortion.ConsortionComfirm.highClassCarName.text:高级财富车
+consortion.ConsortionComfirm.summom.text:默认财富车
+consortion.ConsortionComfirm.summomHigClassCar.text:召 唤
+consortion.ConsortionComfirm.rewardTitle.text:护送奖励：
+consortion.ConsortionComfirm.convoyComfirmTitle.text:护送财富
+consortion.ConsortionTransport.invite.title.text:护送邀请
+consortion.ConsortionComfirm.summomCost.txt:召唤消耗
+consortion.ConsortionComfirm.summomCost.gold.txt:金币
+consortion.ConsortionComfirm.goldLess.fail.txt:金币不足，无法发车
+consortion.ConsortionComfirm.moneyLess.fail.txt:(绑定)点券不足，无法发车
+consortion.ConsortionComfirm.removeGuarder.txt:移除护卫
+consortion.ConsortionComfirm.inviteSamePersonError.txt:正在邀请中，请稍候再试
+consortion.ConsortionComfirm.inviteMyselfError.txt:不能邀请自己
+consortion.ConsortionComfirm.isInvitedError.txt:不可重复邀请
+consortion.ConsortionTransport.carInfoTip.describe.txt:目标等级越低，拦劫获得越少
+consortion.ConsortionTransport.carInfoTip.level.txt:等级
+consortion.ConsortionTransport.carInfoTip.consortion.txt:所属公会
+consortion.ConsortionTransport.carInfoTip.guarderName.txt:护送对象
+consortion.ConsortionTransport.carInfoTip.hijackTimes.txt:被劫次数
+consortion.ConsortionTransport.carInfoTip.leftTime.txt:剩余时间
+consortion.ConsortionTransport.carInfoTip.remainTime.txt:护送好友
+consortion.ConsortionTransport.carInfoTip.hijackReward.txt:拦劫获得
+consortion.ConsortionTransport.isConvoyingError.txt:您正在护送或协助护送中，不能劫持其他车辆
+consortion.ConsortionComfirm.hasSummom.text:已召唤
+consortion.ConsortionComfirm.costMoneyTips.text:召唤高级财富车消耗<font color='#ff0000'>{0}</font>(绑定)点券，在开始护送时扣除
+consortion.ConsortionTransport.hijack.title.text:拦劫信息
+consortion.ConsortionComfirm.inviteError.text:该玩家非本公会成员或处于离线状态
+consortion.ConsortionComfirm.sameConsortionError.text:不能拦劫同公会玩家的车辆
+consortion.ConsortionComfirm.maxHijackError.text:该车辆已达到最大拦劫次数
+consortion.ConsortionComfirm.inviteOthersError.text:该玩家正处于不可接受邀请状态
+consortion.ConsortionComfirm.guarderEndError.text:该玩家今日可协助护送次数为0
+consortion.ConsortionComfirm.inviteNobody.text:没有选择玩家
+consortion.ConsortionTransport.alertTips.convoyDescript.txt:邀请您协助护送，完成护送可获得公会贡献和公会财富！
+consortion.ConsortionTransport.hijackInfoContent.txt:<font color='#00f0ff'>[{0}]</font>拦劫了<font color='#00f0ff'>[{1}]</font>，获得{2}点公会财富、{3}点个人贡献
+consortion.ConsortionTransport.alertTips.hijackDescript.my.txt:想要拦劫您护送的{0}，请速迎战！应战后，即使被拦截成功也会大大降低损失。
+consortion.ConsortionTransport.alertTips.hijackDescript.txt:想要拦劫您协助护送的{0}，请速迎战！应战后，即使被拦截成功也会大大降低损失。
+consortion.ConsortionTransport.alertTips.hijackDescript.btn:应  战
+consortion.ConsortionTransport.alertTips.timeRemain.txt:如果您在&nbsp;{0}&nbsp;秒内没有反应，系统将默认拒绝！
+church.main.WeddingRoomEnterConfirmView.roomNameTxt:房间名称:
+church.main.WeddingRoomEnterConfirmView.bridegroomTxt:新    郎:
+church.main.WeddingRoomEnterConfirmView.brideTxt:新    娘:
+church.main.WeddingRoomEnterConfirmView.numberTxt:当前人数:
+church.main.WeddingRoomEnterConfirmView.timeTxt:剩余时间:
+church.main.WeddingRoomEnterConfirmView.describeTxt:典礼描述:
+common.church.btnLookEquipAsset.text:查看装备
+get:领 取
+sure:同 意
+modify:修 改
+close:关 闭
+clear:清 除
+ok:确 定
+lookover:查 看
+cancel:取 消
+money:点券
+ddtMoney:（绑定）点券
+gift:绑定点券
+gold:金币
+medal:绑定点券
+magicSoul:魔魂
+alert:警告:
+load:加载
+fail:失败
+second:秒
+times:次
+yes:是
+no:否
+tips:提示
+poorNote:您的点券不足,是否立即充值?
+exp:经验
+offer:功勋
+attack:攻击
+defence:防御 
+agility:敏捷
+luck:幸运 
+damage:伤害
+recovery:护甲
+MaxHp:血量 
+energy:体力 
+day:天
+hour:小时
+minute:分钟
+second:秒
+beadProp:属性
+ddt.vip.vipView.yearDiscountText:一次性开通三个月以上的VIP可成为紫金VIP,充值年费VIP享受8.8折优惠.
+chat.BugleInputFrameTitleString:个性喇叭
+chat.BugleInputFrame.ok.text:确定发送
+chat.BugleInputNull:输入框内容不能为空,请输入文字.
+chat.BugleInputFrameRemainString:剩余字数:
+game.PlayerThumbnailTipItemText_0:查看资料
+game.PlayerThumbnailTipItemText_1:加为好友
+game.PlayerThumbnailTipItemText_2:悄 悄 话
+littlegame.AwardScore:积分:
+ddtlittlegame.HaveAwardScore:你目前积分
+littlegame.MinLvNote:等级达到{0}级的玩家才能进入
+room.UnableToSwitchToAnotherViewer:不能从一个观战栏位切换到另一个观战栏位.
+room.UnableToSwitchToAnotherViewerWhenIsReady:准备状态下不能切换到观战栏位.
+ddt.StartupResourceLoader.Error.LoadModuleError:加载{0}失败!"
+chat.FastReplyCustomCountLimit:使用快捷发言设定达到最大限制.
+chat.FastReplyCustomTextLengthLimit:自定义快捷回复的最大字符数为20.
+chat.FastReplyDefaultStr:<自定义>
+chat.fastRepley.Message0:我是路过打酱油的
+chat.fastRepley.Message1:这也能打到,宽面条泪~
+chat.fastRepley.Message2:不要小看弟,弟可是杀虫剂!
+chat.fastRepley.Message3:准备!Ready3、2、1!
+chat.fastRepley.Message4:我诅咒你!不中!不中!打不中!
+wrongUnit:错误单位
+ServerLinkError:链接游戏服务器失败!
+tank.game.danderStripTip.pow:POW
+tank.game.petmp.mp:魔法值
+core.crossZone.PrivateChatToUnable:对方与您不在同一个区,无法密聊.
+core.crossZone.ViewGoodInfoUnable:跨区物品无法查看.
+core.crossZone.AddFriendUnable:跨区玩家无法添加为好友.
+tank.MessageTip.GhostProp:给队友使用了
+tank.MessageTip.AutoGuide:连续4回合没有命中对手,获得跟踪效果.
+tank.MessageTip.EmptyGrid:您的道具栏已满,无法获得.
+tank.calendar.signed:签到成功
+tank.calendar.OutWeek:只能查看当日前后七天的活动.
+tank.calendar.signedAwards:您将获得:{0}
+tank.calendar.NoneActivity:没有活动.
+tank.calendar.title:活动
+tank.calendar.signTitle:签到
+tank.calendar.sign.title:领取累积签到奖励
+tank.calendar.DailyAward:您已领取过每日奖励,下次领取时间{0}月{1}日00:00以后.
+tank.calendar.grid.month0:JAN
+tank.calendar.grid.month1:FEB
+tank.calendar.grid.month2:MAR
+tank.calendar.grid.month3:APR
+tank.calendar.grid.month4:MAY
+tank.calendar.grid.month5:JUN
+tank.calendar.grid.month6:JUL
+tank.calendar.grid.month7:AUG
+tank.calendar.grid.month8:SEP
+tank.calendar.grid.month9:OCT
+tank.calendar.grid.month10:NOV
+tank.calendar.grid.month11:DEC
+tank.calendar.grid.today:{0}年{1}月{2}日 
+tank.calendar.grid.week0:周日
+tank.calendar.grid.week1:周一
+tank.calendar.grid.week2:周二
+tank.calendar.grid.week3:周三
+tank.calendar.grid.week4:周四
+tank.calendar.grid.week5:周五
+tank.calendar.grid.week6:周六
+tank.calendar.Activity.BackButtonText:返回
+tank.calendar.GoodsExchangeView.actTimeText:活动时间：
+tank.calendar.GoodsExchangeView.haveGoodsExplainText:已有物品：
+tank.calendar.GoodsExchangeView.changeGoodsExplainText:选择兑换物品：
+tank.calendar.GoodsExchangeView.changeGoodsCountText:剩余兑换次数：
+tank.calendar.GoodsExchangeView.noenought:物品不足!
+calendar.view.goodsExchange.warningIII:请放入需要兑换的物品
+tank.calendar.ActivityDetail.TimeFieldTitle:活动时间：
+tank.calendar.ActivityDetail.AwardFieldTitle:活动奖励：
+tank.calendar.ActivityDetail.ContentFieldTitle:活动内容：
+tank.calendar.ActivityDetail.CountFieldTitle:活动次数：
+tank.calendar.ActivityTuanView.needBuyCount:(需购买总量达到{0})
+tank.calendar.ActivityTuanView.toohight:当前已是最高返比
+tank.calendar.ActivityTuanView.buy:购  买
+tank.calendar.activityWu:无
+tank.calendar.activityDay:天
+tank.calendar.activityHour:小时
+tank.calendar.activityMinute:分钟
+tank.calendar.DailyAwardTitle:每日领取
+tank.calendar.activityNotice:立即领取
+tank.calendar.activity.cannotGet:请回到广场后领取
+tank.calendar.award.NagivCount:次
+tank.calendar.LuckyNumBar.PayNote:您预测明天的幸运数字是：{0}<br>激活将扣除9.9(绑定)点券,是否继续?
+tank.calendar.LuckyNumBar.ChooseNote:预测明天的幸运数字,如果猜对可获得一天的经验、功勋翻倍,以及随机属性奖励. 
+tank.calendar.LuckyNumBar.LuckyNumLabel:幸运数字
+tank.calendar.LuckyNumBar.MyNumLabel:我的数字
+tank.calendar.LuckyNumBar.ForecastLabel:预测明天
+tank.calendar.CalendarState.GetButtonText:每日领取
+tank.calendar.ActivityDetail.hasnotbegin:活动还没开启.
+tank.ddtauctionHouse.text.name:名称
+tank.ddtauctionHouse.text.number:数量
+tank.ddtauctionHouse.text.timer:剩余时间
+tank.ddtauctionHouse.text.sellPron:出售者
+tank.ddtauctionHouse.text.bidPron:竞标者
+tank.ddtauctionHouse.text.price:当前价格
+tank.ddtauctionHouse.text.status:竞标状态
+tank.ddtauctionHouse.text.SellNumber:数量
+tank.ddtauctionHouse.text.BrowseNumber:竞拍金额
+tank.auctionHouse.view.AuctionBrowseView.buction1:请输入竞拍金额
+tank.auctionHouse.controller.AuctionHouseController: 没有该类物品
+tank.auctionHouse.controller.AuctionHouseListError:加载拍卖行列表失败!
+tank.auctionHouse.view.AuctionBrowseView.stipple:(绑定)点券
+tank.auctionHouse.view.AuctionBrowseView.stipple0:(绑定)点券
+tank.auctionHouse.view.AuctionBrowseView.stipple1:点券
+tank.auctionHouse.view.AuctionBrowseView.stipple2:绑定点券
+tank.auctionHouse.view.AuctionBrowseView.Your: 你的余额不足!
+tank.auctionHouse.view.AuctionBrowseView.buy: 您确认一口价买下该物品吗?
+tank.auctionHouse.view.AuctionBrowseView.buction: 竞拍金额输入
+tank.auctionHouse.view.AuctionBrowseView.input:输入
+tank.auctionHouse.view.AuctionBuyView.Auction: 竞拍价小于起拍价与增值之和.
+tank.auctionHouse.view.AuctionBuyView.Auction2: 竞拍价小于起拍价与增值之和:
+tank.auctionHouse.view.AuctionBuyView.Your: 你的余额不足!
+tank.auctionHouse.view.AuctionBuyView.price: 竞拍价:
+tank.auctionHouse.view.AuctionBuyView.less: 小于起拍价与增值之和:
+tank.auctionHouse.view.AuctionCellView.Object: 物品已过期.
+tank.auctionHouse.view.AuctionCellView.Sale: 物品已绑定,不能拍卖!
+tank.auctionHouse.view.AuctionDragInArea.this: 此物品已过期.
+tank.auctionHouse.view.AuctionSellLeftView.Choose: 请选择你需要拍卖的物品!
+tank.auctionHouse.view.AuctionSellLeftView.8h: 8小时
+tank.auctionHouse.view.AuctionSellLeftView.24h: 24小时
+tank.auctionHouse.view.AuctionSellLeftView.48h: 48小时
+tank.auctionHouse.view.AuctionSellLeftView.ChooseTwo: 请选择要拍卖的物品!
+tank.auctionHouse.view.AuctionSellLeftView.Price: 请填写起始价格.
+tank.auctionHouse.view.AuctionSellLeftView.PriceTwo:一口价不能低于或等于起始价.
+tank.auctionHouse.view.AuctionSellLeftView.storage: 保管费不够.
+tank.auctionHouse.view.AuctionSellView.cancel: 您确认取消本次拍卖吗?
+tank.auctionHouse.view.AuctionSellView.Price: 此物品已参与竞价.
+tank.auctionHouse.view.AuctionSellView.Choose: 请选择物品
+tank.auctionHouse.view.BagFrame.Choose: 请选择背包中的物品进行拍卖.
+tank.auctionHouse.view.BrowseLeftListView:所有
+tank.auctionHouse.view.BrowseLeftMenuView.All:全部
+tank.auctionHouse.view.BrowseLeftMenuView.Hairdressing:美容
+tank.auctionHouse.view.BrowseLeftMenuView.Arm:装备
+tank.auctionHouse.view.BrowseLeftMenuView.Head:饰品
+tank.auctionHouse.view.BrowseLeftMenuView.Prop:道具
+tank.auctionHouse.view.BrowseLeftMenuView.Weapon:武器
+tank.data.EquipType.tempHelp:临时副手
+choosecharacter.ChooseCharacterView.name:昵称中包含非法词汇
+choosecharacter.ChooseCharacterView.space:昵称不能全为空格
+choosecharacter.ChooseCharacterView.string:昵称中包含非法字符
+choosecharacter.ChooseCharacterView.input:请输入昵称
+tank.RenameFrame.Consortia.FailWord:名称中包含非法词汇
+IM.privateChatFrame.failWord:信息中包含非法词汇
+tank.RenameFrame.Consortia.space:名称不能全为空格
+tank.RenameFrame.Consortia.string:名称中包含非法字符  
+tank.RenameFrame.Consortia.input:内容不能为空
+choosecharacter.ChooseSexPanel: 请先选择性别
+tank.game.fightModelPropBar.error:操作太快
+tank.game.actions.SelfPlayerWalkAction: 体力不足
+tank.game.ArrowViewIII.fall: 轮到你行动时才可以使用
+tank.game.ArrowViewIII.skill: 技能还需要{0}回合才能使用
+tank.game.RightProp.4cell.name:伤害增益MAX
+tank.game.RightProp.4cell.lastEnergy:剩余
+tank.game.RightProp.4cell.description:左键点击后按空格键发炮,将剩余体力转化为伤害
+tank.game.RightPropView.prop: 此道具只能给自己使用
+tank.game.WebSpeedView.frame: 帧数:
+tank.game.WebSpeedView.delay: 延迟:
+tank.game.WebSpeedView.explain1:和游戏服务器通讯的平均时间.如果延迟一直很高（红色）的话,那么你的互联网连接可能有问题.
+tank.game.WebSpeedView.explain2:游戏画面显示的流畅程度.如果画面的帧数较低,可以改变<FONT COLOR='#0099FF'>显示设置</FONT>来提高.
+tnak.game.tryagain.title:请房主 <font color='#F6EE4B' >{0}</font> 选择是否续关
+tnak.game.tryagain.value:续关需支付(绑定)点券：<font color='#FF0000' ><b>{0}</b></font>
+tank.game.BuffName11:在魔蚁之巢副本中,血量上限数值加成.
+tank.game.BuffName12:攻击加强
+tank.game.BuffName13:战斗觉醒
+tank.game.BuffName14:狂暴一击
+tank.game.BuffName15:超级体能
+tank.game.BuffName16:愤怒释放
+tank.game.BuffName17:全能战士
+tank.game.BuffName18:生命之光
+tank.game.BuffName19:希望护盾
+tank.game.BuffName20:攻击增效
+tank.game.BuffName21:先祖怒火
+tank.game.BuffName22:寒冰庇护
+tank.game.BuffName23:稳如泰山
+tank.game.BuffName24:小强意志
+tank.game.BuffName25:净化之源
+tank.game.BuffName26:治疗祝福
+tank.game.BuffName27:天赐防护
+tank.game.BuffName31:神圣祝福
+tank.game.BuffName32:神圣护盾
+tank.game.BuffName101:上帝之手
+tank.game.BuffName102:强袭
+tank.game.BuffName103:致命一击
+tank.game.BuffName104:强身术
+tank.game.BuffName105:潜能爆发
+tank.game.BuffName106:神行千里
+tank.game.BuffName107:健体术
+tank.game.BuffName108:增加效果回合
+tank.game.BuffName109:掠夺
+tank.game.BuffName110:贪婪
+tank.game.BuffName111:神圣治愈
+tank.game.BuffName112:笑里藏刀
+tank.game.SelfMark.Skip:点击跳过本回合并增加怒气值20点
+
+tank.game.BuffName215:战斗加强
+tank.game.BuffName216:战斗加强
+tank.game.BuffName217:战斗加强
+tank.game.BuffName218:战斗加强
+tank.game.BuffName219:战斗觉醒
+tank.game.BuffName220:战斗觉醒
+tank.game.BuffName221:战斗觉醒
+tank.game.BuffName222:战斗觉醒
+tank.game.BuffName223:狂暴一击
+tank.game.BuffName224:狂暴一击
+tank.game.BuffName225:狂暴一击
+tank.game.BuffName226:狂暴一击
+tank.game.BuffName227:超级体能
+tank.game.BuffName228:超级体能
+tank.game.BuffName229:超级体能
+tank.game.BuffName230:超级体能
+tank.game.BuffName231:愤怒释放
+tank.game.BuffName232:愤怒释放
+tank.game.BuffName233:愤怒释放
+tank.game.BuffName234:愤怒释放
+tank.game.BuffName235:全能战士
+tank.game.BuffName236:全能战士
+tank.game.BuffName237:全能战士
+tank.game.BuffName238:全能战士
+tank.game.BuffName239:生命之光
+tank.game.BuffName240:生命之光
+tank.game.BuffName241:生命之光
+tank.game.BuffName242:生命之光
+tank.game.BuffName243:希望护盾
+tank.game.BuffName244:希望护盾
+tank.game.BuffName245:希望护盾
+tank.game.BuffName246:希望护盾
+tank.game.BuffName247:攻击增效
+tank.game.BuffName248:攻击增效
+tank.game.BuffName249:攻击增效
+tank.game.BuffName250:攻击增效
+tank.game.BuffName251:先祖怒火
+tank.game.BuffName252:先祖怒火
+tank.game.BuffName253:先祖怒火
+tank.game.BuffName254:先祖怒火
+tank.game.BuffName255:寒冰庇护
+tank.game.BuffName256:寒冰庇护
+tank.game.BuffName257:寒冰庇护
+tank.game.BuffName258:寒冰庇护
+tank.game.BuffName259:稳如泰山
+tank.game.BuffName260:稳如泰山
+tank.game.BuffName261:稳如泰山
+tank.game.BuffName262:稳如泰山
+tank.game.BuffName263:小强意志
+tank.game.BuffName264:小强意志
+tank.game.BuffName265:小强意志
+tank.game.BuffName266:小强意志
+tank.game.BuffName267:净化之源
+tank.game.BuffName268:净化之源
+tank.game.BuffName269:净化之源
+tank.game.BuffName270:净化之源
+tank.game.BuffName271:治疗祝福
+tank.game.BuffName272:治疗祝福
+tank.game.BuffName273:治疗祝福
+tank.game.BuffName274:治疗祝福
+tank.game.BuffName275:天赐防护
+tank.game.BuffName276:天赐防护
+tank.game.BuffName277:天赐防护
+tank.game.BuffName278:天赐防护
+tank.game.BuffName279:神圣祝福
+tank.game.BuffName280:神圣祝福
+tank.game.BuffName281:神圣祝福
+tank.game.BuffName282:神圣祝福
+tank.game.BuffName283:神圣护盾
+tank.game.BuffName284:神圣护盾
+tank.game.BuffName285:神圣护盾
+tank.game.BuffName286:神圣护盾
+tank.game.BuffName287:神圣治愈
+tank.game.BuffName288:神圣治愈
+tank.game.BuffName289:神圣治愈
+tank.game.BuffName290:神圣治愈
+tank.game.BuffName300:战神护体
+tank.game.BuffName400:疯狂的血
+tank.game.BuffName401:疯狂的攻击
+tank.game.BuffName402:超级生命
+tank.game.BuffName403:超级攻击
+tank.game.BuffName404:合金弹头
+tank.game.BuffName405:远古祝福
+tank.game.BuffName406:伤害增益
+tank.game.BuffName14:军衔血量加成
+tank.game.BuffName15:军衔血量加成
+tank.game.BuffName16:军衔血量加成
+tank.game.BuffTip215:攻击命中时额外增加{0}点伤害.
+tank.game.BuffTip216:攻击命中时额外增加{0}点伤害.
+tank.game.BuffTip217:攻击命中时额外增加{0}点伤害.
+tank.game.BuffTip218:攻击命中时额外增加{0}点伤害.
+tank.game.BuffTip219:每次轮到自己回合激怒值额外增加{0}点.
+tank.game.BuffTip220:每次轮到自己回合激怒值额外增加{0}点.
+tank.game.BuffTip221:每次轮到自己回合激怒值额外增加{0}点.
+tank.game.BuffTip222:每次轮到自己回合激怒值额外增加{0}点.
+tank.game.BuffTip223:命中时出现暴击,则额外增加{0}点暴击伤害.
+tank.game.BuffTip224:命中时出现暴击,则额外增加{0}点暴击伤害.
+tank.game.BuffTip225:命中时出现暴击,则额外增加{0}点暴击伤害.
+tank.game.BuffTip226:命中时出现暴击,则额外增加{0}点暴击伤害.
+tank.game.BuffTip227:移动时不消耗体力,并且增加全属性{0}点.
+tank.game.BuffTip228:移动时不消耗体力,并且增加全属性{0}点.
+tank.game.BuffTip229:移动时不消耗体力,并且增加全属性{0}点.
+tank.game.BuffTip230:移动时不消耗体力,并且增加全属性{0}点.
+tank.game.BuffTip231:攻击命中时可额外增加{0}点怒气值.
+tank.game.BuffTip232:攻击命中时可额外增加{0}点怒气值.
+tank.game.BuffTip233:攻击命中时可额外增加{0}点怒气值.
+tank.game.BuffTip234:攻击命中时可额外增加{0}点怒气值.
+tank.game.BuffTip235:攻击、防御、敏捷、幸运属性各增加{0}点.
+tank.game.BuffTip236:攻击、防御、敏捷、幸运属性各增加{0}点.
+tank.game.BuffTip237:攻击、防御、敏捷、幸运属性各增加{0}点.
+tank.game.BuffTip238:攻击、防御、敏捷、幸运属性各增加{0}点.
+tank.game.BuffTip239:血量上限增加{0}点.
+tank.game.BuffTip240:血量上限增加{0}点.
+tank.game.BuffTip241:血量上限增加{0}点.
+tank.game.BuffTip242:血量上限增加{0}点.
+
+tank.game.BuffTip243:被击中时可减少{0}点的伤害.
+tank.game.BuffTip244:被击中时可减少{0}点的伤害.
+tank.game.BuffTip245:被击中时可减少{0}点的伤害.
+tank.game.BuffTip246:被击中时可减少{0}点的伤害.
+
+tank.game.BuffTip2431:受到米诺陶诺斯伤害减少百分之{0}.
+tank.game.BuffTip2441:受到米诺陶诺斯伤害减少百分之{0}.
+tank.game.BuffTip2451:受到米诺陶诺斯伤害减少百分之{0}.
+tank.game.BuffTip2461:受到米诺陶诺斯伤害减少百分之{0}.
+
+tank.game.BuffTip247:攻击命中时额外提高{0}%的伤害.
+tank.game.BuffTip248:攻击命中时额外提高{0}%的伤害.
+tank.game.BuffTip249:攻击命中时额外提高{0}%的伤害.
+tank.game.BuffTip250:攻击命中时额外提高{0}%的伤害.
+tank.game.BuffTip251:进入关卡时初始携带{0}点怒气.
+tank.game.BuffTip252:进入关卡时初始携带{0}点怒气. 
+tank.game.BuffTip253:进入关卡时初始携带{0}点怒气. 
+tank.game.BuffTip254:进入关卡时初始携带{0}点怒气.
+tank.game.BuffTip255:每回合受到的灼烧伤害可减少{0}点.
+tank.game.BuffTip256:每回合受到的灼烧伤害可减少{0}点.
+tank.game.BuffTip257:每回合受到的灼烧伤害可减少{0}点.
+tank.game.BuffTip258:每回合受到的灼烧伤害可减少{0}点.
+tank.game.BuffTip259:可在邪炎巨龙的怒吼攻击中屹立不动,并且增加全属性{0}点.
+tank.game.BuffTip260:可在邪炎巨龙的怒吼攻击中屹立不动,并且增加全属性{0}点.
+tank.game.BuffTip261:可在邪炎巨龙的怒吼攻击中屹立不动,并且增加全属性{0}点.
+tank.game.BuffTip262:可在邪炎巨龙的怒吼攻击中屹立不动,并且增加全属性{0}点.  
+tank.game.BuffTip263:防御属性提高{0}%.
+tank.game.BuffTip264:防御属性提高{0}%.
+tank.game.BuffTip265:防御属性提高{0}%.
+tank.game.BuffTip266:防御属性提高{0}%.
+tank.game.BuffTip267:每回合受到的中毒伤害可减少{0}点.
+tank.game.BuffTip268:每回合受到的中毒伤害可减少{0}点.
+tank.game.BuffTip269:每回合受到的中毒伤害可减少{0}点.
+tank.game.BuffTip270:每回合受到的中毒伤害可减少{0}点.
+tank.game.BuffTip271:天使的治疗效果可额外增加{0}点血量.
+tank.game.BuffTip272:天使的治疗效果可额外增加{0}点血量.
+tank.game.BuffTip273:天使的治疗效果可额外增加{0}点血量.
+tank.game.BuffTip274:天使的治疗效果可额外增加{0}点血量.
+tank.game.BuffTip275:能抵御拳击手的重拳攻击,并且增加全属性{0}点.
+tank.game.BuffTip276:能抵御拳击手的重拳攻击,并且增加全属性{0}点.
+tank.game.BuffTip277:能抵御拳击手的重拳攻击,并且增加全属性{0}点.
+tank.game.BuffTip278:能抵御拳击手的重拳攻击,并且增加全属性{0}点.
+tank.game.BuffTip279:增加{0}点生命值.
+tank.game.BuffTip280:增加{0}点生命值.
+tank.game.BuffTip281:增加{0}点生命值.
+tank.game.BuffTip282:增加{0}点生命值.
+
+tank.game.BuffTip283:伤害和护甲增加{0}点.
+tank.game.BuffTip284:伤害和护甲增加{0}点.
+tank.game.BuffTip285:伤害和护甲增加{0}点.
+tank.game.BuffTip286:伤害和护甲增加{0}点.
+
+tank.game.BuffTip287:救治中毒的小鸡士兵恢复血量额外增加{0}点.
+tank.game.BuffTip288:救治中毒的小鸡士兵恢复血量额外增加{0}点.
+tank.game.BuffTip289:救治中毒的小鸡士兵恢复血量额外增加{0}点.
+tank.game.BuffTip290:救治中毒的小鸡士兵恢复血量额外增加{0}点.
+
+tank.game.BuffTip300:全属性加{0}%,持续1场战斗,仅在竞技场战斗中有效.
+
+tank.game.BuffTip400:增加{0}点生命值.
+tank.game.BuffTip401:攻击力增加{0}.
+tank.game.BuffTip402:增加{0}点生命值.
+tank.game.BuffTip403:攻击力增加{0}.
+tank.game.BuffTip404:大范围攻击,很牛...
+tank.game.BuffTip405:伤害增加{0}.
+tank.game.BuffTip406:伤害增加{0}.
+
+tank.game.BuffTip11:血量上限增加{0}点.
+tank.game.BuffTip14:血量上限增加{0}%.
+tank.game.BuffTip12:攻击命中时额外增加{0}点伤害.
+tank.game.BuffTip13:每次轮到自己回合激怒值额外增加{0}点.
+tank.game.BuffTip17:攻击、防御、敏捷、幸运属性各增加{0}点.
+tank.game.BuffTip18:血量上限增加{0}点.
+tank.game.BuffTip19:被击时可减少{0}点伤害
+tank.game.BuffTip20:攻击命中时额外提高{0}%的伤害.
+tank.game.BuffTip21:进入关卡时初始携带{0}点怒气.
+tank.game.BuffTip22:每回合受到的灼烧伤害可减少{0}点.
+tank.game.BuffTip23:可在邪炎巨龙的怒吼攻击中屹立不动.
+tank.game.BuffTip24:防御属性提高{0}%.
+tank.game.BuffTip25:每回合受到的中毒伤害可减少{0}点.
+tank.game.BuffTip26:天使的治疗效果可额外增加{0}点血量.
+tank.game.BuffTip27:能抵御拳击手的重拳攻击.
+tank.game.BuffTip31:每次攻击伤害的3%将转换为自己的生命值.
+tank.game.BuffTip32:每次被攻击时,将承受伤害的5%反弹给攻击你的玩家,但是不会反弹死玩家.
+tank.game.BuffTip101:受到的治疗效果提高{0}点.
+tank.game.BuffTip102:伤害增加{0}点.
+tank.game.BuffTip103:暴击伤害增加{0}点.
+tank.game.BuffTip104:增加人物等级血量上限{0}%点.
+tank.game.BuffTip105:提升攻防敏幸属性{0}点.
+tank.game.BuffTip106:移动消耗体力降低{0}%.
+tank.game.BuffTip107:体力值上限增加{0}点.
+tank.game.BuffTip108:增加效果回合.
+tank.game.BuffTip109:战斗获得功勋增加{0}倍.
+tank.game.BuffTip110:战斗经验、翻牌金币获取增加{0}%.
+tank.game.BuffTip111:使用加血道具时加血量增加{0}%.
+tank.game.BuffTip112:攻击时可使对方怒气减少{0}%.
+
+
+tank.game.BuffNameLucky:幸运数字“{0}”
+tank.game.BuffTip40:战斗中{0}增加{1}点
+tank.game.BuffTip41:战斗中经验x{0}倍
+tank.game.BuffTip42:战斗中功勋x{0}倍
+tank.game.BuffTip43:战斗经验两倍<br>战斗功勋两倍<br>战斗中血量增加{0}
+tank.game.BuffTip44:战斗经验两倍<br>战斗功勋两倍<br>战斗中攻击增加{0}
+tank.game.BuffTip45:战斗经验两倍<br>战斗功勋两倍<br>战斗中防御增加{0}
+tank.game.BuffTip46:战斗经验两倍<br>战斗功勋两倍<br>战斗中幸运增加{0}
+tank.game.BuffTip47:战斗经验两倍<br>战斗功勋两倍<br>战斗中护甲增加{0}
+tank.game.BuffTip48:战斗经验两倍<br>战斗功勋两倍<br>战斗中伤害增加{0}
+tank.game.BuffTip49:战斗中{0}增加{1}点
+
+tank.invite.InviteView.request: 邀请
+tank.invite.InviteView.list:刷新列表
+tank.invite.response.title:来自 “{0}” 的邀请
+tank.invite.InviteView.close:关闭
+tank.bagAndInfo.ColorShell.NoWeapon:您未装备武器,无法使用.
+tank.room.ToShopConfirm:您将退出房间进入商城,确定要进入商城吗?
+tank.room.RoomIIController.weapon:Không có vũ khí,không thể bắt đầu
+tank.room.RoomIIController.reduceGains:此副本收益减少.
+tank.room.RoomIIMapSet.room2: 修改房间信息
+tank.room.RoomIIPlayerItem.new: 无
+tank.room.RoomIIPlayerItem.position: 至少保留一个位置.
+tank.room.RoomIIView2.kick: 你已被踢出房间.
+tank.roomlist.RoomListIIBGView.room: 房间人数已满.
+tank.roomlist.RoomIsStart:房间已开始游戏
+tank.roomlist.RoomListIICreateRoomView.name: 房间名不能为空.
+tank.roomlist.RoomListIICreateRoomView.string: 房间名存在非法字符.
+tank.roomlist.RoomListIICreateRoomView.set: 请设置你的房间密码.
+tank.roomlist.RoomListIIFindRoomPanel.search:查找房间
+tank.roomlist.RoomListIIFindRoomPanel.id: 请输入房间ID号.
+tank.roomlist.RoomListIIPassInput.write: 请输入密码
+tank.roomlist.siftAllFb:全部副本
+tank.movement.MovementRightView.pass: 请输入卡密
+tank.serverlist.ServerListPosView.choose: 请选择服务器
+tank.serverlist.ServerListPosView.low: 您的等级过低,无法进入此服务器,请选择合适的频道进行游戏.
+tank.serverlist.ServerListPosView.full: 人数已满,请选择其他频道!
+tank.serverlist.ServerListPosView.maintenance: 该频道在维护中,请选择其他频道!
+shop.RechargeView.RechargeBtnText:点券充值
+shop.RechargeView.NeedToPayText:您需要支付
+shop.RechargeView.BuyText:您购买了      件礼品
+shop.RechargeView.HaveOwnText:您目前拥有
+shop.RechargeView.TicketText:点券
+shop.RechargeView.TicketTextI:(绑定)点券
+shop.RechargeView.GiftTextI:勋章
+shop.RechargeView.GiftText:绑定点券
+shop.RechargeView.AmountOfItemTipText:您有     件商品需要续费
+shop.SetsTitle:激活梅恩兰德的祝福
+shop.setsshopview.commodity:活动期间一次购买所有功能只需 <font COLOR='#FF0000'>99</font> (绑定)点券
+shop.ShopIIBtnPanel.stipple: 点券不足
+shop.ShopIIModel.car: 购物车已满
+shop.Shop.car: 购物车
+shop.ShopIIPresentView.give: 请设置赠送对象
+shop.ShopIIPresentView.space: 赠送对象不能全部为空格
+shop.ShopIISaveFigurePanel.point: 点
+shop.ShopIIShoppingCarItem.day:天
+shop.ShopIIShoppingCarItem.gold:金币
+shop.ShopIIShoppingCarItem.forever:永久 
+shop.PresentFrame.ComboBoxLabel:赠送给
+shop.PresentFrame.ChooseFriendButtonText:选择好友
+shop.PresentFrame.OkBtnText:确定
+shop.PresentFrame.CancelBtnText:取消
+shop.CheckOutView.NeedToPayTipText:需要支付
+shop.CheckOutView.CommodityNumberTip:共计       件商品
+shop.CheckOutView.CommodityPricesText1Label:点券
+shop.CheckOutView.CommodityPricesText2Label:绑定点券
+shop.CheckOutView.CommodityPricesText3Label:勋章  
+shop.ShopLeftView.BodyInfo.RandomBtnText:随机
+shop.ShopLeftView.BodyInfo.RankingtLabel:排名
+shop.ShopLeftView.BodyInfo.RandomBtnTipText:随机搭配一个造型
+shop.ShopLeftView.BodyInfo.LastEquipTipText:还原到上一步形象
+shop.ShopLeftView.MoneyPanelTip:您目前拥有
+shop.ShopLeftView.CartPaneText:我的钱包
+shop.ShopLeftView.ColorPaneText:调色板
+shop.ShopRightView.TopBtn.PurchaseArea:购买区
+shop.ShopRightView.TopBtn.ExchangeArea:兑换区
+shop.ShopRightView.TopBtn.VIP:VIP
+shop.ShopRightView.TopBtn.FashionArea:时装区
+shop.ShopRightView.TopBtn.propArea:道具区
+shop.ShopRightView.TopBtn.discount:打折区
+shop.ShopRightView.SubBtn.Fashion:时装
+shop.ShopRightView.SubBtn.Bubble:泡泡
+shop.ShopRightView.SubBtn.prop:道具
+shop.ShopRightView.SubBtn.weapon:武器
+shop.ShopRightView.SubBtn.cloth:衣服
+shop.ShopRightView.SubBtn.hat:帽子
+shop.ShopRightView.SubBtn.huizhang:徽章
+shop.ShopRightView.SubBtn.glasses:眼镜
+shop.ShopRightView.SubBtn.ring:饰品
+shop.ShopRightView.SubBtn.hair:头发
+shop.ShopRightView.SubBtn.eye:眼睛
+shop.ShopRightView.SubBtn.face:脸饰
+shop.ShopRightView.SubBtn.suit:变装
+shop.ShopRightView.SubBtn.wing:装饰
+shop.ShopRightView.SubBtn.SpecialProps:特权道具
+shop.ShopRightView.SubBtn.special:特殊类
+shop.ShopRightView.SubBtn.giftMedalAll:全部
+shop.ShopRankingView.SearchBtnText:搜索
+store.view.fusion.AccessoryDragInArea.overdue: 此物品已过期
+store.view.fusion.LoadStrengthenListError:加载强化列表失败!
+store.view.fusion.AccessoryDragInArea.type: 该类物品已满或类型不符!
+store.view.fusion.TransferItemCell.object:该装备类型不符!
+store.view.fusion.TransferItemCell.current:当前类型不符!
+store.view.fusion.TransferItemCell.put:请放入相同部位的装备.
+store.view.fusion.AccessoryFrame.add: 附加物品
+store.view.fusion.AccessoryItemCell.overdue: 此物品已过期!
+store.view.fusion.StoreIIFusionBG.MaterialCellText:材料
+store.view.transfer.StoreIITransferBG.expTips:转换后,超出强化上限的\n经验将作为存储经验存\n在装备上.
+store.view.transfer.StoreIITransferBG.point:您的点券不足,是否立即充值?
+store.view.transfer.StoreIITransferBG.sure:是否互换两件装备的属性?
+store.view.transfer.StoreIITransferBG.sure2:是否互换两件装备的属性以及强化?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> 注：转换后两装备和角色绑定.</FONT>
+store.view.transfer.StoreIITransferBG.put:请放入相同部位的装备.
+store.view.transfer.StoreIITransferBG.move:转换说明
+store.view.transfer.expErrorMessage:转换经验大于当前装备所能获得的经验!
+store.view.transfer.HoleBeforeLabel:强化孔宝珠
+store.view.transfer.HoleAfterLabel:封印孔宝珠
+store.view.transfer.HoleLabel:是否互换两件装备的强化、合成和选中的属性?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> 注：转换后两装备和角色绑定.</FONT>
+store.view.transfer.HoleTipsText:是否互换两件装备的属性、封印孔和选中的珠宝?
+store.view.transfer.HoleNoteText:注：转移以后两件装备和角色绑定
+store.view.transfer.EmptyItem:请继续放入装备或武器!
+store.view.transfer.NoItem:您未放入装备或武器!
+store.view.GuildManagerText:设施管理
+store.view.HelpButtonText:帮助说明
+store.StoreBagView.EquipmentTitleText:装备
+store.StoreBagView.JewelryTitleText:饰品
+store.StoreBagView.MaterialTitleText:材料
+store.StoreBagView.ItemTitleText:道具
+store.StoreBagView.EquipmentTip.StrengthText:请双击选择您要强化的装备
+store.StoreBagView.EquipmentTip.EmbedText:请双击选择您要镶嵌的装备
+store.StoreBagView.EquipmentTip.ComposeText:请选择您要合成的物品
+store.StoreBagView.EquipmentTip.TransferText:请双击选择您要转换的装备
+store.StoreBagView.EquipmentTip.SpliteText:请双击选择您要分解的装备
+store.StoreBagView.EquipmentTip.refiningText:请双击选择您要精炼的装备
+store.StoreBagView.ItemTip.Text1:然后请双击选择您要使用的道具
+store.StoreBagView.ItemTip.Text2:然后请选择您要使用的道具
+store.ComposeItemCell.up: 该装备已经合成到最高级.
+store.StrengthItemCell.up: 该装备已经强化到最高级. 
+store.storeRefiningBG.checkBtnTips:勾选连续精炼后,会一直精炼到材料用完.
+store.storeRefiningBG.numberMCexp:经验 + 
+store.storeRefiningBG.numberMCCrit:<font size='14' COLOR='#FF0000'><b>暴击</b></font>获得双倍经验 + 
+store.storeRefiningBG.noequip:请放入首饰.
+store.storeRefiningBG.noitem:材料不足.
+store.storeRefiningBG.levelLimit:该饰品已精炼到满级!
+store.storeRefiningBG.itemNOEnough:材料不足!
+store.storeRefiningBG.upgrade:精炼成功!
+store.storeRefiningBG.doing:请中断连续精炼再进行操作!
+store.storeRefiningBG.goldTxt:所需金币
+store.storeRefiningBG.needCount:所需数量:
+store.storeRefiningBG.refiningLevelText:当前:
+store.storeRefiningBG.equipcell.txt:当前\n饰品
+store.storeRefiningBG.itemcell.txt:精炼石
+store.StoreIIComposeBG.strengthLevelText:当前强化等级:
+store.StoreIIComposeBG.selectComposeItem:请选择要合成的物品!
+store.StoreIIComposeBG.noEnoughMaterial:材料不足!
+store.StoreIIComposeBG.noEnoughRune:材料不足，可在商城道具区购买获得!
+store.StoreIIComposeBG.noEnoughMaterial1:请先卸下符文，再执行该操作
+store.StoreIIComposeBG.onlyMax:每次最多只能合成{0}件
+store.StoreIIComposeBG.composing:正在合成...
+store.StoreIIComposeBG.cannotCompose:此物品不能合成!
+store.StoreIIComposeBG.noEnoughMeterial:您的材料不足!无法合成!
+store.StoreIIComposeBG.showTimeText:装备制造中 
+store.StoreIIComposeBG.timeComplete:装备制造完毕
+store.StoreIIComposeBG.cannotSplit:此物品不能分解!
+store.StoreIIComposeBG.say:合成说明
+store.StoreIIComposeBG.use:使用绑定的道具将会使您的装备<br>成为绑定状态,是否继续操作?
+store.StoreIIStrengthBG.say:强化说明
+store.StoreIIEmbedBG.say:镶嵌说明
+store.StoreRefiningBG.say:精炼说明
+store.StoreIIStrengthBG.use:使用绑定的道具将会使您的装备<br>成为绑定状态,是否继续操作?
+store.StoreIIComposeBG.use:合成后的物品将为绑定状态<br>是否继续操作?
+store.StoreIIComposeBG.composeItemView.equip:装备
+store.StoreIIComposeBG.composeItemView.jewelry:饰品
+store.StoreIIComposeBG.composeItemView.pro:道具
+store.StoreIIComposeBG.composeItemView.merterial:材料
+store.StoreIIComposeBG.composeItemView.comboxText1:请选择装备
+store.StoreIIComposeBG.composeItemView.comboxText2:请选择材料
+store.StoreIIComposeBG.composeItemView.comboxText3:请选择饰品
+store.StoreIIComposeBG.composeItemView.comboxText5:请选择道具
+store.StoreIIComposeBG.composeItemView.comboxText4:请选择装备品质
+store.StoreIIComposeBG.composeItemView.comboxNotice:请先选择装备
+store.StoreIIcompose.composeSkill:合成公式
+store.StoreIIcompose.composeItemView.accelerateAlert:你确定花费{0}(绑定)点券加速吗?
+store.StoreIIcompose.composeItemView.accelerateAlert1:你确定花费<FONT COLOR='#FF0000'>{0}</FONT>(绑定)点券催熟吗?
+store.Strength.Succes.ChatSay:恭喜您强化成功!
+ddt.farm.goFarm.hasGrownUP:作物已成熟,催熟失败!
+store.Strength.VipDiscountDesc:VIP5级以上强化经验加成50%
+store.Strength.GoodPanelText.StrengthStone:强化石
+store.Strength.GoodPanelText.LuckySymbol:幸运符
+store.Strength.GoodPanelText.GodSymbol:神恩符
+store.Strength.StrengthenEquipmentCellText:装备
+store.Strength.StrengthenEquipmentCellText1:饰品
+store.Strength.StrengthenEquipmentCellText2:材料
+store.Strength.StrengthenCurrentEquipmentCellText:当 前\n装 备
+store.Strength.BuyButtonText:购买
+store.Strength.SuccessRate.BasicText:基础值
+store.Strength.SuccessRate.LuckyText:幸运符
+store.Strength.SuccessRate.GuildText:公会加成
+store.Strength.SuccessRate.VipText:VIP加成
+store.Strength.SuccessRate.TotalText:总成功率
+store.Strength.SuccessExp.BasicText:基础值
+store.Strength.SuccessExp.LuckyText:幸运符
+store.Strength.SuccessExp.GuildText:公会加成
+store.Strength.SuccessExp.VipText:VIP加成
+store.Strength.SuccessExp.TotalText:总值
+store.Compose.ComposeStone:合成石
+store.Fusion.FusionCellText:生成物
+store.Embed.OpenHoleText:开孔
+store.Embed.BackoutDownText:拆除
+store.Embed.BackoutText:拆除宝珠
+store.Embed.EmbedAlertFrame.TipText:拆除宝珠会消耗  <FONT COLOR='#FF0000'>{0}点券</FONT>, 是否继续?
+store.Embed.EmbedAlertFrame.EmbedTipText:镶嵌宝珠会消耗  <FONT COLOR='#FF0000'>2000G</FONT>, 是否继续?
+store.Transfer.NeededGoldTipText:所需金币
+store.Transfer.strengthExp:强化经验：
+store.Transfer.saveExp:储存经验：
+store.ShortcutBuyFrame.TotalCostTipText:你总共需要支付
+store.Transfer.Succes.ChatSay:恭喜您转换成功!
+store.Embed.Succes.ChatSay:恭喜您镶嵌成功!
+store.Compose.Succes.ChatSay:恭喜您合成成功!
+store.Compose.composeItemView.nothings:您未学任何合成公式!
+store.storeTip.hurt:伤{0}害{1}{2}
+store.storeTip.chatHurt:武器伤害提升{0}点.
+store.storeTip.Armor:护{0}甲{1}{2}
+store.storeTip.chatArmor:装备护甲提升{0}点.
+store.Embed.OpenHole.NoDrill:背包中没有{0}级开孔钻头.
+store.storeTip.openHole:新开插孔 
+store.storeTip.AddHP:恢{0}复{1}{2}
+store.storeTip.chatAddHP:副手恢复提升{0}点.
+store.storeTip.subHurt:减{0}伤{1}{2}
+store.storeTip.chatSubHurt:副手减伤提升{0}点.
+store.storeTip.clothOpenDefense:防御
+store.storeTip.weaponOpenAttack:攻击
+store.storeTip.weaponOpenProperty:属性
+store.storeTip.OpenDefense:新开防御宝珠插孔!
+store.storeTip.OpenAttack:新开攻击宝珠插孔!
+store.storeTip.OpenProperty:新开属性宝珠插孔!
+tank.data.auctionHouse.AuctionGoodsInfo.short: 短
+tank.data.auctionHouse.AuctionGoodsInfo.middle: 中
+tank.data.auctionHouse.AuctionGoodsInfo.long: 长
+tank.data.auctionHouse.AuctionGoodsInfo.very: 非常长
+tank.data.channel.ChannelType.current: 当前
+tank.data.channel.ChannelType.house: 公会
+tank.data.player.SelfInfo.this:此物品不可使用
+tank.data.player.SelfInfo.object: 物品所需性别不同,不能装备.
+tank.data.player.SelfInfo.need: 您的等级过低,物品无法装备.
+tank.data.EmailInfo.test: 中华人民共和国中华人民共和国中华人民共和国中华人民共和国中华人民共和国保人
+tank.data.EmailInfo.email: 邮件测试中...........
+tank.data.EmailInfo.random: 随便测试
+tank.data.EquipType.weapon: 武器
+tank.data.EquipType.TEMPARMLET: 临时手鐲
+tank.data.EquipType.tempTEMPRING: 临时戒指
+tank.data.EquipType.tempweapon: 临时武器
+tank.data.EquipType.head: 帽子
+tank.data.EquipType.glass: 眼镜
+tank.data.EquipType.hair: 头发
+tank.data.EquipType.face: 脸饰
+tank.data.EquipType.clothing: 衣服
+tank.data.EquipType.eye: 眼睛
+tank.data.EquipType.bangle: 手鐲
+tank.data.EquipType.finger: 戒指
+tank.data.EquipType.prop: 道具
+tank.data.EquipType.tool: 战斗道具
+tank.data.EquipType.normal: 功能道具
+tank.data.EquipType.embedStone: 符文
+tank.data.WebSpeedInfo.good: 良好
+tank.data.WebSpeedInfo.find: 通畅
+tank.data.WebSpeedInfo.bad: 极差
+tank.manager.ChatManager.tool:没有相应道具,不能使用该功能.
+tank.manager.MailManager.delete: 邮件删除成功
+tank.manager.MailManager.false: 邮件删除失败
+tank.manager.MailManager.back: 退回邮件成功!
+tank.manager.MailManager.return: 退回邮件失败!
+tank.manager.MapManager.random:随机地图
+tank.manager.PlayerManager.one: 公会：<{0}> 已经通过了你的申请!
+tank.consortia.onConsortiaEquipControl.executeSuccess:操作成功.
+tank.consortia.onConsortiaEquipControl.executeFail:操作失败.
+tank.consortia.club.CreatConsortiaFrame.titleText:创建公会
+tank.manager.PlayerManager.your: 你所在的公会已经解散!!
+tank.manager.PlayerManager.hit: 你已经被踢出公会!!
+tank.manager.PlayerManager.request: 公会邀请
+tank.manager.PlayerManager.come: 邀请你进入&lt;{0}&gt;公会
+tank.manager.PlayerManager.sure:确认加入
+tank.manager.PlayerManager.refuse:拒绝加入
+tank.manager.RoomManager.type: 暂时没有符合的房间类型!
+tank.manager.RoomManager.break:对不起,断线了请刷新页面,重新登录!
+tank.manager.RoomManager.false:对不起,断线了请刷新页面,重新登录!
+tank.manager.StateManager.save: 保存文件,以便下次不再加载
+tank.manager.TaskManager.complete:一键完成
+tank.manager.TaskManager.complete.remained:剩余次数:{0}
+tank.manager.TaskManager.viptip:VIP1可获得2星任务奖励,VIP6以上可获得3星任务奖励
+tank.manager.TaskManager.completeText: 您是否花费 <FONT COLOR='#f43636'>{0}</FONT> (绑定)点券完成任务? 
+tank.manager.TaskManager.improveText: 您是否要花费 <FONT COLOR='#f43636'>{0}</FONT> (绑定)点券提升任务奖励?
+tank.manager.TaskManager.oneKeyCompleteTimesOver:您今天的一键完成次数已用完
+tank.manager.TaskManager.GoToConsortia:点击进入公会
+tank.manager.TaskManager.buySpinel:购买神秘晶石
+tank.manager.TaskManager.DownloadClient:下载登录器
+tank.manager.TaskManager.VipDescTxt:VIP6可获得3星奖励
+tank.request.LoadServerListAction.server: 服务器维护中,请稍后再试!
+ddt.UseGoodsFrame.title:打 开
+tank.UseGoodsFrame.number:请输入使用数量.
+tank.view.bagII.BreakGoodsView.split:Tách ra
+tank.view.bagII.BreakGoodsView.num:Số lượng
+tank.view.bagII.BreakGoodsView.number:Số lượng tách
+tank.view.bagII.BreakGoodsView.input:Hãy nhập vào số lượng tách
+tank.view.bagII.BreakGoodsView.right:Số lượng tách không chính xác
+tank.view.bagII.GoodsTipPanel.setPurpleHtmlTxt:<FONT COLOR='#FF9933'>{0}</FONT><FONT COLOR='#E82EFE'>{1}</FONT><FONT COLOR='#FF9933'>{2}</FONT>
+tank.view.bagII.GoodsTipPanel.gp:经验
+tank.view.bagII.GoodsTipPanel.maxGP:经验上限
+tank.view.bagII.GoodsTipPanel.fire:Công kích
+tank.view.bagII.GoodsTipPanel.recovery:Phòng thủ
+tank.view.bagII.GoodsTipPanel.agility:Nhanh nhẹn
+tank.view.bagII.GoodsTipPanel.lucky:May mắn
+tank.view.bagII.GoodsTipPanel.need:Đẳng cấp
+tank.view.bagII.GoodsTipPanel.man:Giới tính: Nam
+tank.view.bagII.GoodsTipPanel.woman:Giới tính: Nữ
+tank.view.bagII.GoodsTipPanel.display:(Thất bại không mất)
+tank.view.bagII.GoodsTipPanel.may:Có thể cường hóa
+tank.view.bagII.GoodsTipPanel.compose:Có thể hợp thành
+tank.view.bagII.GoodsTipPanel.strong:Có thể cường hóa
+tank.view.bagII.GoodsTipPanel.intensify:Cường hóa cấp {0} 
+tank.view.bagII.GoodsTipPanel.he:Hợp thành
+tank.view.bagII.GoodsTipPanel.z:Tấn công
+tank.view.bagII.GoodsTipPanel.x:Phòng thủ
+tank.view.bagII.GoodsTipPanel.q:Nhanh nhẹn
+tank.view.bagII.GoodsTipPanel.b:May mắn
+tank.view.bagII.GoodsTipPanel.use:Hiệu lực vĩnh cữu
+tank.view.bagII.GoodsTipPanel.less:Còn lại
+tank.view.bagII.GoodsTipPanel.time:Hiệu lực
+tank.view.bagII.GoodsTipPanel.over:Đã quá hạn
+tank.view.bagII.GoodsTipPanel.hechengshi:Đá hợp thành
+tank.view.bagII.GoodsTipPanel.qianghuashi:Đá cường hóa
+tank.view.bagII.GoodsTipPanel.renwu:Nhiệm vụ
+tank.view.bagII.GoodsTipPanel.bangding:Kiểu khóa:Sử dụng
+tank.view.bagII.GoodsTipPanel.zhuangbei:Kiểu khóa:Trang bị
+tank.view.common.AddPricePanel.xufei2:        Loại tiếp phí:
+tank.view.common.AddPricePanel.xu:Nạp phí
+tank.view.common.AddPricePanel.sure:Bạn muốn xóa vật phẩm này?
+tank.view.common.AddPricePanel.pay:Xác nhận trả tiền?
+tank.game.ToolStripView.friend:社交
+tank.game.ToolStripView.recentContact:最近联系人
+tank.game.IM.custom:添加自定义组
+tank.game.ToolStripView.face:表情
+tank.game.ToolStripView.chat:快速聊天
+tank.game.ToolStripView.set:设置
+tank.game.ToolStripView.pet:宠物
+tank.game.ToolStripView.sign:活动
+tank.game.ToolStripView.exit:退出
+tank.game.ToolStripView.transparent:透明
+tank.game.ToolStripView.mouseState:鼠标模式
+tank.game.ToolStripView.keboardState:键盘模式
+tank.game.ToolStripView.task:任务
+tank.roomlist.RoomListIIRoomBtnPanel.createRoom:创建游戏房间
+tank.roomlist.RoomListIIRoomBtnPanel.findRoom:查找一个房间
+tank.view.common.BellowStripViewII.supply: 充值
+tank.view.common.BellowStripViewII.shop: 商城
+tank.view.common.BellowStripViewII.bag: 背包
+tank.view.common.BellowStripViewII.email: 邮件
+tank.view.common.BellowStripViewII.back: 返回
+tank.view.common.BellowStripViewII.exit: 退出
+tank.view.common.BellowStripViewII.shortcut: 左键点击,将弹弹堂保存到桌面.
+FPSView.as.InviteAlertPanel.ruguo: 如果您在{0}秒没有反应,系统将默认拒绝!
+FPSView.as.InviteAlertPanel.ModeLabel: 游戏模式：
+FPSView.as.InviteAlertPanel.meifanying: 如果您在15秒没有反应,系统将默认拒绝!
+FPSView.as.InviteAlertPanel.yaoqingniboss: 邀请您加入他的BOSS战房间.
+FPSView.as.InviteAlertPanel.map: 地图名称：
+FPSView.as.InviteAlertPanel.huihetime: 回合时间：
+FPSView.as.InviteAlertPanel.second: 秒
+FPSView.as.InviteAlertPanel.nochoice: 未选
+tank.view.scenechatII.PrivateChatIIView.privatename:私聊
+tank.view.scenechatII.PrivateChatIIView.nick:    玩家昵称:
+tank.view.scenechatII.SceneChatIIController.littleb: ]使用小喇叭广播:
+tank.view.scenechatII.SceneChatIIController.bigb: ]使用大喇叭广播:
+tank.view.scenechatII.SceneChatIIController.sys:
+tank.view.scenechatII.SceneChatIIController.sys0:[
+tank.view.scenechatII.SceneChatIIController.say1:你对[
+tank.view.scenechatII.SceneChatIIController.say2:]说：
+tank.view.scenechatII.SceneChatIIController.say3:]悄悄地说：
+tank.view.scenechatII.SceneChatIIController.say4:[{0}
+
+tank.view.scenechatII.SceneChatIIModel.channel1: 当前
+tank.view.scenechatII.SceneChatIIModel.channel2: 公会
+tank.view.scenechatII.SceneChatIIModel.channel3: 大喇叭
+tank.view.scenechatII.SceneChatIIModel.channel4: 小喇叭
+tank.view.scenechatII.SceneChatIIModel.channel5: 组队
+tank.view.scenechatII.SceneChatIIView.send: 发送信息
+tank.view.scenechatII.SceneChatIIView.fast: 快捷回复
+tank.view.scenechatII.SceneChatIIView.face: 表情
+tank.view.im.AddFriendFrame.add: 添加好友
+tank.view.im.AddFriendFrame.name: 输入昵称
+tank.view.im.IMController.cannot: 不能添加自己为黑名单.
+tank.view.im.IMController.chongfu: 不能重复添加好友.
+tank.view.im.IMController.friend:已添加你为好友.
+tank.view.im.IMController.sameCityfriend:您被r加为同城好友!
+tank.view.task.TaskCatalogContentView.over:(完成)
+tank.view.task.TaskCatalogContentView.tip:提示
+tank.view.task.TaskCatalogContentView.dropTaskIII:任务还没有完成.
+tank.view.emailII.BagFrame.selectBag:请选择背包中的物品添加附件
+tank.view.emailII.EmailIIDiamondView.emailTip:提示：付费邮件
+tank.view.emailII.EmailIIDiamondView.deleteTip:需要扣除
+tank.view.emailII.EmailIIDiamondView.money:点券
+tank.view.emailII.EmailIIStripView.sender:发件人:
+tank.view.emailII.EmailIIStripView.validity:剩余时间:
+tank.view.emailII.EmailIIStripView.day:天
+tank.view.emailII.EmaillIIBagCell.isBinds:此物品已经绑定.
+tank.view.emailII.EmaillIIBagCell.RemainDate:此物品已经过期.
+tank.view.emailII.WritingView.sender:请填写收件人.
+tank.view.emailII.WritingView.annex.tip:添加附件
+tank.view.emailII.WritingView.NickName:不能给自己发邮件.
+tank.view.emailII.WritingView.topic:请填写邮件主题
+tank.view.emailII.WritingView.contentLength:您输入内容不得超过300字.
+tank.view.emailII.WritingView.annex:付费邮件必须添加附件.
+tank.view.emailII.WritingView.money_txt:请输入点券金额!
+tank.view.emailII.LoadSendInfoError:加载已发邮件信息失败!
+tank.view.emailII.LoadMailAllInfoError:加载所有邮件信息失败!
+tank.view.emailII.WritingView.tip:提示
+tank.view.emailII.WritingView.isEdit:是否取消当前邮件编辑?
+tank.view.im.IMFriendList.online:在线
+tank.view.im.IMFriendList.addFriend:添加好友
+tank.view.im.IMFriendItem.delete:删除
+tank.view.im.IMFriendItem.deleteFriend:确定要删除该好友?
+tank.room.RoomIIPlayerItem.addFriend:加为好友
+tank.room.RoomIIPlayerItem.view:查 看
+tank.room.RoomIIPlayerItem.exitRoom:踢出房间
+tank.view.bagII.BreakGoodsView.wrong2:请输入数量
+shop.ShopIITryDressView.hideHat:帽子
+tank.task.TaskPannelPosView.loginPath:弹弹堂_官方游戏登陆
+tank.menu.Up:升职
+tank.menu.Down:降职
+tank.menu.Invite:邀请入会
+tank.menu.ClubName:公会:
+tank.room.UpdateGameStyle:您的小队加入了公会、自由双排队列.
+tank.manager.PlayerManger.friendOnline:上线了
+tank.data.player.FightingPlayerInfo.your:您获得了
+tank.view.chat.ChatInput.time1:您说话太快,请休息一会!
+tank.view.chat.ChatInput.time2:您输入太快
+tank.room.PickupPanel.ChangeStyle:暂时没有合适的公会参与!<br>是否同时加入自由战等待?
+tank.consortia.club.searchTxt:请输入公会名称
+tank.consortia.club.text:这小子很懒,什么也没留下!
+tank.consortia.club.CreatConsortiaFrame.inputPlease:请输入您要创建的公会名
+tank.consortia.club.CreatConsortiaFrame.yourGrade:您的等级低于13级
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.inputPlease:请输入搜索条件
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.titleText:转让公会
+tank.consortia.myconsortia.frame.LoadMyconsortiaInfoError:加载公会条件信息失败!
+tank.consortia.myconsortia.frame.LoadMemberInfoError:加载公会会员列表信息失败!
+tank.consortia.myconsortia.frame.LoadMyconsortiaLevelError:加载公会等级信息失败!
+tank.consortia.myconsortia.frame.LoadMyconsortiaListError:加载公会列表信息失败!
+tank.consortia.myconsortia.frame.LoadApplyRecordError:加载公会申请记录信息失败!
+tank.consortia.myconsortia.frame.LoadDutyListError:加载公会职位列表信息失败!
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.inputName:请输入玩家昵称:
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.info:提示:只能转让给本公会玩家
+tank.consortia.myconsortia.frame.DeleteMemberFrame.titleText:开除成员
+tank.consortia.myconsortia.frame.ExitConsortiaFrame.titleText:退出公会
+tank.consortia.myconsortia.frame.ExitConsortiaFrame.quit:请在输入框中输入“Quit”以确认.
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.long:当前输入文本过长
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.titleText:公会宣言
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.long:当前输入文本过长
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.null:名称不能为空!
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.diffrent:不同权限的职位名不能相同
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.duty:职位名含非法字符!
+tank.consortia.myconsortia.frame.MyConsortiaRightsFrame.titleText:职位管理
+tank.consortia.myconsortia.frame.TaxFrame.titleText:公会捐献
+tank.consortia.myconsortia.frame.MyConsortiaTax.input:输入的点券数必须大于或等于1
+tank.consortia.myconsortia.frame.MyConsortiaTax.info:提示
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleText:公会升级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.okLabel:升 级
+#tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:是否确定升级公会等级?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.explainTxt:大厅已升到最高等级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.null:无
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.upgrade:升级后可发布{0}任务,怪物入侵
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.upgradeI:升级后才可其他建筑等级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.nextLevel:公会大厅{0}级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.nextLevelI:公会{0}级
+tank.consortia.myconsortia.frame.RecruitMemberFrame.titleText:招收成员
+tank.consortia.myconsortia.frame.RecruitMemberFrame.tipTxt:请输入玩家昵称:
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.titleText:审核批准
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.okLabel:招收成员
+tank.consortia.myconsortia.MyConsortiaInfoPane.week:每天将从公会财富中扣除
+tank.consortia.myconsortia.MyConsortiaInfoPane.time:下次扣除时间：
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.offlineTxt:在 线
+tank.consortia.myconsortia.AtLeastChoose:请您至少选择一个条目.
+tank.manager.ChatManagerII.cannot:不能与自己私聊!
+tank.manager.ChatManagerII.you:你没有加入任何公会!
+tank.manager.ChatManagerII.now:你现在没有在队伍中!
+tank.manager.PlayerManager.msg:你所在的公会已解散.
+tank.manager.PlayerManager.invite:邀请通过!
+tank.manager.PlayerManager.success:成功加入<{0}>公会.
+tank.manager.PlayerManager.disband:你所在的公会已解散.
+tank.manager.PlayerManager.delect:你已经被<{0}>移除出公会.
+tank.manager.PlayerManager.leave:你已离开公会
+tank.manager.PlayerManager.upgrade:恭喜您所属的公会升级成功,公会等级上升为{0}级,成员上限提升到{1}人.
+tank.manager.PlayerManager.up:升级成为
+tank.manager.PlayerManager.upsuccess:升级成员成功!
+tank.manager.PlayerManager.upfalse:升级成员失败!
+tank.manager.PlayerManager.downsuccess:降级成员成功!
+tank.manager.PlayerManager.downfalse:降级成员失败!
+tank.manager.PlayerManager.consortia:<{0}>将 <{1}>移除公会
+tank.manager.PlayerManager.leaveconsortia:<{0}>离开公会
+tank.view.bagII.KeySetFrame.titleText:快捷键设置
+tank.view.ChannelList.FastMenu.titleText:更 多
+tank.view.chat.ChannelListSelectView.big:大喇叭
+tank.view.chat.ChannelListSelectView.small:小喇叭
+tank.view.chat.ChannelListSelectView.private:私聊
+tank.view.chat.ChannelListSelectView.consortia:公会
+tank.view.chat.ChannelListSelectView.ream:组队
+tank.view.chat.ChannelListSelectView.current:当前
+tank.view.chat.ChannelListSelectView.invent:副本邀请
+tank.view.chat.ChatCongratulations.text:该信息不可举报.
+tank.view.chat.ChatInput.usernameField.text:告诉[{0}]: 
+chat.FriendList:好友列表
+chat.Expression:表情
+chat.Friend:社交
+chat.FastReply:快速回复
+chat.Send:发送
+tank.view.chat.ChatInputView.channel:本频道30秒内只能发言一次.
+tank.view.chat.FaceTextField.send:发送给
+chat.Lock:点击锁定
+chat.UnLock:点击解锁
+chat.Clear:清屏
+chat.ScrollUp:滚轮向上
+chat.ScrollDown:滚轮向下
+chat.Bottom:到底
+chat.Function:聊天
+chat.frameTitle:即时聊天
+tank.view.chat.SelectPlayerChatView.name:请输入玩家昵称.
+tank.view.common.BuggleView.small:]使用小喇叭广播:
+tank.view.common.BuggleView.big:]使用大喇叭广播:
+tank.view.common.BuggleView.cross:]使用跨区喇叭广播:
+tank.view.common.ConsortiaIcon.middle:中立
+tank.view.common.ConsortiaIcon.enemy:敌对
+tank.view.common.ConsortiaIcon.self:公会全体成员
+tank.view.common.RoomIIPropTip.infinity:无限
+tank.view.common.RoomIIPropTip.consume:消耗体力
+tank.view.common.RoomIIPropTip.Energy:<b>消耗：</b><font color='#f2c834'>{0}体力</font>
+tank.view.common.RoomIIPropTip.Psychic:<b>消耗：</b><font color='#f2c834'>{0}灵力</font>
+tank.view.common.RoomIIPropTip.mp:<b>消耗：</b><font color='#f2c834'>{0}魔法值</font>
+tank.view.common.RoomIIPropTip.Description:<b>功能：</b>\r{0}
+tank.view.im.AddBlackListFrame.titleText:添加黑名单
+tank.view.im.AddBlackListFrame.btnText:加入黑名单
+tank.view.im.AddBlackListFrame.chat:在聊天栏内点击玩家即可获取玩家昵称.
+tank.view.im.IMBlackItem.sure:确认要将此人从黑名单中移除?
+tank.view.im.IMGourp.sure:确认要将自定义组【{0}】删除?
+tank.view.im.IMController.success:操作成功
+tank.view.im.IMController.cannotAddSelfFriend:不能把自己加为好友.
+tank.view.im.IMController.thisplayer:该玩家存在黑名单中
+tank.view.im.IMController.thisone:该玩家目前存在于黑名单,<br>是否添加对方为好友?
+tank.view.im.LoadFriendsListError:加载社区好友列表失败!
+tank.view.quest.bubble.TankLink:[主线]
+tank.view.quest.bubble.BranchLine:[支线]
+tank.view.quest.bubble.Daily:[日常]
+tank.view.quest.bubble.Act:[活动]
+tank.view.quest.bubble.VIP:[老玩家回归]
+tank.view.quest.bubble.Return:[回归]
+tank.game.ToolStripView.itemTemplateInfo.Name:必杀技[B]
+tank.game.ToolStripView.itemTemplateInfo.Description:点击愤怒火焰即可发动必杀技与三叉戟导弹和原子弹道具同时使用无效.
+tank.game.ToolStripView.itemTemplateInfo.Name2:第二必杀技[R]
+tank.game.ToolStripView.itemTemplateInfo.Description2:点击愤怒火焰即可发动第二必杀技与三叉戟导弹同时使用无效.
+tank.room.RoomIIMapSetPanel.room:房间设置
+tank.room.openBossTip.text:开启BOSS战将扣除 {0} (绑定)点券
+tank.roomlist.RoomListIICreateRoomView.titleText:创建房间
+tank.tofflist.view.TofflistLeftCurrentCharcter.cdr:会长
+tank.tofflist.view.TofflistLeftInfo.no:无公会   
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleTxt:公会大厅升级
+tank.view.movement.MovementLeftView.action:活动
+tank.manager.PlayerManager.player:<{0}>加入公会
+tank.game.ToolStripView.cannotExit:游戏开始2分钟后才可使用退出功能.
+tank.data.MovementInfo.begin:从{0}开始
+tank.data.MovementInfo.date:{0}年{1}月{2}日  
+tank.manager.PlayerManager.contributionSelf:你向公会捐献{0}点财富
+tank.manager.PlayerManager.contributionOther:<{0}>向公会捐献{1}点财富
+tank.manager.PlayerManager.youUpgrade:你被<{0}>提升为<{1}>
+tank.manager.PlayerManager.upgradeSelf:你将<{0}>提升为<{1}>
+tank.manager.PlayerManager.upgradeOther:<{0}>将<{1}>提升为<{2}>
+tank.manager.PlayerManager.youDemotion:你被<{0}>降职为<{1}>
+tank.manager.PlayerManager.demotionSelf:你将<{0}>降职为<{1}>
+tank.manager.PlayerManager.demotionOther:<{0}>将<{1}>降职为<{2}>
+choosecharacter.ChooseCharacterView.pass: 恭喜!角色名可以使用!
+choosecharacter.ChooseCharacterView.lost: 角色名已被注册!
+tank.view.common.AddPricePanel.xufei1:此物品已过期,请续费.
+hours:小时
+tank.view.comon.lack:您的点券不足,是否立即充值?
+tank.view.enthrall.turnSwitch:防沉迷开关关闭
+tank.view.enthrall.CIDInfoSetFail:验证失败
+tank.view.enthrall.CIDInfoSetSuccess:验证成功
+tank.view.enthrall.CIDInfoFalse:身份证信息有误,请重新填写
+tank.view.enthrallCheckFrame.checkBtn:开始验证
+tank.view.enthrallCheckFrame.canelBtn:取     消
+tank.view.enthrallCheckFrame.checkCode:验证码
+tank.view.enthrallCheckFrame.checkTitle:实名验证
+tank.view.enthrallCheckFrame.checkAlert:身份证格式不对,请重新填写!
+tank.consortia.club.CreatConsortiaFrame.consortiaName:公会名不能含有非法信息.
+tank.view.changeColor.lackCard:此次变色需消耗{0}（绑定）点券,请问是否继续?
+tank.view.changeColor.text4:装备
+tank.view.changeColor.text5:请单击选择您要变色的装备
+tank.view.changeColor.sexAlert:性别不符
+tank.view.changeColor.VIPshop:VIP5等级特权购买
+tank.view.changeColor.VIPshop1:你的VIP已过期,请续费
+tank.view.buff.PayBuff.Note:VIP免费开启梅恩兰德的祝福
+tank.view.buff.PayBuff.Name:梅恩兰德的祝福
+tank.view.buff.freeCard:激活该功能1天将扣除{0}(绑定)点券,是否继续?
+tank.view.buff.doubleExp:激活该功能将扣除{0}(绑定)点券,是否继续?
+tank.view.buff.preventKick:激活该功能30天将扣除{0}(绑定)点券,是否继续?
+tank.view.buff.addPrice:对该功能续费将扣除{0}(绑定)点券,是否继续?
+tank.view.buff.VipLevelFree:VIP{0}免费
+tank.gameover.DisableGetCard:您所在小队中无人对敌方造成伤害,不能翻牌.
+tank.gameover.VipDescTxt:VIP6翻牌8折
+tank.view.buffInfo.outDate:您的{0}将于{1}分钟后到期
+tank.serverlist.ServerListPosView.your:您等级过高,请选择合适的服务器进行游戏.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consumeTxt:{0} 财富
+crazytank.clickboard:我在玩弹弹堂,感觉很不错,你也一起来玩啊~
+crazytank.copyOK:地址复制成功,粘贴至QQ或MSN发送给好友吧
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua:强化石
+BrowseLeftMenuView.wuqisp:武器碎片
+BrowseLeftMenuView.fuwuqisp:副武器碎片
+choosecharacter.ChooseCharacterView.check_txt:可输入中英文或数字,长度不超过14个字符.
+choosecharacter.ChooseCharacterView.setCheckTxt:恭喜!角色名可以使用.
+choosecharacter.LoadCheckName.m:检测失败!
+church.churchScene.frame.ModifyDiscriptionFrame.spare:剩余
+church.churchScene.frame.PresentFrame.confirm:该操作将扣除
+church.churchScene.menu.MenuPanel.menuClick:婚礼进行中,请稍后
+church.churchScene.SceneControler.timerComplete:您的房间将在10分钟后关闭,请注意续费.
+church.churchScene.SceneControler.timerComplete.msg:您的房间将在10分钟后关闭,请注意续费.
+church.churchScene.SceneControler.startWedding.valid:礼堂剩余时间不足举行婚礼,请及时续费.
+church.churchScene.SceneControler.startWedding.spouse:你的情侣不在场,不能开始典礼.
+church.churchScene.SceneControler.startWedding.isStarted:再次举行婚礼需扣除{0}(绑定)点券,是否继续?
+church.churchScene.SceneControler.startWedding.Money:(绑定)点券少于{0},不能赠送.
+church.churchScene.SceneMask.chatMsg.msg:婚礼倒计时 
+church.churchScene.SceneMask.click:仪式进行中,无法移动.
+church.churchScene.SceneUI.switchVisibleFireList:烟花资源正在加载中!请稍候.
+church.churchScene.SceneView.stopWeddingMovie:典礼现在结束.
+church.churchScene.MoonLightScene:月光场景
+church.churchScene.WeddingMainScene:结婚主场景
+church.weddingRoom.frame.AddWeddingRoomFrame.titleText:参加婚礼
+church.weddingRoom.frame.AddWeddingRoomFrame.into:进 入
+church.weddingRoom.frame.AddWeddingRoomFrame.time:0小时0分
+church.weddingRoom.frame.AddWeddingRoomFrame.minute:分
+church.weddingRoom.frame.AddWeddingRoomFrame.hour:时
+church.weddingRoom.frame.AddWeddingRoomFrame.day:天
+church.weddingRoom.frame.AddWeddingRoomFrame.notenoughday:不足一天
+church.weddingRoom.frame.AddWeddingRoomFrame.exceedmounth:超过一个月
+church.weddingRoom.frame.AddWeddingRoomFrame.note:注：若对方离线时间超过1个月,或离婚次数不大于3次,\n离婚只扣除{0}点券.
+church.weddingRoom.frame.AddWeddingRoomFrame.frameInfo:由于您的伴侣XXXX已经超过1个月未上线,所以您若现在决定离婚只需要<cr99点券cr>.
+church.weddingRoom.frame.CreateRoomFrame.titleText:举办婚礼
+church.weddingRoom.frame.CreateRoomFrame._remark_txt:在这个新旧交替,举世欢腾,万众瞩目的日子里,英俊潇洒的{0}和漂亮温柔的{1}的结婚大典将在这里举行.这将是一个因心与心的结合让寒冷变得火热的日子,一个令一对新人刻骨铭心、终生难忘的日子!在此,我们热烈欢迎前来参加庆典的朋友们,来一起分享我们的幸福与喜悦!
+church.weddingRoom.RoomListBtnPanel.clickListener:您还未结婚,不可离婚.
+church.view.weddingRoomList.DivorcePromptFrame.yes:决定离婚.
+church.view.weddingRoomList.DivorcePromptFrame.no:以后再说.
+church.weddingRoom.WeddingRoomControler.addRoom:创建房间失败!
+church.weddingRoom.WeddingRoomControler.showCreateFrame:您还未结婚,不可举行婚礼.
+church.weddingRoom.WeddingRoomControler.leaveRoom:是否确定离开当前婚礼房间.
+civil.frame.CivilRegisterFrame.married:已婚
+civil.frame.CivilRegisterFrame.marry:未婚
+civil.frame.CivilRegisterFrame.checkBox:公开个人装备信息.
+civil.frame.CivilRegisterFrame.text:很期待和你做朋友,快来和我联系吧!
+civil.frame.CivilRegisterFrame.titleText:登记信息
+civil.frame.CivilRegisterFrame.modify:修改信息
+civil.frame.CivilRegisterFrame.infoError:交友中心玩家信息失败!
+ddt.data.analyze.MyAcademyPlayersAnalyze:我的师徒信息失败!
+civil.register.NicknameLabel:名称：
+civil.register.MatrimonyLabel:婚姻状态：
+civil.register.IntroductionLabel:个人介绍：
+tank.consortia.club.ConsortiaClubView.applyJoinClickHandler:该公会暂时不允许申请加入.
+tank.consortia.club.ConsortiaClubView.applyJoinClickHandlerFill:申请次数已上限
+tank.consortia.club.ConsortiaClubView.cellDoubleClick:请升级公会保管箱.
+tank.consortia.club.ConsortiaClubView.cellDoubleClick.msg:公会保管箱已满.
+tank.consortia.consortiabank.ConsortiaBankView.titleText:个人保管箱.
+tank.consortia.consortiashop.ConsortiaShopItem.checkMoney:公会商城等级不够
+tank.consortia.consortiashop.ConsortiaShopItem.Money:您的点券不足,是否立即充值?
+tank.consortia.consortiashop.ConsortiaShopView.titleText:公会商城
+tank.consortia.consortiashop.ConsortiaShopView.skill:公会技能{0}级
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.NickName:您不能将公会转让给自己!
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.Grade:接受转让的成员等级要求"13级"以上!
+tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.titleText:公会设施管理
+tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.okFunction:确认修改!
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaLevel:公会已升到最高等级.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaHallLevel:公会大厅已升到最高级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopLevel:公会商城已升到最高等级.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.pleaseUpgradeI:请先升级公会
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.pleaseUpgrade:请先升级公会大厅
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.bank:公会保管箱已升到最高等级.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill:公会研究院已升到最高等级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.store:公会铁匠铺已升到最高等级.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE.explainTxt:升级后可购买更高级的商品.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill.explainTxt:升级后可使用更高级的技能.
+grade:级
+consortia.upgrade:公会大厅
+consortia.Money:财富
+consortion.task.exp:经    验
+consortion.task.offer:功   勋
+consortion.task.Money:财    富
+consortion.task.skillName:公会技能
+consortion.task.contribution:贡 献 度
+consortion.task.contribution:发布此任务需要扣除&nbsp;<font color='#ff0000'>{0}</font>&nbsp;公会财富，是否确认发布？
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopUpgrade:公会商城升级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentUpgrade:升级后可提升保管箱容量,目前可储存数量为{0}格.
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentSmith:保管箱{0}级,可储存数量{1}格
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.appealTxt:公会等级{0}级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaSmithUpgrade:公会保管箱升级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaSkillUpgrade:公会研究院升级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.success:升级后可提升强化合成成功率,目前提升经验加成
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeSuccess:公会铁匠铺{0}级,提升经验加成{1}
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeUpgrade:公会铁匠铺升级
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.condition:<FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#ff0000'>(条件不足)</FONT>
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.name:会员名称
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.duty:公会职务
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.level:会员等级
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.time:会员下线时间
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.search:搜索会员
+tank.manager.ChurchRoomManager.loadingMap:正在加载结婚场景地图
+tank.manager.ItemManager.cigaretteAsh: 烟花
+tank.manager.ItemManager.aid: 辅助
+tank.manager.ItemManager.gift: 礼品
+tank.manager.PlayerManager.isInvent.msg:你成功加入<{0}>公会
+tank.manager.PlayerManager.consortiaShop:您将公会商城升级到{0}级
+tank.manager.PlayerManager.consortiaShop2:你所在的公会商城升级到{0}级
+tank.manager.PlayerManager.consortiaStore:您将公会技能研究院升级到{0}级
+tank.manager.PlayerManager.consortiaStore2:你所在的公会技能研究院升级到{0}级
+tank.manager.PlayerManager.consortiaSmith:您将公会大厅升级到{0}级
+tank.manager.PlayerManager.consortiaSkill:您将公会技能升级到{0}级
+tank.manager.PlayerManager.consortiaSmith2:你所在的公会大厅升级到{0}级
+tank.manager.PlayerManager.consortiaSkill2:你所在的公会技能升级到{0}级
+tank.manager.PlayerManager.IsMarried:您已存在婚姻关系
+tank.manager.PlayerManager.notAllow:不允许同性求婚
+tank.manager.PlayerManager.notOtherLvWoo:不允许向13级以下玩家求婚
+tank.manager.PlayerManager.notLvWoo:13级以下玩家不允许求婚
+tank.manager.PlayerManager.married:对方已经结婚了
+tank.manager.PlayerManager.youMarried:您已存在婚姻关系
+tank.manager.PlayerManager.isApplicant:同意了你的求婚
+tank.manager.PlayerManager.refuseMarry:拒绝了你的求婚
+tank.manager.PlayerManager.youAndOtherMarried:与 {0} 玩家成为夫妻
+tank.manager.PlayerManager.divorce:您已经离婚了
+tank.manager.SocketManager.copyRight:版本
+tank.view.bagII.baglocked.BagLockedGetFrame.titleText:解除锁定
+tank.view.bagII.baglocked.BagLockedGetFrame.titleText2:清除二级密码
+tank.view.bagII.baglocked.BagLockedGetFrame.input:请输入您的二级密码
+tank.view.bagII.baglocked.BagLockedHelpFrame.titleText:二级密码说明
+tank.view.bagII.baglocked.BagLockedSetFrame.tip1:密码最少6个字符,最长不得超过14个字符.
+tank.view.bagII.baglocked.BagLockedSetFrame.tip2:请输入密码.
+tank.view.bagII.baglocked.BagLockedSetFrame.tip3:两次密码不一致,请重新输入.
+tank.view.bagII.baglocked.BagLockedSetFrame.titleText:二级密码设置
+tank.view.bagII.baglocked.BagLockedUpdateFrame.oldPassWord:请输入原始密码.
+tank.view.bagII.baglocked.BagLockedUpdateFrame.newPassWord:请输入新密码.
+tank.view.bagII.baglocked.BagLockedUpdateFrame.wrong:两次密码不一致,请重新输入.
+tank.view.bagII.baglocked.BagLockedUpdateFrame.titleText:修改二级密码
+tank.view.bagII.BagIIView.bagLockedBtn:二级密码设置
+tank.view.bagII.BagIIView.level:等级不足.
+tank.view.bagII.GoodsTipPanel.life:生命
+tank.view.bagII.GoodsTipPanel.advance:提高
+tank.view.bagII.GoodsTipPanel.reply:恢复
+tank.view.changeColor.ChangeColorLeftView.glass:眼镜
+tank.view.changeColor.ChangeColorLeftView.suit:变装
+tank.view.common.church.DialogueAgreePropose.okLabel:举行婚礼
+tank.view.common.church.DialogueAgreePropose.cancelLabel:以后举行
+songti:宋体
+accept:接 受
+refuse:拒 绝
+tank.view.common.church.ProposeResponseFrame.titleText:求婚
+tank.view.common.church.ProposeResponseFrame.msg:你拒绝了<{0}>的求婚!
+tank.view.common.CheckCodePanel.titleText:验证码
+tank.view.emailII.EmailIIStripSended.sender_txt:收件人:
+tank.view.emailII.EmailIIStripSended.sender_txtMember:收件人:公会全体成员
+reBack_btn.label:退 信
+reply_btn.label:回 复
+write_btn.label:写邮件
+tank.view.emailII.ReadingView.deleteSelectListener:请至少选择一封邮件
+send:发 送
+tank.view.emailII.WritingView.backTime:邮件返还时间:1小时
+tank.view.emailII.WritingView.backTime2:邮件返还时间:6小时
+tank.game.DanderStrip.tip:POW代表玩家的怒气值,玩家攻击,蓄力,被攻击都会积累一定的怒气值,当怒气值满的时候,可以使用威力强大的必杀技.
+nextPage:下一页
+lastPage:最后一页
+prePage:上一页
+firstPage:第一页
+shop.DataError.NoGood:数据表有误,找不到商品：
+store.StoreIIComposeBG.consortiaRate_txt:公会加成 {0}% 
+tank.data.EquipType.suit: 变装
+tank.data.EquipType.necklace: 项链
+tank.data.EquipType.wing: 翅膀
+tank.data.EquipType.decorate: 装饰
+tank.data.EquipType.paopao: 泡泡
+church.churchScene.scene.MoonSceneMap.lipao:礼炮正在燃放中,请稍候.
+hurch.weddingRoom.frame.CreateRoomFrame.name_txt:{0}与{1}的结婚大典
+yu:与
+dehunli:的婚礼
+church.churchScene.scene.SceneMap.lihua:礼花效果已关闭
+church.churchScene.frame.ModifyRoomInfoFrame.titleText:房间设置
+xunzhang: 勋章
+exploit:军功
+ge:个
+ConsortiaShopItem.gongXunbuzu:功勋不足.
+ConsortiaShopItem.gongxianbuzu:贡献不足
+Crazytank.share:分享给MSN/QQ好友
+Crazytank.collection:收藏地址
+Crazytank.supply:点券充值
+tank.view.common.BellowStripViewII.channel: 更多
+tank.manager.enthrallRemind1:您累计在线时间已满1小时
+tank.manager.enthrallRemind2:您累计在线时间已满2小时
+tank.manager.enthrallRemind3:您的帐户防沉迷剩余时间将会在5分钟后\n进入沉迷状态,系统将自动将您离线休息一段时间
+tank.manager.enthrallRemind4:您已进入不健康游戏时间,请您暂离游戏进行\n适当休息和运动,合理安排您的游戏时间
+tank.manager.enthrallRemind5:您今日累计在线时间已满5小时,为了您的健康,请尽快下线休息.
+community:社区好友
+
+#2.10version
+tank.data.auctionHouse.AuctionGoodsInfo.tshort:30分钟以内
+tank.data.auctionHouse.AuctionGoodsInfo.tmiddle:30分钟到2小时
+tank.data.auctionHouse.AuctionGoodsInfo.tlong:2小时到12小时
+tank.data.auctionHouse.AuctionGoodsInfo.tvery:大于12小时
+tank.gameover.NotEnoughPayToTakeCard:您的(绑定)点券不足,无法进行翻牌.
+tank.room.RoomIIView2.noplacetoinvite:房间没有空余的位置.
+tank.room.RoomIIView2.notenoughmoney.title:提示
+tank.room.RoomIIView2.notenoughmoney.content:您的点券不足,是否立即充值?
+tank.data.EquipType.offhand: 副手
+tank.view.bagII.GoodsTipPanel.ciclehole:属性插孔
+tank.view.bagII.GoodsTipPanel.recthole:防御插孔
+tank.view.bagII.GoodsTipPanel.trianglehole:攻击插孔
+tank.view.bagII.GoodsTipPanel.unknowhole:未知插孔
+tank.view.bagII.GoodsTipPanel.holerequire:(强化{0}级开启)
+tank.view.bagII.GoodsTipPanel.holeenable:(已激活)
+tank.view.bagII.GoodsTipPanel.holeLv:({0}级孔)
+tank.invite.InvitePlayerItem.levelInadequate:该玩家的等级和房间设置的等级不符.
+tank.gameover.payConfirm.title:购买1次翻牌机会
+tank.gameover.payConfirm.contentCommonNoDiscount:本次购买翻牌将扣除您{0}(绑定)点券,确定购买吗?
+tank.gameover.payConfirm.contentCommon:本次购买翻牌将扣除您{0}(绑定)点券（成为VIP可优惠{1}(绑定)点券）,\n确定购买吗?
+tank.gameover.payConfirm.contentVip:尊贵的VIP会员,本次购买翻牌只需扣除您\n{0}(绑定)点券（优惠{1}(绑定)点券）,确定购买吗?
+tank.missionsettle.dungeon.leaveConfirm.contents:<font color='#ff0000'>副本尚未结束,中途退出将无法获得通关后的珍贵奖励!</font>
+tank.multiDungeon.needEnergy:所需活力:
+tank.multiDungeon.needEnergyDesc:整个副本所需活力值。
+tank.room.RoomIIView2.affirm:确定
+tank.room.RoomIIView2.clewContent:副本难度较大,适合<FONT COLOR='#FF0000'> 3</FONT> 人团队挑战,<br>确定要单人闯关吗?
+tank.room.RoomIIView2.randomConfirm:是否开始随机副本？
+tank.room.RoomIIView2.clewContent.change:需要3名战斗玩家才能进入
+tank.room.difficulty.simple:简单
+tank.room.difficulty.normal:普通
+tank.room.difficulty.hard:困难
+tank.room.difficulty.hero:英雄
+tank.room.difficulty.all:全部
+tank.room.difficulty.none:无
+tank.game.prop.effect.seal:被封印状态下不可使用道具.
+tank.roomlist.RoomListIICreatePveRoomView.tank:勇者大冒险!
+tank.roomlist.RoomListIICreatePveRoomView.go:团队作战,乐趣无限!
+tank.roomlist.RoomListIICreatePveRoomView.fire:挑战极限,欢乐无边!
+tank.roomlist.RoomList.singleRoomTitle:单人竞技
+tank.room.RoomMapSetPanelDuplicate.choiceMap:请选择地图
+tank.room.RoomMapSetPanelDuplicate.choicePermissionType:请选择房间难度.
+tank.room.RoomIIView2.setRoomInfo:请设置房间信息
+tank.view.task.Taskstatus.onProgress:（未完成）
+tank.manager.PlayerManager.gradeLow:低于{0}级玩家不能进入多人副本房间.
+tank.gameover.takecard.getgold:您获得了{0}金币 
+tank.gameover.takecard.gifttoken:绑定点券
+tank.game.gameplayer.proplist.full:道具栏已满,拾取失败.
+tank.view.shortcutforge.tip:快捷铁匠铺
+tank.dialog.showbugleframe.ok:确认购买
+tank.dialog.showbugleframe.bigbugletitle:大喇叭快速购买
+tank.dialog.showbugleframe.smallbugletitle:小喇叭快速购买
+tank.dialog.showbugleframe.texpQuickBuy:修炼药水快速购买
+tank.view.ReworkNameView.consortiaReworkName:公会名字更改
+tank.view.ReworkNameView.reworkName:名字更改
+tank.view.ReworkNameView.okLabel:确认修改
+tank.view.ReworkNameView.inputName:请输入昵称
+tank.view.ReworkNameView.consortiaInputName:请输入新的公会名称.
+tank.view.ReworkNameView.reworkNameComplete:改名成功,新名字将在24小时内启用.
+tank.view.bagII.GoodsTipPanel.over1: 物品已过期,将于{0}天
+tank.view.bagII.GoodsTipPanel.over2: 后删除,请及时续费
+tank.view.bagII.GoodsTipPanel.over3: 物品已过期,将于{0}小
+tank.view.bagII.GoodsTipPanel.over4: 时后删除,请及时续费
+tank.view.bagII.GoldDirections: 点券：可通过充值获得
+tank.view.bagII.GiftDirections: 绑定点券：可通过交易获得
+tank.view.bagII.MoneyDirections:金币：可通过掉落和任务获得
+tank.view.bagII.MedalDirections:勋章：可通过任务获得,上限个数9999
+tank.view.bagII.armyExploitTip:军功章：可通过竞技或任务获得，最多可累积{0}个
+tank.view.bagII.matchMedal:竞技勋章：可通过任务获得，最多可累积{0}个
+tank.view.DefyAfficheView.cancel:取消
+tank.view.DefyAfficheView.affiche:战报公告
+tank.view.DefyAfficheView.afficheInfo:胜利简直易如反掌~不服!那就接着来!
+tank.view.DefyAfficheView.afficheCaput:的队伍战胜
+tank.view.DefyAfficheView.afficheLast:并发表获胜宣言:
+tank.view.DefyAfficheView.afficheTitText:请输入获胜宣言(还可输入{0}个字)
+tank.view.DefyAfficheView.afficheInfoText:此操作将扣除{0}(绑定)点券,并发布全服公告.
+tank.view.DefyAfficheView.hint:<FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'>此操作将扣除{0}(绑定)点券,是否继续?</FONT>
+tank.view.personalinfoII.propertySourceTxt:装备+{0}\n宝珠+{1}\n宠物+{2}\n图腾+{3}\n符文+{4}
+tank.view.personalinfoII.propertySourceTxtI:时装+{0}\n装备+{1}\n宝珠+{2}\n宠物+{3}\n图腾+{4}\n符文+{5}
+tank.view.personalinfoII.hpPropertySourceTxt:装备+{0}\n宝珠+{1}\n图腾+{2}
+tank.view.personalinfoII.hpPropertySourceTxtDameage:装备+{0}\n图腾+{1}\n攻击+{2}
+tank.view.personalinfoII.hpPropertySourceTxtArmor:装备+{0}\n图腾+{1}\n防御+{2}
+tank.view.personalinfoII.energyPropertySourceTxt:装备+{0}
+tank.view.personalinfoII.damagePropertySourceTxt:装备+{0}\n图腾+{1}
+tank.view.personalinfoII.recovery:护甲
+tank.view.personalinfoII.recoveryDetail:降低战斗时你所受到的伤害.
+tank.view.personalinfoII.hp:血量
+tank.view.personalinfoII.hpDetail:你的生命值,归0后你将进入灵魂状态.
+tank.view.personalinfoII.attact:攻击
+tank.view.personalinfoII.attactDetail:增加战斗时你所能造成的伤害,但会略微降低你的攻击速度.
+tank.view.personalinfoII.defense:防御
+tank.view.personalinfoII.defenseDetail:减少战斗时你所受到的伤害.
+tank.view.personalinfoII.agility:敏捷
+tank.view.personalinfoII.agilityDetail:会提高你的攻击速度,还会略微提高你的体力.
+tank.view.personalinfoII.luck:幸运
+tank.view.personalinfoII.luckDetail:提高自身暴击率的同时能降低对方的暴击率.
+tank.view.personalinfoII.energy:体力
+tank.view.personalinfoII.energyDetail:移动和使用道具会消耗的能量.
+tank.view.personalinfoII.damage:伤害
+tank.view.personalinfoII.damageDetail:战斗时你所能造成的基本伤害.
+tank.view.personalinfoII.Crit:暴击
+tank.view.personalinfoII.CritDetail:战斗时增加暴击率
+tank.view.personalinfoII.Stormdamage:暴伤
+tank.view.personalinfoII.StormdamageDetail:战斗时增加出现暴击时的暴击伤害
+tank.view.personalinfoII.uprisingstrike:抗暴击
+tank.view.personalinfoII.uprisingstrikeDetail:战斗时降低被对方暴击的几率
+tank.view.personalinfoII.uprisinginjury:抗暴伤
+tank.view.personalinfoII.uprisinginjuryDetail:战斗时降低被暴击时产生的暴击伤害
+tank.view.personalinfoII.propertySourceTx1:装备+{0}
+tank.view.bagII.BagIIView.bagFinishingBtn:整理我的背包
+tank.view.bagII.BagIIView.sortBag:整  理
+tank.view.bagII.BagIIView.trieve:物品精炼
+tank.view.bagII.BagIIView.password:二级密码
+tank.view.bagII.BagIIView.bagKeySet:快  捷
+tank.view.bagII.BagIIView.bagBreak:拆  分
+tank.view.bagII.BagIIView.bagContinue:续  费
+tank.view.bagII.BagIIView.bagSell:出  售
+tank.view.store.matteTips:如果您道具栏内有与插槽相同的宝珠,\n就可拖动宝珠至插槽中进行镶嵌
+tank.view.GoldInadequate:金币不足,是否购买金币箱?
+tank.game.GameViewBase.HintTitle:温馨提示
+tank.view.continuation.contiuationFailed:货币不足,续费失败
+tank.view.continuation.contiuationTitle:快捷续费
+tank.view.store.matteHelp.title:镶嵌说明
+tank.view.store.title:铁匠铺
+tank.view.store.matte.notOpen:该孔未开启
+tank.view.store.matte.notType:类型不符
+tank.view.store.matte.LevelWrong:该孔等级太低,无法镶嵌.
+store.view.transfer.StoreIITransferBG.lijinbuzu:您的绑定点券不足,可以使用点券续费
+tank.view.store.matte.goldQuickBuy:快速购买
+tank.view.common.levelRange:级别段：
+tank.view.common.roomLevel:房间难度：
+tank.view.common.duplicateName:副本名称：
+tank.view.common.gameLevel:游戏难度：
+shop.view.madelLack:勋章不足
+shop.view.lackCoin:货币不足,购买失败
+shop.view.present:赠送
+tank.ddtauctionHouse.view.bid:竞  拍
+tank.ddtauctionHouse.view.mouthful:一口价
+tank.ddtauctionHouse.view.serchText:物品搜索
+tank.ddtauctionHouse.view.buyText:竞拍物品
+tank.ddtauctionHouse.view.text:拍卖物品
+tank.ddtauctionHouse.view.text1:起拍价格
+tank.ddtauctionHouse.view.text2:一口价
+tank.ddtauctionHouse.view.text3:拍卖时限
+tank.ddtauctionHouse.view.text4:所需管理费
+tank.ddtauctionHouse.view.text5:点击此处放入拍卖的物品
+tank.ddtauctionHouse.view.timer8:8小时
+tank.ddtauctionHouse.view.timer24:24小时
+tank.ddtauctionHouse.view.timer48:48小时
+tank.auctionHouse.view.pleaseInputOnThere:请输入物品名称
+tank.auctionHouse.view.cloth:服装
+tank.auctionHouse.view.beauty:美容
+tank.auctionHouse.view.prop:其他
+tank.auctionHouse.view.rarechip:稀有碎片
+tank.auctionHouse.view.jewelry:首饰
+tank.auctionHouse.view.offhand:副武器
+tank.auctionHouse.view.caijingshi:彩晶石
+tank.auctionHouse.view.cailiao1:一级装备碎片
+tank.auctionHouse.view.cailiao2:二级装备碎片
+tank.auctionHouse.view.cailiao3:三级装备碎片
+tank.auctionHouse.view.cailiao4:四级装备碎片
+tank.auctionHouse.view.cailiao5:五级装备碎片
+tank.auctionHouse.view.cailiao6:六级装备碎片
+tank.auctionHouse.view.cailiao7:七级装备碎片
+tank.auctionHouse.view.cailiao8:八级装备碎片
+tank.auctionHouse.view.gongshi1:一级公式
+tank.auctionHouse.view.gongshi2:二级公式
+tank.auctionHouse.view.gongshi3:三级公式
+tank.auctionHouse.view.gongshi4:四级公式
+tank.auctionHouse.view.gongshi5:五级公式
+tank.auctionHouse.view.gongshi6:六级公式
+tank.auctionHouse.view.gongshi7:七级公式
+tank.auctionHouse.view.gongshi8:八级公式
+tank.auctionHouse.view.weapon1:10级装备
+tank.auctionHouse.view.weapon2:20级装备
+tank.auctionHouse.view.weapon3:30级装备
+tank.auctionHouse.view.weapon4:35级装备
+tank.auctionHouse.view.weapon5:40级装备
+tank.auctionHouse.view.weapon6:45级装备
+tank.auctionHouse.view.weapon7:50级装备
+tank.auctionHouse.view.otherpopro:辅助道具
+tank.auctionHouse.view.auctioned:该物品已有人竞拍
+tank.manager.congratulateGain:恭喜{0}开启{1}获得
+tank.manager.selectDuplicate:请选择副本
+tank.manager.loadShopItemsFailed:加载商店物品失败
+tank.view.baglocked.infoText:开启二级密码保护功能后,该账号下的角色在每次登陆游戏\n时将自动进入锁定状态,锁定\n下的角色将无法进行以下操作:
+tank.view.baglocked.infoText1:1.物品交易\n2.拍卖场交易\n3.点券消费\n4.公会捐献\n5.铁匠铺操作\n6.物品丢弃\n\r\r每次登陆后,您必须点击“解锁锁定”按钮并正\n确输入二级密码才可以使用以上功能.
+tank.view.baglocked.infoText2:注：为了您的账号安全,建议您立即点击“设置密\n码”按钮进行二级密码设置.\n＊建议二级密码的设置不要与登录密码相同.\n＊密码保护信息中的密码保护问题与答案一经填写,\n将不可更改、删除.
+tank.view.bagII.baglocked.setting:设置密码
+tank.view.bagII.baglocked.unlock:解除锁定
+tank.view.bagII.baglocked.modify:修改密码
+tank.view.bagII.baglocked.delete:删除密码
+tank.view.bagII.baglocked.guide:二级密码设置向导
+tank.view.bagII.baglocked.next:下一步
+tank.view.bagII.baglocked.diffrent:密码与确认密码不一致!
+tank.view.bagII.baglocked.alertInfo:密码长度应在6-14个字符之内!
+tank.view.bagII.baglocked.setted:你已经设置了密码保护问题
+tank.view.bagII.baglocked.deletePassword:二级密码删除
+tank.view.bagII.baglocked.sureToDelete:确定删除
+tank.view.bagII.baglocked.inputOriginalPassword:请输入原密码
+tank.view.bagII.baglocked.resetting:二级密码补登
+tank.view.bagII.baglocked.immediatelyComplete:立即完善
+tank.view.bagII.baglocked.inputAnswer:请输入密码保护问题答案
+tank.view.bagII.baglocked.sureInfo:二级密码保护信息确认
+tank.view.bagII.baglocked.complete:完成
+tank.view.bagII.baglocked.preview:上一步
+tank.view.bagII.baglocked.answerDiffer:密码保护答案不一致!
+tank.view.bagII.baglocked.passwordSetting:二级密码保护信息设置
+tank.view.bagII.baglocked.selectQustion:请选择密码保护问题
+tank.view.bagII.baglocked.inputCompletely:请填写完整的信息
+tank.view.bagII.baglocked.cantRepeat:两次密码保护问题不能重复
+tank.view.bagII.baglocked.modifyTitle:二级密码修改
+tank.view.bagII.baglocked.modifyBtn:修改
+tank.view.bagII.baglocked.originalNull:原密码不能为空
+tank.view.bagII.baglocked.newNull:新密码不能为空
+tank.view.bagII.baglocked.newDiffer:新密码不一致
+tank.view.bagII.baglocked.newTooLong:新密码长度太长
+tank.view.bagII.baglocked.newTooShort:新密码长度太短
+tank.view.bagII.cantAddPrice:该物品不能续费
+tank.view.bagII.sexErr:所需性别不对
+tank.game.smallmap.simple:简单
+tank.game.smallmap.normal:普通
+tank.game.smallmap.difficulty:困难
+tank.game.smallmap.hero:英雄
+tank.view.HealStone.ErrorGrade:装备该圣石需要等级{0}级及以上
+tank.game.prop.Error1:轮到你行动时才可以使用
+tank.game.prop.NotAttacking:轮到你行动时才可以使用
+tank.game.prop.NotCoolDown:技能还需要{0}回合才能使用
+tank.game.prop.EmptyEnergy:体力不足
+tank.game.prop.EmptyPsychic:灵力不足
+tank.game.prop.changePeople:不能对已变身的角色使用该道具
+tank.game.prop.SoulPropOverFlow:一回合最多使用两个道具
+tank.game.prop.LockState:被封印狀态下不可使用道具
+tank.game.PsychicBar.Title:灵力值:
+tank.game.PsychicBar.Content:消耗灵力值使用道具辅助队友.
+tank.game.mapGenerated:已生成地图
+tank.game.cantUseItem:被封印状态下不可使用道具
+tank.gametrainer.study.fengongbogu:粉红啵咕
+tank.gametrainer.view.freshmanQustion:新手问答
+tank.gametrainer.view.agree:同意
+tank.missionresult.leave:离开
+tank.room.explanation:关卡说明
+tank.room.statistics:战斗统计
+tank.room.moreThanOne:各方人数大于一人
+tank.room.somebodyInvalidate:房间内有玩家和选择的级别段不符
+tank.roomlist.lessLevel:你的等级未到{0}级,不能进入该副本房间
+tank.roomlist.cantBeChallenged:13级以下玩家无法被挑战
+tank.roomlist.notGotoIntoRoom:{0}级以下玩家不能进入{1}房间
+tank.roomlist.challenge:挑战
+tank.roomlist.friendOffline:好友不在线
+tank.roomlist.joinDuplicateQuickly:优先选择有任务的副本进行快速组队
+tank.roomlist.joinBossBattleQuickly:快速加入Boss战
+tank.roomlist.joinExploreBattleQuickly:快速加入探险模式的战斗
+tank.roomlist.joinSingleBattle:快捷的单人战斗模式
+tank.roomlist.joinMutiBattle:创建多人游戏房间组队进行战斗
+tank.loginstate.loginURLFail:登录链接失效
+tank.loginstate.chooseCharacter:角色选择
+tank.loginstate.inputUserName:请输入用户名!
+tank.loginstate.CharacterNameNull:角色名不能为空!
+tank.loginstate.guildNameNull:公会名不能为空!
+tank.loginstate.characterNameExist:角色名<{0}>已存在,请修改角色名,在角色名未修改之前,该角色无法进入游戏
+tank.loginstate.characterModify:角色名修改
+tank.loginstate.inputCharacterName:请输入角色名!
+tank.loginstate.guildNameExist:公会名<{0}>已存在,请修改公会名,在公会名未修改之前,将无法进入游戏
+tank.loginstate.guildNameModify:公会名修改
+tank.loginstate.inputInvalidate:名称中包含非法字符
+tank.loginstate.allNull:名称不能全为空格
+tank.loginstate.inputNickName:请输入昵称!
+shop.view.restore:还原初始形象
+shop.view.cantPresent:绑定点券物品不能赠送
+shop.view.giftLack:绑定点券不足
+store.states.hatOpenProperty:强化成功,您的帽子开启了一个新的属性插槽
+store.states.hatOpenDefense:强化成功,您的帽子开启了一个新的防御插槽
+store.states.clothOpenProperty:强化成功,您的衣服开启了一个新的属性插槽
+store.states.clothOpenDefense:强化成功,您的衣服开启了一个新的防御插槽
+store.states.weaponOpenAttack:强化成功,您的武器开启了一个新的攻击插槽
+store.states.weaponOpenProperty:强化成功,您的武器开启了一个新的属性插槽
+store.states.embedTitle:镶嵌提示
+store.embem.HoleTip.Level:级:
+store.view.Compose.buyCompose:合成石快速购买
+store.view.shortcutBuy.buyBtn:购买
+heiti:黑体
+store.view.shortcutBuy.shouldPay:您总共需要支付 ：
+store.view.strength.unpare:石头与装备不符
+store.view.strength.typeUnpare:石头类型不一致
+store.view.strength.noneSymble:您未使用神恩符,强化失败会降低\n强化等级,是否继续?
+store.view.strength.FiveLevelTip:装备的强化等级达到5,此后强化失败会降低强化\n等级!使用神恩符可以避免降级.
+store.view.transfer.info:物品已满或类型不相同!
+store.openHole.NOstone:您背包中没有高级开孔钻头或初级开孔钻头
+store.openHole.btnTipData:开启插孔需要开孔钻头
+store.openHole.OpenTipData:{0}级：{1}/{2}\n消耗开孔钻头{3}级升级
+tank.view.buffControl.buffButton.freeCard:无限道具卡
+civil.frame.CivilRegisterFrame.checkIntro:您输入的内容中含有无意义字符,交友信息未录入.
+tank.view.bagII.GoodsTipPanel.holeactive:(强化{0}级激活)
+tank.view.bagII.baglocked.operationTimesOut:操作次数超过今日上限
+tank.view.dailyconduct.gain:领 取
+tank.gametrainer.data.TrainerModel.answer1:1、如何移动角色?
+tank.gametrainer.data.TrainerModel.answer4:2、如何发射炮弹?
+tank.gametrainer.data.TrainerModel.answer6:按住空格键发射.
+tank.view.common.BuyGiftBagButton.initliziItemTemplate.excellent:优惠礼包
+tank.view.common.BuyGiftBagButton.initliziItemTemplate.info:包含强化石4级x3,神恩符x1,幸运符25%x1(以上物品皆绑定).现在购买则享受有85折优惠特权,仅需4599点券,您还在等什么?赶快来强化吧!
+tank.invite.InvitePlayerItem.cannot:{0}级以下玩家无法被邀请
+tank.invite.InvitePlayerItem.ActionCannot:13级以下玩家无法进行拍卖
+tank.view.bagII.baglocked.question1:你父亲的姓名是?
+tank.view.bagII.baglocked.question2:你的学号(或工号)是?
+tank.view.bagII.baglocked.question3:你的小学校名是?
+tank.view.bagII.baglocked.question4:你的中学校名是?
+tank.view.bagII.baglocked.question5:你的生日是?
+tank.view.bagII.baglocked.question6:你配偶的姓名是?
+tank.view.bagII.baglocked.customer:自定义
+tank.tofflist.view.lastUpdateTime:最后更新:
+tank.view.common.newAnwserTitle:新手问答
+tank.view.common.newAnwser1:提高装备属性.
+tank.view.common.newAnwser2:提高自身的血量.
+tank.gametrainer.view.wrongAnwser:回答错误,请重试
+tank.view.chatsystem.sendTo:发送给
+tank.view.chatsystem.privateSayToYou:悄悄对你说: 
+store.view.strength.buyGift:购买优惠礼包将花费<FONT SIZE='14' COLOR='#FF0000'>4599点券</FONT>,是否继续?
+tank.data.QualityType.cucao: 粗糙
+tank.data.QualityType.putong: 普通
+tank.data.QualityType.youxiu: 优秀
+tank.data.QualityType.jingliang: 精良
+tank.data.QualityType.zhuoyue: 卓越
+tank.data.QualityType.chuanshuo: 传说
+tank.data.QualityType.shenqi: 神器
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame:您输入的内容中含有无意义字符,公告信息未录入.
+tank.view.common.DeadTipDialog.title:灵魂参与战斗
+tank.view.common.DeadTipDialog.btn:我知道了
+
+#2.20version
+tank.view.bagII.SellGoodsBtn.sure:确定出售此物品?\n价格：{0}
+tank.view.bagII.SellGoodsBtn.CantSellEquip:请您设置二级密码.
+tank.view.bagII.SellGoodsBtn.CantSellEquip1:无法出售此高价值物品.
+tank.view.bagII.SellGoodsBtn.CantSellEquip2:请先卸下符文，再执行该操作。
+tank.game.GameView.getgoodstip.broadcast:恭喜[{0}]在{1}中获得
+tank.game.GameView.getgoodstip:[{0}]在{1}中获得
+tank.dialog.showbugleframe.crossbugletitle:跨区大喇叭快速购买
+tank.game.GameView.unexpectedBattle:战斗
+tank.game.GameView.dungeonBattle:副本
+tank.room.duplicate.notOpen:该副本尚未开放!
+tank.view.chat.ChannelListSelectView.cross:跨区公告
+tank.view.chat.ChannelListSelectView.crossBugle:跨区喇叭
+tank.view.chatFormat.cross:对方与您不在同一个区,无法密聊
+tank.view.chatFormat.prefix.name1: ★竞技之王★ 
+tank.view.chatFormat.prefix.name2: ★资深斗士★ 
+tank.view.chatFormat.prefix.name3: ★斗士★ 
+tank.game.BloodStrip.HP:血量
+tank.game.actions.kill:击败
+tank.game.actions.turn:回合
+tank.game.actions.cooldown:冷却时间
+tank.game.PowerStrip.energy:体力值： 
+tank.game.deputyWeapon.canNotUse:您的天使之赐本场战斗使用次数已用尽
+tank.view.common.InviteAlertPanel.pass:关卡:
+tank.menu.FightPower:战斗力:{0} 
+tank.manager.GradeExaltClewManager:恭喜您升级啦!
+tank.hall.ChooseHallView.hotWellAlert:温泉提示
+tank.view.ConsortiaReworkNameView.consortiaNameModify:公会名更改
+tank.view.ConsortiaReworkNameView.consortiaNameAlert:可输入中英文或数字,长度不得超过12个字符
+tank.view.ConsortiaReworkNameView.consortiaNameAlert1:您没有加入任何公会,不能使用公会改名卡
+tank.view.ConsortiaReworkNameView.consortiaNameAlert2:您不是会长,不能使用公会改名卡
+tank.view.ConsortiaReworkNameView.consortiaNameAlert3:请输入新的名称
+tank.view.ConsortiaReworkNameView.consortiaNameModifySuccess:改名成功,新公会名将在24小时内启用.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert4:恭喜!公会名称可以使用.
+tank.view.ConsortiaReworkNameView.consortiaNameAlert5:公会名中包含非法词汇
+tank.view.ConsortiaReworkNameView.consortiaNameAlert6:公会名称不能为空格
+tank.view.ConsortiaReworkNameView.consortiaNameAlert7:请输入名称
+tank.manager.crossdisable:跨区喇叭暂未开放
+tank.game.deputyWeapon.canNotUse2:您的啵咕盾牌本场战斗使用次数已用尽
+tank.game.deputyWeapon.canNotUse3:您的巴罗夫的盾牌本场战斗使用次数已用尽
+tank.game.deputyWeapon.canNotUse4:您的弹王祝福本场战斗使用次数已用尽
+tank.view.emailII.ReadingView.useHelp:帮助说明
+tank.game.BloodStrip.tip:当血量减少到0的时候,将成为鬼魂状态,升级可以增加你的血量上限
+tank.gameover.gainDoubleEXP:双倍经验卡经验获得2倍
+tank.game.PowerStrip.tip:玩家移动,使用道具将会消耗一定的体力值,当体力值为0的时候,玩家不能移动,不能使用道具.
+
+#2.30version
+tank.fightLib.AwardBox.FullBag:但背包空间不足,物品暂存到邮箱.
+tank.fightLib.FirstGetPass:恭喜通关!
+tank.fightLib.questionInfo:当前共{0}题,答对{1}题即可通过 \n已答对{2}/{1}题,剩余{3}题.
+tank.room.RoomIIView.cross.kuaqu:切换至跨区战斗状态
+tank.room.RoomIIView.cross.benqu:切换至本区战斗状态
+tank.fightLib.Lesson.Message1:请先通过测量屏距课程.
+tank.fightLib.Lesson.Message2:请先通过65度课程.
+tank.fightLib.Lesson.17Grade:需要达到17级才可进入{0}课程的中级难度.
+tank.fightLib.Lesson.20Grade:需要达到20级才可进入{0}课程的高级难度.
+tank.fightLib.AngleMessage:不在规定角度内,击中无效.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command1:欢迎进入测量屏距初级课程,在这里您将学习到最基础的屏距测量知识.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command2:欢迎进入测量屏距初级课程,尝试拖动小地图的白框.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command3:很好,就是这样.白框左右两端的距离是地图中一个屏幕标准宽度,我们称为1屏.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command5:白框的长度为1屏,白线之间的距离为1距,1屏=10距.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command7:现在我们来演示一下,我们与靶子之间的距离.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command9:动画显示的屏距5距,如果您看明白了,下面我们开始初级目测屏距的训练.
+tank.command.fightLibCommands.script.MeasureScree.EasyMeasureScreenScript.command10:下面我们开始进行初级测屏距的训练.
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command1:欢迎进入测量屏距中级课程,上节课我们学习了1屏以内的屏距测量方法,那么超过1屏的距离怎么测呢?
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command2:本节课程练习超出10距的目测屏距.如果超出10距,采用两次测量相加的方法.下面来演示下~
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command4:现在我们来看一下,在白框的右端边线的位置,也就是1屏的距离.记住这个位置.
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command5:再测量两个红点之间的距离为3,两次测量的数据相加为13就是现在的屏距了.如果您明白的话就开始中级测屏距的训练~
+tank.command.fightLibCommands.script.MeasureScree.NomalMeasureScreenScript.command6:下面我们开始进行中级测屏距的训练.
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command1:之前我们学习了比较规则的屏距测量,那么遇见非整数距该怎么算?
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command2:本节课程练习非整数距目测屏距.如果屏幕不是整数距,可以按就近的整数距计算.来看个实例吧~
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command4:现在我们来看一下,您与靶子之间的距离在10~11之间,并且离10距比较近,那我们就把它当做10距来计算
+tank.command.fightLibCommands.script.MeasureScree.DifficultMeasureScreenScript.command5:下面我们开始进行高级测屏距的训练.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command1:首先我来说一下20度打法适合的武器：
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command2:现在我们来说一下20度打法的优缺点.优点就是受风力影响很小.缺点就是受地形、高差影响比较大,有些位置会打不到.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command4:结合我们之前学习的课程,我来说明一下,角度为20度,相隔为1距时,发射力度为10,相隔为2距时,发射力度为19,以此类推,相隔为10距时,发射力度为54.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command6:我们首先将角度调整到20度,然后按照这个力度表试验一下.
+tank.command.fightLibCommands.script.MeasureScree.EasyTwentyDegree.command7:恭喜你打中了,现在您做好进行初级训练的准备了吗?
+tank.command.fightLibCommands.script.MeasureScree.NormalTwentyDegree.command1:欢迎来到20度打法中级课程,在这里我们要训练的内容是超过1屏时,20度的打法,首先我们来看一下超过1屏的力度表.
+tank.command.fightLibCommands.script.MeasureScree.NormalTwentyDegree.command2:本节课程训练超过一屏的20度打法,如果您准备好了,那我们开始进行中级训练吧!
+tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command1:欢迎来到20度打法高级场,在之前的训练中,我们给出的都是整数的屏距,如果遇到非整数的屏距,怎么办?
+tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command2:我们可以对屏距先进行估算,并计算出所需近似力度,然后对力度进行一些微调.如果您明白了,那我们开始进行高级训练吧!
+tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command3:本节课程训练超过一屏的20度打法,如果您准备好了,那我们开始进行高级训练吧!
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command1:首先我来说一下高抛打法适合的武器：
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command2:现在我们来说一下高抛打法的优缺点.优点就是受高地形影响较小,缺点就是受风力和高差影响比较大.
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command3:高抛打法是一种力度相对不变,调整角度的打法.在无风状态下,发射力度95,发射角度为90-（与目标的屏距）.
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command5:我们首先将角度调整到90度附近,然后按照刚才所说的方法,试验一下.
+tank.command.fightLibCommands.script.HighThrow.EasyHighThrow.command6:恭喜您打中了,现在您做好进行初级训练的准备了吗?
+tank.command.fightLibCommands.script.HighThrow.NormalHighThrow.command1:这节课我们要训练在有风的情况下,如何计算发射角度.
+tank.command.fightLibCommands.script.HighThrow.NormalHighThrow.command2:本节课程介绍有风情况下高抛打法.具体的计算方法为：顺风角度计算：90度-屏距+风力×2；逆风角度计算：90度-屏距-风力×2.
+tank.command.fightLibCommands.script.HighThrow.DifficultHighThrow.command1:在之前的课程中,我们都是在整数屏距与风力情况下训练的,如果遇到非整数的屏距与风力,怎么办呢?
+tank.command.fightLibCommands.script.HighThrow.DifficultHighThrow.command2:我们可以对角度按照屏距、风力先进行四舍五入,算出所需近似角度,然后通过对力度进行一些微调,来校正角度带来的误差.如果您明白了,那我们开始进行高级训练吧!
+tank.command.fightLibCommands.script.SixtyDegree.DifficultSixtyDegreeScript.command1:在之前的训练中,我们给出的都是整数的屏距,如果遇到非整数的屏距,怎么办呢?
+tank.command.fightLibCommands.script.SixtyDegree.DifficultSixtyDegreeScript.command2:本节课程训练非整数距65度打法.打法和前面的课程类似,需要计算近似力度,然后对力度进行微调.如果您明白了,那就开始训练吧!
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command1:首先我来说一下65度打法适合的武器：
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command2:现在我们来说一下65度打法的优缺点.优点就是受地形、高差影响比较小,缺点就是受风力影响比较大,而且对力度要求比较精确.
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command3:下面我们来详细讲解一下打法.先看一下65度打法的力度表.
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command4:结合我们之前学习的课程,我来说明一下,在无风状态下,角度为65度,相隔为1距时,发射力度为13,相隔为2距时,发射力度为21,以此类推,相隔为20距时,发射力度为85.
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command6:我们首先将角度调整到65度,然后按照这个力度表试验一下.
+tank.command.fightLibCommands.script.SixtyDegree.EasySixtyDegreeScript.command7:恭喜您打中了,现在您做好进行初级训练的准备了吗?
+tank.command.fightLibCommands.script.SixtyDegree.NormalSixtyDegreeScript.command1:欢迎来到65度打法中级场,在这里我们要训练的课程有风的情况下,要如何计算.在计算好力度的基础上,我们还要根据风速计算发炮角度.
+tank.command.fightLibCommands.script.SixtyDegree.NormalSixtyDegreeScript.command2:本节课程介绍有风情况下65度打法.具体的计算方法为：顺风角度计算：65度+风力×2；逆风角度计算：65度-风力×2.如果您明白了,那我们开始进行中级训练吧!
+tank.command.fightLibCommands.script.HighGap.EasyHighGap.command1:之前我们学习都是如何打同一水平线的敌人,但是实战中,经常出现高度差,这时候就需要考虑到高差的影响.
+tank.command.fightLibCommands.script.HighGap.EasyHighGap.command2:对于高差没有固定的公式来计算,但是可以通过对力度的调整来,一般来说,对方位置比你低,就需要在计算出力度的基础上减少一些力度.
+tank.command.fightLibCommands.script.HighGap.EasyHighGap.command3:高差打法没有固定的公式计算,对方位置比你低,需要相应减少开炮力度；对方位置比你高,需要相应增加力度.如果您明白了,那我们开始进行初级训练吧!
+tank.command.fightLibCommands.script.HighGap.NormalHighGap.command1:本节课我们进行高差打法的中级训练.
+tank.command.fightLibCommands.script.HighGap.DifficultHighGap.command1:本节课我们进行高差打法的高级训练.
+tank.command.fightLibCommands.script.ChallengeScript:能到达这里的都是万中选一的勇士,在这里你将接受最严酷的挑战.准备好了吗?那就惦记开始挑战吧!
+tank.command.fightLibCommands.script.MeasureScree.startTrain:开始训练
+tank.command.fightLibCommands.script.MeasureScree.watchAgain:再看一遍
+tank.command.fightLibCommands.script.MeasureScree.understood:明白了
+tank.fightLib.ChooseFightLibTypeView.selectFightLibInfo:请选择课程
+tank.fightLib.ChooseFightLibTypeView.selectDifficulty:请选择课程难度
+tank.hall.ChooseHallView.fifteenGrade:15级以上玩家才能进入训练场
+shop.ShopIIModel.countOver:此商品已售完
+shop.ShopIIModel.timeOver:此商品已售完
+tank.view.ChannelList.FastMenu.exit:关 闭
+tank.game.ToolStripView.isExit:确定要退出当前战斗?
+tank.game.ToolStripView.isExitLib:确定要退出当前训练?
+tank.view.im.IMController.shifou: 确定添加该用户为好友?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:确定升级公会等级?
+church.churchScene.SceneUI.menuClick:确定现在举行婚礼?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE:确定升级公会商城等级?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASTOREGRADE:确定升级公会保管箱等级?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASMITHGRADE:确定升级公会铁匠铺等级?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASKILLGRADE:确定升级公会技能研究院等级?
+are.you.sure.to.marry:确定现在举行婚礼?
+tank.room.RoomIIView2.leaveRoom:确定离开当前房间?
+tank.missionsettle.explore.leaveConfirm.contents:确定离开当前战斗?
+tank.gametrainer.data.TrainerModel.answer3:用手移动显示器.
+tank.gametrainer.data.TrainerModel.answer5:用意念支配.
+tank.view.common.newQuestion1:1、强化的作用是什么?
+tank.view.common.newQuestion2:2、必杀技与三叉戟导弹能同时作用吗?
+tank.view.common.newAnwser3:能.
+tank.view.common.newAnwser4:不能.
+tank.view.im.IMController.issure:确定要将此人添加到黑名单?
+tank.consortia.myconsortia.frame.MyConsortiaTax.sure:确定捐献财富?
+tank.view.emailII.EmailIIStripView.delectEmail: 您删除的邮件内含有附件,删除后<br>    附件无法找回,是否删除?
+tank.gametrainer.data.TrainerModel.answer2:按小键盘的←、→键.
+tank.hotSpring.room.time.minute:分钟
+tank.ddthotSpringList.ID:ID
+tank.ddthotSpringList.peopleNum:人数
+tank.hotSpring.room.config.title:房间设置
+tank.hotSpring.room.create.title:创建房间
+tank.hotSpring.room.defaultName:泡泡温泉,休闲休闲
+tank.view.bagII.BagIIView.BindsInfo:该操作会使物品成为绑定状态,<BR><FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'>    确认继续?</FONT>
+tank.fightLib.FightLibAwardView.exp:经验
+tank.command.fightLibCommands.script.FightLibGuideScripit.welcome:欢迎来到训练场,在这里我们为您 \n安排了一系列课程来提升您的作战能力.
+store.view.ShortcutBuyCell.lingju:凝聚
+store.view.ShortcutBuyCell.jiezi:戒指
+store.view.ShortcutBuyCell.shouzhuo:手镯
+store.view.ShortcutBuyCell.baozhu:宝珠
+store.view.ShortcutBuyCell.zhuque:朱雀
+store.view.ShortcutBuyCell.xuanwu:玄武
+store.view.ShortcutBuyCell.qinglong:青龙
+store.view.ShortcutBuyCell.baihu:白虎
+store.view.ShortcutBuyCell.Stone1:朱雀
+store.view.ShortcutBuyCell.Stone2:玄武
+store.view.ShortcutBuyCell.Stone3:青龙
+store.view.ShortcutBuyCell.Stone4:白虎
+shop.ShopIIModel.GoodsNumberLimit: 没有更多的商品可以购买
+church.churchScene.frame.ModifyDiscriptionFrame.word:字符
+tank.hotSpring.money:点券
+tank.hotSpring.gold:金币
+tank.hotSpring.comfirm:进入房间需花费10000金币,你确定要进入?
+tank.room.duplicate.previewTitle:黑暗堡垒
+tank.game.map.smallMapView.slow:系统检测到您的游戏运行不够流畅\n是否关闭游戏特效来加快游戏速度
+tank.manager.PlayerManager.pass:<{0}>公会批准了您的申请
+tank.view.common.NPCPairingDialog.title:遭遇强敌
+tank.view.common.NPCPairingDialog.accept:接受
+tank.view.common.NPCPairingDialog.refuse:拒绝
+tank.view.common.NPCPairingDialog.content:遭遇未知强敌,是否要接受挑战.
+tank.room.RoomMapSetPanelDuplicate.clew:您的等级未到{0}级,不可创建该副本
+tank.view.im.IMBlackList.add:加入黑名单
+tank.game.smallmap.simple1:初级
+tank.game.smallmap.normal1:中级
+tank.game.smallmap.difficulty1:高级
+tank.fightLib.Award.GetMessage:你获得了
+tank.fightLib.FightLibQuestionFrame.reAnswer:重新测试
+tank.fightLib.FightLibQuestionFrame.viewTutorial:去看教程
+tank.hall.ChooseHallView.campaignLabAlert:训练场
+tank.hall.ChooseHallView.auction:拍卖场
+tank.hall.ChooseHallView.church:结婚礼堂
+tank.hall.ChooseHallView.civil:交友中心
+tank.hall.ChooseHallView.consortia:公会俱乐部
+tank.hall.ChooseHallView.hotWell:温泉
+tank.hall.ChooseHallView.roomList:游戏大厅
+tank.hall.ChooseHallView.shop:购物中心
+tank.hall.ChooseHallView.tofflist:勇士大厅
+tank.hall.ChooseHallView.dungeon:远征码头
+tank.hall.ChooseHallView.master:师徒圣殿
+tank.hall.ChooseHallView.openBuildTip:恭喜你开启{0}功能!
+tank.auctionHouse.view.BrowseLeftMenuView.qianghua5:强化石5级
+
+2.35version
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.long:很 久
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.month:1个月以上
+tank.hotSpring.room.load.error:房间信息加载失败,请重新进入
+tank.menu.fireConfirm:您确定要开除“{0}”?
+tank.timeBox.awardsInfo:奖励
+tank.timeBox.awardsBtn:领取奖励
+tank.timeBox.awardsTitle:首次领取奖励
+tank.timebox.second:秒
+tanl.timebox.tipMes:倒计时结束后 ,您将获得丰厚的物品奖励
+tanl.timebox.LimitAwardTip:本次活动将在倒计时为零时结束,请弹友们赶紧参加吧
+tank.view.store.consortiaRateI:你还没有加入公会
+tank.view.store.consortiaRateII:公会贡献度:{0}/{1}
+tank.view.store.consortiaRateIII:需要公会铁匠铺等级大于0
+tank.view.store.consortiaRateIV:通过强化额外获得的成功率提升
+tank.view.effort.EffortTaskView.target:目标:
+tank.view.effort.EffortTaskView.reward:奖励:
+tank.view.effort.EffortCategoryTitleItem.FULL:总 览
+tank.view.effort.EffortCategoryTitleItem.INTEGRATION:其 他
+tank.view.effort.EffortCategoryTitleItem.PART:角 色
+tank.view.effort.EffortCategoryTitleItem.TASK:任 务
+tank.view.effort.EffortCategoryTitleItem.DUNGEON:副 本
+tank.view.effort.EffortCategoryTitleItem.FIGHT:战 斗
+tank.view.effort.EffortCategoryTitleItem.HONOR:奖 励
+tank.view.effort.EffortRigthItemView.honorName:奖励:
+tank.view.effort.EffortRigthItemView.honorNameII:称号
+tank.view.effort.EffortRigthItemView.honorNameIII:和
+tank.view.effort.EffortRigthItemView.honorNameIV:奖励物品:
+tank.view.effort.EffortRigthItemView.honorNameV:奖励称号:
+tank.view.effort.EffortRigthItemView.achievementPoint:成就点数:
+tank.view.effort.EffortPullDodnMenu.FULL:全部
+tank.view.effort.EffortPullDodnMenu.ACQUIRE:已完成
+tank.view.effort.EffortPullDodnMenu.INCOMPLETE:未完成
+tank.view.im.IMController.addBlackList:您的黑名单人数超过100人,请删除部分后再进行添加
+tank.view.im.IMController.addFriend:您的好友人数超过{0}人,请删除部分后再进行添加
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.battle:成员对公会的历史\n总贡献值
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.contribute:成员对公会的昨日\n贡献值
+tank.menu.fire:开除
+tank.consortia.myconsortia.systemWord:这小子很懒，什么也没留下.
+tank.consortia.myconsortia.frame.MyConsortiaInfoPanel.week:/周
+
+2.40version
+baglocked.SetPassFrame1.titText1:1/3: 二级密码设置
+baglocked.SetPassFrame1.inputTextInfo1:请输入密码:
+baglocked.SetPassFrame1.inputTextInfo2:(密码长度为6~14位)
+baglocked.SetPassFrame1.inputTextInfo3:请再次输入密码:
+baglocked.SetPassFrame1.inputTextInfo4:温馨提示:请牢记你的二级密码!
+baglocked.SetPassFrame2.titText2:2/3: 密码保护信息设置
+baglocked.SetPassFrame2.question1:问题一:
+baglocked.SetPassFrame2.answer1:答案一:
+baglocked.SetPassFrame2.inputTextInfo1:(答案长度最多为40位)
+baglocked.SetPassFrame2.textInfo2_7:以上信息一经填写不可更改或删除.为了避免遗忘,请填写真实信息,这将有助于您通过回答问题快速找回二级密码.
+baglocked.SetPassFrame2.question2:问题二:
+baglocked.SetPassFrame2.answer2:答案二:
+baglocked.SetPassFrame3.titText3:3/3: 密码保护信息确认
+baglocked.SetPassFrame3.textInfo3_7:以上是您刚刚设置的密保信息,请依次做出回答,以便进行确认.
+baglocked.BagLockedGetFrame.Text4:请输入二级密码进行解锁
+baglocked.UpdatePassFrame.Text5:请输入旧密码:
+baglocked.UpdatePassFrame.Text6:请输入新密码:
+baglocked.UpdatePassFrame.Text7:请再次输入新密码:
+baglocked.DelPassFrame.operationAlertInfo:您今天还可以进行{0}次操作
+tank.view.chat.ChatFacePannel.face1:微笑
+tank.view.chat.ChatFacePannel.face2:可怜
+tank.view.chat.ChatFacePannel.face3:色
+tank.view.chat.ChatFacePannel.face4:惊呆
+tank.view.chat.ChatFacePannel.face5:得意
+tank.view.chat.ChatFacePannel.face6:流泪
+tank.view.chat.ChatFacePannel.face7:害羞
+tank.view.chat.ChatFacePannel.face8:闭嘴
+tank.view.chat.ChatFacePannel.face9:大哭
+tank.view.chat.ChatFacePannel.face10:呲牙
+tank.view.chat.ChatFacePannel.face11:难过
+tank.view.chat.ChatFacePannel.face12:调皮
+tank.view.chat.ChatFacePannel.face13:酷
+tank.view.chat.ChatFacePannel.face14:恐吓
+tank.view.chat.ChatFacePannel.face15:大笑
+tank.view.chat.ChatFacePannel.face16:犯困
+tank.view.chat.ChatFacePannel.face17:寒...
+tank.view.chat.ChatFacePannel.face18:疑问
+tank.view.chat.ChatFacePannel.face19:嘘~
+tank.view.chat.ChatFacePannel.face20:暴打
+tank.view.chat.ChatFacePannel.face21:汗
+tank.view.chat.ChatFacePannel.face22:奋斗
+tank.view.chat.ChatFacePannel.face23:不屑
+tank.view.chat.ChatFacePannel.face24:发怒
+tank.view.chat.ChatFacePannel.face25:抓狂
+tank.view.chat.ChatFacePannel.face26:晕啊
+tank.view.chat.ChatFacePannel.face27:再见
+tank.view.chat.ChatFacePannel.face28:摇头
+tank.view.chat.ChatFacePannel.face29:罗嗦
+tank.view.chat.ChatFacePannel.face30:呆滞
+tank.view.chat.ChatFacePannel.face31:放电
+tank.view.chat.ChatFacePannel.face32:呕吐
+tank.view.chat.ChatFacePannel.face33:惊恐
+tank.view.chat.ChatFacePannel.face34:强
+tank.view.chat.ChatFacePannel.face35:弱
+tank.view.chat.ChatFacePannel.face36:鼓掌
+tank.view.chat.ChatFacePannel.face37:握手
+tank.view.chat.ChatFacePannel.face38:猪头
+tank.view.chat.ChatFacePannel.face39:咬人
+tank.view.chat.ChatFacePannel.face40:强壮
+tank.view.chat.ChatFacePannel.face41:亲亲
+tank.view.chat.ChatFacePannel.face42:示爱
+tank.view.chat.ChatFacePannel.face43:心碎
+tank.view.chat.ChatFacePannel.face44:炸弹
+tank.view.chat.ChatFacePannel.face45:凸
+tank.view.chat.ChatFacePannel.face46:错误
+tank.view.chat.ChatFacePannel.face47:正确
+tank.view.chat.ChatFacePannel.face48:打小人
+daily.view.DetList.getBtnText1:领　取
+daily.view.DetList.getBtnText2:已领取
+feedback.view.FeedbackSubmitFrame.title:弹弹堂意见反馈区
+feedback.view.Feedback.text:问题类型:
+feedback.view.Feedback.text1:问题标题:
+feedback.view.Feedback.text2:发生时间:
+feedback.view.Feedback.text3:年
+feedback.view.Feedback.text4:月
+feedback.view.Feedback.text5:日
+feedback.view.Feedback.text6:详细描述:
+feedback.view.Feedback.text7:活动是否异常:
+feedback.view.Feedback.text8:活动名称:
+feedback.view.Feedback.text9:物品获取途径:
+feedback.view.Feedback.text10:物品获取时间:
+feedback.view.Feedback.text11:充值订单号:
+feedback.view.Feedback.text12:充值方式:
+feedback.view.Feedback.text13:充值金额:
+feedback.view.Feedback.text14:举报名称或网址:
+feedback.view.Feedback.text15:举报用户名称:
+feedback.view.Feedback.text16:玩家姓名:
+feedback.view.Feedback.text17:玩家手机:
+feedback.view.Feedback.text18:投诉标题:
+feedback.view.Feedback.text20:投诉来源:
+feedback.view.FeedbackSubmitSp.comBoxText:请选择问题类型
+feedback.view.FeedbackSubmitSp.submitBtnText:提交
+feedback.view.SystemsAnalysis:您的问题正在处理,请稍候再提交!
+feedback.view.ThankReferQuestion:您的问题已提交,感谢您的支持!
+feedback.view.MaxReferTimes:今日提交次数已达上限.
+feedback.view.SystemBusy:系统繁忙,请稍后再试.
+feedback.view.question_type:请选择问题类型.
+feedback.view.question_title:请填写问题标题.
+feedback.view.question_content:请填写详细描述.
+feedback.view.question_LessThanEight:详细描述不能少于8个字符.
+feedback.view.user_full_name:请填写玩家姓名.
+feedback.view.user_phone:请填写玩家手机.
+feedback.view.complaints_title:请填写投诉标题.
+feedback.view.complaints_source:请填写投诉来源.
+feedback.view.charge_order_id:请填写充值订单号.
+feedback.view.charge_method:请填写充值方式.
+feedback.view.charge_moneys:请填写充值金额.
+feedback.view.activity_name:请填写活动名称.
+feedback.view.goods_get_method:请填写物品获取途径.
+feedback.view.goods_get_date:请填写物品获取时间.
+feedback.view.report_url:请填写举报名称或网址.
+feedback.view.report_user_name:请填写举报用户名称.
+
+feedback.view.problemCombox_text0:咨询游戏问题
+feedback.view.problemCombox_text1:咨询活动相关
+feedback.view.problemCombox_text2:物品道具类问题
+feedback.view.problemCombox_text3:盗号受理
+feedback.view.problemCombox_text4:充值问题
+feedback.view.problemCombox_text5:建议反馈
+feedback.view.problemCombox_text6:BUG信息反馈
+feedback.view.problemCombox_text8:举报非法
+feedback.view.problemCombox_text7:服务投诉
+feedback.view.problemCombox_text9:其它
+feedback.view.problemCombox_text10:客服回复
+
+feedback.view.csTelNumber:客服电话：{0}
+feedback.view.infoText:最少输入8个字,还可以输入{0}字
+feedback.view.infoDateText:例：2010-09-17
+feedback.view.delPostsBtnText:结帖
+feedback.view.continueSubmitBtnText:继续提交
+feedback.view.submitAssessmentBtnText:提交评价
+
+feedback.view.explainTextAreaText:<p align="center"><b><FONT COLOR='#fff9da'>事故补偿规则</FONT></b></p><br><b><FONT COLOR='#fff9da'>1.补偿期限</FONT></b><br>a)我们可以为玩家恢复最近15天内丢失的道具.<br>b)丢失时间超过15天的道具将可能无法进行恢复.<br><br><b><FONT COLOR='#fff9da'>2.恢复内容</FONT></b><br>a)在玩家申报表单内,经核实确为玩家拥有的绑定且进行过合成或者强化操作的道具可以补偿给玩家.<br>b)在玩家申报表单内,经核实确为玩家拥有的绑定珍稀道具可以补偿给玩家.<br><br><b<FONT COLOR='#fff9da'>3.不可被恢复的</FONT></b><br>a)未被绑定的道具.<br>b)被转换或被转手出售的道具.<br>c)游戏中的货币,包括但不仅限于点券、绑定点券.<br>d)游戏中消耗品（如强化材料、合成材料、卡片、经验药水、勋章、礼包）.<br><br><b><FONT COLOR='#fff9da'>4.可追回的</FONT></b><br>a)可以明确判定盗号者藏脏的账号.<br>b)我们将对盗号者藏脏的账号进行封停,并且将藏脏账号上剩余的道具根据实际情况返还给被盗号的玩家.<br><br><b><FONT COLOR='#fff9da'>5.需要全部补偿的</FONT></b><br>a)因为游戏程序本身原因造成玩家道具丢失的,经过核实属实的需按照玩家的表单进行恢复.
+
+room.view.chooseMap.DungeonChooseMapView.dungeonModeDescription:该模式由若干个关卡组成,击杀最终Boss有可能获得各种稀有的宝物.
+room.view.chooseMap.DungeonChooseMapView.dungeonModeDescription2:在副本的特殊模式中,玩家将变身成为各种不同的形象,不同的形象拥有不同的专属技能.
+im.imList.blackTitle:黑名单
+im.CMFriendList.title:已经加入弹弹堂的好友
+im.CMFriendList.titleII:暂未加入弹弹堂的好友
+trainer.view.QuestionView.tip:真厉害!下面有两个问题,巩固一下在本课中所学到的东西吧.
+trainer.view.QuestionView.award:回答正确,您可获得:
+ddt.view.common.QuestionGoogsView.questionDescription:这个礼包被智慧之神的仆从封印,需要答对他们的问题才能获得里面的东西.\n注：答错题后礼包将会消失!
+ddt.view.common.QuestionGoogsView.questionCorrect:答对题目数
+ddt.view.common.QuestionGoogsView.title:答题礼包
+
+ddt.auctionHouse.notesTitle:拍卖说明
+ddt.room.boguTip:您开启了一个新的难度
+ddt.room.boguNewEnemy:新的敌人:
+ddt.room.boguBoss:啵咕国王
+ddt.room.boguMoreGoods:更多掉落:
+ddt.room.boguGoods1:啵咕盾牌
+ddt.room.boguGoods2:3级合成石
+ddt.room.boguGoods3:啵咕帽
+ddt.view.common.church.ProposeResponse:向你求婚!
+ddt.room.boguGoods4:5级宝珠
+tank.view.awardSystem.text:点击物品放入背包
+tank.view.caddy.FullBag:背包已满,请清理背包.
+tank.view.caddy.title:魔罐开启
+tank.view.BOMO.title:赐福宝箱开启
+tank.view.caddy.start:开始
+tank.view.caddy.end:停止
+tank.view.caddy.close:关闭
+tank.view.caddy.lookTrophy:查看奖励
+tank.view.caddy.closeNode:请确认是否将获得物品放入背包!
+tank.view.caddy.BagFull:背包已满,请清理背包.
+tank.view.caddy.putInBag:放入背包
+tank.view.caddy.sellAll:全部出售
+tank.view.caddy.showChat:您通过魔罐发现了{0},并返还天使魔锤x1.
+tank.view.caddy.sellAllNode:确定是否全部出售?<br>总价格:
+tank.view.caddy.opennAll:确定打开所有卡盒?
+tank.view.caddy.dontClose:魔罐正在转动,无法关闭
+tank.view.caddy.BlessClose:赐福宝箱正在打开,无法关闭
+tank.view.caddy.cardBoxDontClose:正在开启神秘卡盒中,不能关闭界面
+tank.view.caddy.awardsPoint:· 
+tank.view.caddy.awardsGong:恭喜
+tank.view.caddy.openCaddy:开启魔罐获得
+tank.view.caddy.openBless:开启天使赐福获得
+tank.view.caddy.openBless1:开启赐福宝箱获得
+tank.view.caddy.openCardBox:开启神秘卡盒
+tank.view.caddy.quickDate:该类商品已下架,现在无法购买
+tank.view.caddy.quickBuyKey:天使魔锤
+tank.view.caddy.quickBless:天使赐福
+tank.view.caddy.quickBless1:金赐福
+tank.view.caddy.quickBless2:银赐福
+tank.view.caddy.quickBoxKey:快速购买{0}
+tank.view.caddy.Bless:天使赐福数量不足
+tank.view.caddy.EmptyBox:{0}数量不足.
+tank.view.caddy.EmptyKey:锤子数量不足.
+tank.view.caddy.rightTitleTip:开启魔罐需消耗4个锤子.
+tank.view.caddy.VipDescTxt:VIP6开启加速
+tank.view.caddy.awardRecord:奖励记录
+tank.view.caddy.badluckf:幸运排行
+tank.view.caddy.exchangeTxt:道具可折算成积分\n积分能换天使赐福
+tank.view.caddy.exchangeText1:您的赐福积分小于30点,不可以兑换
+tank.view.caddy.convertedAll:您确定将开出来的道具替换成<FONT SIZE='16' COLOR='#FF0000'>{0}</FONT>点积分
+tank.view.caddy.exchangeAll:<p align="center">您可兑换<FONT SIZE='16' COLOR='#FF0000'>{0}</FONT>个天使赐福</p>\n<FONT SIZE='16' COLOR='#FF0000'>注：每30点积分兑换一个天使赐福</FONT>
+tank.view.daddy.SilverAward:若您再开启4个天使魔罐就可获得华丽的银罐一个!
+tank.view.daddy.SilverBless:若您再开启4个天使赐福就可获得华丽的银赐福一个!
+tank.view.daddy.GoldAward:若您再开启17个天使魔罐就可获得耀眼的金罐一个!
+tank.view.daddy.GoldBless:若您再开启17个天使赐福就可获得耀眼的金赐福一个!
+tank.view.award.Player:玩家
+tank.view.award.auto:连续开启：
+tank.view.award.autoWish:连续铸金：
+tank.view.award.wishtBagTip2:首先请双击选择您要强化的装备
+tank.view.award.bagHaving:背包中现有：
+tank.view.caddy.boxNameCaddy:魔罐
+tank.view.caddy.boxNameBead:宝珠
+tank.view.caddy.boxNameGift:红包
+tank.view.offer.noOffer:功勋不足,购买失败
+tank.view.offer.NowHaveOffer:现有功勋
+tank.view.offer.noConsortia:您没有加入任何公会.
+tank.game.GameView.CaddyBattle:开启魔罐
+tank.game.GameView.beadBattle:开启宝珠
+tank.game.GameView.GiftBattle:开启功勋红包
+tank.game.GameView.BlessBattle:开启天使赐福
+tank.game.GameView.cardBoxBattle:开启神秘卡盒
+tank.game.GameView.cardBoxBattle1:开启随机卡盒
+tank.view.offer.dontClose:正在开启功勋红包,无法关闭
+tank.view.offer.opendGetAwards:开启功勋红包获得
+tank.game.ToolStripView.isExitPVP:确定要退出当前战斗?<br><FONT SIZE='12' FACE='Arial' COLOR='#FF0000'> 退出后将扣除胜率、经验.</FONT>
+im.IMLookupItem.CMFriendInfo:不能删除社区好友
+im.IMLookupItem.ConsortiaPlayerInfo:不能删除公会好友
+store.StoreIIComposeBG.consortiaSimthLevel:公会铁匠铺等级
+store.StoreIIComposeBG.StrengthPercentageStrip:幸运符可提高强化成功率神恩符可使失败后不降级 
+store.StoreIIComposeBG.ComposePercentageStrip:幸运符可提高合成成功率
+store.StoreIIComposeBG.StrengthenStonStrip:强化石所提供的成功率.
+store.StoreIIComposeBG.VIPAddStrip:VIP所提供的加成成功率.
+store.StoreIIComposeBG.StrengthenStonStripExp:强化石所提供的经验.
+store.StoreIIComposeBG.ConsortiaAddStripExp:公会铁匠铺所提供的加成经验.
+store.StoreIIComposeBG.VIPAddStripExp:VIP所提供的加成经验.
+store.StoreIIComposeBG.NoVIPAddStrip:你还没有开通VIP.
+store.StoreIIComposeBG.RichesIsNotEnough:公会贡献值不够
+store.StoreIIComposeBG.AllNumStrip:基础值,VIP加成的总和.
+tank.view.chat.ChatInputView.friend:好友
+church.view.churchFire.ChurchFireView:金币：
+im.IMView.inviteBtnText:邀请加入
+im.IMView.inviteInfo:已通过社区消息发送邀请
+im.IMView.inviteInfo1:存在非法字符,无法发送!
+im.IMView.infoText:您暂时没有加入公会
+gotopage.view.GotoPageView.bagStoreAlert:请关闭商城后再打开铁匠铺.
+ddt.loader.loadingExpeditionInfoFailure:加载扫荡信息失败!
+ddt.loader.loadingVipditionInfoFailure:加载VIP特权信息失败
+ddt.loader.loadingActivityInformationFailure:加载活动信息失败!
+ddt.loader.LoadingBombMetadataFailure:加载炸弹元数据失败!
+ddt.loader.LoadingChestsListFailure:加载宝箱物品列表失败!
+ddt.loader.LoadingLoginFailedRewardInformation:加载登录奖励信息失败!
+ddt.loader.LoadingCopyMapsInformationFailure:加载副本地图信息失败!
+ddt.loader.LoadingAchievementTemplateFormFailure:加载成就模板表失败!
+ddt.loader.LoadingPetExpirenceTemplateFormFailure:加载宠物经验模板表失败!
+ddt.loader.LoadingExpressionResourcesFailure:加载表情资源失败!
+ddt.loader.LoadingBuddyListFailure:加载好友列表失败!
+ddt.loader.LoadingManualContentFailure:加载指南内容失败!
+ddt.loader.LoadingManualSearchTagsFailure:加载指南标签失败!
+ddt.loader.LoadingItemTypeFailure:加载物品类型失败!
+ddt.loader.LoadingGoodsTemplateFailure:加载物品模板失败!
+ddt.loader.LoadingEquipTemplateFailure:加载装备模版失败!
+ddt.loader.LoadingEquipPropertyListFailuer:加载装备属性失败!
+ddt.loader.LoadingBagCellListFailuer:加载背包格子信息失败!
+ddt.loader.LoadingNewGoodsTemplateFailure:加载宝箱模板失败!
+ddt.loader.LoadingPlainInfoFailure:加载植物资源失败!
+ddt.loader.LoadingAnnouncementFailure:加载走马灯公告失败!
+ddt.loader.LoadMapInformationFailure:加载地图信息失败!
+ddt.loader.LoadingOpenMapListFailure:加载开启地图列表失败!
+ddt.loader.LoadingTaskListFailure:加载任务列表失败!
+ddt.loader.FailedToRegister:注册失败!
+ddt.loader.LoadingRoleListFailure:加载角色列表失败!
+ddt.loader.LoadingServerListFailure:加载服务器列表失败!
+ddt.loader.LoadingStoreItemsFail:加载商店物品失败!
+ddt.loader.LoadingWorldBossFail:加载世界boss英雄列表失败!
+ddt.loader.LoadingWorldBossTimeFail:加载世界boss时间列表失败!
+ddt.loader.LoadingAudioIFail:加载声音文件1失败!
+ddt.loader.LoadingAudioIIFail:加载声音文件2失败!
+ddt.loader.LoadingGoodsAdditionFail:加载物品小加成失败!
+ddt.loader.TheClassificationOfGoodsLoadingShopFailure:加载商店物品分类表失败!
+ddt.loader.ShopDisCountRealTimesFailure:加载实时更新折扣商品表失败!
+ddt.loader.LoadingTestFailure:加载题库失败!
+ddt.loader.LoadingChestsInformationFailure:加载宝箱信息失败!
+ddt.loader.LoadingGuildMembersListFailure:加载公会成员列表失败!
+ddt.loader.LoadingComplainInformationFailure:加载投诉信息失败!
+ddt.loader.LoadingNoviceRewardFailure:加载新手奖励失败!
+ddt.loader.LoadingWeaponBallListFormFailure:加载WeaponBallList失败!
+ddt.loader.LoadingTexpExpFailure:加载修炼经验表失败!
+ddt.loader.LoadingBadLuckFailure:加载衰神表失败!
+ddt.loader.LoadingLikeFriendTemplateFailure:加载同城好友失败!
+ddt.loader.LoadingActivityInfoListFailure:加载活动信息失败!
+ddt.loader.LoadingActivityConditionListFailure:加载活动条件失败!
+ddt.loader.LoadingActivityGiftbagListFailure:加载活动礼包失败!
+ddt.loader.LoadingActivityRewardListFailure:加载活动奖励失败!
+ddt.loader.LoadingPopSysNoticeBaseListFailure:加载更新公告主题失败!
+ddt.loader.PopSysNoticeContentListFailure:加载更新公告内容失败!
+ddt.enthrall.invalidID:您输入的身份证号码无效!
+ddt.enthrall.emptyName:请输入您的姓名!
+
+ddt.manager.playerManager.hushandOnline:你的老公[{0}]上线了
+ddt.manager.playerManager.wifeOnline:你的老婆[{0}]上线了
+ddt.email.readingEmail.payEmail:该邮件为付费邮件,请点击附件物品获取
+
+civil.view.CivilRightView.info:请输入要搜索的名字
+store.showTips.transfer.dontTransferI:您未放入装备
+store.showTips.transfer.dontTransferIII:您未放入原装备
+store.showTips.transfer.dontTransferIIII:您未放入目标装备
+store.showTips.transfer.dontTransferII:装备上没有可交换的属性!
+store.showTips.strength.dontStrengthI:您未放入装备
+store.showTips.strength.dontStrengthII:您未放入强化石!
+
+ddt.view.vote.title:问卷调查
+ddt.view.vote.loadXMLError:加载投票信息失败!
+ddt.view.vote.choseOne:请选择至少一个答案
+room.roomRightPropView.bagUnique:同类型战斗道具只限携带1个.
+room.roomRightPropView.bagFull:每次战斗只能携带3个贴身道具.
+room.roomRightPropView.uppropTip:单击可将道具丢弃
+room.roomRightPropView.downpropTip:点击图标可贴身带入战斗
+ddt.vip.vipIcon.otherVipTip:VIP：{0}级
+ddt.vip.vipIcon.otherNoVipTip:未开通VIP
+ddt.vip.vipIcon.clickOpen:点击此处开通VIP
+ddt.vip.vipIcon.notVipCoin:VIP币不足,无法开启!
+ddt.vip.vipIcon.notVip:你还没成为VIP,不能进行抽奖!
+ddt.vip.vipIcon.reduceVipExp:VIP过期无法享受特权
+ddt.vip.vipIcon.upGradDays:还需{0}点经验,升到{1}级
+ddt.vip.vipFrame.ConfirmTitle:确认开通
+ddt.vip.vipFrame.openVipBtn:立即开通
+ddt.vip.helpFrame.title:VIP专享特权
+ddt.vip.vipViewFrame.title:VIP特权
+ddt.vip.vipViewFrame.checkBtn:今天不再提示
+ddt.vip.vipFrameHead.text:1.VIP将直接升为6级\n2.获得VIP有效期1年
+ddt.vip.vipFrameHead.text1:3.获得1000绑定点券和1000块强化石\n4.各种漂亮的衣服和首饰.
+ddt.vip.vipFrameHead.VipPrivilegeTxt:VIP专享特权
+ddt.vip.vipFrame.title:VIP充值
+ddt.vip.vipView.oneMonth:1个月
+ddt.vip.vipView.threeMonth:3个月
+ddt.vip.vipView.sixMonth:6个月
+ddt.vip.vipView.oneYear:1年
+ddt.vip.vipView.twoYear:2年
+ddt.vip.vipView.threeYear:3年
+ddt.vip.vipView.other:其他
+ddt.vip.vipView.months:个月
+ddt.vip.vipView.payMoneyShow:您应支付<FONT COLOR='#ff3f3f'>{0}</FONT>点券(<FONT COLOR='#ff3f3f'>1</FONT>元 = <FONT COLOR='#ff3f3f'>10</FONT>点券)
+ddt.vip.vipView.checkName:两次输入的角色名称不一致
+ddt.vip.vipIcon.upGradFull:您已是最高级VIP
+ddt.vip.vipView.noMoney:您的点券不足,请充值
+ddt.vip.vipView.upRule:成长规则
+ddt.vip.vipView.help:VIP说明
+ddt.vip.vipView.confirmforSelf:您确认要开通{0}的VIP会员？<br/><FONT COLOR='#e30000'>(本次开通需扣除您{1}点券)</FONT><br/><FONT COLOR='#e30000'>礼包和武器只在首次开通时获得</FONT>
+ddt.vip.vipView.confirmforOther:您确认要为{0}开通{1}的会员？<br/><FONT COLOR='#e30000'>(本次开通需扣除您{2}点券)</FONT><br/><FONT COLOR='#e30000'>礼包和武器只在首次开通时获得</FONT>
+ddt.vip.vipView.finish:请完善信息
+ddt.vip.vipView.expired:您的VIP会员还有{0}天到期,请及时续费
+ddt.vip.vipView.expiredToday:您的VIP会员还有{0}小时到期,请及时续费
+ddt.vip.vipView.expiredHour:您的VIP会员有效期不足1小时,请及时续费
+ddt.vip.vipView.expiredTrue:VIP过期无法享受特权
+ddt.vip.vipView.RenewalNow:马上续费!
+ddt.vip.vipView.EquipRenewal:装备续费
+ddt.vip.vipView.checkOtherInput24:输入的月数不能大于24
+ddt.vip.vipView.checkOtherInput0:输入的月数不能为0
+ddt.vip.vipView.vipLevel.explain:<b>一、弹弹堂VIP会员：</b><br/>    "弹弹堂VIP会员"的推出,将为VIP玩家提供更贴心的服务及尊荣特<br/>权,等级越高,特权越强.<br/><br/><b>二、弹弹堂VIP等级成长体系规则：</b><br/>    1、VIP等级成长体系目前包含9个阶段,即VIP1- VIP9,开通VIP一<br/>个月的有效期为31天.<br/>    2、	当玩家成功开通VIP成为会员以后,VIP图标被点亮,VIP成长<br/>值以10点/天增长,累计达到一定数额,VIP等级才会逐步上升,上限为<br/>VIP9.<br/>    3、	当玩家为非VIP会员时,VIP图标熄灭,玩家将不再享受VIP特<br/>权,且VIP成长值以5点/天下降,VIP等级也将随之下降,下限为VIP1.<br/><br/><b>三、弹弹堂VIP成长值组成：</b><br/>    成长值由开通/续费成长值与非VIP成长值两部分组成：<br/>              <FONT COLOR='#FF0000'>成长值=开通/续费成长值+非VIP成长值</FONT>
+ddt.vip.loadVip.error:加载vip性息失败!
+ddt.vip.loadVip.error:加载返回投票是否开启失败!
+ddt.vip.dueTime.tip:还需{0}经验值升级至VIP{1}
+ddt.vip.vipFrame.youarenovip:您还不是VIP
+ddt.vip.vipView.checkOtherInput:请添入一个不大于24的月数
+ddt.vip.vipView.cueDateScript:您已领取过每日VIP礼包,下次领取时间{0}月{1}日00:00以后
+ddt.vip.GrowthRuleView.DescTxt1:强化加成,经验加成
+ddt.vip.GrowthRuleView.DescTxt2:免费续关,魅力防踢
+ddt.vip.GrowthRuleView.freeContinue:免费续关
+ddt.vip.GrowthRuleView.DescTxt3:开启VIP礼包,获取专属武器
+ddt.vip.GrowthRuleView.RuleTitleTxt:VIP规则说明
+ddt.vip.GrowthRuleView.RuleTxt1:1.VIP成长分为10级,开通VIP一个月有效期为30天.
+ddt.vip.GrowthRuleView.RuleTxt2:\n2.每消费1点券获得1点VIP经验,VIP满级后不能获得经验.
+ddt.vip.GrowthRuleView.RuleTxt3:\n3.当VIP过期后消费点券也能获得VIP经验,但是不能享受VIP特权.
+ddt.vip.GrowthRuleView.RuleTxt4:\n4.一次性购买半年vip,vip等级直达5级,有效期为6个月.
+ddt.vip.GrowthRuleView.RuleTxt5:\n5.一次性购买三个月vip,vip等级直达3级,有效期为3个月.
+ddt.vip.LevelPrivilegeView.TitleTxt:VIP特权
+ddt.vip.PrivilegeViewItem.VIPExtraBindMoneyUpper:绑定点券上限增加
+ddt.vip.PrivilegeViewItem.VIPRateForGP:战斗经验加成
+ddt.vip.PrivilegeViewItem.VIPStrengthenEx:强化经验加成
+ddt.vip.PrivilegeViewItem.VIPQuestFinishDirect:一键完成次数增加
+ddt.vip.PrivilegeViewItem.VIPQuestStar:任务星级奖励
+ddt.vip.PrivilegeViewItem.VIPLotteryCountMaxPerDay:免费开启VIP币
+ddt.vip.PrivilegeViewItem.VIPTakeCardDisCount:副本大翻牌打折
+ddt.vip.PrivilegeViewItem.VIPPayAimEnergy:弹王祝福扣除体力
+ddt.vip.PrivilegeViewItem.VIPLotteryNoTime:天使赐福开启加速
+ddt.vip.PrivilegeViewItem.VIPMetalRelieve:失败功勋不扣
+ddt.vip.PrivilegeViewItem.VIPWeekly:VIP礼包
+ddt.vip.PrivilegeViewItem.VIPBossBattle:开启BOSS战
+ddt.vip.PrivilegeViewItem.PetFifthSkill:宠物第五技能格
+ddt.vip.PrivilegeViewItem.FarmAssistant:免费种植助手
+ddt.vip.PrivilegeViewItem.CanBuyFert:购买丰收之神
+ddt.vip.PrivilegeViewItem.LoginSysNotice:上线全区公告
+ddt.vip.PrivilegeViewItem.VIPBenediction:免费梅恩兰德
+ddt.vip.PrivilegeViewItem.MayneRand1:续关赠送
+ddt.vip.PrivilegeViewItem.MayneRand2:救命稻草
+ddt.vip.PrivilegeViewItem.MayneRand3:翻牌赠送
+ddt.vip.PrivilegeViewItem.MayneRand4:恢复之风
+ddt.vip.PrivilegeViewItem.MayneRand5:天赐神力
+ddt.vip.PrivilegeViewItem.MayneRand6:修炼大师
+ddt.vip.PrivilegeViewItem.MayneRand7:全享免费
+ddt.vip.PrivilegeViewItem.MayneRandAll:全享免费
+ddt.vip.PrivilegeViewItem.TimesUnit:次
+ddt.vip.PrivilegeViewItem.DiscountUnit:折
+ddt.vip.PrivilegeViewItem.TimesPerDayUnit:次/天
+bag.changeColor.tips.name:Vỏ
+bag.changeColor.tips.armName:vũ khí 
+im.IMController.deleteRecentContactsInfo:是否删除最近联系人
+bagAndInfo.info.PlayerInfoEffortHonorView.selecting:选择称号
+bagAndInfo.bag.UnableUseColorShell:强化等级10级及以上武器方可使用此道具.
+ddt.vip.VipStatusView.VIPFeatureDescription:<FONT COLOR='#FF0000' ><b>1、VIP特色名称显示</b></FONT><br/>    游戏中VIP玩家的名称会显示红色.<br/><FONT COLOR='#FF0000'><b>2、VIP通关经验加成特权</b></FONT><br/>    VIP玩家在竞技战、公会战、副本通关过后,均可享受经验加成的特权.经验加成只针对双倍经验卡才有效.加成的比例随VIP等级增加而增加,即1.1倍-1.9倍.<br/><FONT COLOR='#FF0000'><b>3、VIP温泉场景特权</b></FONT><br/>    VIP玩家在温泉中享有专属套装,泡温泉时间比非VIP玩家多一个小时,且获得的经验也会更高.<br/><FONT COLOR='#FF0000'><b>4、VIP副本翻牌特权</b></FONT><br/>    VIP玩家副本通关过后,在第三次翻牌机会中可以享受9折的优惠.<br/><FONT COLOR='#FF0000'><b>5、VIP好友上限特权</b></FONT><br/>    VIP玩家比非VIP玩家的好友上限增加150人,将随着不同等级递增：VIP LV1加50人,VIP LV5加50人,VIP LV9加50人,累计150人）.<br/><FONT COLOR='#FF0000'><b>6、VIP公会作战功勋特权</b></FONT><br/>    VIP玩家在公会战败以后,当扣除的功勋大于1时,享受扣除功勋减半的特权.<br/><FONT COLOR='#FF0000'><b>7、VIP礼包特权奖励</b></FONT><br/>    VIP玩家每周可以领取一个VIP礼包.<br/><FONT COLOR='#FF0000'><b>8、VIP专属任务特权</b></FONT><br/>    VIP玩家将获得属于VIP的专属日常任务,完成后即可领取勋章奖励.<br/><FONT COLOR='#FF0000'><b>9、成就系统尽显VIP尊贵</b></FONT><br/>    随着玩家的VIP等级上升可以完成相关成就,并给予称号奖励.
+ddt.vip.VipStatusView.RewardDescription: 双倍经验卡X1,双倍功勋卡X1
+bagAndInfo.bag.sortBagClick.isSegistration:你是否想在背包整理后进行物品叠加?
+bagAndInfo.consortionBag.sortBagClick.isSegistration:是否对个人保管箱整理后进行物品叠加?
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.account:本人诚心拜师,师傅在上请收下我吧!
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.submitLabel:我要拜师
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.title:拜师
+ddt.view.academyCommon.RecommendPlayerCellView.master:拜TA为师
+ddt.view.academyCommon.RecommendPlayerCellView.apprentice:收TA为徒
+ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.explainText:留下你的拜师宣言吧!
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.account:拜我为师吧,跟着师傅有肉吃!
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.submitLabel:我要收徒
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.title:收徒
+ddt.view.academyCommon.academyRequest.AcademyRequestApprenticeFrame.explainText:留下你的收徒承诺吧!
+ddt.view.academyCommon.academyRequest.AcademyRegisterFrame.academyHonorLabel:师徒称号：
+ddt.view.academyCommon.recommend.AcademyApprenticeMainFrame.title:推荐拜师
+ddt.view.academyCommon.recommend.AcademyMasterMainFrame.title:推荐收徒
+ddt.view.academyCommon.myAcademy.myAcademyItem.MyAcademyMasterItem.online:在线
+ddt.view.academyCommon.myAcademy.myAcademyItem.MyAcademyMasterItem.offline:不在线
+ddt.goodsTip.date1:还剩{0}天{1}时{2}分开启
+ddt.goodsTip.date2:还剩{0}时{1}分开启
+ddt.view.academyCommon.itemtitle.disposeItem:解除关系
+ddt.view.academyCommon.itemtitle.removeBtnText:解除
+ddt.view.academyCommon.academyIcon.MasterIcon:我的师傅
+ddt.view.academyCommon.academyIcon.ClassIcon:我的同门
+ddt.view.academyCommon.academyIcon.ApprenticeIcon:我的徒弟
+ddt.view.academyCommon.academyIcon.AcademyIconTip.master:{0}的师傅
+ddt.view.academyCommon.academyIcon.AcademyIconTip.Apprentice:{0}的徒弟
+ddt.view.academyCommon.academyIcon.AcademyIconTip.masterExplanation:还缺{0}个徒弟
+ddt.view.academyCommon.academyIcon.AcademyIconTip.1:一
+ddt.view.academyCommon.academyIcon.AcademyIconTip.2:二
+ddt.view.academyCommon.academyIcon.AcademyIconTip.3:三
+ddt.view.academyCommon.academyIcon.AcademyIconTip.ApprenticeExplanation:还没有师傅
+ddt.view.academyCommon.academyIcon.AcademyIconTip.ApprenticeNull:点击查看师徒福利
+ddt.view.academyCommon.myAcademy.MyAcademyMasterItem.remove:解除关系将受到20000金币和在24小时收徒等\n待时间的惩罚,是否要将徒弟{0}逐出师门?
+ddt.view.academyCommon.myAcademy.MyAcademyApprenticeItem.remove:解除关系将受到10000金币和24小时拜师等待时间的惩罚,且16级以上\n不可以再拜师,是否要将师傅{0}解雇?
+ddt.view.academyCommon.myAcademy.MyAcademyApprenticeItem.removeII:师徒情分来之不易,且16级以上不可以再拜师,是否要将师傅{0}解雇?
+ddt.view.academyCommon.myAcademy.MyAcademyApprenticeItem.removeIII:师徒情分来之不易,是否要将徒弟{0}逐出师门?
+ddt.room.roomPlayerItemTip.SpouseNameTxt:{0}的爱人
+ddt.view.academyCommon.recommend.AcademyApprenticeMainFrame.checkBoxBtnInfo:今天不再推荐提醒
+ddt.view.academyCommon.academyRequest.AcademyAnswerMasterFrame.AnswerMaster:你希望<FONT COLOR='#000000'>{0}</FONT>成为你的徒弟吗?
+ddt.view.academyCommon.academyRequest.AcademyAnswerApprenticeFrame.AnswerApprentice:你希望<FONT COLOR='#000000'>{0}</FONT>成为你的师傅吗?
+ddt.view.academyCommon.graduate.ApprenticeGraduate:出师
+ddt.view.academyCommon.graduate.ApprenticeGraduate.title:恭喜出师了
+ddt.view.academyCommon.graduate.ApprenticeGraduate.explain:现在你也可以<FONT COLOR='#ff0000'>带徒弟</FONT>了,奖励很<FONT COLOR='#ff0000'>丰厚</FONT>哦!
+ddt.view.academyCommon.graduate.MasterGraduate:出徒
+ddt.view.academyCommon.graduate.MasterGraduate.title:恭喜您的徒弟 <FONT COLOR='#000000'>{0}</FONT> 出师了!
+ddt.view.academyCommon.graduate.MasterGraduate.explain:您可以再收一个徒弟,最多同时可收3个徒弟!
+ddt.view.academyCommon.apprenCount:出徒总数：
+ddt.manager.showAcademyPreviewFrame.masterFree:师徒福利
+ddt.manager.AcademyManager.warning:收徒时等级必须比对方大5级
+ddt.manager.AcademyManager.warningI:拜师时等级必须比对方小5级
+ddt.manager.AcademyManager.warningII:玩家等级必须大于5级才可以收入门下
+ddt.manager.AcademyManager.warningIII:徒弟必须小于20级
+ddt.manager.AcademyManager.warningIIII:只有等级大于等于20级才可以收徒
+ddt.manager.AcademyManager.warning6:5级以上才可以拜师
+ddt.manager.AcademyManager.warning7:对方等级大于16级,不可以收他为徒了!
+ddt.manager.AcademyManager.warning8:只有等级大于5级且小于17级才可以拜师!
+ddt.manager.AcademyManager.warning9:17~19级玩家不可以登记拜师哦!
+ddt.manager.AcademyManager.warning10:你现在正在房间中,是否进入师徒圣殿?
+ddt.room.roomStart.academy.warning1:只有师徒身份才能进入师徒副本!
+ddt.room.roomStart.academy.warning2:队伍成员必须要有一个师傅!
+ddt.room.roomStart.academy.warning3:队伍成员只能有一个师傅!
+ddt.room.roomStart.academy.warning4:最少需要1名师傅和1名徒弟!
+ddt.manager.AcademyManager.WarningApprenticeState:你已经有师傅了!
+ddt.manager.AcademyManager.WarningMasterFullState:只有徒弟数小于3人才能收徒,先去解除师徒关系吧!
+im.IMView.myAcademyBtnTips:我的师徒
+im.IMView.socialContact:发状态
+ddt.view.academyCommon.recommend.RecommendPlayerCellView.tips:点击玩家可查看装备
+ddt.manager.academyManager.Freezes:距离上次解除师徒关系超过24小时才可再拜师
+ddt.manager.academyManager.FreezesII:距离上次解除师徒关系超过24小时才可再收徒
+ddt.manager.playerManager.masterState:您的师傅[{0}]上线了
+ddt.manager.playerManager.ApprenticeState:您的徒弟[{0}]上线了
+academy.view.AcademyMemberListView.searchTxt:请输入玩家名称
+ddt.view.academyCommon.register.TitleTxt:登记信息
+ddt.view.academyCommon.register.TitleTxtII:修改信息
+ddt.view.academyCommon.register.introductionFieldTxt:一段相遇,两处轻狂.桃李红墙外,寄语短天涯长.
+ddt.data.analyze.AcademyMemberListAnalyze.info:很抱歉!暂时没有合适的徒弟,请稍后再试!
+ddt.data.analyze.AcademyMemberListAnalyze.infoI:很抱歉!暂时没有合适的师傅,请稍后再试!
+academy.view.AcademyMemberListView.amendBtnTips:修改拜师或收徒信息
+academy.view.AcademyMemberListView.registerBtnTips:登记拜师或收徒信息
+ddt.manager.AcademyManager.alertSubmit:去师徒圣殿
+hall.HallStateView.academyInfo:该功能暂未开放,6级再来吧!
+im.IMView.academyInfo:只有等级大于5级且小于17级才可以拜师
+ddt.view.academyCommon.register.introductionLabel:寄语：
+academy.view.AcademyMemberListView.registerInfo:您已拜师,不得在师徒圣殿登记
+academy.view.AcademyMemberListView.registerInfoII:您的徒弟已经到达3个,不得在师徒圣殿登记
+academy.view.AcademyMemberListView.registerInfoIII:无对应搜索结果
+academy.view.success:操作成功,请等待对方回应!
+
+bagAndInfo.bag.sortBagClick.isSegistration:你是否想在背包整理后进行物品叠加?
+ddt.view.SnsFrame.titleText:动态分享
+ddt.view.SnsFrame.inputTextI:谢谢DDTV……谢谢亲爱的朋友们!!
+ddt.view.SnsFrame.inputTextII:今儿个真高兴!
+ddt.view.SnsFrame.inputTextIII:不是俺不想低调~天道酬勤啊
+ddt.view.SnsFrame.inputTextIV:少壮不努力,老大徒伤悲!
+ddt.view.SnsFrame.inputTextV:和朋友们在一起,什么困难都不怕!
+ddt.view.SnsFrame.inputTextVI:防御UP,攻击UP,幸运UP,敏捷UP,快乐UP.
+ddt.view.SnsFrame.inputTextVII:魅力不是我想要,想要就能要!
+ddt.view.SnsFrame.inputTextVIII:千里狙击,我能,无限可能!
+ddt.view.SnsFrame.shareBtnText:分 享
+ddt.view.SnsFrame.visibleBtnText:下次分享不再提醒
+ddt.view.SnsFrame.snsInviteBtnTipData:上线邀请
+ddt.view.SnsFrame.inputTextText:好久没看到你上线了,有空上线一起玩吧!
+ddt.FriendDropListCell.noFriend:无好友搜索结果
+ddt.giftSystem.GiftShopView.chooseGiftForFriend:为好友选份礼物吧!
+ddt.view.NovicePlatinumCard.titleText:新手白金卡
+im.CMFriendList.switchBtn1.tipData1:好友动态发送时提示
+im.CMFriendList.switchBtn1.tipData2:好友动态发送时不提示
+im.CMFriendList.switchBtn2.tipData1:好友动态开启
+im.CMFriendList.switchBtn2.tipData2:好友动态关闭
+IM.InviteDialogFrame.info:想要体验竞技的乐趣么?快来弹弹堂{0}区,和我一起体验真人射击对战的乐趣吧!
+im.InviteDialogFrame.Title:邀请
+im.InviteDialogFrame.inviteBu:邀请喇叭
+im.InviteDialogFrame.name:对TA发出邀约
+im.InviteDialogFrame.send:发送
+im.SnsFrame.success:分享成功!
+ddt.trainer.view.ExplainOne.explain:增加1次攻击
+ddt.trainer.view.ExplainTen.explain:增加伤害10%
+ddt.trainer.view.ExplainTen.explain:增加伤害10%
+ddt.trainer.view.ExplainPowerThree.three:发射3束炮弹
+ddt.trainer.view.ExplainPowerThree.power:发射致命一击
+ddt.trainer.view.ExplainPowerThree.ps:注：这两个道具不可同时使用
+ddt.trainer.view.ExplainPlane.explain:将自己传送到目标位置
+ddt.trainer.view.ExplainTwoTwenty.two:增加2次攻击
+ddt.trainer.view.ExplainTwoTwenty.twenty:增加伤害20%
+ddt.trainer.view.ExplainTwoTwenty.ps:可与其他道具组合使用,伤害更高
+ddt.trainer.view.ExplainThreeFourFive.tip:使用后增加更多攻击伤害
+ddt.trainer.view.ExplainThreeFourFive.ps:注：与其他道具组合使用伤害更高
+ddt.functionLimitTip:该功能暂未开放,{0}级再来吧!
+ddt.goFarmTip:20级开放农场!
+ddt.trainer.store.open:铁匠铺开启后可以使用该功能!
+ddt.room.cantOpenMuti:6级可以点击此处增加己方房间人数
+ddt.playerManager.addFriend.isRefused:对方设置了拒绝加好友.
+room.view.roomView.MatchRoomView.challengeTip:开启了挑战功能,可以加入大厅挑战房间列表或点击\n他人名称后在界面中点击“发起挑战”按钮
+shop.manager.ShopBuyManager.textImg:购买数量
+shop.view.ShopRankingView.NoSearchResults:无搜索结果
+im.playerState.awayReply:你好,现在有事不在,一会再和你联系.
+im.playerState.busyReply:现在忙,一会联系.
+im.playerState.noDisturbReply:神马迷茫中,火星回来联系.
+im.playerState.shoppingReply:正在血拼中,一会联络.
+im.playerState.away:离开
+im.playerState.offline:离线
+im.playerState.busy:忙碌中
+im.playerState.noDisturb:请勿打扰
+im.playerState.online:在线
+im.playerState.shopping:购物
+ddt.consortia.event.contribute:公会成员 <FONT COLOR='#FFD800'>{0}</FONT> 捐献 <FONT COLOR='#FF0000'>{1}</FONT> 点公会财富
+ddt.consortia.event.contributeGM:GM捐献 <FONT COLOR='#FF0000'>{0}</FONT> 点公会财富
+ddt.consortia.event.quite:<FONT COLOR='#FFD800'>{0}</FONT> 开除公会成员 <FONT COLOR='#FFD800'>{1}</FONT>
+ddt.consortia.event.join:<FONT COLOR='#FFD800'>{0}</FONT> 招收新成员 <FONT COLOR='#FFD800'>{1}</FONT>
+ddt.consortia.event.quit:<FONT COLOR='#FFD800'>{0}</FONT> 退出公会
+ddt.consortia.event.skill:注意: {0}
+im.playerState.shopping:购物
+ddt.view.bossbox.AwardsView.TheNextTimeText:请保持在线至{0},您将获得以下奖励：
+shop.view.ShopRankingView.shopSearchText:输入物品名称
+shop.view.ShopRankingView.PleaseEnterTheKeywords:请输入关键字
+ddt.giftSystem.openBeadBtn.text:宝珠系统10级开启
+ddt.texpSystem.openTexpBtn.text:等级达到{0}级即可开启修炼系统
+ddt.bagandgift.opentotemBtn.text:等级达到{0}级即可开启图腾系统
+ddt.petSystem.openPetBtn.text:等级达到25级即可开启宠物系统
+ddt.userGuild.boxTip:还剩{0}小时{1}分钟开启
+tank.view.changeColor.ChangeColorLeftView.wing:装饰
+game.view.propContainer.ItemContainer.energy:按空格键发炮
+game.view.arrow.ArrowView.energy:按空格键传送
+shop.view.ShopRightView.getSimpleAlert.title:免费领取
+shop.view.ShopRightView.getSimpleAlert.msg:每天您可以进行一次免费领取,是否确认?
+ddt.roomLoading.tips0:战斗内单击“Enter”键可快捷聊天
+ddt.roomLoading.tips1:进入副本需要消耗一定的活力值
+ddt.cardSyste.bagItem.unkwon:未知
+ddt.tryonSystem.title:请选择你最想要的奖励
+ddt.consortion.levelTip.explain:说　明：
+ddt.consortion.levelTip.nextLevel:下一级：
+ddt.consortion.levelTip.requirements:要　求：
+ddt.consortion.levelTip.consumption:消　耗：
+ddt.consortion.taskLevelTip.explain:最高可获得奖励：
+ddt.consortion.taskLevelTip.contribution:贡献  
+ddt.consortion.taskLevelTip.bankroll:资金  
+ddt.consortion.loadEventList.fail:加载公会事件失败!
+ddt.consortion.loadUseCondition.fail:加载公会条件信息失败!
+cityWideFrame.ONSTitle:TA和你可能在同一城市
+cityWideFrame.ONSAlertInfo: <FONT COLOR='#fc2130'>已经添加</FONT> <FONT COLOR='#000000'><B>r</B> </FONT><FONT COLOR='#fc2130'>为同城好友!</FONT>
+ddt.exitPrompt.btInfoTextI:·还有<font size='16px' bold='true' COLOR='#F8D200'>r</font>个未完成
+ddt.exitPrompt.btInfoTextII:·<font COLOR='#00cc33'>全部完成</font>
+ddt.exitPrompt.btInfoTextIII:·还有<font size='16px' bold='true' COLOR='#F8D200'>r</font>封未读
+ddt.exitPrompt.btInfoTextIV:·<font COLOR='#00cc33'>全部读取</font>
+ddt.exitPrompt.prompt:你确定要退出游戏吗
+ddt.exitPrompt.alotofTask:多次
+ddt.exitPrompt.copyThisUrl:地址已保存
+tank.view.im.microcobol.tip:状态
+socialContact.microcobol.infoTextI:请输入内容
+socialContact.microcobol.infoTextII:超出<font size='24px'>r</font>字
+socialContact.microcobol.infoTextIII:还能输入<font size='24px' >r</font>字
+socialContact.microcobol.succeed:分享成功
+socialContact.microcobol.infoTextTooLong:字数超出限制
+journal.view.JournalItem.contentTxtNum:<FONT SIZE='14' FACE='宋体' COLOR='#993300'><B>{0}.</B></FONT>
+journal.view.JournalItem.contentTxtContent:<FONT SIZE='14' FACE='宋体' COLOR='#FF0000'><B>{0}</B></FONT>
+ddt.consortion.mailFrame.title:写公会邮件
+ddt.consortion.mailFrame.all:公会全体成员
+ddt.consortion.mailFrame.noEnagth:公会财富不足1000点
+ddt.consortion.mailFrame.success:公会邮件发送成功
+ddt.consortion.mailFrame.fail:公会邮件发送失败
+ddt.consortion.pollFrame.title:会长选举
+ddt.consortion.pollload.error:加载公会选举列表失败!
+ddt.consortion.pollFrame.pleaseSelceted:请选择一位候选人
+ddt.consortion.pollFrame.helpFrame.title:会长转移说明
+ddt.consortion.pollFrame.continueDay:注:选举还剩{0}天
+ddt.consortion.skillFrame.title:公会技能
+ddt.consortion.skillInfo.loadError:公会技能信息加载失败!
+ddt.consortion.skillTip.validity:有效期:{0}
+ddt.consortion.skillItem.oneDay:1天
+ddt.consortion.openSkillFrame.title:技能开启
+ddt.consortion.SkillFrame.confirm:是否确定关闭此技能
+ddt.consortion.SkillFrame.info:会长或者副会长才能开启此技能
+ddt.consortion.skillItem.click.open:公会技能等级不足
+ddt.consortion.skillItem.click.enough1:公会财富不足,是否现在捐献公会财富?
+ddt.consortion.skillItem.click.enough2:个人贡献不足,是否现在捐献公会财富?
+ddt.consortion.skillItem.click.enough3:勋章不足
+ddt.consortion.pollFrame.success:投票成功
+ddt.consortion.pollFrame.fail:投票失败
+ddt.consortion.pollFrame.double:您已参与过投票
+ddt.consortion.playerTip.notInvite:15级以下玩家不能加入公会
+ddt.consortion.playerTip.churchNotInvite:13级以下玩家不能参加婚礼
+#房间内人物表情关键词列表
+room.roomPlayerActionKey.HAPPY:haha|hehe|^ ^|^_^|噗哧|呼呼|呵呵|哈哈
+room.roomPlayerActionKey.LUAGH:ahaha|ahahaha|ahahah|ahahahaha|ahahahahah|ahahahahaha|hahahaha|hahahahaha|hahahahahahahah|啊哈哈|啊哈哈哈哈|啊哈哈哈哈哈|哈哈哈哈|木哈哈|哇哈哈|XD|笑死我了
+room.roomPlayerActionKey.NAUGHTY:嘻嘻|xixi|嘎嘎|gaga
+room.roomPlayerActionKey.SAD:5555|呜呜|我哭|哭
+room.roomPlayerActionKey.SARROWFUL:5555|555|呜呜呜呜
+room.roomPlayerActionKey.LOOK_AWRY:切|戚|额|切~
+room.roomPlayerActionKey.ANGRY:可恶|怒|啊啊|擦|日|杀
+room.roomPlayerActionKey.SULK:啧|烦|烦死了|烦死了!|烦死了!|郁闷
+room.roomPlayerActionKey.COLD:寒|怕怕|冷|好冷|好冷啊
+room.roomPlayerActionKey.DIZZY:晕|昏|倒|yun|hun|dao
+room.roomPlayerActionKey.SUPRISE:这……|雷|汗|汗……|汗…|汗…|囧|orz|囧rz
+room.roomPlayerActionKey.SICK:恶心|恶心!|恶…|恶……|呸|呸!|我呸!
+room.roomPlayerActionKey.SLEEPING:呼噜……|zzz…|zzz|zzz……
+room.roomPlayerActionKey.OH_MY_GOD:天哪!|天哪|天哪!|omg|哇|哇哇哇|wa
+room.roomPlayerActionKey.LOVE:么么|亲亲|亲|kiss|啵|么么~|么么～|美女|美眉|帅哥～|帅哥|好厉害!|好厉害|好厉害!
+room.roomPlayerActionKey.PRIDE:嘿嘿|哼哼|heihei|hengheng
+ddt.view.skillFrame.effect:效果:
+ddt.consortion.skillCell.btnPersonal.rich:贡献
+ddt.consortion.skillFrame.alertFrame.title:开启同类技能
+ddt.consortion.skillFrame.alertFrame.content:若开启此技能,已开启的同类的技能会被关闭,是否确认开启?
+ddt.consortion.skillFrame.alertFrame.personal.riches:个人贡献不足,无法开启此技能
+ddt.consortion.skillFrame.alertFrame.consortion.riches:公会财富不足,无法开启此技能
+ddt.tryonSystem.tryon:请选择奖励物品
+ddt.bagInfo.notSociaty:无公会点击操作无效
+ddt.bagInfo.notDesignation:未获得成就称号点击操作无效
+
+gotopage.view.LeagueShowFrame.title:联 赛
+gotopage.view.LeagueShowFrame.scoreBtnText:积分{0}
+
+ddt.quest.collectInfo.phone:手机号码：
+ddt.quest.collectInfo.email:邮箱地址：
+ddt.quest.collectInfo.validate:验证码：
+ddt.quest.collectInfo.validateSend:验证码发送成功,可能会有数分钟延迟.
+ddt.quest.collectInfo.dataError:输入无效,请重新输入.
+ddt.quest.collectInfo.validateComplete:验证成功.
+ddt.quest.collectInfo.validateFail:验证码有误.
+ddt.quest.collectInfo.validateError:输入验证码有误,请重新输入
+ddt.quest.collectInfo.noMail:请输入邮箱地址
+ddt.quest.collectInfo.noPhone:请输入手机号码
+ddt.quest.collectInfo.noValidate:请输入验证码.
+ddt.quest.collectInfo.phoneNumberError:输入号码无效,请重新输入
+
+ddt.quest.collectInfo.notValidMailAddress:邮箱地址无效
+ddt.quest.collectInfo.notUsualMailAddress:不是常见的邮件地址
+ddt.quest.collectInfo.validMailAddress:邮件地址有效
+ddt.roomList.roomListBG.full:所有模式
+ddt.roomList.roomListBG.Athletics:竞技模式
+ddt.roomList.roomListBG.challenge:挑战模式
+tank.view.common.BellowStripViewII.downLoadClient:点击下载登录器到桌面
+ddt.view.academyCommon.academyRequest.state:对方不在线,请稍后再试
+IMControl.addNullFriend:请输入名称
+calendar.view.ActiveState.StartNot:活动尚未开始
+calendar.view.ActiveState.OnMark:活动尚有{0}结束
+calendar.view.ActiveState.TimeOut:活动已经结束
+bagAndInfo.sellFrame.explainTxt:是否确定要出售 <FONT COLOR='#ff0000'>{0}</FONT> 个\n价格:
+bagAndInfo.sellFrame.explainTxtI:是否确定要出售          个\n价格:
+texpSystem.view.TexpView.currLv:当前等级：
+texpSystem.view.TexpView.currEffect:当前效果：
+texpSystem.view.TexpView.upEffect:下级效果：
+texpSystem.view.TexpView.currExp:当前经验：
+texpSystem.view.TexpView.upExp:升级经验：
+texpSystem.view.TexpView.texpName:生命
+texpSystem.view.TexpView.hp:血量
+texpSystem.view.TexpView.att:攻击
+texpSystem.view.TexpView.def:防御
+texpSystem.view.TexpView.spd:敏捷
+texpSystem.view.TexpView.luk:幸运
+texpSystem.view.TexpView.up:恭喜您!{0}修炼等级提升!
+texpSystem.view.TexpView.tipContent:等级: <FONT COLOR='#ea1a3c'>{0} 级</FONT>\n提升{1}值: <FONT COLOR='#ea1a3c'>{2}</FONT>
+texpSystem.view.TexpInfoTip.content:<FONT COLOR='{0}'>{1}:</FONT> <FONT COLOR='#ffffff'>{2}</FONT> ({3}级)
+texpSystem.view.TexpInfoTip.title:修炼属性
+texpSystem.view.TexpView.texpTip:提升角色{0}值
+texpSystem.view.TexpView.helpTitle:修炼说明
+texpSystem.view.TexpView.refreshTaskTip:刷新修炼任务需要消耗 10 (绑定)点券,确定刷新?
+texpSystem.view.TexpCell.typeError:该位置只能放入修炼药水!
+texpSystem.view.TexpCell.selectType:请选择修炼类型!
+texpSystem.view.TexpCell.empty:您未放入修炼药水!
+texpSystem.view.TexpCell.lvToplimit:该修炼等级已达上限!
+texpSystem.view.TexpCell.noGrade:修炼系统10级开启!
+texpSystem.view.TexpCell.texpCountToplimit:您今天可使用修炼药水的数量已到上限!
+texpSystem.view.TexpCountSelect.frame:修炼药水数量
+texpSystem.view.TexpCountSelect.text:药水数量
+texpSystem.view.TexpCountSelect.CountText:还需要<FONT COLOR='#ff0000'>{0}</FONT>个修炼药水才能升级
+pageInterface.yourturn:轮到你出手了 
+pageInterface.webTitle:新弹弹堂
+quest.QuestInfoPanelView.necessaryText:可选任务目标
+quest.QuestInfoPanelView.notNecessaryText:必要任务目标
+pageInterface.yourturn:轮到你出手了
+IM.MaxCustom:最多只能创建10组自定义组
+IM.addCustom.success:"{0}"添加成功
+IM.addCustom.fail:"{0}"添加失败
+IM.deleteCustom.success:分组<{0}>删除成功
+IM.deleteCustom.fail:分组<{0}>删除失败
+IM.alertCustom.success:自定义组修改成功
+IM.alertCustom.fail:自定义组修改失败
+IM.PrivateFrame.title:与"{0}"的对话
+IM.PrivateFrame.send:发送
+IM.PrivateFrame.record:记录
+tank.memberList.nameText.text:成员列表
+tank.memberList.jobText.text:职位
+tank.memberList.levelText.text:等级
+tank.memberList.offerText.text:昨日贡献
+tank.memberList.fightPowerText.text:历史贡献
+tank.memberList.offLineText.text:登陆
+tanl.consortion.chairmanText.text:会长
+tanl.consortion.numberText.text:人数
+tanl.consortion.richesText.text:财富
+tanl.consortion.exploitText.text:功勋
+tanl.consortion.rankingText.text:排名
+tanl.consortion.holdText.text:维持费
+tank.consortionClub.MemberListTitleText1.text:公会名称
+tank.consortionClub.MemberListTitleText2.text:会长
+tank.consortionClub.MemberListTitleText3.text:人数
+tank.consortionClub.MemberListTitleText4.text:等级
+tank.consortionClub.MemberListTitleText5.text:公会功勋
+consortion.view.selfConsortia.SearchMemberFrame:搜索会员
+consortion.view.selfConsortia.SearchMemberFrame.default:请输入会员名称
+consortion.view.selfConsortia.SearchMemberFrame.warning:没有找到昵称与{0}字符相匹配的成员
+consortion.view.selfConsortia.SearchMemberFrame.warningII:您搜索的目标不在查询列表中
+consortion.view.selfConsortia.SearchMemberFrame.warningIII:最多输入14个字符或者7个汉字
+IM.ChatFrame.level:等级：
+IM.ChatFrame.warning:交谈中请勿轻信汇款、中奖信息、陌生电话,勿使用外挂软件
+IM.ChatFrame.recordFrame.title:消息记录
+IM.ChatFrame.recordFrame.pageWord:第                  页/{0}页
+IM.messagebox.title:消息盒子
+IM.addFirend.repet:组名已存在
+IM.other.noEnough.five:对方还未开启此聊天功能
+IM.privateChatFrame.send.tipdata:Enter发送
+tank.gameover.takecard.score:积分
+tank.littlegame.scorelack:积分不足
+tank.littlegame.exchange:兑  换
+consortia.task.releasetitle:公会使命
+consortia.task.releaseTable:发布使命
+consortia.task.cancelTable:取消使命
+consortia.task.resetTable:重新获取
+consortia.task.okTable:确认发布
+consortia.task.resetContent:重新获取使命需要支付(绑定)点券{0}点,确定获取?<p align="center"><br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'>注：重新获取公会使命会清空当前使命进度.</FONT></p>
+consortia.task.OKContent:发布使命需要支付财富{0}点,确定发布?
+consortia.task.lasttime:距本次使命结束下次开始还有{0}分{1}秒
+consortia.task.released:使命已发布!
+consortia.task.havetaskNoRelease:此次使命已消耗过公会财富,点击发布不会重复扣除
+consortia.task.donateOK:捐献成功
+consortia.task.plaese:请输入捐献的数量
+consortia.task.stopTable:公会使命已经结束
+consortia.donateMEDAL:捐献
+consortia.task.noMedal:您没有勋章
+ActivityState.confirm.content:你确定要充入{0}点券?
+consortion.buyBadgeFrameTitle:购买公会徽章
+core.badgeTip.description:公会等级需大于等于{0}级,只有会长有购买权利
+consortia.buyBadge.levelTooLow:公会等级不够
+email.complain.lan:邮件举报
+quickReport.complain.lan:非法聊天信息举报
+BaseRoomView.getout.Timeout:30秒后将被请出房间
+room.scoreRoom.isInRoom:您已在一个游戏房间内,不能创建精英赛房间
+store.strength.autoSplit.inputNumber:输入强化石数量
+loading.asset:资源文件
+shop.buyAvatarFail:部分商品无法快捷购买!
+shop.buyAvatarFail2:无商品可购买!
+email.complain.confim:确定举报此邮件为垃圾邮件?
+
+tank.trainer.fightAction.newHandTip1:开炮方向反了,调整方向再打哦!
+tank.trainer.fightAction.newHandTip2:力量太大了,试试用更小的力量开炮
+tank.trainer.fightAction.newHandTip3Small:力量有些大,再小点试试
+tank.trainer.fightAction.newHandTip3Large:力量有些小,再大点试试
+tank.trainer.fightAction.newHandTip4:炮弹对您和队友同样会造成伤害,调整位置与角度,将炮口对准敌人!
+tank.trainer.fightAction.newHandTip5:在位置不佳的情况下,可以使用传送.
+tank.trainer.fightAction.newHandTip6:生命值过低,请使用在战斗道具箱中购买的生命恢复!
+
+ddt.vip.vipView.getAwardsByLVText:请根据VIP等级领取对应的礼包
+
+tank.view.Texp.bugbuff:点击购买梅恩兰德的祝福
+
+tank.leavaPageManager.chargeMoney.error:加载充值页面有错!
+tank.leavaPageManager.chargeMoney.fail:充值10000失败!
+tank.leavaPageManager.chargeMoney.success:充值10000成功!
+
+#3.6VIP 优化
+tank.vip.helpFrame.explain:VIP规则说明
+tank.vip.view.buyVipGift:你确定花费<FONT SIZE='14' COLOR='#FF0000'>6680(绑定)点券</FONT>购买VIP大礼包?
+tank.vip.rechargeAlertTitle:VIP{0}级享受以下特权：
+tank.vip.rechargeAlertEndTitle:VIP{0}级享受以下特权：
+tank.vip.rechargeAlertContent1:战斗经验加成{0}倍；
+tank.vip.rechargeAlertContent2:强化成经验加成{0}；
+tank.vip.rechargeAlertContent3:任务奖励从{0}星开始；
+tank.vip.rechargeAlertContent4:绑定点券上限增加{0}；
+tank.vip.rechargeAlertContent5:副本大翻牌{0}折；
+tank.vip.rechargeAlertContent6:使用弹王祝福扣除体力降低到{0}；
+tank.vip.rechargeAlertContent7:一键完成任务增加{0}次；
+tank.vip.rechargeAlertContent8:天使魔罐开启加速；
+tank.vip.rechargeAlertContent9:战斗失败不扣功勋；
+tank.vip.rechargeAlertContent10:每天可开启{0}次VIP币；
+tank.vip.rechargeAlertContent11:免费开启梅恩兰德祝福{0}
+tank.vip.rechargeAlertContent12:每天领取{0}级VIP礼包：{1}；
+tank.vip.rechargeAlertContent13:1、上线全服公告,时间间隔为1小时；
+tank.vip.rechargeAlertContent14:2、开启BOSS战；
+tank.vip.rechargeAlertContent15:3、种植助手免费使用；
+tank.vip.rechargeAlertContent16:4、可开启宠物第五个技能格；
+tank.vip.rechargeAlertContent17:5、可购买化肥之神；
+tank.vip.PrivilegeTxt1:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从2星开始\n2、强化经验加成25%\n3、副本大翻牌8.8折扣\n4、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.1</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n5、战斗失败不扣除功勋\n6、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>1</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n7、</FONT><FONT SIZE='14px' COLOR='#FF0000'>1级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：强化石、合成石、经验药水<FONT>
+tank.vip.PrivilegeTxt2:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从2星开始\n2、强化经验加成25%\n3、副本大翻牌8.8折扣\n4、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.2</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n5、战斗失败不扣除功勋\n6、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>3</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n7、</FONT><FONT SIZE='14px' COLOR='#FF0000'>2级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：强化石、合成石、经验药水<FONT>
+tank.vip.PrivilegeTxt3:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从2星开始\n2、强化经验加成25%\n3、</FONT><FONT SIZE='14px'COLOR='#FF0000'>每天开启一键完成任务功能1次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.3</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>5</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#FF0000'>免费开启梅恩兰德祝福：续关赠送、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、</FONT><FONT SIZE='14px' COLOR='#FF0000'>3级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：强化石、合成石、经验药水、</FONT><FONT SIZE='14px' COLOR='#FF0000>首饰、恢复圣石</FONT>
+tank.vip.PrivilegeTxt4:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从2星开始\n2、强化经验加成25%\n3、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>每天开启一键完成任务功能1次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.4</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>5</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、</FONT><FONT SIZE='14px' COLOR='#FF0000'>救命稻草</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、</FONT><FONT SIZE='14px' COLOR='#FF0000'>4级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：强化石、合成石、经验药水、首饰、恢复圣石</FONT>
+tank.vip.PrivilegeTxt5:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从2星开始\n2、强化经验加成25%\n3、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>每天开启一键完成任务功能1次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.5</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>9</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、救命稻草、</FONT><FONT SIZE='14px' COLOR='#FF0000'>翻牌赠送</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、</FONT><FONT SIZE='14px' COLOR='#FF0000'>可购买化肥之神</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n11、</FONT><FONT SIZE='14px' SIZE='14px' COLOR='#FF0000'>5级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：强化石、合成石、经验药水、首饰、恢复圣石</FONT><FONT SIZE='14px' COLOR='#FF0000'>钻头、修炼药水</FONT>
+tank.vip.PrivilegeTxt6:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从2星开始\n2、强化经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>50%</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n3、每天开启一键完成任务功能</FONT><FONT SIZE='14px' COLOR='#FF0000'>2</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.6</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>11</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、救命稻草、翻牌赠送、</FONT><FONT SIZE='14px' COLOR='#FF0000'>恢复之风</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、可购买化肥之神\n10、</FONT><FONT SIZE='14px' COLOR='#FF0000'>可开启宠物第五个技能格</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n11、</FONT><FONT SIZE='14px' SIZE='14px' COLOR='#FF0000'>6级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：强化石、合成石、经验药水、钻头、修炼药水、首饰、恢复圣石</FONT>
+tank.vip.PrivilegeTxt7:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从</FONT><FONT SIZE='14px' COLOR='#FF0000'>3</FONT><FONT SIZE='14px' COLOR='#fef7d4'>星开始\n2、强化经验加50%</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n3、每天开启一键完成任务功能2次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.7</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>13</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、救命稻草、翻牌赠送、恢复之风、</FONT><FONT SIZE='14px' COLOR='#FF0000'>天赐神力</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、可购买化肥之神\n10、开启宠物第五个技能格\n11、</FONT><FONT SIZE='14px' COLOR='#FF0000'>种植助手免费使用</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n12、</FONT><FONT SIZE='14px' SIZE='14px' COLOR='#FF0000'>7级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：钻头、修炼药水、首饰、</FONT><FONT SIZE='14px' COLOR='#FF0000'>卡片盒、宝珠、神器碎片</FONT>
+tank.vip.PrivilegeTxt8:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从3星开始\n2、强化经验加50%</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n3、每天开启一键完成任务功能2次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.8</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>15</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、救命稻草、翻牌赠送、恢复之风、天赐神力、</FONT><FONT SIZE='14px' COLOR='#FF0000'>修炼大师</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、可购买化肥之神\n10、开启宠物第五个技能格\n11、种植助手免费使用\n12、</FONT><FONT SIZE='14px' COLOR='#FF0000'>每天免费使用5次辅助瞄准器</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n13、</FONT><FONT SIZE='14px' SIZE='14px' COLOR='#FF0000'>8级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：钻头、修炼药水、卡片盒、首饰、宝珠、神器碎片</FONT>
+tank.vip.PrivilegeTxt9:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从3星开始\n2、强化经验加50%</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n3、每天开启一键完成任务功能</FONT><FONT SIZE='14px' COLOR='#FF0000'>3</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>1.9</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>17</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、救命稻草、翻牌赠送、恢复之风、天赐神力、修炼大师、</FONT><FONT SIZE='14px' COLOR='#FF0000'>开罐超人</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、可购买化肥之神\n10、开启宠物第五个技能格\n11、种植助手免费使用\n12、</FONT><FONT SIZE='14px' COLOR='#FF0000'>每天免费使用7次辅助瞄准器</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n13、</FONT><FONT SIZE='14px' COLOR='#FF0000'>开启BOSS战斗</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n13、</FONT><FONT SIZE='14px' SIZE='14px' COLOR='#FF0000'>9级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：钻头、修炼药水、卡片盒、首饰、宝珠、神器碎片</FONT>
+tank.vip.PrivilegeTxt10:<FONT SIZE='14px' COLOR='#fef7d4'>1、任务奖励从</FONT><FONT SIZE='14px' COLOR='#FF0000'>4</FONT><FONT SIZE='14px' COLOR='#fef7d4'>星开始\n2、强化经验加50%</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n3、每天开启一键完成任务功能3次</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n4、副本大翻牌8.8折扣\n5、战斗经验加成</FONT><FONT SIZE='14px' COLOR='#FF0000'>2</FONT><FONT SIZE='14px' COLOR='#fef7d4'>倍\n6、战斗失败不扣除功勋\n7、每天可开启VIP币</FONT><FONT SIZE='14px' COLOR='#FF0000'>19</FONT><FONT SIZE='14px' COLOR='#fef7d4'>次\n8、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>免费开启梅恩兰德祝福：续关赠送、救命稻草、翻牌赠送、恢复之风、天赐神力、修炼大师、开罐超人、</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n9、可购买化肥之神\n10、开启宠物第五个技能格\n11、种植助手免费使用\n12、</FONT><FONT SIZE='14px' COLOR='#FF0000'>每天免费使用10次辅助瞄准器</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n13、开启BOSS战斗\n14、</FONT><FONT SIZE='14px' COLOR='#FF0000'>上线全服公告,下次上线公告时间间隔为1小时</FONT><FONT SIZE='14px' COLOR='#fef7d4'>\n15、</FONT><FONT SIZE='14px' SIZE='14px' COLOR='#FF0000'>10级VIP礼包</FONT><FONT SIZE='14px' COLOR='#fef7d4'>：钻头、修炼药水、卡片盒、首饰、宝珠、神器碎片</FONT>
+tank.vip.PrivilegeTxt11:您的VIP已经满级
+tank.vip.rechargeAlertContent1Param0:2
+tank.vip.rechargeAlertContent1Param1:2.2
+tank.vip.rechargeAlertContent2Param:50%
+tank.vip.rechargeAlertContent3Param:3
+tank.vip.rechargeAlertContent4Param0:29999
+tank.vip.rechargeAlertContent4Param1:39999
+tank.vip.rechargeAlertContent5Param0:8
+tank.vip.rechargeAlertContent5Param1:7
+tank.vip.rechargeAlertContent6Param0:30
+tank.vip.rechargeAlertContent6Param1:10
+tank.vip.rechargeAlertContent7Param0:2
+tank.vip.rechargeAlertContent7Param1:4
+tank.vip.rechargeAlertContent10Param0:8
+tank.vip.rechargeAlertContent10Param1:15
+tank.vip.rechargeAlertContent11Param0:15
+tank.vip.rechargeAlertContent12Param0:6
+tank.vip.rechargeAlertContent12Param1:12
+tank.vip.rechargeAlertContent12Param2:绑定点券、强化石、合成石、经验药水、恢复圣石、钻头、卡牌、首饰
+tank.vip.rechargeAlertContent12Param3:绑定点券、钻头、修炼药水、首饰、卡片盒、宝珠、神器碎片、种子
+ 
+#4.0version
+ddt.loader.loadPetInfoFail:加载宠物模板信息失败
+ddt.loader.loadPetSkillFail:加载宠物技能模板信息失败
+ddt.loader.loadPetAllSkillFail:加载宠物所有技能模板信息失败
+ddt.loader.loadFoodComposeListFail:加载食物合成模板信息失败
+ddt.loader.loadPetConfigFail:加载宠物系统配置模板信息失败
+ddt.loader.loadStoreEquipExperienceAllFail:加载装备所有强化经验模板信息失败
+ddt.loader.loadItemStrengthenGoodsInfoListFail:加载装备等级加成模板信息失败
+ddt.loader.loadBeadInfoFail:加载宝珠模版信息失败
+ddt.loader.loadHallIconFail:加载主界面图标信息失败
+ddt.loader.loadEquipComposeFail:加载装备合成模版信息失败
+ddt.loader.loadEquipSuitListFail:加载装备套装模版信息失败
+ddt.loader.loadEquipSpliteFail:加载分解模版信息失败
+ddt.loader.loadEquipStrengthList:加载装备强化信息失败
+ddt.loader.loadSuidLevelList:加载套装等级信息失败
+ddt.loader.loadTexpLevelList:加载修炼等级加成信息失败
+repute:排名
+civil.cityWide.text1: HI! \n\r &nbsp;我是你的
+civil.cityWide.text2:同城有缘人
+civil.cityWide.text3:交个朋友吧!
+civil.leftview.equipName:查看装备
+civil.leftview.effortName:查看成就
+civil.leftview.talkName:私  聊
+civil.leftview.addName:加为好友
+civil.leftview.courtshipName:求  婚
+civil.leftview.playerName:名称:
+civil.leftview.guildName:公会:
+civil.leftview.repute:排名:
+civil.leftview.married:婚姻状况:
+civil.rightView.male:男  生
+civil.rightView.female:女  生
+civil.rightview.searchBtnTxt:搜索
+itemview.listname:名称
+itemview.listlevel:等级
+itemview.listfightpower:战斗力
+itemview.liststate:状态
+itemview.listOffLine:离线时间
+itemview.listLink:联络一下
+itemview.emailText:邮件
+civil.rightview.registerBtnTxt:修改资料
+academy.rightview.freeBtnTxt:师徒福利
+ddt.pets.rePetName:改名
+ddt.pets.release:放生
+ddt.pets.revert:还原
+ddt.pets.feed:喂养
+ddt.pets.feedNoFood:你未放入宠物粮食
+ddt.pets.rePetNameTitle:宠物改名
+ddt.pets.reInputPetName:请输入宠物昵称:
+ddt.pets.growthText:成长
+ddt.pets.revertPetAlertMsg:你确定还原宠物<FONT COLOR='#FF0000'>{0}</FONT>么?还原后宠物会变为1级,\n并获得宠物精华液.
+ddt.pets.revertPetCostMsg:还原宠物需要花费<FONT COLOR='#FF0000'>{0}</FONT>(绑定)(绑定)点券,确定还原宠物?
+ddt.pets.hungerMsg:主人我饿了!不吃饱会影响心情的哦!
+ddt.pets.expLimitMsg:经验快到达上限了!
+ddt.pets.hasCropMature:农场有农作物已经成熟了,快去收吧!
+ddt.pets.growthText:成长
+ddt.pets.pose1:主人你需要我的帮助么?
+ddt.pets.pose2:宠物粮食不但可以增加我的经验还可以增加我的快乐度.
+ddt.pets.pose3:升级之后的我会更加强大.
+
+ddt.pets.petHapyyStatus:当前快乐度:
+ddt.pets.petHapyyheart:心情:
+ddt.petsBag.petStatus:愤怒||不满||满意||快乐
+ddt.pets.petUnFight:宠物不能出战 
+ddt.pets.petHappyDesc:宠物可以发挥{0}属性.
+ddt.pets.skillTipLost:消耗:
+ddt.pets.skillTipDesc:功能:
+ddt.pets.skillTipMagicValue:{0}魔法值 
+ddt.pets.attactDetail:可以提高主人的攻击属性.
+ddt.pets.defenseDetail:可以提高主人的防御属性.
+ddt.pets.agilityDetail:可以提高主人的敏捷属性.
+ddt.pets.luckDetail:可以提高主人的幸运属性.
+ddt.pets.hp:血量
+ddt.pets.hpDetail:可以提高主人血量上限.
+ddt.pets.rePetNameAlertContonet:本次操作消耗 ：    点券
+ddt.pets.petSkill:宠物技能
+ddt.pets.fightSkill:战斗技能
+tank.menu.FightPoweTxt:战斗力
+tank.menu.LevelTxt:等级
+tank.menu.AchiveTxt:成就
+tank.menu.MatchesTxt:联赛
+tank.menu.MilitaryTxt:战绩
+tank.menu.MilitaryScore:军衔
+tank.menu.Arena:竞技场
+tofflist.dayAdd:日增
+civil.rightview.listname:名称
+tofflist.weekAdd:周增
+tofflist.total:累积
+tofflist.personal:个  人
+tofflist.consortia:公  会
+tofflist.score:本周分数
+tofflist.achivepoint:成就点数
+tofflist.totalasset:总财富
+tofflist.arenaScoreTank:积分排名
+tofflist.arenaScore:积分
+tofflist.server:所在区
+tofflist.joinconsortia:加入公会
+ddt.pets.fightSkill:战斗技能   
+tank.view.bagII.BagIIView.AskGiftBag:你确定花{0}勋章打开{1}?
+tank.view.bagII.BagIIView.AskGiftBagII:勋章数不足{0}.
+ddt.roomlist.right.sex:性别
+ddt.roomlist.lookupframe.password:密码
+ddt.roomlist.lookupframe.id:请输入房间ID
+ddt.inviteFrame.hall:大厅
+ddt.inviteFrame.friend:好友
+ddt.inviteFrame.consortia:公会
+ddt.QuickFrame.TotalTipText:你总共需要支付：
+ddt.inviteFrame.recent:联系人
+ddt.matchRoom.setView.sports:竞技
+ddt.matchRoom.setView.roomname:房间名称
+ddt.matchRoom.setView.password:密   码
+ddt.matchRoom.setView.label:每回合攻击时间
+ddt.dungeonRoom.diffTitle:房间难度:
+ddt.dungeonRoom.mode:房间模式:
+ddt.dungeonRoom.levelRange:推荐等级:
+ddt.dungeonRoom.level0:简 单
+ddt.dungeonRoom.level1:普 通
+ddt.dungeonRoom.level2:困 难
+ddt.dungeonRoom.level3:英 雄
+ddt.dungeonRoom.bossBtn.tiptext:VIP7级可开启BOSS战
+ddt.farms.refresh:刷新
+ddt.farms.fieldHasGain:您的农场作物已成熟!
+ddt.farms.goToField:进入农场
+ddt.farms.coolView.prop:等待冷却时间
+ddt.farms.coolView.propMoney:立即冷却需要消耗<FONT COLOR='#FF0000'>{0}</FONT>(绑定)点券,是否立即冷却
+ddt.farms.plantFailed:播种不成功,种子数量不减少.
+ddt.farms.openFlagTip:等级{0}级开启
+ddt.farms.desc:宠物说明:
+ddt.farms.refreshPetsAlert:刷新宠物
+ddt.farms.helper.buyTxt:购买确定
+ddt.farms.helper.buyTxt1:道具不足是否到农场商城购买
+ddt.farms.releasePet:是否确定放生宠物<FONT COLOR='#FF0000'>{0}</FONT>?\n放生的宠物将会被删除.
+ddt.farms.refreshPetsAlertContonet:刷新需要支付：       或者宠物刷新券一张.
+ddt.farms.refreshPetsNOAlert:今天不再提醒
+ddt.farms.adoptVIPPetsTip:达到VIP{0}可领养.
+ddt.farms.adoptPetsCost:领养花费:{0}金币
+ddt.farms.adoptPetsAlertTitle:领养确定
+ddt.farms.adoptItemAlertTitle:领取确定
+ddt.farms.adoptNotVIPTips:您不是VIP或VIP等级未达到5级,不能领取VIP宠物
+ddt.petsBag.readme:宠物说明
+ddt.petsBag.LevAction:宠物{0}级可开启
+ddt.petsBag.VipAction:VIP11级时,可开启
+ddt.farms.adoptPetsAlertContonet:是否确定花费{0}金币,领养宠物?
+ddt.farms.adoptItemsAlertContonet:是否确定领取物品?
+ddt.farms.refreshPetsAlertTitle:刷新确定
+ddt.farms.refreshPetsAlertContonetI:你已经刷新到四星宠物还要继续刷新吗?
+ddt.farms.refreshPetsLastTimes:后刷新
+ddt.dungeonroom.choseMap.fbmode:副本模式
+ddt.dungeonroom.type.normal:普通副本
+ddt.dungeonroom.type.spaciel:特殊副本
+ddt.dungeonroom.type.spaciel.timeTxt:当天可进入次数:{0}/{1}
+ddt.farms.shopPayButton:购 买
+ddt.farms.shopPayAlert:您总共需要支付： 
+ddt.farms.petRefreshVolume:宠物刷新券
+ddt.farms.shopPayTitle:确认购买
+ddt.farms.composeComfirmNumPnlTitle:确认合成数量
+ddt.farms.confirmHelperMoneyAlertFrame.selectOneText:7天
+ddt.farms.confirmHelperMoneyAlertFrame.selectTwoText:一个月
+ddt.farms.confirmHelperMoneyAlertFrame.payMoneyShow:{0}点券
+ddt.farms.confirmComposeFoodAlertFrame.promptText:请选择需要合成的食品
+tank.view.emailII.readView.selectBtnFont1:邮件列表
+tank.view.emailII.readView.selectBtnFont2:未读邮件
+tank.view.emailII.readView.selectBtnFont3:已发邮件
+tank.view.emailII.readView.textBtnFont1:全选
+tank.view.emailII.readView.textBtnFont2:删除
+tank.view.emailII.readView.textBtnFont3:收取邮件
+tank.view.emailII.readView.textBtnFont4:加为好友
+tank.view.emailII.readView.textBtnFont5:举报
+tank.view.emailII.readView.senderTip:发件人
+tank.view.emailII.readView.geterTip:收件人
+tank.view.emailII.readView.topicTip:主  题
+tank.view.emailII.readView.rebackGiftBtn:回赠礼物
+tank.view.emailII.readView.presentGiftBtn:赠送礼物
+tank.view.emailII.readView.prompt:温馨提示:该邮件为玩家发送的一般邮件,请注意查看,谨防受骗.
+tank.view.emailII.writingView.friendlist:好友列表
+tank.view.emailII.writingView.titleTxt:写邮件
+tank.view.emailII.writingView.paytip1:手续费:
+tank.view.emailII.writingView.paytip2:100金币
+tank.view.emailII.writingView.onehour:1小时
+tank.view.emailII.writingView.sixhour:6小时
+
+tank.view.im.Friend:好友
+tank.view.im.CM:社区
+tank.view.im.MB:微博
+tank.view.im.consorita:公会
+tank.view.im.Like:同城
+tank.view.im.addFriendBtn:加好友
+tank.view.im.addBleakBtn:黑名单
+tank.view.im.addAcadeBtn:师徒
+tank.view.im.uppateBtn:上一页
+tank.view.im.downpateBtn:下一页
+tank.view.im.InviteBtn:邀请好友
+
+ddt.farms.shopPayTitle:确认购买
+setting.backgroundMusic:背景音乐
+setting.gameMusic:游戏音效
+setting.fightModel:自动切换引导姿态
+setting.weaponEffect:武器特效
+setting.speakerFunction:喇叭功能
+setting.acceptInvitation:接受邀请
+setting.onlinePrompt:上线提示
+setting.acceptAddingFriends:允许加为好友
+setting.communityFunction:社区功能
+setting.GuideCbnText:引导功能
+setting.rejectStrangerMessage:拒绝陌生人消息
+ddt.pve.roomlist.itemlist.siftFb:筛选副本
+ddt.pve.roomlist.itemlist.siftHard:筛选难度
+ddt.pve.roomlist.itemlist.reset:刷新
+
+
+ddt.vip.table.openSelf:给自己开通
+ddt.vip.table.openother:给好友开通
+ddt.vip.VIPDaystxt:开通服务时长:
+ddt.vip.ownedMoneytxt:当前拥有点券:
+ddt.vip.nametxt:角色名称:
+ddt.vip.repeatNametxt:再次输入名称:
+ddt.vip.amountOfMoneyTxt:当前拥有的点券:
+ddt.vip.amountOfMoneyUnit:点券
+ddt.vip.friendListBtn:好友列表
+ddt.vip.getREBtn:领取奖励
+ddt.vip.dueDateFontTxt:到期时间:
+ddt.vip.vipHelpBtn:VIP专项特权
+ddt.vip.dueDate2FontTxt:您的VIP特权到期时间为:
+ddt.vip.awardsTitleTxt:恭喜您获得VIP礼包,您将获得以下礼物
+tank.view.buff.consortiaBuff:公会技能
+ddt.farm.farmNameTxt:{0}的农场
+ddt.farm.spreadTitle:田地扩充
+ddt.farm.spreadTime:扩充时间
+ddt.farm.spreadTime1:一周
+ddt.farm.spreadTime2:一个月
+ddt.farm.spreadTime3:扩充全部
+ddt.farm.spread.payMoney:您总共需要支付:
+ddt.farm.spread.Money:{0}点券
+
+tank.data.EquipType.seed:种子
+tank.data.EquipType.manure:化肥 
+
+tank.data.EquipType.food:食物
+tank.data.EquipType.petSpaceGoods:宠物空间道具
+tank.data.EquipType.petEgg:宠物蛋
+tank.data.EquipType.atacckt:攻击宝珠
+tank.data.EquipType.defent:防御宝珠
+tank.data.EquipType.attribute:属性宝珠
+tank.data.EquipType.food:食物
+ddt.shop.rechargeEquipAlert.xufei:温馨提示：\n  您有部分时装已过期,\n请及时续费.
+ddt.shop.rechargeEquipAlert.server:温馨提示：\n  您有部分时装已过期,现已帮您续费7天
+ddt.petbag.petExpProgressTip:还能获得{0}经验
+ddt.petbag.petBloodProgressTip:血量将直接加成到主人身上
+ddt.farmHouse.readme:宠物食品合成说明
+ddt.farm.goods.name:名称：{0}
+ddt.farm.gainField.fail:收取农作物失败
+ddt.farm.gainField.success:收取农作物成功
+ddt.farm.payField.fail:开垦土地失败
+ddt.farm.payField.success:开垦土地成功
+ddt.farm.DoMature.fail:催熟失败
+ddt.farm.DoMature.success:催熟成功
+ddt.farm.seeding.fail:种植失败
+ddt.farm.seeding.success:种植成功
+ddt.farm.goFarm.internal:切换农场需要2秒间隔时间
+ddt.farm.farmHouse.click:仓库功能暂不开放
+ddt.farm.steal.farm:偷菜成功
+ddt.farm.field.noGrown:尚未成熟,不能收割
+ddt.farm.helperList.fieldIndexText:田地序号
+ddt.farm.helperList.seedIDText:作物名称
+ddt.farm.helperList.fertilizerIDText:化肥
+ddt.farm.helperList.isAutoText:状态
+ddt.farm.helperList.pleaseSelect:请选择
+ddt.farm.helperList.yesAuto:{0}号田地设置为自动种植
+ddt.farm.helperList.noAuto:{0}号田地设置取消自动种植
+ddt.farm.helperItem.selectSeedFail:所选种子数为0个,不能设置为自动种植
+ddt.farm.helperItem.pleaseSelectSeed:请选择种子,再进行此操作
+ddt.fram.helperItem.Text:无
+ddt.fram.helperItem.Text1:({0})
+ddt.fram.helperItem.Text2:操作成功
+ddt.farm.helper.SetTxt3:请选择种子数量
+ddt.farm.helper.SetTxt4:请选择化肥数量
+ddt.farm.helper.SetTxt6:您背包无此类种子
+ddt.farm.helper.SetTxt7:您背包无此类化肥
+ddt.farm.helperItem.pleaseSelectSeedI:请选择化肥,再进行此操作
+ddt.farms.killCropComfirmNumPnlTitle:确认铲除作物?
+ddt.farms.comfirmKillCropMsg:您确定要铲除{0}吗?
+ddt.farms.comfirmKillCropMsg2:您确定要铲除{0}吗?\n铲除作物操作会停止农场助手
+ddt.farm.helperItem.selectFertilizerFail:所选肥料数为0个,请先购买肥料
+ddt.farm.killCrop.success:铲除作物成功
+ddt.farm.killCrop.sure:铲除
+ddt.farm.helperShow.text1:使用前请看功能说明!
+ddt.farm.helperShow.text2:助手到期时间：
+ddt.farm.helperSelSeed.text:请选择你想种植的种子
+ddt.farm.helperSeltime.text:请选择你需要托管时间
+ddt.farm.helperNeedSeed.text:需要消耗种子：
+ddt.farm.helperGetSeed.text:获得宠物粮食：
+ddt.farm.helperNeedTime.text:剩余收获时间：
+ddt.farm.StartBtn.text:开  启
+ddt.farm.CloseBtn.text:停  止
+ddt.farm.beginFrame.title:开启确定
+ddt.farms.stopHelperComfirm:确认关闭助手
+ddt.farms.fieldBlockSeedTips:农场助手开启中...
+ddt.farms.stopHelperComfirmText:你确定要关闭农场助手吗?
+ddt.farm.beginFrame.expText:确定开始助手功能?
+ddt.farm.beginFrame.expText1:您缺少{0}个种子,是否花费{1}
+ddt.farm.beginFrame.expText2:快捷购买并开启?
+ddt.farm.beginFrame.expText3:（开启助手会自动铲除田地现有作物）
+ddt.farm.beginFrame.expText4:绑定点券不足!
+ddt.farm.helpBtn.text:?功能说明
+ddt.farm.killCrop.fail:铲除作物失败
+ddt.farm.helper.help.readme:种植助手说明
+ddt.farm.hepper.help.Reset:重置
+ddt.farm.hepper.help.Set:助手设置
+ddt.farms.helperMoneyComfirmPnlTitle:助手续费
+ddt.farms.helperMoneyComfirm.timeText:续费时间
+ddt.farms.helperMoneyComfirm.payText:您总共需要支付：
+ddt.farms.helperMoneyComfirmPnlSuccess:助手续费成功
+core.petskillTip.balltype0:不能叠加必杀
+core.petskillTip.balltype1:不能叠加道具、必杀
+core.petskillTip.balltype2:不能叠加道具、必杀,使用后回合结束
+core.petskillTip.balltype3:不能叠加必杀
+game.petskill.hasUsedPetskill:本回合你已经使用过一次技能
+core.petMptip.description:魔法值每次轮到自己回合都会增长,不同技能消耗的魔法值不同.
+farm.componse.selected.me:请选择需要合成的食物
+core.quest.valid:验证
+ddt.bagandinfo.buyOtherCloth:买TA服装
+ddt.bagandinfo.addFriend:添加好友
+ddt.bagandinfo.renew.txtI:请选择续费时间!
+ddt.bagandinfo.renew.txtII:支付类型：
+ddt.caddy.badluck.sortTitletxt:排名
+ddt.bagandinfo.renew.txtIII:续费类型：
+ddt.caddy.badluck.nameTitletxt:名称
+ddt.caddy.badluck.numberTitletxt:数量
+ddt.bagandinfo.awardsTitle:您将获得以下物品：
+ddt.Farm.friendList.item.enterFriend:只能进入好友农场
+ddt.quest.tryon.tryonTxt:点击试穿
+ddt.quest.tryon.hide:隐藏
+ddt.goFarm.need20:农场25级开放!
+tank.view.bagII.changeSexAlert:确定要改变性别吗?改变后角色已有夫妻关系将解除.
+tank.view.bagII.changeSexAlert.success:变性成功,请重新登录.
+tank.view.bagII.changeSexAlert.failed:变性失败
+ddt.games.wishofdd:弹王的祝福 \n体力消耗:{0}
+ddt.games.spandTicket:扣除点券 :{0}
+ddt.games.spandFreeTimes:免费次数 :{0}次
+ddt.games.FirstWish:请按照当前数字开炮!
+ddt.games.cannotuse:轮到你行动时才可以使用!
+ddt.games.notAttack:无法达到
+ddt.games.powerText:力度:{0}
+trainer.welcome.conentText.text:HI!\n欢迎来到弹弹堂!\n按“   ”可以全屏哦!
+trainer.welcome.conentText.text1:F11 
+core.MarriedTipLatterTextHusband:{0}的老公
+core.MarriedTipLatterTextWife:{0}的老婆
+trainer.view.SecondOnlineView.conentText1.text:8小时            倒计时宝箱
+trainer.view.SecondOnlineView.conentText2.text:后你将可以打开
+trainer.view.SecondOnlineView.conentText3.text:(不在线依然计时哦!)
+ddt.shop.LimitGradeBuy:{0}级后可购买
+ddt.shop.MinBuyFertLevel:VIP{0}级后可购买丰收之神
+trainer.vane.mainFrame.conentText.text:开启了风力          ,风力有方向和大小,顺风\n时力度小点,逆风时力度大点哦!
+ddt.setting.guideText:该功能仅在1-15级可用
+core.MyConsortiaTax.conentTxt.text:您目前拥有         绑定点券,请输入数量\n                个
+BaseRoomView.getout.bossRoom:您已进入BOSS战房间
+FPSView.as.InviteAlertPanel.yaoqingni: 邀请您加入他的游戏房间
+auctionHouse.explainTxt.text:交易成功后物品为绑定状态,交易所得点券为绑定点券
+chat.BugleInputFrameBg.text:请输入内容:
+chat.ChatFriendList.FriendBtnTxt:好友
+chat.ChatFriendList.ConsortiaBtnTxt:公会
+ddt.shop.discount.exit:该商品已下架
+ddt.BindBid.tip:绑定点券数已达上限,无法继续获得,是否继续?
+ddt.petbags.text.petGrowUptipTitleName:成长值
+ddt.storeIIStrength.startStrengthClickTimerMsg:您的点击速度过快,请1秒以后重新进行尝试
+ddt.shop.buyTime1:365天
+ddt.shop.buyTime2:1年
+ddt.pet.refreshNeed:500
+ddt.vip.BindBidLimitBase:60000
+ddt.vip.BindBidAdd1:19999
+ddt.vip.BindBidAdd2:29999
+ddt.vip.BindBidAdd3:39999
+ddt.hall.build.auctiontitle:拍卖场
+ddt.hall.build.roomtitle:游戏大厅
+ddt.hall.build.churchtitle:结婚礼堂
+ddt.hall.build.framtitle:农场
+ddt.hall.build.constriontitle:公会俱乐部
+ddt.hall.build.dungeontitle:远征码头
+ddt.hall.build.storetitle:铁匠铺
+ddt.hall.build.shoptitle:购物中心
+ddt.hall.build.tofflisttitle:勇士大厅
+ddt.loader.updateSetupFriendListLoaderFailure:更新玩家列表失败!
+ddt.Reward.get:每个玩家每天都可在这里领取奖励哦
+ddt.getReward:领奖
+ddt.today:今天
+ddt.weekSunday:星期日
+ddt.weekNextSunday:下周日
+ddt.weekMonday:星期一
+ddt.weekNextMonday:下周一
+ddt.weekTuesday:星期二
+ddt.weekNextTuesday:下周二
+ddt.weekWednesday:星期三
+ddt.weekNextWednesday:下周三
+ddt.weekThursday:星期四
+ddt.weekNextThursday:下周四
+ddt.weekFriday:星期五
+ddt.weekNextFriday:下周五
+ddt.weekSaturday:星期六
+ddt.weekNextSaturday:下周六
+worldboss.totalInfo.time:挑战剩余时间:
+worldboss.totalInfo.currentDamge:当前造成伤害:
+worldboss.totalInfo.currentScore:当前获得积分:
+worldboss.tickets.propInfo:进入挑战需要消耗{0}boss门票, 确定是否挑战?
+worldboss.tickets.none:您的门票不足,不能进入.
+worldboss.ranking.title:世界boss伤害排名
+worldboss.ranking.num:排名
+worldboss.ranking.leftTip:他们是世界的英雄,留下的不只是那孤独的背影还有辉煌的战绩!
+worldboss.ranking.name:昵称
+worldboss.ranking.socre:伤害
+worldboss.resurrectView.prop:等待复活时间
+worldboss.buff.tip:点击购买,挑战boss时可额外获得\n{0}攻击力和{1}生命值
+worldboss.revive.propNoMoney:您的点券不足,无法立即复活
+worldboss.revive.propMoney:需要消耗{0}(绑定)点券,是否立即复活
+worldboss.reFight.propMoney:需要消耗{0}(绑定)点券,是否立即战斗
+worldbossRoom.ranking.proploading:获取排名中...
+worldboss.buff.buy:购买后将扣除{0}点券,是否继续?
+worldboss.buyBuff.Nomoney:您的点券不足,无法购买
+worldboss.buyBuff.yourHaveMoneny:当前拥有点券
+worldboss.buyBuff.FrameTitle:挑战技能
+worldboss.buyBuff.eachMoney:{0}点券/{1}次
+worldboss.buyBuff.eachItem:{0}{1}/{2}次
+worldboss.buyBuff.lackItem:没有足够的{0}!
+worldboss.buyBuff.selectedText:购买
+worldboss.buyBuff.haveBuy:已购买
+worldboss.buyBuff.autoBuy:自动购买
+worldboss.buyBuff.autoBuyConfirm:选择自动购买模式后,每次进入BOSS战斗时将自动购买BUFF\n并扣除相应的点券.下面每次不再提示勾选.
+worldboss.buyBuff.buyBuffSuccessTip:自动购买{0}成功,扣除{1}点券!
+worldboss.buyBuff.buyBuffFailTip:点券不足,购买BUFF失败
+worldboss.buyBuff.allBuy:全部选中
+worldboss.buyBuff.NotAgain:以后不再提示
+worldboss.buyBuff.moneyTip:您目前拥有
+worldboss.buyBuff.setShowSucess:设置成功
+worldboss.room.leaveroom:确定要离开世界boss战场吗?
+arena.room.leaveroom:确定要离开竞技场吗?
+wordlboss.room.tipText:点击可购买各种战斗技能,让你拥有超强的战斗力对战世界boss
+worldboss.buff.noSelected:请选择您要购买的物品
+worldboss.room.roomFull:房间已满,请稍候再试!
+ddt.quest.onekeyCompleteTip:可以花费一定点券来直接完成任务
+worldboss.buff.limit:(下线或者切换频道将会被自动清除)
+worldboss.bindMoney.buffBtn.tip:消耗{0}(绑定)点券,提升人物基础伤害{1}
+worldboss.money.buffBtn.tip:消耗{0}(绑定)点券,提升人物基础伤害{1}
+worldboss.buffIcon.tip.title:伤害属性增益{0}
+worldboss.buffIcon.tip.desc:只有在世界BOSS战斗内有效,增益可重复叠加
+worldboss.buyBuff.confirmFrame.title:购买BUFF
+worldboss.buyBuff.confirmFrame.desc:消耗{0}(绑定)点券,提升人物基础伤害{1}
+worldboss.buyBuff.confirmFrame.desc2:消耗{0}(绑定)点券,提升人物基础伤害{1}
+worldboss.buyBuff.confirmFrame.noAlert:今天不再提醒
+worldboss.minenterlevel:等级低于{0}级,无法进入世界BOSS!
+ddt.totem.sevenProperty:攻击,防御,敏捷,幸运,血量,伤害,护甲
+ddt.totem.rightView.lvTxt:LV{0}
+ddt.totem.rightView.titleTxt3:属性加成
+ddt.worldboss.buffLevelMax:伤害叠加次数已经达到上限,不能继续购买了
+ddt.totem.rightView.honorTipTxt:荣誉可通过购买和PVP日常任务获得
+ddt.totem.rightView.expTipTxt:人物当前可用经验,消耗经验人物不降级
+ddt.totem.rightView.needHonorTipTxt:激活该图腾所需荣誉
+ddt.totem.rightView.needExpTipTxt:激活该图腾所需经验
+ddt.totem.totemWindow.propertyLvTxt:Lv{0} {1}
+ddt.totem.honorOrExpUnenough:经验或荣誉不足
+ddt.totem.needGrade:需要等级{0}才能开启!
+ddt.totem.totemPointTip.propertyNameTxt:下一级属性：
+ddt.totem.totemPointTip.possibleNameTxt:激活成功率：
+ddt.totem.totemPointTip.possibleValueTxt:必成,高,较高,较低,低
+ddt.totem.totemPointTip.statusNameTxt:激活状态：
+ddt.totem.totemPointTip.statusValueTxt:已激活,未激活
+ddt.totem.totemPointTip.honorTxt:消耗荣誉：{0}
+ddt.totem.totemPointTip.expTxt:消耗经验：{0}
+ddt.totem.totemPointTip.lvAddPropertyTxt:Lv{0}:{1}+{2}
+ddt.totem.totemPointTip.currentPropertyTxt:当前属性
+ddt.totem.totemChapterTip.numListTxt:一,二,三,四,五
+ddt.totem.totemChapterTip.titleListTxt:蚂蚁女王,邪恶母鸡,强悍啵咕,愤怒邪神,黑暗牛头
+ddt.totem.totemChapterTip.titleTxt:第{0}章：{1}
+ddt.totem.totemChapterTip.nameTxt:第{0}章总属性：
+ddt.totemSystem.openTotemBtn.text:等级达到{0}级即可开启弹王图腾系统
+ddt.totem.honorUpFrame.tip1:消耗          (绑定)点券进行购买,可获得               荣誉
+ddt.totem.honorUpFrame.titleTxt:荣誉购买
+ddt.totem.honorUp.cannot:今日可以购买的荣誉次数已用完
+ddt.totem.honorUp.success:您获得{0}荣誉
+ddt.totem.needGradeTxt:需要等级：{0}级
+ddt.quest.onekeyCompleteTip:可以花费一定(绑定)点券来直接完成任务
+worldboss.buff.limit:(下线或者切换频道将会被自动清除)
+ddt.quest.onekeyCompleteTip:剩余一键完成次数：{0}
+ddt.farm.petguide1:擅长队友保护和范围回复,拥有各种强大的恢复技能,保护自己和队友.
+ddt.farm.petguide2:攻防兼备,注重自身防御,擅长多种攻防手段,占据有利地形就可以发挥威力.
+ddt.farm.petguide3:生命值和防御较高,擅长防御和反击的宠物,即使被群殴也不怕.
+ddt.farm.petguide4:能加强自己和队友的战斗能力,也拥有恢复生命的技能.
+ddt.bagandinfo.bead:合成
+ddt.bagandinfo.beadLock:锁定/解锁
+ddt.bagandinfo.beadTip:将比升级槽中宝珠等级低的宝珠转化为经验对槽中的宝珠进行升级.
+ddt.bagandinfo.beadLockTip:宝珠锁定后,可以装备,可以升级.但不可以被合成.
+ddt.bagandinfo.beadOneKeyTip:将当前页中所有可以转化的宝珠转换成为升级槽中的宝珠的经验.
+ddt.loader.updateSetupFriendListLoaderFailure:更新玩家列表失败!
+ddt.bagAndInfo.dragGoods.bad:类型不符合
+ddt.bagAndInfo.sell.CanNotSell:不能出售该物品
+singledungeon.startChallenge:开始挑战
+singledungeon.startExplore:开始探索
+singleDungeon.DungeonChooseFrame.title:远征码头
+singledungeon.missionView.CDing:副本冷却中，请稍后进入.
+singledungeon.missionView.count:当天此模式的挑战次数已用完.
+singledungeon.expedition.frame.button.start:开始
+singledungeon.expedition.frame.button.accelerate:加速
+singledungeon.expedition.frame.button.stop:结束
+singledungeon.expedition.frame.title:扫荡
+singledungeon.expedition.frame.accelerateAlert:加速需要花费{0}点券
+singledungeon.expedition.notimes:请输入次数
+singledungeon.expedition.fatigueNotEnought:活力不足
+singledungeon.expedition.doing:正在扫荡中...
+singledungeon.expedition.frame.noFatigue:疲劳值不足
+singledungeon.expedition.frame.explainTitle:扫荡模式说明
+singledungeon.expedition.frame.explainText:1.扫荡模式为副本自动战斗模式,无需任何操作;\n2.扫荡不可以完成任务,扫荡模式中不会掉落任务物品;\n3.离线时,扫荡模式不会中断,仍然有效;\n4.扫荡所消耗的活力值不会一次性扣除,将随着完成单次扫荡逐步扣除;\n5.扫荡模式开启后,不可进行竞技或者副本等游戏模式,商城、拍卖场、公会俱乐部等功能可照常使用.
+singledungeon.expedition.frame.hardMode.explainText:1.扫荡模式为副本自动战斗模式,无需任何操作.\n<FONT COLOR='#ff0000'>2.玩家不能扫荡之前未通过的困难模式副本以及当天已进入过的困难模式副本.</FONT>\n3.活力不足时,不能扫荡.\n4.扫荡不可以完成任务,扫荡模式中不会掉落任务物品.\n<FONT COLOR='#ff0000'>5.在扫荡模式下,玩家将不能遇到稀有怪.</FONT>\n6.离线时,扫荡模式不会中断,仍然有效.\n7.扫荡所消耗的活力值不会一次性扣除,将随着完成单次扫荡逐步扣除.\n8.扫荡模式开启后,不可进行竞技或副本等竞技模式,商城、拍卖场、公会俱乐部等功能可照常使用.
+singledungeon.expedition.fightMsg.text1:第{0}轮
+singledungeon.expedition.fightMsg.text2:・ 恭喜你获得
+singledungeon.expedition.fightMsg.text3:个
+singledungeon.expedition.fightMsg.text4:开始扫荡...
+singledungeon.expedition.fightMsg.text5:结束扫荡...
+singledungeon.expedition.vip:达到VIP5级可以瞬间完成扫荡,无需等待.
+singledungeon.bossplayer.spacetip:请开炮!
+singledungeon.bossplayer.cannotusespace:当前无法使用空格键开炮!
+singledungeon.selectMode.hardMode:困难模式
+singledungeon.selectMode.commonMode:普通模式
+singledungeon.selectMode.hadPassed:当天已通关该副本，请明天再试!
+ddt.EquipTipPanel.StrengthLimit:(可强化至{0})
+ddt.EquipTipPanel.NoStrengLimit:(不可强化)
+ddt.EquipTipPanel.Synthesis:(可合成至8)
+ddt.EquipTipPanel.NeedLevel:所需等级:{0}级
+ddt.EquipTipPanel.PositionTxt1:装备位置:战衣
+ddt.EquipTipPanel.PositionTxt2:装备位置:护腿
+ddt.EquipTipPanel.PositionTxt3:装备位置:兜帽
+ddt.EquipTipPanel.PositionTxt4:装备位置:战靴
+ddt.EquipTipPanel.PositionTxt5:装备位置:武器
+ddt.EquipTipPanel.PositionTxt6:装备位置:副手
+ddt.EquipTipPanel.PositionTxt7:装备位置:徽章
+ddt.EquipTipPanel.PositionTxt8:装备位置:手镯
+ddt.EquipTipPanel.PositionTxt9:装备位置:项链
+ddt.EquipTipPanel.PositionTxt10:装备位置:戒指
+ddt.EquipTipPanel.PositionTxt11:装备位置:圣器
+ddt.EquipTipPanel.PositionTxt13:装备位置:婚戒
+ddt.EquipTipPanel.PropArr:{0}:{1}<FONT COLOR='#5fc901'> {2}</FONT>
+ddt.EquipTipPanel.PropArr1:{0}:{1}
+ddt.EquipTipPanel.refiningDefault: (青铜{0}级)
+ddt.EquipTipPanel.refiningTitle1:精炼属性:
+ddt.EquipTipPanel.refiningTitle2:精炼属性: 无
+ddt.EquipTipPanel.refiningTitleDic:(可精炼至{0})
+ddt.EquipTipPanel.refiningTxt0:血量 + {0}
+ddt.EquipTipPanel.refiningTxt1:攻击 + {0}
+ddt.EquipTipPanel.refiningTxt2:防御 + {0}
+ddt.EquipTipPanel.refiningTxt3:敏捷 + {0}
+ddt.EquipTipPanel.refiningTxt4:幸运 + {0}
+ddt.EquipTipPanel.Description:描述:
+ddt.EquipTipPanel.equipScore:【装备评分:{0}】
+ddt.bagAndInfo.UnlockPage:解锁本页
+ddt.bagAndInfo.UnlockMessage:您是否花费 <FONT COLOR='#f43636'>{0}</FONT> (绑定)点券解锁格子? 
+ddt.bagAndInfo.AlreadyLock:你已经解锁本页格子
+ddt.bagAndInfo.NoLock:不能解锁此页格子
+ddt.Message.Function:此功能暂不开放
+ddt.fightToolBox.frameTitle:工具箱开通
+ddt.fightToolBox.rechargeTitle:工具箱续费
+ddt.fightToolBox.rechargeShow:温馨提示:\n  作战工具箱将在一天后\n过期,是否立即续费?
+ddt.packagePurchaseBox.frameTitle:优惠礼包
+ddt.fightToolBox.iconTips:有效期{0}天
+ddt.fightToolBox.iconTipsOthers:作战工具箱
+FightToolBoxFrame.vip.dueText:到期时间:
+FightToolBoxFrame.vip.no:您未开通工具箱
+FightToolBoxFrame.table.openSelf:给自己开通
+FightToolBoxFrame.table.killAll:横扫千军
+FightToolBoxFrame.table.distroyMore:伤害加成
+FightToolBoxFrame.table.noDistory:坚固同盟
+FightToolBoxFrame.table.runQuickly:神行太保
+FightToolBoxFrame.table.killAll.TEXT:在副本中给敌人致命的打击
+FightToolBoxFrame.table.distroyMore.TEXT:引导模式伤害增加5%,强击模式伤害增加10%
+FightToolBoxFrame.table.noDistory.TEXT:打中队友时,队友不掉血
+FightToolBoxFrame.table.runQuickly.TEXT:副本中移动速度加快且不耗体力
+FightToolBoxFrame.controdution:只要{0}点券就能拥有自己的作战工具箱（1个月有效期）
+FightToolBoxFrame.table.openother:给好友开通
+FightToolBoxFrame.noVip:您不是VIP
+FightToolBox.nametxt:角色名称:
+FightToolBox.repeatNametxt:再次输入名称:
+FightToolBox.amountOfMoneyTxt:当前拥有的点券:
+FightToolBox.amountOfMoneyUnit:点券
+FightToolBox.friendListBtn:好友列表
+FightToolBox.yourselfView.confirm:您确认要开通{0}天战斗工具箱?<br/><FONT COLOR='#e30000'>(本次开通需扣除您{1}点券)</FONT>
+FightToolBox.yourselfView.confirmforSelf:您确认要开通{0}个月的战斗工具箱?<br/><FONT COLOR='#e30000'>(本次开通需扣除您{1}点券)</FONT>
+FightToolBox.othersView.confirmforOther:您确认要为{0}开通{1}个月的战斗工具箱?<br/><FONT COLOR='#e30000'>(本次开通需扣除您{2}点券)</FONT>
+FightToolBox.othersView.finish:请完善信息
+FightToolBox.othersView.checkName:两次输入的角色名称不一致
+FightToolBox.ConfirmTitle:确认开通
+fightModelPropBar.currentModel:当前模式为:
+fightModelPropBar.modelName.power:强击
+fightModelPropBar.modelName.lead:引导
+fightModelPropBar.cellTips.power:增加{0}%伤害,
+fightModelPropBar.cellTips.powerDamage:炮弹命中可破坏的地形时能造成弹坑.炮弹直接击中敌对玩家可造成爆头效果,伤害再增加{0}%
+fightModelPropBar.cellTips.lead:炮弹接近目标时可自动飞向目标,命中地形时不会造成弹坑.
+fightModelPropBar.cellTips.leadDamage:增加{0}%伤害,
+ddt.pets.petInfoFrame.tilte:宠物
+ddt.pets.petSpaceFrame.tilte:宠物空间
+ddt.bagAndInfo.LockCell.25tips:25级开放该装备格
+ddt.bagAndInfo.LockCell.30tips:30级开放该装备格
+ddt.bagAndInfo.LockCell.35tips:35级开放该装备格
+ddt.bagAndInfo.LockCell.40tips:40级开放该装备格
+ddt.bagAndInfo.LockCell.tips:功能暂未开放
+ddt.SuidTipPanel.title:装备强化等级效果
+ddt.SuidTipPanel.StrengthenLevelTxt:6件装备强化达到{0}级
+ddt.SuidTipPanel.nextLevelTxt:6件装备强化达到{0}级
+ddt.SuidTipPanel.Attack:攻击: +{0}
+ddt.SuidTipPanel.Defence:防御: +{0}
+ddt.SuidTipPanel.Agility:敏捷: +{0}
+ddt.SuidTipPanel.Damage:伤害: +{0}
+ddt.SuidTipPanel.Lucky:幸运: +{0}
+ddt.SuidTipPanel.Guard:护甲: +{0}
+ddt.SuidTipPanel.Blood:血量: +{0}
+ddt.RuneTipPanel.title:符文镶嵌效果
+ddt.RuneTipPanel.EmbedLevelTxt:镶嵌{0}颗不低于{1}级的符文({3}/{4})
+ddt.RuneTipPanel.Attack:攻击: +{0}
+ddt.RuneTipPanel.Defence:防御: +{0}
+ddt.RuneTipPanel.Agility:敏捷: +{0}
+ddt.RuneTipPanel.Damage:伤害: +{0}
+ddt.RuneTipPanel.Lucky:幸运: +{0}
+ddt.RuneTipPanel.Guard:护甲: +{0}
+ddt.RuneTipPanel.Blood:血量: +{0}
+ddt.TexpIconTip.LevelTxt:5项属性修炼达到{0}级
+ddt.SuidTipPanel.Energy:体力: +{0}
+ddt.bagAndInfo.LockCell.tips:功能暂未开放
+ddt.pet.magicTipText:您的宠物<FONT COLOR='#ff0000'>{0}</FONT>获得了幻化任务，\n去完成任务获得<FONT COLOR='#ff0000'>{1}</FONT>可对宠物幻化，\n获得新造型。
+petsbag.tips.blessTip.name:祝福值
+petsbag.tips.blessTip.description:宠物进阶失败一次，祝福值<FONT COLOR='#ff0000'>+1</FONT>点，祝福值越高，进阶成功率越高，祝福值满时成功率为<FONT COLOR='#ff0000'>100%</FONT>。
+petsbag.tips.magicTip.name:幻化
+petsbag.tips.magicTip.description:完成幻化任务获得幻化药剂可幻化,幻化后将获得新宠物造型,开启新功能进阶.
+petsbag.tips.magicTip.result:幻化效果
+petsbag.frame.helpFrame.title:帮助说明
+petsbag.frame.magicAlertData:您的宠物{0}幻化成功，开启了新功能进阶。
+ddt.view.tips.petSkillTip.skillType0:(战斗技能)
+ddt.view.tips.petSkillTip.skillType1:(属性点)
+ddt.view.tips.petSkillTip.current:当  前
+ddt.view.tips.petSkillTip.next:下一级
+ddt.view.tips.petSkillTip.nextMAX:<FONT COLOR='#ff0000'>已升至最高级</FONT>
+ddt.view.tips.petSkillTip.needLevel:<FONT COLOR='{0}'>需要等级:{1}级</FONT>
+ddt.view.tips.petSkillTip.needSoul:<FONT COLOR='{0}'>需要魔魂:{1}</FONT>
+ddt.view.tips.petSkillTip.needSkill:<FONT COLOR='{0}'>需要</FONT><FONT COLOR='#43ceff'>{1}</FONT>
+petsBag.view.item.tip:{0}:{1}
+petsBag.view.item.level:Lv.{0}
+petsBag.view.item.order:第{0}阶
+petsBag.view.petInfoFrame.changeBtnTip1:宠物30级可幻化改变造型
+petsBag.view.petInfoFrame.transformBtnTip1:宠物幻化后开启进阶转换功能
+petsBag.view.petSkillFrame.titleText:宠物技能
+petsBag.view.petAdvanceFrame.titleText:宠物进阶
+petsBag.view.petTransformFrame.titleText:宠物转换
+petsBag.view.petTransformFrame.enoughtPet:您已经选择了两个宠物,请先点击其中一个取消.
+petsBag.view.petTransformFrame.showMoneyTxt:宠物进阶转换需要消耗<FONT COLOR='#FF0000'>{0}</FONT>(绑定)点券
+petsBag.view.petTransformFrame.alertText:是否花费<FONT COLOR='#FF0000'>{0}(绑定)点券</FONT>进行宠物转换
+petsBag.view.petInfoFrame.noMagicStone:对不起,您的幻化药剂不足,无法幻化宠物.
+petsBag.view.petAdvanceBar.levelInfo:第{0}阶
+petsBag.view.petAdvanceFrame.blessLabel:进阶祝福值:
+petsBag.view.petAdvanceFrame.blessTipLabel:祝福值越高,下次进阶成功率越高
+petsBag.view.petAdvanceFrame.advanceNeedTxt:进阶石  <FONT COLOR='{0}'>{1}</FONT> 个       宠物等级 <FONT COLOR='{2}'>{3}</FONT> 级
+petsBag.view.petAdvanceFrame.advanceNeedTxtMax:<FONT COLOR='#ff0000'>宠物已达到最大阶数</FONT>
+petsBag.view.petAdvanceFrame.advanceFailed:宠物等级不足,无法进阶.
+petsBag.view.petTransformFrame.sendTransform.no:请选择两只宠物!
+petsBag.view.petTransformFrame.sendTransform.same:同样等阶的宠物不能转换!
+petsBag.view.petTransformFrame.sendTransform.level:进阶等级大于宠物等级无法转换!
+petsBag.view.petSkillFrame.soulTipTxt:魔魂可通过突袭模式副本或宠物相关任务获得。
+petsBag.view.MagicTip.property0:血量: +{0}     攻击: +{1}
+petsBag.view.MagicTip.property1:防御: +{0}     敏捷: +{1} 
+petsBag.view.MagicTip.property2:幸运: +{0}   
+ddt.bagAndInfo.fatigue.red:<b>活力</b>:<font color='#ff0000'>{0}</font>/100
+ddt.bagAndInfo.fatigue.white:<b>活力</b>:<font color='#ffffff'>{0}</font>/100
+ddt.hall.fatigue:<FONT COLOR = '#ffd800'>活力值:</FONT>\n{0}/100
+petsBag.space.AmountSelect:使用道具数量
+petsBag.space.AmountTipText:道具数量：
+petsBag.space.upgradeNeedAmount:空间还需使用<FONT COLOR='#FF0000'>{0}</FONT>个道具才可以升级.
+petsBag.help:宠物说明
+petsBag.petBagController.petInExerciseNormal:该宠物已在普通修炼栏.
+petsBag.petBagController.petInExerciseVIP:该宠物已在VIP修炼栏.
+petsBag.petBagController.petInExerciseFull:修炼栏已满.
+petsbag.infoFrame.changeBtnTip:完成幻化任务获得幻化药剂可幻化，幻化后将获得新宠物造型，开启新功能进阶,宠物血量+{0}，攻击+{1}，防御+{2}，敏捷+{3}，幸运+{4}.
+petsbag.skillFrame.soulTxt:魔 魂
+ddt.bagAndInfo.sortBag:背包整理中…
+beadSystem.requestBead.money:20,50,100,200
+beadSystem.beadGetBead.lightThirdBead.money:1000
+beadSystem.beadHole.level:20,25,30,35,40,100,100,100
+beadSystem.bead.nameLevel:{0}{2}Lv.{1}
+beadSystem.bead.expTxt:经验：{0}/{1}
+beadSystem.bead.nextTxt:下一级属性:
+beadSystem.bead.combineOneKey.tip:[ {0} ]会吞噬背包中所有未锁定的宝珠,经验将增加{1}点.
+beadSystem.bead.beadLock.tipTxt:{0}级解锁
+beadSystem.bead.combine.tip:[ {0} ]将吞噬[ {1} ]获得{2}经验,{3}积分
+beadSystem.bead.combine.tip2:等级提升至{0}级
+beadSystem.bead.combine.tip3:宝珠等级已经达到上限，不可再吞噬其他宝珠。
+beadSystem.bead.combine.tip4:该宝珠已被锁定
+beadSystem.bead.combine.tip5:宝珠等级过高,不能被吞噬.
+beadSystem.bead.move.tip:宝珠背包已满
+beadSystem.bead.move.tip2:宝珠位已满
+beadSystem.bead.getBeadFrame.title:幸运宝珠
+beadSystem.bead.getBeadFrame.beadCell.sell:卖出
+beadSystem.bead.getBeadFrame.beadCell.get:拾取
+beadSystem.bead.getBeadFrame.returnBtn.tip:返回镶嵌宝珠界面
+beadSystem.bead.getBeadFrame.beadMaserText:今日还可免费购买宝珠1次
+beadSystem.bead.discard.tip:是否确定丢弃[ {0} ]?
+beadSystem.openbeadBtn.text:等级达到{0}级即可开启宝珠功能.
+beadSystem.requestBtn.tip.nameList:普通,精良,完美,卓越
+beadSystem.requestBtn.tip.discStr:开启费用：{0}金币
+beadSystem.requestMoney.tip.txt:点亮宝珠消耗金币
+beadSystem.bead.name.color.html:<FONT COLOR='{0}'>{1}</FONT>
+beadSystem.bead.name.bold.html:<b>{0}</b>
+beadSystem.bead.beadInsetView.combineOneKeyBtn.tip:合成背包内未锁定的宝珠.
+beadSystem.bead.beadInsetView.buyOneKeyBtn.tip:一键购买
+beadSystem.bead.beadInsetView.combineOneKeyBtn.btn:一键合成
+beadSystem.bead.beadInsetView.lockKeyBtn.btn:锁定
+beadSystem.bead.beadInsetView.lockBtn.tip:锁定宝珠
+beadSystem.bead.beadInsetView.getBeadViewBtn.tip:进入宝珠购买界面
+beadSystem.bead.getBeadFrame.sellBead.money.tip:获得{0}{1}
+beadSystem.bead.help.title:宝珠说明
+beadSystem.bead.beadPower.titleTip:宝珠评分：{0}
+beadSystem.bead.combineOneKey.cellTip:一键合成槽
+beadSystem.bead.scoreShopFrame.title:积分购买
+beadSystem.bead.unlock.tip:无法锁定
+beadSystem.bead.unlock.tip2:此宝珠已被锁定,请解锁后再试!
+beadSystem.bead.combineConfirm.tip:确认将[ {0} ]转化为:\n{1}经验及{2}积分?
+beadSystem.bead.combineConfirm.tip2:请在下方输入[        ]来确认操作
+beadSystem.bead.combineConfirm.tip3:YES
+beadSystem.bead.combineConfirm.tip4:确认将[{0}]进行拆分?
+beadSystem.bead.combineConfirm.tip5:确认兑换[{0}]获得{1}积分?
+beadSystem.bead.combineOneKey.cannot:请在一键合成槽内放入宝珠
+beadSystem.bead.combineConfirm.inputError.tip:输入为空
+beadSystem.bead.combineConfirm.inputError.tip2:输入错误,请重新输入
+beadSystem.bead.buyOneKey.tip:VIP{0}才可使用
+beadSystem.bead.combineOneKey.expTip:+{0}
+beadSystem.bead.vipBeadUnlock.tip:是否消耗9980(绑定)点券开启.
+beadSystem.bead.combineOnekey.sellBead.expTip:含有经验的宝珠,请先进行拆分.
+beadSystem.bead.combineOnekey.splitBead.moneyTip:拆分宝珠需扣除{0}(绑定)点券.
+beadSystem.bead.expBead.tip:吞噬可获得{0}宝珠经验.
+beadSystem.bead.openBeadCellPanel.btnTxt:查看
+beadSystem.bead.openBeadCellPanel.tip:您有新的宝珠孔开启.
+beadSystem.bead.getBeadFrame.lightThirdBtn.tip:确认花费{0}(绑定)点券点亮三星球吗?
+beadSystem.bead.getBeadFrame.lightThirdBtn.tip2:VIP{0}才可使用
+beadSystem.bead.desc.tip:<FONT COLOR='{0}'>{1}增加{2}</FONT>
+beadSystem.bead.nameStr:使宝珠经验,攻击,防御,敏捷,幸运,生命
+beadSystem.bead.getBeadFrame.sellAllClick.tip:确定卖出所有宝珠吗?
+beadSystem.bead.cannotUse.tip:该物品已无法使用,建议卖出.
+ddt.loader.LoadingBeadDataFailure:加载宝珠配置信息失败!
+ddt.loader.loadTotemInfoFail:加载弹王图腾模板信息失败!
+ddt.loader.loadHonorUpInfoFail:加载荣誉升华模版信息失败!
+<<<<<<< .working
+ddt.buyFatigue.tipInfo:是否花费<FONT COLOR='#ff0000'>{0}</FONT>(绑定)点券恢复<FONT COLOR='#ff0000'>50</FONT>点活力值
+=======
+ddt.buyFatigue.tipInfo:是否花费<FONT COLOR='#ff0000'>{0}</FONT>(绑定)点券恢复<FONT COLOR='#ff0000'>50</FONT>点活力值\n<FONT SIZE='12' COLOR='#ff0000'>活力值最大值为100,购买后多余不会超出上限</FONT>
+>>>>>>> .merge-right.r90584
+ddt.buyFatigue.tipInfo1:购买成功
+ddt.buyFatigue.tipInfo2:您当前的活力值大于限制活力值,无需购买.
+ddt.buyFatigue.tipInfo3:您当天的购买次数已经用完了.
+ddt.buyFatigue.tipInfo4:货币不足
+ddt.buyFatigue.tipData:购买活力值
+ddt.buyFatigue.name:活力值
+farm.seedView.noSeedTip:背包内没有可以种植的种子.
+ddt.bagAndInfo.moveGooDtips:背包已满无法脱下.
+ddt.cardSystem.CardEquipView.levelText:Lv.
+ddt.bagAndInfo.UnLockPage20:20级开放本页背包
+ddt.bagAndInfo.UnLockPage30:30级开放本页背包
+beadSystem.bead.scoreShop:积分商城
+ddtvip.itemText1:经验加成
+ddtvip.itemText8:强化加成
+ddtvip.itemText2:续关赠送
+ddtvip.itemText3:活力之神
+ddtvip.itemText4:魅力防踢
+ddtvip.itemText5:神行太保
+ddtvip.itemText6:横扫千军
+ddtvip.itemText7:宝珠达人
+ddtvip.itemText9:伤害加成
+ddtvip.itemText10:万人敬仰
+ddtvip.itemText.tips1:经验加成随VIP等级提升而增加.
+ddtvip.itemText.tips8:强化经验加成随VIP等级提升而增加.
+ddtvip.itemText.tips2:每天可免费续关,次数随VIP等级提升而增加.
+ddtvip.itemText.tips3:使用活力药水权限随VIP等级提升而增加.
+ddtvip.itemText.tips4:VIP免踢.
+ddtvip.itemText.tips5:副本中移动速度加快且不耗体力.
+ddtvip.itemText.tips6:在副本中给敌人致命的打击.
+ddtvip.itemText.tips7:开启一键购买,连续开启功能.
+ddtvip.itemText.tips9:引导,强击模式伤害随VIP等级提升而增加
+ddtvip.itemText.tips10:VIP10级每天上线全服公告.
+ddt.vip.PrivilegeViewItem1:经验加成
+ddt.vip.PrivilegeViewItem2:强化加成
+ddt.vip.PrivilegeViewItem3:续关赠送
+ddt.vip.PrivilegeViewItem4:活力之神
+ddt.vip.PrivilegeViewItem5:魅力防踢
+ddt.vip.PrivilegeViewItem6:宝珠达人
+ddt.vip.PrivilegeViewItem7:万人敬仰
+ddt.vip.PrivilegeViewItem8:神行太保
+ddt.vip.PrivilegeViewItem9:横扫千军
+ddt.vip.PrivilegeViewItem10:强击加成
+ddt.vip.PrivilegeViewItem11:引导加成
+ddt.vip.PrivilegeViewItemValue:{0}瓶
+ddt.quest.Honor:荣誉
+GetGoodsTipView.immediatelyEquip:立即装备
+GetGoodsTipView.immediatelyOpen:立即打开
+singledungeon.missionTip.abountTask:副本相关任务
+singledungeon.missionTip.taskTypeName:任务类型  任务名称.
+ddt.immediatelyequipment.fail:无须重复装备.
+petsBag.spaceUpgrade.TitleText:放入道\n具升级.
+hall.fatigue.tip:活力值,点击可购买.
+ddt.vipView.petEggTip:开启高级宠物蛋可获得高级宠物.
+ddt.game.turnTips:{0} / {1}
+bossbox.petAwardView.title:宠物开启
+bossbox.petAwardView.typeTxt:宠物特性:
+bossbox.petAwardView.bestWayTxt:最佳使用方式:
+bossbox.petAwardView.propertyTxt:{0}(成长{1})
+bossbox.petAwardView.propertyTxt:{0}(成长{1})
+bossbox.petAwardView.propertyTxt:{0}(成长{1})
+bossbox.petAwardView.nameTxt:获得 {0}
+bossbox.petAwardView.skillListTxt:宠物全部技能 ,,
+ddthall.fatigue.tips:进入副本需要消耗活力值，当不足时，可以\n点击加号按钮购买。系统每10分钟恢复1点。
+ddt.activityState.getAward.click:您点得太快了
+singleDungeon.bissionView.immedEnterFrame:立即可进入需要消耗<FONT COLOR='#FF0000'>{0}</FONT>(绑定)点券。
+singleDungeon.bissionView.enterCount:当天可进入次数：{0}
+militaryrank.view.zhanjiList:第三名,第二名,第一名
+militaryrank.view.title:军 衔
+militaryrank.shop.countLimit:最多只能购买{0}个
+militaryrank.shop.noCount:此物品购买次数已用完.
+setting.clearCacheComplete:清理缓存完成！
+consortion.totalInfo.time:活动剩余时间:
+consortion.totalInfo.currentBeatCount:当前杀怪场数:
+consortion.totalInfo.currentScore:当前获得贡献:
+consortion.totalInfo.frameTitle:怪物入侵贡献度排名
+consortion.monster.activeStart:公会怪物入侵活动已开始!
+consortion.monster.activeStopped:公会怪物入侵活动结束!
+ddtcosrtion.requet:{0} 位
+ddtcosrtion.inputMacChars:({0}/50)
+ddtconsortion.shop.titleTxt:神秘商城<FONT COLOR='#00fff0'>{0}</FONT>小时刷新一次，商城等级越高,刷出高级物品的几率越高
+ddt.game.mouseState.timeless:{0}秒后自动开炮
+ddt.game.mouseControlBar.btntips.left:向左走
+ddt.game.mouseControlBar.btntips.right:向右走
+ddt.consortionShop.NeedLevelTxt:{0}级商城开放
+ddt.consortionGold.awardTips:只要累积在线<FONT COLOR='#ffe5d'>{0}分{1}秒</FONT>\n就可获得<FONT COLOR='#ffe5d'>{2}</FONT>个金币箱奖励.
+ddt.consortionAwardFrame.dec:只要累积在线{0}分{1}秒,您将获得以下奖励
+ddt.consortionWalkMap.hallbuild.title:公会大厅
+ddt.consortionWalkMap.hallbuild.content:公会的主建筑,包含成员\n查看,日志,管理等主要功能.
+ddt.consortionWalkMap.skillbuild.title:技能研究院
+ddt.consortionWalkMap.skillbuild.content:学习公会技能,可以获得\n快速成长.
+ddt.consortionWalkMap.shopbuild.title:公会商城
+ddt.consortionWalkMap.shopbuild.content:分为公会商城和神秘商城,\n可以在这里购买好东西哦.
+ddtconsortion.combineConfirm.tip:解散公会后无法恢复,您确定要解散吗?
+ddtconsortion.combineConfirm.tip1:请在下方输入[  <FONT COLOR='#FF0000'>YES</FONT>  ]来确认操作
+ddt.consortionSelfHallLeftView.countTip:当前公会人数{0}人,最多可容纳{1}人
+ddt.consortionSelfHallLeftView.countTipI:下一级公会可容纳人数为{0}人
+ddt.store.embedBG.openEmbed.alert.msg:是否消耗<FONT COLOR='#ff0000'>{0}</FONT>个金刚钻开启该孔?\n<FONT COLOR='#ff0000'>(成功率为{1}%)</FONT>
+ddt.store.embedBG.changeStone.msg:是否花费<FONT COLOR='#ff0000'>{0}金币</FONT>,进行符文替换?
+ddt.store.embedBG.removeStone.msg:是否花费<FONT COLOR='#ff0000'>{0}金币</FONT>,进行符文摘取?
+ddt.store.embedBG.changeStone.bindmsg:合成后将会变为已绑定,是否继续
+ddt.store.embedBG.changeStone.lessGoldmsg:金币不足
+ddt.store.embedBG.changeStone.successmsg:镶嵌成功
+ddt.store.embedBG.changeStone.failmsg:操作成功
+ddt.store.embedBG.changeStone.changemsg:替换成功
+ddt.store.embedBG.changeStone.errormsg:操作失败
+ddt.store.embedBG.openHole.lessmsg:金刚钻不足
+ddt.store.embedBG.openHole.noOpenmsg:该孔尚未开启,无法镶嵌
+ddt.store.embedBG.openHole.samemsg:已有同类型符文,无法镶嵌
+ddt.store.embedBG.openHole.errormsg:镶嵌异常
+ddt.store.embedBG.openHole.noEquipmsg:请先放入装备
+ddt.store.embedBG.openHole.errorTypemsg:类型不符
+ddt.store.embedBG.openHole.fullmsg:符文已满
+ddt.store.embedBG.openHole.openHolemsg:没有多余的镶嵌孔,请先开孔
+ddt.store.embedBG.cannotEmbed:此装备无法镶嵌
+ddt.store.embedBG.embedTipText:注:镶嵌上符文的装备不可以再被合成
+ddt.activity.activityFirstRechargeView.hasGet:您已经领取过了.
+ddt.view.tips.embedStoneTip.embedInfo:({0}级) <FONT COLOR='#8982ff'>{1}+{2}<FONT/>
+ddt.view.tips.embedStoneTip.unEmbed:未镶嵌
+ddt.view.tips.embedStoneTip.unOpened:未开孔
+ddt.setting.clearCache.Txt:清除缓存
+ddt.downloadClient.descript.txt:流畅的游戏体验，更有极品宝珠、绑定点券、海量金币赠送，请使用登录器登录游戏。
+ddt.downloadClient.title.txt:下载登录器
+ddt.liveness.reliveStar.txt:复活幸运星
+ddt.liveness.descript.txt:每次上线点击星星可获得奖励，连续7天可获得额外奖励。星星每周一将重新开始点亮。
+ddt.liveness.reliveStarDedc.txt:你错过了{0}次点亮星星的机会，是否复活它？
+ddt.liveness.livenessValueDesc.txt:活跃度
+ddt.liveness.listTitle1.txt:活动名称
+ddt.liveness.listTitle2.txt:完成次数
+ddt.liveness.listTitle3.txt:活动产出
+ddt.liveness.listTitle4.txt:活跃积分
+ddt.liveness.livenessBoxDesc.txt:活跃
+ddt.liveness.reliveStar.tips.txt:是否花费<font color='#ff0000'>{0}</font>(绑定)点券复活<font color='#ff0000'>{1}</font>个幸运星？
+ddt.liveness.oneKeyFinish.tips.txt:确定花费<font color='#ff0000'>{0}</font>(绑定)点券完成该活动吗？
+ddt.liveness.reward.tips.txt:<font color='#f4ae00'>{0}</font>
+militaryrank.shopView.item.warmTxt:需要获得{0}军衔
+ddt.arena.level:竞技场{0}级开启!
+ddt.arena.enter.notice1:您今天的旗帜已用完!
+ddt.arena.enter.notice2:您今天的竞技场数已用完!
+ddt.arena.click.to.fast:您点击太快了,请休息一下!
+ddt.arena.ticked.notice:1分钟后没有进入竞技场战斗，您将被移出竞技场.
+ddt.arena.LifeFlagIconTips:每次角色死亡扣除1面\n旗帜，每天00:00重置\n为15面。
+ddt.liveness.bubble.worldbossTips.txt:世界BOSS开启了，赶紧加入战斗吧！
+ddt.liveness.bubble.monsterReflashTips.txt:怪物入侵开始了，赶紧加入吧！
+ddt.liveness.bubble.arenaTips.txt:竞技场开启了，赶紧加入吧！
+ddt.arena.clickplayernoctice.fighting:该玩家处于战斗中
+ddt.arena.clickplayernoctice.death:该玩家已死亡
+ddt.arena.arena.kingiconTips:此玩家是王
+ddt.arena.notopen:竞技场还没开启
+ddt.arena.noWeapon:没有装备武器不能进入竞技场
+ddt.arena.overdue:装备过期，不能进入竞技场
+ddt.arena.close:竞技场关闭
+ddt.arena.open:竞技场开启
+ddt.arena.reassignedNotice:您所在竞技场人数过少，请重新进入竞技场进行分配.
+ddt.arena.arenareliveview.showtxt:请选择复活方式(原地复活消耗<FONT COLOR='#e30000'>{0}</FONT>(绑定)点券).
+ddt.arena.arenareliveview.timetxt:剩余时间 <FONT COLOR='#e30000'>{0}</FONT> 秒
+ddt.arena.arenareliveview.relivehere:原地复活
+ddt.arena.arenareliveview。relivehereAlertTxt:确认花费<FONT COLOR='#e30000'>{0}</FONT>(绑定)点券，进行原地复活？
+ddt.arena.arenareliveview。reliveCheckTxt:今天不再提示
+ddt.arena.arenareliveview.reliveSafety:安全复活
+ddt.arena.arenareassigned.showtxt:你所在竞技场人数过少，是否重新分配？
+ddt.arena.arenareassigned.timetxt:剩余时间 <FONT COLOR='#e30000'>{0}</FONT> 秒
+ddt.consortion.ConsortionTransport.stopExpedition:此操作将终止扫荡，是否继续？
+ddt.dungeonInvite.bigBuglesAlert:确定要消耗一个大喇叭进行副本邀请吗？
+ddt.dungeonInvite.leaveRoomAlert:确定要离开当前房间吗？
+ddt.dungeonInvite.fightingAlert:战斗中不能加入其它房间！
+ddt.dungeonInvite.inCurrentRoom:您已经在这个房间中了！
+ddt.dungeonInvite.noBugles:副本喇叭或大喇叭不足！
+ddt.dungeonInvite.needGrade:等级小于13级无法进入副本房间！
+ddt.dungeonInvite.noChooseDungeon:请先选择副本！
+ddt.dungeonInvite.cannotgo:在此场景中不能接受邀请！
+ddt.dungeonInvite.tooQuiklyToInvite:一分钟后才能再次邀请！
+game.smallPlayerDetailTip.winRate:胜   率     {0}%
+game.smallPlayerDetailTip.fightNum:战斗力     {0}
+ddt.consortion.AwardTips:领取成功
+ddt.consortion.AwardTipsI:时间没到,无法领取
+ddt.capabilitynotice.checkbtn:查  看
+ddt.capabilitynotice.desicription:恭喜你升到{0}级，开启\n了新功能{1}，快去\n看看吧。
+ddt.capabilitynotice.viewTitle:提  示
+ddt.capabilitynotice.arena:竞技场
+ddt.liveness.quickDone.tip.txt:消耗{0}点券，快速完成任务，\n可以获得任务奖励及活跃积分。
+ddt.liveness.starReward.tip.txt:<font color='#f4ae00'>随机获得以下其中一件物品：</font>
+ddt.transport.filterBtn.showCanHijack.txt:显示可拦劫车辆
+ddt.transport.filterBtn.showAll.txt:显示全部车辆
+ddt.liveness.starReward.tip.txt:<font color='#f4ae00'>随机获得以下其中一件物品：</font>
+pets.bag.attack:攻
+pets.bag.defence:防
+pets.bag.agility:敏
+pets.bag.luck:幸
+ddt.livenessBubble.worldBossRemind.txt:离世界BOSS开启还有{0}
+ddt.livenessBubble.monsterRemind.txt:离怪物入侵开启还有{0}
+ddt.livenessBubble.arenaRemind.txt:离竞技场开启还有{0}
+memberDiamondGift.view.title:黄钻精彩特权
+memberDiamondGift.view.Blue: 
+memberDiamondGift.view.day:每日可领取
+memberDiamondFrame.title:黄钻精彩特权
+memberDiamondGift.view.MemberDiamondNewHandGiftView.explainTxt:特权3：黄钻专属喇叭
+memberDiamondGift.view.MemberDiamondNewHandGiftView.explainTxt2:特权4：黄钻免费建立一次公会
+memberDiamondGift.view.MemberDiamondNewHandGiftView.explainTxt3:特权5：黄钻额外活跃度抽奖
+memberDiamondGift.view.MemberDiamondNewHandGiftView.explainTxt4:特权6：黄钻每日礼包
+memberDiamondGift.view.MemberDiamondNewHandGiftView.explainTxtI:你每日还将获得蓝钻等级礼包，等级越高，礼包价值越大。\n更有蓝钻活动特权。充值8折等特权！
+memberDiamondGift.view.MemberDiamondNewHandGiftView.explainTxtII:你每日还将获得会员等级礼包，等级越高，礼包价值越大。\n更有会员活动特权。充值8折等特权！
+tank.view.im.InviteAwardFrame.title:我的密友
+tank.view.im.InviteAwardFrame.txt1:通过邀请密友功能，邀请您身边的好友来和你一起战斗吧！成功邀请好友的数量\n越多奖励越丰厚哦。
+tank.view.im.InviteAwardFrame.txt2:备注：邀请好友进入您所在的区服，且等级达到8级视为邀请成功！
+tank.view.im.InviteAwardFrame.txt3:{0}.成功邀请{1}名密友。
+tank.view.im.InviteAwardFrame.txt4:1,5,10,20,35,60,100,200
+tank.view.im.LevelAwardFrame.txt1:Lv.{0}礼包
+tank.view.im.LevelAwardFrame.txt2:10,15,20,30,40,50
+im.invited.imlistTitle:密友
+im.closeFriend.closeFriendTitle:我的密友
+ddt.update.frame.title:更新公告
+ddt.bagAndGiftFrame.infoTxt:个人资料
+ddt.bagAndGiftFrame.beedTxt:宝  珠
+ddt.bagAndGiftFrame.totemTxt:弹王图腾
+ddt.update.frame.title:更新公告
+room.dungeon.multishootAlert.noTip:不再提示
+ddt.update.frame.updateTime:时间
+ddt.OtherPlayerInfo.infoTxt:资   料
+ddt.OtherPlayerInfo.petTxt:宠   物
+ddt.OtherPlayerInfo.beadTxt:宝   珠
+ddt.OtherPlayerInfo.totemTxt:图   腾
+ddt.livenessFrame.getRewardBtn.txt:领 奖
+ddt.fatigue.maxCountTip:您当天的购买次数已经用完了
+ddt.roomList.refreshTxt:刷 新
+ddt.roomList.baiduTxt:进 入
+ddt.roomLIst.roomIdTxt:请输入房间ID
+ddt.consortion.consortionShopLevel1:公会商城
+ddt.consortion.consortionShopLevel2:神秘商城
+ddt.consortion.consortionUpdateTimer:刷新剩余时间
+ddt.consortion.buildingManager.exit:解散公会
+ddt.consortion.consortionTrasfer.TitleText:选择转让对象
+ddt.consortion.member:成 员
+ddt.consortion.events:日 志
+ddt.consortion.apply:管 理
+ddt.consortion.club.applyText:申 请
+ddt.consortion.club.cancelApplyText:撤 销
+ddt.consortion.club.applyingText:申请中...
+ddt.consortion.club.alreadlyApply:已申请
+ddt.consortion.upgradeHallTip:你的公会等级已经是最高等级
+ddt.roomLIst.roomIdTxt:请输入房间ID
+ddt.FightPowerUpFrame.titleTxt:成长之路
+ddt.FightPowerUpTips.socreTxt:当前评分：{0}
+ddt.FightPowerUpTips.titleTxt:推荐
+ddt.angle:角度
+ddt.bagCell.openAll:批量开启
+ddt.FightPowerUpTips.titleTxt:推荐
+ddt.friendGroup.LabelTxt:确定添加该用户为好友?
+ddt.friendGroup.LabelTxtI:好友分组
+ddt.fightPowerAndFatigue.fatigueVal.red:<font color='#ff0000'>{0}</font>/100
+ddt.fightPowerAndFatigue.fatigueVal.white:<font color='#ffffff'>{0}</font>/100
+ddt.hardModeExpeditionFrame.title:困难模式扫荡
+ddt.hardModeExpeditionFrame.chooseNothing:请选择需要扫荡的副本
+ddt.wordBoss.quickExchange:快速兑换
+ddt.game.view.damageStasticText1:您对[{0}]造成了
+ddt.game.view.damageStasticText2:[{0}]对您造成了
+ddt.game.view.damageStasticText3:点伤害。
+ddt.game.view.reduceStasticText:合击减伤{0}%
+vip.vipPrivilegeFrame.LevelPrivilegeTxt:等级特权
+vip.vipPrivilegeFrame.GrowthRulesTxt:成长规则
+ddt.turnplate.rewardTitle.txt:恭喜您获得以下物品：
+ddt.turnplate.chatBall.txt:点我开启！
+ddt.turnplate.historyMessage.txt:{0}的<font color='#4ea6ff'>[{1}]</font>获得了“<font color='#ff9c00'>{2}</font>”。
+vip.vipPrivilegeFrame.GrowthRulesTxt:成长规则
+ddt.weekend.frame.title:周末速递
+ddt.weekend.frame.noenergy:您没有可领取的活力值!
+ddt.weekend.frame.moneyNotice:您确定花费<font color='#ff0000'>{0}(绑定)点券</font>领取双倍活力
+ddt.fightPowerAndFatigue.fatigueVal.white:<font color='#ffffff'>{0}</font>/100
+ddt.hardModeExpeditionFrame.title:困难模式扫荡
+ddt.hardModeExpeditionFrame.chooseNothing:请选择需要扫荡的副本
+ddt.turnplate.isTurning:转盘正在转动中，请稍后尝试
+ddt.turnplate.notEnoughCoin:啵咕金币不足
+ddtbagAndInfo.usePetBlessAlertMsg:是否对该宠物使用祝福药剂
+ddtbagAndInfo.usePetBlessAlertFailed1Msg:此宠物已祝福.
+ddtbagAndInfo.usePetBlessAlertFailed2Msg:此药剂与当前出战宠物的类型不匹配.
+ddtbagAndInfo.usePetBlessAlertFailed3Msg:请先设置出战宠物.
+ddtbagAndInfo.FashionName.txt0:衣服
+ddtbagAndInfo.FashionName.txt1:眼睛
+ddtbagAndInfo.FashionName.txt2:帽子
+ddtbagAndInfo.FashionName.txt3:脸饰
+ddtbagAndInfo.FashionName.txt4:头发
+ddtbagAndInfo.FashionName.txt5:变装
+ddtbagAndInfo.FashionName.txt6:婚戒
+ddtbagAndInfo.FashionName.txt7:装饰
+ddtbagAndInfo.FashionName.txt8:眼镜
+ddtbagAndInfo.FashionName.txt9:泡泡
+ddtbagAndInfo.reworkNameBtn.txt:重名检测
+ddt.game.SettlementView.pvp.appraise1:棋高一着
+ddt.game.SettlementView.pvp.appraise2:旗鼓相当,再接再厉
+ddt.game.SettlementView.pvp.appraise3:这简直是惨无\n人道的虐待啊!
+ddt.game.SettlementView.pvp.appraise4:发挥不佳,下次\n就能击中TA了!
+ddt.game.SettlementView.pvp.appraise5:技术帝的逆袭!
+ddt.game.SettlementView.pvp.appraise6:提升{0}.\n下次就有机会击败对手!
+ddt.game.SettlementView.pvp.damage:伤害
+ddt.game.SettlementView.pvp.armor:护甲
+ddt.game.SettlementView.pvp.agility:敏捷
+ddt.game.SettlementView.pvp.lucy:幸运
+ddt.game.SettlementView.pvp.hp:血量
+ddt.turnplate.reflashBtn.tips.txt:刷新需要{0}金币
+ddt.turnplate.inviteStop.txt:是否关闭转盘?
+ddt.turnplate.notOpen.txt:啵咕大转盘尚未开启
+ddt.turnplate.chatName.txt:啵咕大转盘
+ddt.feedback.playerEvaluationText:玩家评价
+ddt.feedback.replyEvaluationText:回复评价
+ddt.feedback.poor:差
+ddt.feedback.general:一般
+ddt.feedback.satisfactory:满意
+ddt.feedback.verySatisfied:非常满意
+ddt.worldbossRoom.resurrectBtnTxt:立即复活
+ddt.enthtall.tips:3小时内经验获得率为100%\n3-5小时经验获得率为50%\n超过5小时收益为0\n请您合理安排游戏时间，注意身体健康！
+ddt.worldbossRoom.reFightBtnTxt:立即战斗
+ddt.timeFormat.dayAgo:{0}天前
+ddt.timeFormat.hourAgo:{0}小时前
+ddt.timeFormat.minuteAgo:{0}分钟前
+ddt.timeFormat.secondAgo:{0}秒前
+ddt.fightrobot.coolDown.timeUp:冷却时间已到，无需消除
+ddt.fightrobot.message.fightBackBtn.txt:反 击
+ddt.fightrobot.message.toBeWin.txt:{0}，您被 <font color='#ffd800'>{1}</font> 挑战，<font color='#09e34c'>您获胜了</font>。
+ddt.fightrobot.message.toBeLose.txt:{0}，您被 <font color='#ffd800'>{1}</font> 挑战，<font color='#e30909'>您失败了</font>。
+ddt.fightrobot.message.win.txt:{0}，您挑战了 <font color='#ffd800'>{1}</font> ，<font color='#09e34c'>您获胜了</font>。
+ddt.fightrobot.message.lose.txt:{0}，您挑战了 <font color='#ffd800'>{1}</font> ，<font color='#e30909'>您失败了</font>。
+ddt.fightrobot.beginFightBtn.tips.txt:征战将随机匹配对手
+ddt.fightrobot.coolDownBtn.tips.txt:消除冷却时间需要{0}(绑定)点券
+ddt.fightrobot.fightCountNotEnough.txt:征战次数不足!
+ddt.fightrobot.notCoolDown.txt:正在冷却中，请稍候再试
+ddt.fightrobot.coolDownTxt:是否花费 <font color='#ff0000'>{0}</font> (绑定)点券消除冷却时间？
+ddt.liveness.dailyReceive.Title:登录奖励
+ddt.settlementFightrobot.fightPower:战斗力：{0}
+ddthall.dailyReceive.receiveTxt:领  取
+worldboss.ranking.OkBtnText:确  定
