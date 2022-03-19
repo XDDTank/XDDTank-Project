@@ -1,0 +1,166 @@
+﻿// Decompiled by AS3 Sorcerer 6.78
+// www.buraks.com/as3sorcerer
+
+//ddt.view.chat.chatBall.ChatBallTextAreaBoss
+
+package ddt.view.chat.chatBall
+{
+    import flash.display.Sprite;
+    import flash.display.BitmapData;
+    import flash.display.Bitmap;
+    import flash.utils.Timer;
+    import flash.events.TimerEvent;
+    import flash.text.StyleSheet;
+    import com.pickgliss.utils.ObjectUtils;
+    import ddt.manager.SoundManager;
+    import flash.geom.Rectangle;
+    import flash.events.Event;
+
+    public class ChatBallTextAreaBoss extends ChatBallTextAreaNPC 
+    {
+
+        private const TYPEDLENGTH:int = 1;
+        private const TYPEINTERVAL:int = 80;
+
+        private var _maskMC:Sprite;
+        private var _bmdata:BitmapData;
+        private var _bmp:Bitmap;
+        private var _typeTimer:Timer;
+        private var _count:int;
+        public var animation:Boolean = true;
+
+        public function ChatBallTextAreaBoss()
+        {
+            this._typeTimer = new Timer(this.TYPEINTERVAL);
+            this._typeTimer.addEventListener(TimerEvent.TIMER, this.__onTypeTimerTick);
+        }
+
+        override protected function setFormat():void
+        {
+            var _local_1:StyleSheet = new StyleSheet();
+            _local_1.parseCSS(((("p{font-size:16px;text-align:left;font-weight:bold;leading:3px;}" + ".red{color:#FF0000;}") + ".blue{color:#0000FF;}") + ".green{color:#00FF00;}"));
+            tf.styleSheet = _local_1;
+        }
+
+        override public function set text(_arg_1:String):void
+        {
+            super.text = _arg_1;
+            ObjectUtils.disposeObject(this._maskMC);
+            this._maskMC = new Sprite();
+            addChild(this._maskMC);
+            this._maskMC.x = (tf.x - 2);
+            this._maskMC.y = (tf.y + 2);
+            ObjectUtils.disposeObject(this._bmp);
+            this._bmdata = new BitmapData(tf.width, (tf.height + 4));
+            this._bmdata.draw(tf);
+            this._bmp = new Bitmap(this._bmdata);
+            this._bmp.x = tf.x;
+            this._bmp.y = tf.y;
+            addChild(this._bmp);
+            this._bmp.mask = this._maskMC;
+            this._count = 0;
+            tf.visible = false;
+            this._typeTimer.addEventListener(TimerEvent.TIMER, this.__onTypeTimerTick);
+            this._typeTimer.reset();
+            this._typeTimer.start();
+            if ((!(this.animation)))
+            {
+                SoundManager.instance.play("008");
+                this._typeTimer.stop();
+                this.drawFullMask();
+            };
+        }
+
+        private function __onTypeTimerTick(_arg_1:TimerEvent):void
+        {
+            if (this._count < 15)
+            {
+                SoundManager.instance.play("120");
+            };
+            while ((!(_text.charAt(this._count))))
+            {
+                this._count--;
+                this._typeTimer.stop();
+                this.textDisplayCompleted();
+            };
+            this.redrawMask(this._count);
+            this._count = (this._count + this.TYPEDLENGTH);
+        }
+
+        private function drawFullMask():void
+        {
+            this._typeTimer.removeEventListener(TimerEvent.TIMER, this.__onTypeTimerTick);
+            this._bmp.mask = null;
+            this.textDisplayCompleted();
+        }
+
+        private function redrawMask(_arg_1:int):void
+        {
+            if ((!(_text.charAt(this._count))))
+            {
+                return;
+            };
+            var _local_2:Boolean;
+            var _local_3:String = _text.charAt(_arg_1);
+            var _local_4:Rectangle = tf.getCharBoundaries(_arg_1);
+            if (_local_4 == null)
+            {
+                return;
+            };
+            if (_local_2)
+            {
+                this._bmp.mask = null;
+                this._maskMC.graphics.clear();
+                this._maskMC.graphics.beginFill(0xCCCCCC);
+                this._maskMC.graphics.drawRect(_local_4.x, _local_4.y, _local_4.width, _local_4.height);
+                this._maskMC.graphics.endFill();
+                addChild(this._maskMC);
+                return;
+            };
+            this._maskMC.graphics.clear();
+            this._maskMC.graphics.lineStyle(0);
+            this._maskMC.graphics.beginFill(0xCCCCCC);
+            this._maskMC.graphics.moveTo(0, -2);
+            this._maskMC.graphics.lineTo(0, (_local_4.y + _local_4.height));
+            this._maskMC.graphics.lineTo((_local_4.x + _local_4.width), (_local_4.y + _local_4.height));
+            this._maskMC.graphics.lineTo((_local_4.x + _local_4.width), (_local_4.y - 2));
+            this._maskMC.graphics.lineTo(tf.width, (_local_4.y - 2));
+            this._maskMC.graphics.lineTo(tf.width, -2);
+            this._maskMC.graphics.lineTo(0, -2);
+            this._maskMC.graphics.endFill();
+            addChild(this._maskMC);
+        }
+
+        override protected function clear():void
+        {
+            super.clear();
+            if (((this._bmp) && (this._bmp.parent)))
+            {
+                this._bmp.parent.removeChild(this._bmp);
+            };
+        }
+
+        private function textDisplayCompleted():void
+        {
+            dispatchEvent(new Event(Event.COMPLETE));
+        }
+
+        override public function dispose():void
+        {
+            if (this._typeTimer)
+            {
+                this._typeTimer.removeEventListener(TimerEvent.TIMER, this.__onTypeTimerTick);
+            };
+            this.clear();
+            ObjectUtils.disposeObject(this._bmdata);
+            this._bmdata = null;
+            this._bmp = null;
+            ObjectUtils.disposeObject(this._maskMC);
+            this._maskMC = null;
+            super.dispose();
+        }
+
+
+    }
+}//package ddt.view.chat.chatBall
+

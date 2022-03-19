@@ -1,0 +1,176 @@
+﻿// Decompiled by AS3 Sorcerer 6.78
+// www.buraks.com/as3sorcerer
+
+//im.messagebox.MessageBox
+
+package im.messagebox
+{
+    import flash.display.Sprite;
+    import com.pickgliss.ui.core.Disposeable;
+    import com.pickgliss.ui.image.ScaleBitmapImage;
+    import flash.display.Bitmap;
+    import com.pickgliss.ui.text.FilterFrameText;
+    import com.pickgliss.ui.controls.SimpleBitmapButton;
+    import com.pickgliss.ui.controls.container.VBox;
+    import __AS3__.vec.Vector;
+    import com.pickgliss.ui.ComponentFactory;
+    import ddt.manager.LanguageMgr;
+    import flash.events.MouseEvent;
+    import im.IMController;
+    import ddt.manager.SoundManager;
+    import im.info.PresentRecordInfo;
+    import com.pickgliss.utils.ObjectUtils;
+    import flash.events.Event;
+    import __AS3__.vec.*;
+
+    public class MessageBox extends Sprite implements Disposeable 
+    {
+
+        private var _bg:ScaleBitmapImage;
+        private var _sign:Bitmap;
+        private var _title:FilterFrameText;
+        private var _cancelFlash:SimpleBitmapButton;
+        private var _vbox:VBox;
+        private var _item:Vector.<MessageBoxItem>;
+        public var overState:Boolean;
+
+        public function MessageBox()
+        {
+            this.initView();
+        }
+
+        private function initView():void
+        {
+            this._bg = ComponentFactory.Instance.creatComponentByStylename("messageBox.bg");
+            this._sign = ComponentFactory.Instance.creatBitmap("asset.messagebox.sign");
+            this._title = ComponentFactory.Instance.creatComponentByStylename("messageBox.title");
+            this._cancelFlash = ComponentFactory.Instance.creatComponentByStylename("messageBox.cancelFlash");
+            this._vbox = ComponentFactory.Instance.creatComponentByStylename("messagebox.vbox");
+            addChild(this._bg);
+            addChild(this._sign);
+            addChild(this._title);
+            addChild(this._cancelFlash);
+            addChild(this._vbox);
+            this._item = new Vector.<MessageBoxItem>();
+            this._title.text = LanguageMgr.GetTranslation("IM.messagebox.title");
+            this._cancelFlash.addEventListener(MouseEvent.CLICK, this.__cancelFlashHandler);
+            addEventListener(MouseEvent.MOUSE_OVER, this.__overHandler);
+            addEventListener(MouseEvent.MOUSE_OUT, this.__outHandler);
+        }
+
+        protected function __outHandler(_arg_1:MouseEvent):void
+        {
+            this.overState = false;
+            IMController.Instance.hideMessageBox();
+        }
+
+        protected function __overHandler(_arg_1:MouseEvent):void
+        {
+            this.overState = true;
+        }
+
+        protected function __cancelFlashHandler(_arg_1:MouseEvent):void
+        {
+            SoundManager.instance.play("008");
+            IMController.Instance.cancelFlash();
+        }
+
+        public function set message(_arg_1:Vector.<PresentRecordInfo>):void
+        {
+            var _local_3:MessageBoxItem;
+            this.clearBox();
+            var _local_2:int;
+            while (_local_2 < _arg_1.length)
+            {
+                _local_3 = new MessageBoxItem();
+                _local_3.recordInfo = _arg_1[_local_2];
+                _local_3.addEventListener(MouseEvent.CLICK, this.__itemClickHandler);
+                _local_3.addEventListener(MessageBoxItem.DELETE, this.__itemDeleteHandler);
+                this._vbox.addChild(_local_3);
+                this._item.push(_local_3);
+                _local_2++;
+            };
+            this._bg.height = ((this._item.length * 28) + 88);
+        }
+
+        private function clearBox():void
+        {
+            var _local_1:int;
+            while (_local_1 < this._item.length)
+            {
+                if (this._item[_local_1])
+                {
+                    this._item[_local_1].removeEventListener(MouseEvent.CLICK, this.__itemClickHandler);
+                    this._item[_local_1].removeEventListener(MessageBoxItem.DELETE, this.__itemDeleteHandler);
+                    ObjectUtils.disposeObject(this._item[_local_1]);
+                };
+                this._item[_local_1] = null;
+                _local_1++;
+            };
+            this._item = new Vector.<MessageBoxItem>();
+        }
+
+        protected function __itemDeleteHandler(_arg_1:Event):void
+        {
+            var _local_2:MessageBoxItem = (_arg_1.currentTarget as MessageBoxItem);
+            this._item.splice(this._item.indexOf(_local_2), 1);
+            if (_local_2)
+            {
+                _local_2.removeEventListener(MouseEvent.CLICK, this.__itemClickHandler);
+                _local_2.removeEventListener(MessageBoxItem.DELETE, this.__itemDeleteHandler);
+                ObjectUtils.disposeObject(_local_2);
+            };
+            _local_2 = null;
+            IMController.Instance.getMessage();
+        }
+
+        protected function __itemClickHandler(_arg_1:MouseEvent):void
+        {
+            SoundManager.instance.play("008");
+            var _local_2:MessageBoxItem = (_arg_1.currentTarget as MessageBoxItem);
+            IMController.Instance.alertPrivateFrame(_local_2.recordInfo.id);
+            IMController.Instance.getMessage();
+        }
+
+        public function dispose():void
+        {
+            this._cancelFlash.removeEventListener(MouseEvent.CLICK, this.__cancelFlashHandler);
+            removeEventListener(MouseEvent.MOUSE_OVER, this.__overHandler);
+            removeEventListener(MouseEvent.MOUSE_OUT, this.__outHandler);
+            this.clearBox();
+            this._item = null;
+            if (this._bg)
+            {
+                ObjectUtils.disposeObject(this._bg);
+            };
+            this._bg = null;
+            if (this._sign)
+            {
+                ObjectUtils.disposeObject(this._sign);
+            };
+            this._sign = null;
+            if (this._title)
+            {
+                ObjectUtils.disposeObject(this._title);
+            };
+            this._title = null;
+            if (this._cancelFlash)
+            {
+                ObjectUtils.disposeObject(this._cancelFlash);
+            };
+            this._cancelFlash = null;
+            if (this._vbox)
+            {
+                ObjectUtils.disposeObject(this._vbox);
+            };
+            this._vbox = null;
+            if (parent)
+            {
+                parent.removeChild(this);
+            };
+        }
+
+
+    }
+}//package im.messagebox
+
