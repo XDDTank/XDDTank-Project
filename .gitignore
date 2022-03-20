@@ -27,4 +27,4 @@
 !Source/Tank.Request/**/*.xml
 !Request/*
 !Client/**/*
-!ExceptFiles/**/*
+!**/ExceptFiles/**/*
