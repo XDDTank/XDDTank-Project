@@ -15,7 +15,12 @@
       "ProjectGuid": "87c66fcb-06bb-42c0-86e1-ed814a77ebe4",
       "DisplayName": "Bussiness",
       "ColorIndex": 1
+    },
+    "5722b731-dc47-4dee-9a3d-65fed82be5e6": {
+      "ProjectGuid": "5722b731-dc47-4dee-9a3d-65fed82be5e6",
+      "DisplayName": "Tank.Request",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

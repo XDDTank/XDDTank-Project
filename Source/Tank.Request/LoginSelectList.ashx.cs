@@ -58,7 +58,7 @@ namespace Tank.Request
             }
             finally
             {
-                if (value == true)
+                //if (value == true)
                 {
                     result.Add(new XAttribute("value", value));
                     result.Add(new XAttribute("message", message));

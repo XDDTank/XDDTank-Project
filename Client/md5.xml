@@ -2,7 +2,7 @@
 
 <md5>
   <Item name="1.png" md5="b11be093d530cde9de0bfaf882db3ed8" url="/data/dandantang/Resource/flash/1.png"/>
-  <Item name="2.png" md5="c4d55afee42c033b74b0c7e45954dcbb" url="/data/dandantang/Resource/flash/2.png"/>
+  <!-- <Item name="2.png" md5="c4d55afee42c033b74b0c7e45954dcbb" url="/data/dandantang/Resource/flash/2.png"/> -->
   <Item name="3.png" md5="86e348e37aa98ba96e2782ef9115c5ea" url="/data/dandantang/Resource/flash/3.png"/>
   <Item name="audio.swf" md5="360cfb1b54c956e8f3a133d203f72e65" url="/data/dandantang/Resource/flash/audio.swf"/>
   <Item name="language.png" md5="7ef12031305298409988a9f8595f1e8a" url="/data/dandantang/Resource/flash/ui/zh_cn/language.png"/>
