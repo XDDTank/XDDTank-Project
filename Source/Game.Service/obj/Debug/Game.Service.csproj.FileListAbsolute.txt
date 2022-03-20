@@ -232,3 +232,4 @@ D:\DATA\devgame\XDDT\xddtank\Source\Game.Service\bin\Debug\Game.Server.dll.confi
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Service\bin\Debug\SqlDataProvider.pdb
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Service\bin\Debug\log4net.xml
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Service\obj\Debug\Game.Service.csproj.CopyComplete
+D:\DATA\devgame\XDDT\xddtank\Source\Game.Service\obj\Debug\Game.Service.csproj.SuggestedBindingRedirects.cache

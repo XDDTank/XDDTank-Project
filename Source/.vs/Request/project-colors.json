@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0015bf52-a89d-4d4c-b212-d2228ff1df71": {
+      "ProjectGuid": "0015bf52-a89d-4d4c-b212-d2228ff1df71",
+      "DisplayName": "Game.Base",
+      "ColorIndex": 0
+    },
+    "87c66fcb-06bb-42c0-86e1-ed814a77ebe4": {
+      "ProjectGuid": "87c66fcb-06bb-42c0-86e1-ed814a77ebe4",
+      "DisplayName": "Bussiness",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -160,3 +160,4 @@ D:\DATA\devgame\XDDT\xddtank\Source\Fighting.Service\obj\Debug\Fighting.Service.
 D:\DATA\devgame\XDDT\xddtank\Source\Fighting.Service\obj\Debug\Fighting.Service.csproj.CopyComplete
 D:\DATA\devgame\XDDT\xddtank\Source\Fighting.Service\obj\Debug\Fighting.Service.exe
 D:\DATA\devgame\XDDT\xddtank\Source\Fighting.Service\obj\Debug\Fighting.Service.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Fighting.Service\obj\Debug\Fighting.Service.csproj.SuggestedBindingRedirects.cache

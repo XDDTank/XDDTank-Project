@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <config>
-    <FLASHSITE value="http://127.0.0.1:83/Client/flash/"/>
+    <FLASHSITE value="http://127.0.0.1/flash/"/>
     <SITE value="http://gunny.vcdn.vn/"/>
     <!-- md5校验失败后的备用加载地址 -->
-    <BACKUP_FLASHSITE value="http://127.0.0.1:83/Client/flash/"/>
+    <BACKUP_FLASHSITE value="http://127.0.0.1/flash/"/>
     <!-- 是否使用md5头校验 -->
     <USE_MD5 value="true"/>
-    <FIRSTPAGE value="http://127.0.0.1:83/Client/"/>
-    <REGISTER value="http://127.0.0.1:83/Client/"/>
-    <REQUEST_PATH value="http://127.0.0.1:83/Request/"/>
-    <LOGIN_PATH value="http://127.0.0.1:83/Client/" siteName="7k7k新弹弹堂双线-【1-27区】-无需下载的Q版休闲游戏"/>
-    <CALL_PATH value="http://127.0.0.1:83/Client/"/>
+    <FIRSTPAGE value="http://127.0.0.1/"/>
+    <REGISTER value="http://127.0.0.1/"/>
+    <REQUEST_PATH value="http://127.0.0.1:83/"/>
+    <LOGIN_PATH value="http://127.0.0.1/" siteName="7k7k新弹弹堂双线-【1-27区】-无需下载的Q版休闲游戏"/>
+    <CALL_PATH value="http://127.0.0.1/"/>
     <USER_ACTION_NOTICE value=""/>
     <!-- 多玩接口-->
     <FILL_PATH value="http://pay.web.7k7k.com/"/>
     <POLICY_FILES>
-      <file value="http://127.0.0.1:83/Client/crossdomain.xml"/>
+      <file value="http://127.0.0.1/crossdomain.xml"/>
     </POLICY_FILES>
     <!-- 作战实验室开关-->
     <FIGHTLIB value="true"/>
@@ -96,11 +96,11 @@
     <EXTERNAL_INTERFACE path="http://fb.egame.hk/GameAccess/facebook/ddt/postAction.jsp" enable="false"/>
   </config>
   <update>
-   <version from="33" to="34">
-     <file value="flash/ui/zh_cn/language.png"/>
-   </version>
-   <version from="34" to="35">
-     <file value="flash/2.png"/>
-   </version>
+    <version from="33" to="34">
+      <file value="flash/ui/zh_cn/language.png"/>
+    </version>
+    <version from="34" to="35">
+      <file value="flash/2.png"/>
+    </version>
   </update>
 </root>

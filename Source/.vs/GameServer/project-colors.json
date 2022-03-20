@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca06cbbb-0c55-4eb0-90a0-2e39460f3c90": {
+      "ProjectGuid": "ca06cbbb-0c55-4eb0-90a0-2e39460f3c90",
+      "DisplayName": "Center.Service",
+      "ColorIndex": 0
+    },
+    "87c66fcb-06bb-42c0-86e1-ed814a77ebe4": {
+      "ProjectGuid": "87c66fcb-06bb-42c0-86e1-ed814a77ebe4",
+      "DisplayName": "Bussiness",
+      "ColorIndex": 1
+    },
+    "c9e59deb-d436-46bc-b8be-418cfe9547eb": {
+      "ProjectGuid": "c9e59deb-d436-46bc-b8be-418cfe9547eb",
+      "DisplayName": "Center.Server",
+      "ColorIndex": 2
+    },
+    "b29fead0-67d7-45d4-8b00-af185aab0e6c": {
+      "ProjectGuid": "b29fead0-67d7-45d4-8b00-af185aab0e6c",
+      "DisplayName": "Fighting.Service",
+      "ColorIndex": 3
+    },
+    "acedf415-5072-402f-8542-be1505c8aff4": {
+      "ProjectGuid": "acedf415-5072-402f-8542-be1505c8aff4",
+      "DisplayName": "Game.Server",
+      "ColorIndex": 4
+    },
+    "55d6d3b4-1f3d-4c57-920c-a9fa52d8c28b": {
+      "ProjectGuid": "55d6d3b4-1f3d-4c57-920c-a9fa52d8c28b",
+      "DisplayName": "Game.Tools",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "501be6b6-e26d-444c-93ef-6075e394c7ac": {
+      "ProjectGuid": "501be6b6-e26d-444c-93ef-6075e394c7ac",
+      "DisplayName": "Game.Service",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

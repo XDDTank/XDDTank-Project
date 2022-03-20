@@ -142,3 +142,4 @@ D:\DATA\devgame\XDDT\xddtank\Source\Center.Service\obj\Debug\Center.Service.cspr
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Service\obj\Debug\Center.Service.csproj.CopyComplete
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Service\obj\Debug\Center.Service.exe
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Service\obj\Debug\Center.Service.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Center.Service\obj\Debug\Center.Service.csproj.SuggestedBindingRedirects.cache

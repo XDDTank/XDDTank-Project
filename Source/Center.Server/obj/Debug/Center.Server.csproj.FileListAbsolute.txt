@@ -100,6 +100,8 @@ D:\BaseDDTankII\XDDTank\Source\Center.Server\bin\Debug\log4net.xml
 D:\BaseDDTankII\XDDTank\Source\Center.Server\obj\Debug\ResolveAssemblyReference.cache
 D:\BaseDDTankII\XDDTank\Source\Center.Server\obj\Debug\Center.Server.dll
 D:\BaseDDTankII\XDDTank\Source\Center.Server\obj\Debug\Center.Server.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.csproj.AssemblyReference.cache
+D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.csproj.CoreCompileInputs.cache
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\Languages\Language-vn.txt
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\Center.Server.dll.config
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\Center.Server.dll
@@ -115,8 +117,6 @@ D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\Bussiness.dll.config
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\Game.Base.pdb
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\SqlDataProvider.pdb
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\bin\Debug\log4net.xml
-D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.csproj.AssemblyReference.cache
-D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.csproj.CoreCompileInputs.cache
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.csproj.CopyComplete
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.dll
 D:\DATA\devgame\XDDT\xddtank\Source\Center.Server\obj\Debug\Center.Server.pdb

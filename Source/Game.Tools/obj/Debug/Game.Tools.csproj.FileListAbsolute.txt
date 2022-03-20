@@ -185,3 +185,4 @@ D:\DATA\devgame\XDDT\xddtank\Source\Game.Tools\obj\Debug\Game.Tools.csproj.CoreC
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Tools\obj\Debug\Game.Tools.csproj.CopyComplete
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Tools\obj\Debug\Game.Tools.exe
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Tools\obj\Debug\Game.Tools.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Game.Tools\obj\Debug\Game.Tools.csproj.SuggestedBindingRedirects.cache

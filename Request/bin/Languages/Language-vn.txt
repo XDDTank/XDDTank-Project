@@ -84,6 +84,7 @@ OpenUpArkHandler.Gold:  vàng
 OpenUpArkHandler.GiftToken:  Xu Khóa
 OpenUpArkHandler.Medal:  huy chương
 PropBuyHandler.NoMoney:Tiền Vàng không đủ.
+UserPresentGoodsHandler.Success:Tặng bạn thành công.
 UserBuyItemHandler.Success:Mua thành công.
 UserBuyItemHandler.Save:Lưu lại thành công.
 UserBuyItemHandler.Title:Mua vật phẩm 
@@ -104,8 +105,10 @@ ConsortiaApplyAllyPassHandler.Success:Xử lý thành công.
 ConsortiaApplyAllyPassHandler.Failed:Xử lý thất bại.
 UserItemContineueHandler.NoMoney:Tiền không đủ.
 MailGetAttachHandler.Deduct:Khấu trừ thành công,
-ConsortiaUpGradeHandler.Success:Công hội thăng cấp thành công.
-ConsortiaUpGradeHandler.Failed:Do lỗi hệ tống, công hội thăng cấp thất bại, hãy thử lại sau.
+ConsortiaUpGradeHandler.Success:Thăng cấp Guild thành công.
+ConsortiaUpGradeHandler.Failed:Do lỗi hệ thống, Thăng cấp Guild thất bại, hãy thử lại sau.
+ConsortiaBufferUpGradeHandler.Success:Thăng cấp kỹ năng Guild thành công.
+ConsortiaBufferUpGradeHandler.Failed:Do lỗi hệ thống, Thăng cấp kỹ năng Guild thất bại, hãy thử lại sau.
 ConsortiaCreateHandler.Failed:Tạo lập thất bại.
 ConsortiaCreateHandler.Success:Tạo lập thành công.
 OpenUpArkHandler.Title:Mở rương vật phẩm nhận được [
@@ -114,7 +117,7 @@ OpenUpArkHandler.Content2:] được gửi vào thư của bạn.
 OpenUpArkHandler.Mail:Vật phẩm tạm gửi vào thư, 
 ConsortiaUpGradeHandler.NoUpGrade:Không thể thăng cấp nữa.
 ConsortiaUpGradeHandler.NoItem:Thiếu vật phẩm thăng cấp.
-ConsortiaUpGradeHandler.NoConsortia:Công hội không tồn tại.
+ConsortiaUpGradeHandler.NoConsortia:Guild không tồn tại.
 ConsortiaUpGradeHandler.NoGold:Tiền xu không đủ.
 ConsortiaChangeChairmanHandler.NoName:Tên người dùng không thể để trống.
 ConsortiaChangeChairmanHandler.Self:Không thể gửi cho mình.
@@ -314,8 +317,8 @@ AuctionUpdateHandler.Msg7:Thành công, nhận item.
 
 
 
-ItemFusionHandler.Succeed1: Thành công: Nhận
-ItemFusionHandler.Failed: Dung luyện thất bại: Nhận được
+ItemFusionHandler.Succeed1: Thành công! Nhận
+ItemFusionHandler.Failed: Dung luyện thất bại!
 
 
 UserItemContineueHandler.Success:Trả phí thành công
@@ -427,7 +430,9 @@ UserChangeItemColorHandler.NoMoney: Xu không đủ
 BuffList.AddBuff.Msg1: Không thể sử dụng
 BuffList.AddBuff.Msg2: Hiệu ứng này đã có 
 
-
+UpdateSLOT.ResetComplete: Bạn nhận được {0} điểm thẻ bài.
+UpdateSLOT.Complete:Nâng cấp ô thẻ thành công lên cấp  {0}.
+UpdateSLOT.Fail:Điểm tối thiểu là 50.
 Game.Server.SceneGames.Protect: Người này sử dụng card chống đá.
 ItemStrengthenHandler.Fail: Cường hóa thất bại
 ItemStrengthenHandler.congratulation:Chúc mừng! [{0}] cường hóa  [{1}] thành công lên cấp  {2}, năng lực vượt trội.
@@ -631,7 +636,7 @@ AddTempInventory.Notice1: [{0}] trong cuộc chiến để có được {1}.
 ConsortiaBussiness.UpdateConsortiaChairman.Msg3: máy nghe nhạc này đã được dừng lại niêm phong, không được chuyển nhượng. 
 
 # 2009/11/16 
-GameUserDailyAward.Success: nhận được sự thành công hàng ngày. 
+GameUserDailyAward.Success: Nhận được Thẻ x2 kinh nghiệm 60 phút. 
 GameUserDailyAward.Fail: không nhận được hàng ngày. 
 
 GameUserDailyAward.Fail1: hàng ngày giới hạn để nhận được một khi bạn đã nhận được trước đây. 
@@ -827,7 +832,7 @@ ItemFusionHandler.Itemvalid: không phải là một mục hợp lệ.
 ItemFusionHandler.full: ba lô là đầy đủ, các mục được gửi đến hộp thư. 
 ItemFusionHandler.mail: tan chảy các bài viết thành công "," tan chảy mặt hàng thành công. 
 MailGetAttachHandler.error: e-mail đã bị xóa, trích xuất file đính kèm không thành công!. 
-UserChangeItemPlaceHandler.full: ba lô đầy đủ. 
+UserChangeItemPlaceHandler.full: Túi đã đầy! 
 EnterGameAction.error: phòng mật khẩu. 
 EnterRoomAction.noroom: không có chỗ thích hợp, hãy thử lại sau!. 
 EnterRoomAction.noexist: phòng không tồn tại!. 

@@ -4,17 +4,17 @@
   <description asmv2:publisher="Fighting.Service" asmv2:product="Fighting.Service" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Fighting.Service.exe.manifest" size="9106">
+    <dependentAssembly dependencyType="install" codebase="Fighting.Service.exe.manifest" size="9322">
       <assemblyIdentity name="Fighting.Service.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>C8DibqUgH6TPr13ne9dcuJyying=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>v9Jsw8n2/AaLm3nF4KwDRmWFY5B8YYMskcmpy3qL/8Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

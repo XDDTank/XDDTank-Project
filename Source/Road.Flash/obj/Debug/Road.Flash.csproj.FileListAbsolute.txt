@@ -102,3 +102,13 @@ D:\BaseDDTankII\XDDTank\Source\Road.Flash\bin\Debug\SqlDataProvider.pdb
 D:\BaseDDTankII\XDDTank\Source\Road.Flash\obj\Debug\ResolveAssemblyReference.cache
 D:\BaseDDTankII\XDDTank\Source\Road.Flash\obj\Debug\Road.Flash.dll
 D:\BaseDDTankII\XDDTank\Source\Road.Flash\obj\Debug\Road.Flash.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\bin\Debug\Road.Flash.dll
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\bin\Debug\Road.Flash.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\bin\Debug\Newtonsoft.Json.dll
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\bin\Debug\SqlDataProvider.dll
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\bin\Debug\SqlDataProvider.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\obj\Debug\Road.Flash.csproj.AssemblyReference.cache
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\obj\Debug\Road.Flash.csproj.CoreCompileInputs.cache
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\obj\Debug\Road.Flash.csproj.CopyComplete
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\obj\Debug\Road.Flash.dll
+D:\DATA\devgame\XDDT\xddtank\Source\Road.Flash\obj\Debug\Road.Flash.pdb
