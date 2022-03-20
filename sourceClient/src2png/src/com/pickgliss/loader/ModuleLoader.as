@@ -5,7 +5,7 @@
 
 package com.pickgliss.loader
 {
-    import cmodule.decry.CLibInit;
+//    import cmodule.decry.CLibInit;
     import flash.system.ApplicationDomain;
     import flash.utils.ByteArray;
     import flash.utils.getDefinitionByName;
@@ -18,7 +18,7 @@ package com.pickgliss.loader
     public class ModuleLoader extends DisplayLoader 
     {
 
-        private static var loader:CLibInit = new CLibInit();
+//        private static var loader:CLibInit = new CLibInit();
 
         private var _isEqual:Boolean;
         private var _name:String;
@@ -31,9 +31,10 @@ package com.pickgliss.loader
         }
 
         public static function decry(_arg_1:ByteArray):ByteArray
-        {
-            var _local_2:Object = loader.init();
-            return (_local_2.decry(_arg_1));
+        { 
+//            var _local_2:Object = loader.init();
+//            return (_local_2.decry(_arg_1));
+			return _arg_1;
         }
 
         public static function getDefinition(_arg_1:String):*
