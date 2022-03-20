@@ -95,3 +95,4 @@ D:\DATA\devgame\XDDT\xddtank\Source\Game.Base\obj\Debug\Game.Base.csproj.CoreCom
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Base\obj\Debug\Game.Base.csproj.CopyComplete
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Base\obj\Debug\Game.Base.dll
 D:\DATA\devgame\XDDT\xddtank\Source\Game.Base\obj\Debug\Game.Base.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\Game.Base\obj\Debug\Game.Base.csproj.AssemblyReference.cache

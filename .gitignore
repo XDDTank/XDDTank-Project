@@ -17,7 +17,9 @@
 ###################
 **/logs/*
 **/bin/Release/
-.vs/**
+**/.vs/**
+**/obj/**/*
+**/Debug/*
 
 # except files
 

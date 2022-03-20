@@ -62,3 +62,4 @@ D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.cs
 D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.CopyComplete
 D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.dll
 D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.pdb
+D:\DATA\devgame\XDDT\xddtank\Source\SqlDataProvider\obj\Debug\SqlDataProvider.csproj.AssemblyReference.cache
